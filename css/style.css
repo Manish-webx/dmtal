@@ -1119,7 +1119,8 @@ h6 {
 }
 
 .tech-card-new:hover .tech-card-img {
-  transform: scale(1.08); /* Zoom effect on hover */
+  transform: scale(1.08);
+  /* Zoom effect on hover */
 }
 
 .tech-card-overlay {
@@ -2358,7 +2359,7 @@ h6 {
   }
 
   .min-vh-hero {
-    min-height: 85vh;
+    min-height: 60vh;
   }
 
   .hero-content {
@@ -3156,7 +3157,7 @@ h6 {
 .doctor-hero-premium {
   position: relative;
   background: var(--dt-charcoal);
-  min-height: 85vh;
+  min-height: 60vh;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -3536,7 +3537,7 @@ h6 {
 /* Responsive adjustments */
 @media (max-width: 991.98px) {
   .doctor-hero-premium {
-    padding: 120px 0 80px;
+    padding: 100px 0 40px;
     text-align: center;
   }
 
@@ -3608,6 +3609,7 @@ h6 {
   transform: translateY(-5px);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08) !important;
 }
+
 /* ============================================================
    ULTRA LUXURY 'ABOUT DOCTOR' PAGE
    ============================================================ */
@@ -3647,11 +3649,11 @@ h6 {
 /* --- Luxury Hero --- */
 .doctor-hero-luxury {
   position: relative;
-  min-height: 85vh;
+  min-height: 60vh;
   display: flex;
   align-items: center;
   overflow: hidden;
-  padding: 120px 0 80px;
+  padding: 10px 0 40px;
   background: linear-gradient(135deg, #fdfbfb 0%, #f4f0ea 100%);
   z-index: 1;
 }
@@ -3674,7 +3676,8 @@ h6 {
 .glow-1 {
   width: 60vw;
   height: 60vw;
-  background: rgba(222, 194, 155, 0.3); /* Soft Champagne */
+  background: rgba(222, 194, 155, 0.3);
+  /* Soft Champagne */
   top: -10vw;
   right: -10vw;
   animation: float 20s infinite alternate ease-in-out;
@@ -3713,7 +3716,8 @@ h6 {
 .hero-title-lux {
   font-family: var(--dt-font-display);
   font-size: clamp(3.5rem, 6vw, 5rem);
-  font-weight: 300; /* Lighter weight for luxury feel */
+  font-weight: 300;
+  /* Lighter weight for luxury feel */
   color: var(--dt-charcoal);
   line-height: 1.05;
   letter-spacing: -1px;
@@ -3756,7 +3760,8 @@ h6 {
 .luxury-img-frame {
   position: relative;
   aspect-ratio: 3/4;
-  border-radius: 200px 200px 20px 20px; /* Elegant Arch */
+  border-radius: 200px 200px 20px 20px;
+  /* Elegant Arch */
   overflow: hidden;
   box-shadow: 0 40px 80px rgba(0, 0, 0, 0.08);
 }
@@ -3845,7 +3850,7 @@ h6 {
 
 /* --- About Story --- */
 .about-story-lux {
-  padding: 100px 0;
+  padding: 50px 0;
   background: #ffffff;
 }
 
@@ -3884,7 +3889,7 @@ h6 {
 }
 
 .signature-lux {
-  border-top: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
   padding-top: 1.5rem;
 }
 
@@ -3913,12 +3918,13 @@ h6 {
   height: 100%;
   text-align: center;
   transition: all 0.4s ease;
-  border: 1px solid rgba(0,0,0,0.03);
+  border: 1px solid rgba(0, 0, 0, 0.03);
 }
 
 .cred-card-lux:hover {
   transform: translateY(-8px);
-  box-shadow: 0 20px 40px rgba(183, 110, 121, 0.08); border-color: transparent;
+  box-shadow: 0 20px 40px rgba(183, 110, 121, 0.08);
+  border-color: transparent;
 }
 
 .cred-icon-lux {
@@ -3980,7 +3986,7 @@ h6 {
 
 .exp-menu-list li {
   padding: 12px 0;
-  border-bottom: 1px solid rgba(0,0,0,0.05);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   font-size: 1.05rem;
   color: var(--dt-text);
   font-weight: 300;
@@ -4053,18 +4059,62 @@ h6 {
 }
 
 @media (max-width: 991.98px) {
-  .doctor-hero-luxury { padding: 120px 0 60px; text-align: center; }
-  .luxury-img-frame { border-radius: 15px; }
-  .arch-overlay { display: none; }
-  .glass-exp { left: 10px; bottom: -20px; }
-  .glass-trust { right: 10px; top: -20px; }
-  .hero-eyebrow-wrapper, .hero-credentials-lux, .hero-actions-lux { justify-content: center; }
-  .cred-lux-dot { display: none; }
-  .cred-lux-item { width: 100%; justify-content: center; text-align: center; }
-  .hero-description-lux { margin-left: auto; margin-right: auto; }
-  .exp-menu-lux { border-right: none !important; padding: 0; }
-  .lux-timeline { padding-left: 20px; margin-top: 30px; }
+  .doctor-hero-luxury {
+    padding: 10px 0 40px;
+    text-align: center;
+    min-height: auto;
+  }
+
+  .luxury-img-frame {
+    border-radius: 15px;
+  }
+
+  .arch-overlay {
+    display: none;
+  }
+
+  .glass-exp {
+    left: 10px;
+    bottom: -20px;
+  }
+
+  .glass-trust {
+    right: 10px;
+    top: -20px;
+  }
+
+  .hero-eyebrow-wrapper,
+  .hero-credentials-lux,
+  .hero-actions-lux {
+    justify-content: center;
+  }
+
+  .cred-lux-dot {
+    display: none;
+  }
+
+  .cred-lux-item {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero-description-lux {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .exp-menu-lux {
+    border-right: none !important;
+    padding: 0;
+  }
+
+  .lux-timeline {
+    padding-left: 20px;
+    margin-top: 30px;
+  }
 }
+
 /* --- Credentials (Open Layout v2) --- */
 .cred-item-open-new {
   display: flex;
@@ -4098,7 +4148,10 @@ h6 {
 .cred-icon-open-new::before {
   content: '';
   position: absolute;
-  top: 8px; right: 8px; bottom: 8px; left: 8px;
+  top: 8px;
+  right: 8px;
+  bottom: 8px;
+  left: 8px;
   background: linear-gradient(135deg, var(--dt-champagne) 0%, transparent 100%);
   border-radius: 50%;
   opacity: 0.1;
