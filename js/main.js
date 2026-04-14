@@ -211,39 +211,7 @@ function initPage() {
     });
   }
 
-  // ---- Intersection Observer: Fade-in animations ----
-  var observerOptions = {
-    threshold: 0.1,
-    rootMargin: '0px 0px -40px 0px'
-  };
 
-  var fadeObserver = new IntersectionObserver(function (entries) {
-    entries.forEach(function (entry) {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('is-visible');
-        fadeObserver.unobserve(entry.target);
-      }
-    });
-  }, observerOptions);
-
-  document.querySelectorAll('.fade-up, .section-padding, .hero-content').forEach(function (el) {
-    if (!el.classList.contains('fade-up')) el.classList.add('fade-up');
-    fadeObserver.observe(el);
-  });
-
-  var style = document.createElement('style');
-  style.textContent = '\
-    .fade-up {\
-      opacity: 0;\
-      transform: translateY(24px);\
-      transition: opacity 0.7s cubic-bezier(0.4, 0, 0.2, 1), transform 0.7s cubic-bezier(0.4, 0, 0.2, 1);\
-    }\
-    .fade-up.is-visible {\
-      opacity: 1;\
-      transform: translateY(0);\
-    }\
-  ';
-  document.head.appendChild(style);
 
   // ---- Featured In: Duplicate logos for infinite scroll ----
   var logoSlider = document.querySelector('.featured-logos-slider');
@@ -289,12 +257,7 @@ function initPage() {
     counterObserver.observe(whyStats);
   }
 
-  // ---- Fade-in Featured In section ----
-  var featuredSection = document.querySelector('.section-featured-in');
-  if (featuredSection) {
-    featuredSection.classList.add('fade-up');
-    fadeObserver.observe(featuredSection);
-  }
+
 
   // ---- Active nav link highlighting ----
   var sections = document.querySelectorAll('section[id]');
