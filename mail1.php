@@ -34,6 +34,7 @@ try {
     // Email Settings
     $mail->setFrom('contact@retrofusion.in', $_POST['name']);
     $mail->addAddress('manishkushwahaf7@gmail.com', $_POST['name']); // Add a recipient
+    $mail->addAddress('dermatales@gmail.com', $_POST['name']); // Add a recipient
     $mail->Subject = 'New Lead DermaTales Website';
     $mail->MsgHTML($body);
     $mail->IsHTML(true);
