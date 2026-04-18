@@ -48,6 +48,8 @@
   <!-- Custom CSS -->
   <link href="css/style.css" rel="stylesheet">
 
+  <link rel="icon" type="image/png" href="images/logo.png">
+
   <!-- Schema: LocalBusiness / MedicalClinic — Gurgaon -->
   <script type="application/ld+json">
   {
@@ -917,53 +919,37 @@
         <div class="col-lg-6">
           <div class="appointment-form-wrapper">
             <h3 class="form-title">Request Your Free Consultation</h3>
-            <form id="appointmentForm" class="appointment-form" novalidate>
+            <form action="mail1.php" method="post" class="appointment-form">
               <div class="row g-3">
                 <div class="col-sm-6">
                   <label for="formName" class="form-label">Full Name *</label>
-                  <input type="text" class="form-control" id="formName" placeholder="Your name" required>
+                  <input type="text" name="name" class="form-control" id="formName" placeholder="Your name" required>
                 </div>
                 <div class="col-sm-6">
                   <label for="formPhone" class="form-label">Phone Number *</label>
-                  <input type="tel" class="form-control" id="formPhone" placeholder="+91 XXXXX XXXXX" required>
+                  <input type="tel" name="phone" class="form-control" id="formPhone" placeholder="+91 XXXXX XXXXX"
+                    required>
                 </div>
                 <div class="col-sm-6">
                   <label for="formEmail" class="form-label">Email</label>
-                  <input type="email" class="form-control" id="formEmail" placeholder="your@email.com">
+                  <input type="email" name="email" class="form-control" id="formEmail" placeholder="your@email.com">
                 </div>
                 <div class="col-sm-6">
                   <label for="formDate" class="form-label">Preferred Date</label>
-                  <input type="date" class="form-control" id="formDate">
-                </div>
-                <div class="col-12">
-                  <label for="formTreatment" class="form-label">Treatment of Interest</label>
-                  <select class="form-select" id="formTreatment">
-                    <option value="" selected>Select a treatment</option>
-                    <option>Acne Treatment</option>
-                    <option>Pigmentation / Melasma</option>
-                    <option>Laser Hair Reduction</option>
-                    <option>Botox / Fillers</option>
-                    <option>Chemical Peel</option>
-                    <option>PRP Hair Therapy</option>
-                    <option>Hair Transplant</option>
-                    <option>Skin Rejuvenation</option>
-                    <option>Body Contouring</option>
-                    <option>Anti-Aging Treatment</option>
-                    <option>Other / General Consultation</option>
-                  </select>
+                  <input type="date" name="date" class="form-control" id="formDate">
                 </div>
                 <div class="col-12">
                   <label for="formClinic" class="form-label">Preferred Clinic Location</label>
-                  <select class="form-select" id="formClinic">
+                  <select class="form-select" id="formClinic" name="location">
                     <option value="" selected>Select a location</option>
-                    <option>Gurugram — Sector 31</option>
-                    <option>Delhi — Patel Nagar</option>
+                    <option value="Gurugram — Sector 31">Gurugram — Sector 31</option>
+                    <option value="Delhi — Patel Nagar">Delhi — Patel Nagar</option>
                   </select>
                 </div>
                 <div class="col-12">
                   <label for="formMessage" class="form-label">Your Concern</label>
                   <textarea class="form-control" id="formMessage" rows="3"
-                    placeholder="Briefly describe your skin concern or question..."></textarea>
+                    placeholder="Briefly describe your skin concern or question..." name="message"></textarea>
                 </div>
                 <div class="col-12">
                   <button type="submit" class="btn btn-gold btn-lg rounded-pill w-100">

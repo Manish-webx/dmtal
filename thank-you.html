@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Thank you for contacting DermaTales — Your trusted dermatology clinic in Gurgaon & Delhi.">
+  <meta name="robots" content="noindex, follow">
+  <title>Thank You — DermaTales</title>
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap"
+    rel="stylesheet">
+
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <style>
+    .thank-you-section {
+      min-height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 0;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .thank-you-card {
+      background: var(--dt-white);
+      padding: clamp(2rem, 5vw, 4rem);
+      border-radius: var(--dt-radius-lg);
+      box-shadow: var(--dt-shadow-lg);
+      max-width: 600px;
+      width: 100%;
+      text-align: center;
+      position: relative;
+      z-index: 2;
+      border: 1px solid var(--dt-border);
+    }
+
+    .thank-you-icon {
+      width: 90px;
+      height: 90px;
+      background: linear-gradient(135deg, var(--dt-champagne), var(--dt-champagne-dark));
+      color: var(--dt-white);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 40px;
+      margin: 0 auto 30px;
+      box-shadow: 0 10px 25px rgba(183, 110, 121, 0.3);
+      animation: checkFadeIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    @keyframes checkFadeIn {
+      from {
+        opacity: 0;
+        transform: scale(0.5) translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+      }
+    }
+
+    .thank-you-title {
+      font-family: var(--dt-font-display);
+      font-size: clamp(2rem, 4vw, 2.75rem);
+      color: var(--dt-charcoal);
+      margin-bottom: 20px;
+    }
+
+    .thank-you-text {
+      font-size: 17px;
+      color: var(--dt-text-light);
+      margin-bottom: 35px;
+      line-height: 1.8;
+    }
+
+    .thank-you-bg-texture {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 120%;
+      height: 120%;
+      background: radial-gradient(circle, rgba(183, 110, 121, 0.05) 0%, rgba(255, 255, 255, 0) 70%);
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    /* Page load transition */
+    .fade-in-up {
+      animation: fadeInUp 0.8s ease-out forwards;
+      opacity: 0;
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- ===================== TOP BAR ===================== -->
+  <div class="top-bar d-none d-lg-block">
+    <div class="container-xl">
+      <div class="row align-items-center">
+        <div class="col-auto me-auto d-flex align-items-center gap-4">
+          <span class="top-bar-link">
+            <i class="bi bi-geo-alt-fill"></i> Gurgaon &amp; Delhi
+          </span>
+          <a href="tel:+917303851264" class="top-bar-link">
+            <i class="bi bi-telephone-fill"></i> +91 73038 51264
+          </a>
+          <a href="mailto:dermatales@gmail.com" class="top-bar-link">
+            <i class="bi bi-envelope-fill"></i> dermatales@gmail.com
+          </a>
+          <span class="top-bar-text">
+            <i class="bi bi-clock-fill"></i> Mon – Sat: 10 AM – 7 PM
+          </span>
+        </div>
+        <div class="col-auto d-flex align-items-center gap-3">
+          <a href="https://www.instagram.com/dermatales/" class="top-bar-social" aria-label="Instagram" target="_blank"
+            rel="noopener"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.facebook.com/profile.php?id=61572154471704" class="top-bar-social" aria-label="Facebook"
+            target="_blank" rel="noopener"><i class="bi bi-facebook"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="header-placeholder"></div>
+  <div id="mobile-menu-placeholder"></div>
+
+  <!-- ===================== THANK YOU SECTION ===================== -->
+  <main class="thank-you-section">
+    <div class="thank-you-bg-texture"></div>
+    <div class="container-xl d-flex justify-content-center">
+      <div class="thank-you-card fade-in-up">
+        <div class="thank-you-icon">
+          <i class="bi bi-check2-circle"></i>
+        </div>
+        <h1 class="thank-you-title">Thank You!</h1>
+        <p class="thank-you-text">
+          Your appointment request has been successfully received. <br class="d-none d-md-block">
+          One of our patient coordinators will contact you shortly to confirm your consultation time.
+        </p>
+        <div class="d-flex flex-column flex-sm-row justify-content-center gap-3">
+          <a href="index.html" class="btn btn-gold btn-lg rounded-pill px-5">
+            Back to Home
+          </a>
+          <a href="index.html#treatments" class="btn btn-outline-gold btn-lg rounded-pill px-4">
+            Explore Treatments
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div id="footer-placeholder"></div>
+
+  <!-- ===================== FLOATING CTA ===================== -->
+  <div class="floating-cta">
+    <a href="https://wa.me/917303851264" class="floating-whatsapp" aria-label="Chat on WhatsApp">
+      <i class="bi bi-whatsapp"></i>
+    </a>
+    <a href="tel:+917303851264" class="floating-phone d-lg-none" aria-label="Call now">
+      <i class="bi bi-telephone-fill"></i>
+    </a>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Custom JS -->
+  <script src="js/main.js"></script>
+</body>
+
+</html>
