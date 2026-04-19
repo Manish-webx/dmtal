@@ -1,32 +1,32 @@
 <!-- ===================== TOP BAR ===================== -->
-  <div class="top-bar d-none d-lg-block">
-    <div class="container-xl">
-      <div class="row align-items-center">
-        <div class="col-auto me-auto d-flex align-items-center gap-4">
-          <span class="top-bar-link">
-            <i class="bi bi-geo-alt-fill"></i> Gurgaon &amp; Delhi
-          </span>
-          <a href="tel:+917303851264" class="top-bar-link">
-            <i class="bi bi-telephone-fill"></i> +91 73038 51264
-          </a>
-          <a href="mailto:dermatales@gmail.com" class="top-bar-link">
-            <i class="bi bi-envelope-fill"></i> dermatales@gmail.com
-          </a>
-          <span class="top-bar-text">
-            <i class="bi bi-clock-fill"></i> Mon – Sat: 10 AM – 7 PM
-          </span>
-        </div>
-        <div class="col-auto d-flex align-items-center gap-3">
-          <a href="https://www.instagram.com/dermatales/" class="top-bar-social" aria-label="Instagram" target="_blank"
-            rel="noopener"><i class="bi bi-instagram"></i></a>
-          <a href="https://www.facebook.com/profile.php?id=61572154471704" class="top-bar-social" aria-label="Facebook"
-            target="_blank" rel="noopener"><i class="bi bi-facebook"></i></a>
-        </div>
+<div class="top-bar d-none d-lg-block">
+  <div class="container-xl">
+    <div class="row align-items-center">
+      <div class="col-auto me-auto d-flex align-items-center gap-4">
+        <span class="top-bar-link">
+          <i class="bi bi-geo-alt-fill"></i> Gurgaon &amp; Delhi
+        </span>
+        <a href="tel:+917303851264" class="top-bar-link">
+          <i class="bi bi-telephone-fill"></i> +91 73038 51264
+        </a>
+        <a href="mailto:dermatales@gmail.com" class="top-bar-link">
+          <i class="bi bi-envelope-fill"></i> dermatales@gmail.com
+        </a>
+        <span class="top-bar-text">
+          <i class="bi bi-clock-fill"></i> Mon – Sat: 10 AM – 7 PM
+        </span>
+      </div>
+      <div class="col-auto d-flex align-items-center gap-3">
+        <a href="https://www.instagram.com/dermatales/" class="top-bar-social" aria-label="Instagram" target="_blank"
+          rel="noopener"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61572154471704" class="top-bar-social" aria-label="Facebook"
+          target="_blank" rel="noopener"><i class="bi bi-facebook"></i></a>
       </div>
     </div>
   </div>
+</div>
 
-  <!-- ===================== MAIN HEADER / NAVIGATION ===================== -->
+<!-- ===================== MAIN HEADER / NAVIGATION ===================== -->
 <header id="mainHeader" class="main-header">
   <div class="container-xl">
     <nav class="navbar navbar-expand-xl" aria-label="Main navigation">
@@ -370,7 +370,7 @@
 
           <!-- Contact Link -->
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="contact">Contact</a>
           </li>
 
         </ul>

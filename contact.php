@@ -23,7 +23,7 @@
 
   <title>Contact Us — DermaTales | Premium Dermatology & Aesthetic Clinic</title>
 
-    <?php include 'nav-link.php'; ?>
+  <?php include 'nav-link.php'; ?>
 </head>
 
 <body>
@@ -36,13 +36,15 @@
   <section class="contact-hero-lux text-center">
     <div class="lux-glow lux-glow-1"></div>
     <div class="lux-glow lux-glow-2"></div>
-    
+
     <div class="container-xl position-relative z-index-2">
       <div class="fade-up">
         <span class="lux-eyebrow">Connect With Us</span>
-        <h1 class="hero-title-lux mb-4">Let's Craft Your <br><span class="text-charcoal-deep italic">Skin Story</span></h1>
+        <h1 class="hero-title-lux mb-4">Let's Craft Your <br><span class="text-charcoal-deep italic"
+            style="color:#1B2A4A !important">Skin Story</span></h1>
         <p class="section-lead mx-auto mb-5" style="max-width: 600px;">
-          Whether you're seeking clinical expertise or luxury aesthetic transformations, our team is dedicated to your skin's unique journey.
+          Whether you're seeking clinical expertise or luxury aesthetic transformations, our team is dedicated to your
+          skin's unique journey.
         </p>
       </div>
     </div>
@@ -58,44 +60,36 @@
               <h2 class="h3 fw-bold mb-2">Speak with our Experts</h2>
               <p class="text-muted">Fill out the form below and we will contact you shortly.</p>
             </div>
-            
-            <form id="appointmentForm" novalidate>
+
+            <form action="mail1.php" method="POST">
               <div class="row g-5">
                 <div class="col-md-6">
                   <div class="mb-4">
                     <label class="form-label-lux">FULL NAME</label>
-                    <input type="text" class="form-control form-control-lux" id="formName" placeholder="Enter your name" required>
+                    <input type="text" name="name" class="form-control form-control-lux" id="formName"
+                      placeholder="Enter your name" required>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="mb-4">
                     <label class="form-label-lux">PHONE NUMBER</label>
-                    <input type="tel" class="form-control form-control-lux" id="formPhone" placeholder="+91 00000 00000" required>
+                    <input type="tel" name="phone" class="form-control form-control-lux" id="formPhone"
+                      placeholder="+91 00000 00000" required>
                   </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-12">
                   <div class="mb-4">
                     <label class="form-label-lux">EMAIL ADDRESS</label>
-                    <input type="email" class="form-control form-control-lux" id="formEmail" placeholder="yourname@email.com">
+                    <input type="email" name="email" class="form-control form-control-lux" id="formEmail"
+                      placeholder="yourname@email.com">
                   </div>
                 </div>
-                <div class="col-md-6">
-                  <div class="mb-4">
-                    <label class="form-label-lux">REASON FOR CONTACT</label>
-                    <select class="form-select form-control-lux" id="formService">
-                      <option selected disabled>Select an interest</option>
-                      <option value="1">Clinical Dermatology</option>
-                      <option value="2">Aesthetic Treatment</option>
-                      <option value="3">Hair Restoration</option>
-                      <option value="4">Laser FAQ</option>
-                      <option value="5">Other Enquiry</option>
-                    </select>
-                  </div>
-                </div>
+
                 <div class="col-12">
                   <div class="mb-5">
                     <label class="form-label-lux">YOUR MESSAGE</label>
-                    <textarea class="form-control form-control-lux" id="formMessage" rows="2" placeholder="Tell us more about your skin concern..."></textarea>
+                    <textarea name="message" class="form-control form-control-lux" id="formMessage" rows="2"
+                      placeholder="Tell us more about your skin concern..."></textarea>
                   </div>
                 </div>
                 <div class="col-12 text-center">
@@ -126,14 +120,11 @@
         <!-- Gurgaon Studio -->
         <div class="col-lg-6">
           <div class="clinic-studio-card fade-up">
-            <div class="studio-img-wrap">
-              <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800&q=80" alt="Gurgaon Clinic" class="studio-img">
-              <div class="studio-arch-overlay"></div>
-            </div>
+
             <div class="studio-content">
               <span class="studio-city-tag">Gurugram</span>
               <h3 class="studio-title">DermaTales — Gurgaon</h3>
-              
+
               <div class="studio-info-row">
                 <i class="bi bi-pin-map"></i>
                 <div class="studio-info-text">
@@ -156,14 +147,17 @@
 
               <div class="studio-actions">
                 <a href="#appointmentForm" class="btn btn-gold rounded-pill px-4">Book in Gurgaon</a>
-                <a href="https://maps.app.goo.gl/tRokPZw7BgqB7Yg2A" target="_blank" rel="noopener" class="btn btn-outline-gold rounded-pill px-4">
+                <a href="https://maps.app.goo.gl/tRokPZw7BgqB7Yg2A" target="_blank" rel="noopener"
+                  class="btn btn-outline-gold rounded-pill px-4">
                   <i class="bi bi-geo-alt me-1"></i> Directions
                 </a>
               </div>
             </div>
             <div class="studio-map-frame">
-              <i class="bi bi-map"></i>
-              <span>Interactive Map View</span>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d50789.964567407296!2d76.9869243!3d28.4555619!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d190024156463%3A0x1670294cf74f3bc6!2sDermatales%20Clinic%20%7C%20Best%20Skin%20Clinic%20in%20Gurugram%2C%20Skin%20Doctor%20and%20Specialist!5e1!3m2!1sen!2sin!4v1776436405264!5m2!1sen!2sin"
+                width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </div>
@@ -171,14 +165,11 @@
         <!-- Delhi Studio -->
         <div class="col-lg-6">
           <div class="clinic-studio-card fade-up">
-            <div class="studio-img-wrap">
-              <img src="https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=800&q=80" alt="Delhi Clinic" class="studio-img">
-              <div class="studio-arch-overlay"></div>
-            </div>
+
             <div class="studio-content">
               <span class="studio-city-tag">New Delhi</span>
               <h3 class="studio-title">DermaTales — Delhi</h3>
-              
+
               <div class="studio-info-row">
                 <i class="bi bi-pin-map"></i>
                 <div class="studio-info-text">
@@ -201,14 +192,17 @@
 
               <div class="studio-actions">
                 <a href="#appointmentForm" class="btn btn-gold rounded-pill px-4">Book in Delhi</a>
-                <a href="https://maps.app.goo.gl/avkYsvHWP9sRC6zo6" target="_blank" rel="noopener" class="btn btn-outline-gold rounded-pill px-4">
+                <a href="https://maps.app.goo.gl/avkYsvHWP9sRC6zo6" target="_blank" rel="noopener"
+                  class="btn btn-outline-gold rounded-pill px-4">
                   <i class="bi bi-geo-alt me-1"></i> Directions
                 </a>
               </div>
             </div>
             <div class="studio-map-frame">
-              <i class="bi bi-map"></i>
-              <span>Interactive Map View</span>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25349.446757510133!2d77.1364474!3d28.6445548!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03e60999ad65%3A0xcc2a21711a4912ff!2sDr.AWISH%20CLINIC!5e1!3m2!1sen!2sin!4v1776436496243!5m2!1sen!2sin"
+                width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </div>
@@ -225,7 +219,8 @@
             <div class="accent-icon"><i class="bi bi-whatsapp"></i></div>
             <div>
               <div class="accent-label">Quick Chat</div>
-              <a href="https://wa.me/917303851264" class="accent-value text-decoration-none">+91 73038 51264 (Gurgaon)</a>
+              <a href="https://wa.me/917303851264" class="accent-value text-decoration-none">+91 73038 51264
+                (Gurgaon)</a>
             </div>
           </div>
         </div>
@@ -254,8 +249,6 @@
   <!-- ===================== FOOTER ===================== -->
   <?php include 'footer.php'; ?>
 
-  </body>
+</body>
 
 </html>
-
-

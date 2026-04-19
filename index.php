@@ -31,7 +31,7 @@
   <title>DermaTales — Premium Dermatology &amp; Aesthetic Clinic</title>
 
     <?php include 'nav-link.php'; ?>
-<link rel="icon" type="image/png" href="images/logo.png">
+
 
   <!-- Schema: LocalBusiness / MedicalClinic — Gurgaon -->
   <script type="application/ld+json">
