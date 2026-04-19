@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Ozempic (semaglutide) weight loss treatment in Gurgaon at DermaTales. Doctor-supervised GLP-1 therapy for safe, clinically proven weight reduction and blood sugar management.">
+  <meta name="keywords"
+    content="Ozempic Gurgaon, semaglutide weight loss Gurgaon, Ozempic injection Delhi, GLP-1 treatment Gurgaon, weight loss injection DermaTales">
+  <meta name="author" content="DermaTales Clinic">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.dermatales.com/ozempic-weight-loss-treatment-in-gurgaon.php">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Ozempic Weight Loss Treatment in Gurgaon | Semaglutide | DermaTales">
+  <meta property="og:description"
+    content="Get clinically supervised Ozempic (semaglutide) weight loss injections in Gurgaon at DermaTales. Proven GLP-1 therapy with personalised nutrition and regular monitoring.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.dermatales.com/ozempic-weight-loss-treatment-in-gurgaon.php">
+  <meta property="og:image" content="https://www.dermatales.com/images/ozempic-gurgaon.jpg">
+  <meta property="og:site_name" content="DermaTales">
+
+  <title>Ozempic Weight Loss Treatment in Gurgaon | Semaglutide | DermaTales</title>
+
+    <?php include 'nav-link.php'; ?>
+</head>
+
+<body>
+
+  <!-- ===================== MAIN HEADER / NAVIGATION ===================== -->
+  <?php include 'header.php'; ?>
+  <?php include 'mobile-menu.php'; ?>
+
+  <!-- ===================== SERVICE HERO ===================== -->
+  <section class="service-hero">
+    <div class="service-hero-overlay"></div>
+    <div class="container-xl position-relative z-index-2">
+      <nav class="breadcrumb-lux">
+        <a href="index.php">Home</a>
+        <span>/</span>
+        <a href="weight-loss-clinic-in-gurgaon.php">Weight Management</a>
+        <span>/</span>
+        <span class="text-white">Ozempic Weight Loss in Gurgaon</span>
+      </nav>
+      <h1 class="hero-title-lux">Ozempic <span class="text-charcoal-deep italic">Weight Loss</span> in Gurgaon</h1>
+      <p class="section-lead text-white-50" style="max-width: 620px;">
+        Clinically proven semaglutide therapy — the world's most prescribed GLP-1 weight loss injection — administered under expert medical supervision for safe, significant results.
+      </p>
+    </div>
+  </section>
+
+  <!-- ===================== MAIN CONTENT & SIDEBAR ===================== -->
+  <section class="section-padding pt-4">
+    <div class="container-xl">
+      <div class="row g-5">
+
+        <!-- Main Content Column -->
+        <div class="col-lg-9 order-lg-1 content-area">
+
+          <div class="fade-up">
+            <div class="row align-items-center g-5">
+              <div class="col-md-7">
+                <h2 class="lux-section-title">What is Ozempic (Semaglutide)?</h2>
+                <p>Ozempic (semaglutide) is a once-weekly injectable GLP-1 (glucagon-like peptide-1) receptor agonist developed by Novo Nordisk. Originally approved for Type 2 diabetes, its remarkable weight loss efficacy — demonstrated in the landmark STEP clinical trials — has established it as one of the most prescribed medications for medical weight management globally.</p>
+                <p>Semaglutide works by mimicking the action of the body's natural GLP-1 hormone: suppressing appetite, slowing gastric emptying, and regulating blood sugar. At DermaTales, all Ozempic programmes are fully physician-supervised, with regular monitoring, dose optimisation, and integrated nutrition support for the safest and most effective outcomes.</p>
+              </div>
+              <div class="col-md-5">
+                <div class="service-thumb-wrap">
+                  <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=600&q=80" alt="Ozempic Semaglutide Weight Loss Gurgaon" class="img-fluid">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Section: How it Works -->
+          <div class="mt-5 fade-up">
+            <h2 class="lux-section-title">How Ozempic Promotes Weight Loss</h2>
+            <p>Semaglutide's multi-pathway action addresses several of the biological drivers of obesity and overeating:</p>
+            <div class="row g-4 mt-2">
+              <div class="col-md-4">
+                <div class="benefit-item-lux p-3 border-start border-gold border-3">
+                  <h5 class="fw-bold h6 mb-2">Appetite Suppression</h5>
+                  <p class="small text-muted mb-0">Acts on appetite centres in the brain (hypothalamus) to significantly reduce hunger signals and food cravings throughout the day.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="benefit-item-lux p-3 border-start border-gold border-3">
+                  <h5 class="fw-bold h6 mb-2">Slows Gastric Emptying</h5>
+                  <p class="small text-muted mb-0">Delays how quickly food leaves the stomach, promoting prolonged satiety after smaller meals and reducing overall caloric intake naturally.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="benefit-item-lux p-3 border-start border-gold border-3">
+                  <h5 class="fw-bold h6 mb-2">Blood Sugar Regulation</h5>
+                  <p class="small text-muted mb-0">Stimulates glucose-dependent insulin secretion and suppresses glucagon, keeping blood sugar stable and reducing insulin resistance.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="benefit-item-lux p-3 border-start border-gold border-3">
+                  <h5 class="fw-bold h6 mb-2">Cardiovascular Protection</h5>
+                  <p class="small text-muted mb-0">The LEADER trial demonstrated a 26% reduction in major cardiovascular events in high-risk patients on semaglutide — a unique benefit beyond weight loss.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="benefit-item-lux p-3 border-start border-gold border-3">
+                  <h5 class="fw-bold h6 mb-2">Liver Fat Reduction</h5>
+                  <p class="small text-muted mb-0">Clinical data confirms significant reduction in liver fat content, making Ozempic particularly effective for patients with non-alcoholic fatty liver disease (NAFLD).</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="benefit-item-lux p-3 border-start border-gold border-3">
+                  <h5 class="fw-bold h6 mb-2">Improved Cholesterol &amp; BP</h5>
+                  <p class="small text-muted mb-0">Marked improvements in LDL cholesterol, triglycerides, and blood pressure observed in clinical trials alongside weight loss outcomes.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Section: Candidates and Avoidance -->
+          <div class="mt-5 fade-up">
+            <div class="row g-4">
+              <div class="col-md-6">
+                <div class="candidate-card candidate-card-ideal">
+                  <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal Candidates</h3>
+                  <ul class="candidate-list">
+                    <li><i class="bi bi-check2 text-gold"></i>Adults with BMI ≥ 30, or ≥ 27 with obesity-related conditions.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Patients with Type 2 diabetes seeking weight loss and glucose control.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Individuals with high cardiovascular risk, NAFLD, or metabolic syndrome.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Those who want a well-established, extensively studied GLP-1 therapy.</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="candidate-card candidate-card-avoid">
+                  <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-exclamation-triangle-fill text-muted me-2"></i>Contraindications</h3>
+                  <ul class="candidate-list">
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Personal or family history of medullary thyroid carcinoma (MTC).</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>History of Multiple Endocrine Neoplasia type 2 (MEN 2).</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnancy or breastfeeding — must be discontinued before conception.</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Severe renal impairment or history of pancreatitis (case-by-case assessment).</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Section: Treatment Protocol -->
+          <div class="mt-5 fade-up">
+            <h2 class="lux-section-title">Ozempic Protocol at DermaTales</h2>
+            <div class="timeline-lux">
+              <div class="timeline-lux-item" data-step="1">
+                <h4 class="h6 fw-bold mb-1">Initial Medical Consultation</h4>
+                <p class="small text-muted">Thorough medical history review, physical examination, and blood tests (HbA1c, thyroid, lipids, kidneys, liver enzymes) to confirm eligibility and establish baseline values.</p>
+              </div>
+              <div class="timeline-lux-item" data-step="2">
+                <h4 class="h6 fw-bold mb-1">Starting Dose: 0.25 mg Weekly</h4>
+                <p class="small text-muted">Ozempic is always started at the lowest dose (0.25 mg SC weekly) for 4 weeks to allow gastrointestinal adaptation and minimise side effects.</p>
+              </div>
+              <div class="timeline-lux-item" data-step="3">
+                <h4 class="h6 fw-bold mb-1">Dose Escalation</h4>
+                <p class="small text-muted">The dose is increased every 4 weeks (0.25 → 0.5 → 1 → 2 mg) based on your tolerance and clinical response, targeting the most effective therapeutic dose.</p>
+              </div>
+              <div class="timeline-lux-item" data-step="4">
+                <h4 class="h6 fw-bold mb-1">Monthly Monitoring Visits</h4>
+                <p class="small text-muted">Regular check-ins to measure weight loss progress, body composition, blood markers, and medication tolerability — with dietary and lifestyle adjustments at every visit.</p>
+              </div>
+              <div class="timeline-lux-item" data-step="5">
+                <h4 class="h6 fw-bold mb-1">Maintenance &amp; Long-Term Plan</h4>
+                <p class="small text-muted">Once target weight is achieved, a structured maintenance protocol — including gradual dose reduction and lifestyle reinforcement — is designed to sustain your results long-term.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- WHY CHOOSE US? -->
+          <div class="mt-4 fade-up">
+            <h2 class="lux-section-title">Why Get Ozempic at DermaTales?</h2>
+            <div class="feature-list-lux">
+              <div class="feature-list-item">
+                <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
+                <div class="feature-list-content">
+                  <h4>Doctor-Only Prescription</h4>
+                  <p>Ozempic is a controlled prescription medication. We conduct a full clinical evaluation before prescribing — ensuring it is right for you and safe given your health status.</p>
+                </div>
+              </div>
+              <div class="feature-list-item">
+                <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
+                <div class="feature-list-content">
+                  <h4>Genuine, Verified Product</h4>
+                  <p>We source only authentic Ozempic from licensed distributors, with proper cold-chain management to guarantee medication efficacy and safety.</p>
+                </div>
+              </div>
+              <div class="feature-list-item">
+                <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
+                <div class="feature-list-content">
+                  <h4>Comprehensive Programme Support</h4>
+                  <p>Medication is integrated with clinical nutrition planning, metabolic monitoring, and lifestyle coaching — creating a holistic programme that maximises and sustains your weight loss.</p>
+                </div>
+              </div>
+              <div class="feature-list-item">
+                <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
+                <div class="feature-list-content">
+                  <h4>Side Effect Management</h4>
+                  <p>Our proactive titration protocol and dedicated medical team ensure that gastrointestinal side effects are minimised and addressed promptly throughout your treatment.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- STATS -->
+          <div class="why-stats stats-row-local fade-up">
+            <div class="row g-4 text-center justify-content-center">
+              <div class="col-6 col-md-4">
+                <div class="stat-item-local">
+                  <div class="why-stat-number stat-num-local" data-count="15">0</div>
+                  <div class="stat-label-local">% Avg. Weight Loss (STEP-1)*</div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4">
+                <div class="stat-item-local">
+                  <div class="why-stat-number stat-num-local" data-count="68">0</div>
+                  <div class="stat-label-local">Weeks of STEP Trial Duration</div>
+                </div>
+              </div>
+              <div class="col-6 col-md-4">
+                <div class="stat-item-local">
+                  <div class="why-stat-number stat-num-local" data-count="26">0</div>
+                  <div class="stat-label-local">% CV Risk Reduction</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p class="small text-muted mt-2 text-center">*Based on STEP-1 clinical trial data at 2.4 mg (Wegovy) with lifestyle intervention. Individual results will vary.</p>
+
+          <!-- FAQ SECTION -->
+          <div class="mt-4 fade-up">
+            <h2 class="lux-section-title">Frequently Asked Questions</h2>
+            <div class="accordion accordion-flush mt-4" id="ozFAQ">
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#ozFaq1">
+                    What is the difference between Ozempic and Wegovy?
+                  </button>
+                </h3>
+                <div id="ozFaq1" class="accordion-collapse collapse show" data-bs-parent="#ozFAQ">
+                  <div class="accordion-body faq-body">
+                    Both contain the same active ingredient — semaglutide. Ozempic is approved for Type 2 diabetes (maximum dose 2 mg), while Wegovy is the higher-dose formulation (2.4 mg) specifically approved for chronic weight management. Clinically, the higher dose produces greater weight loss. Our doctors will determine the right formulation for your specific goals.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#ozFaq2">
+                    How is Ozempic administered?
+                  </button>
+                </h3>
+                <div id="ozFaq2" class="accordion-collapse collapse" data-bs-parent="#ozFAQ">
+                  <div class="accordion-body faq-body">
+                    Ozempic is injected once weekly using a pre-filled pen into the abdomen, thigh, or upper arm. The injection is subcutaneous (just under the skin) and uses a very fine needle, making it virtually painless. We provide full injection technique training at your first session.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#ozFaq3">
+                    What side effects should I expect?
+                  </button>
+                </h3>
+                <div id="ozFaq3" class="accordion-collapse collapse" data-bs-parent="#ozFAQ">
+                  <div class="accordion-body faq-body">
+                    The most common side effects are nausea, reduced appetite, and mild gastrointestinal discomfort — primarily during dose escalation. Most patients find these manageable and temporary. Serious side effects are uncommon and are caught early through our regular monitoring protocol.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#ozFaq4">
+                    Should I choose Ozempic or Mounjaro?
+                  </button>
+                </h3>
+                <div id="ozFaq4" class="accordion-collapse collapse" data-bs-parent="#ozFAQ">
+                  <div class="accordion-body faq-body">
+                    Mounjaro generally produces greater weight loss (up to 22% vs ~15% for semaglutide) due to its dual receptor mechanism. However, Ozempic has a longer safety record, more extensive cardiovascular data, and may be more appropriate for certain patient profiles. Our doctors will recommend the best option based on your medical history, current health, and goals.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#ozFaq5">
+                    How long do I need to be on Ozempic?
+                  </button>
+                </h3>
+                <div id="ozFaq5" class="accordion-collapse collapse" data-bs-parent="#ozFAQ">
+                  <div class="accordion-body faq-body">
+                    The active weight loss phase typically lasts 6–12 months. After achieving your target weight, the duration of continued use depends on your individual health profile — some patients transition to a maintenance dose while others are gradually weaned off under medical guidance.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div> <!-- End Main Content -->
+
+        <!-- Sidebar Column -->
+        <div class="col-lg-3 order-lg-2">
+          <div class="sidebar-sticky">
+
+            <div class="sidebar-widget">
+              <h3 class="widget-title">Book Consultation</h3>
+              <form id="ozAppointmentForm" class="condensed-form" novalidate>
+                <div class="mb-3">
+                  <label class="form-label">Full Name *</label>
+                  <input type="text" class="form-control" id="ozFormName" placeholder="Your name" required>
+                </div>
+                <div class="mb-3">
+                  <label class="form-label">Phone Number *</label>
+                  <input type="tel" class="form-control" id="ozFormPhone" placeholder="+91 XXXXX XXXXX" required>
+                </div>
+                <div class="mb-3">
+                  <label class="form-label">Location</label>
+                  <select class="form-select" id="ozFormLocation">
+                    <option selected disabled>Select Clinic</option>
+                    <option>Gurgaon — Sec 31</option>
+                    <option>Delhi — Patel Nagar</option>
+                  </select>
+                </div>
+                <div class="mb-3">
+                  <label class="form-label">Your Concern</label>
+                  <textarea class="form-control" id="ozFormMessage" rows="2" placeholder="Briefly describe..."></textarea>
+                </div>
+                <button type="submit" class="btn btn-gold rounded-pill w-100 py-2">Submit Request</button>
+              </form>
+            </div>
+
+            <div class="sidebar-widget dr-widget-card">
+              <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=200&q=80" alt="Dr. Pooja Varshney" class="dr-widget-img">
+              <h3 class="dr-widget-name">Dr. Pooja Varshney</h3>
+              <div class="dr-widget-title">MD (Dermatology), MBBS</div>
+              <p class="small text-muted mb-4">Secured first rank in PG exams with 10+ years of clinical excellence.</p>
+              <a href="about-doctor-in-gurgaon.php" class="btn btn-outline-gold btn-sm rounded-pill w-100">Know More</a>
+            </div>
+
+            <div class="sidebar-widget">
+              <h3 class="widget-title">Related Services</h3>
+              <ul class="related-list">
+                <li><a href="weight-loss-clinic-in-gurgaon.php">Weight Loss Clinic <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="mounjaro-weight-loss-in-gurgaon.php">Mounjaro (Tirzepatide) <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-doctor-in-gurgaon.php">Hair Doctor / Hair Loss <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-transplant-in-gurgaon.php">Hair Transplant <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+              </ul>
+            </div>
+
+            <div class="p-3 text-center">
+              <p class="small text-muted mb-2">Need immediate help?</p>
+              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+                <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
+              </a>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== FOOTER ===================== -->
+  <?php include 'footer.php'; ?>
+
+  </body>
+
+</html>

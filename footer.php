@@ -1,0 +1,218 @@
+<!-- ===================== FOOTER ===================== -->
+<footer class="site-footer">
+  <div class="container-xl">
+
+    <!-- Footer Top: Centered brand + tagline + social -->
+    <div class="footer-top">
+      <div class="footer-brand-center">
+        <span class="logo-text">Derma<span class="logo-accent">Tales</span></span>
+        <span class="logo-tagline">Premium Skin &amp; Aesthetic Clinic</span>
+      </div>
+      <p class="footer-tagline-text">
+        We believe in understanding your skin, your concerns, and your goals — and then delivering treatments that
+        bring out your most confident self.
+      </p>
+      <div class="footer-social-center">
+        <a href="https://www.instagram.com/dermatales/" aria-label="Instagram"
+          class="footer-social-icon footer-social-instagram" target="_blank" rel="noopener"><i
+            class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61572154471704" aria-label="Facebook"
+          class="footer-social-icon footer-social-facebook" target="_blank" rel="noopener"><i
+            class="bi bi-facebook"></i></a>
+        <a href="https://wa.me/917303851264" aria-label="WhatsApp" class="footer-social-icon footer-social-whatsapp"><i
+            class="bi bi-whatsapp"></i></a>
+      </div>
+    </div>
+
+    <!-- Footer Middle: Treatment categories in 3-column grid -->
+    <div class="footer-treatments">
+      <div class="row g-4">
+
+        <!-- Column 1 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Pigmentation &amp; Glow</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Pigmentation</a> <span>|</span>
+              <a href="#">Melasma</a> <span>|</span>
+              <a href="#">Dark Circles</a> <span>|</span>
+              <a href="#">Freckles</a> <span>|</span>
+              <a href="#">Dull / Uneven Skin</a> <span>|</span>
+              <a href="#">Skin Brightening</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Acne &amp; Scars</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Acne Vulgaris</a> <span>|</span>
+              <a href="#">Acne Scars</a> <span>|</span>
+              <a href="#">Chemical Peels</a> <span>|</span>
+              <a href="#">Microneedling</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Regenerative Injectables</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Anti-Wrinkle Injections</a> <span>|</span>
+              <a href="#">Dermal Fillers</a> <span>|</span>
+              <a href="#">IV Glutathione</a> <span>|</span>
+              <a href="#">Lip Rejuvenation</a> <span>|</span>
+              <a href="#">Stem Cell Therapy</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Advanced Lasers &amp; Energy Devices</h4>
+            <p class="footer-treat-tags">
+              <a href="#">HIFU (Non-Surgical Face Lift)</a> <span>|</span>
+              <a href="#">Laser Toning (Q-Switched)</a> <span>|</span>
+              <a href="#">Laser Hair Removal</a> <span>|</span>
+              <a href="#">Fractional CO2 Laser</a> <span>|</span>
+              <a href="#">MNRF (Micro-needling RF)</a> <span>|</span>
+              <a href="#">Tattoo Removal</a>
+            </p>
+          </div>
+        </div>
+
+        <!-- Column 2 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Hair Loss &amp; Scalp</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Hair Loss</a> <span>|</span>
+              <a href="#">Baldness</a> <span>|</span>
+              <a href="#">Male &amp; Female Pattern Baldness</a> <span>|</span>
+              <a href="#">Patchy Hair Loss (Alopecia Areata)</a> <span>|</span>
+              <a href="#">Dandruff</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Anti-Aging</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Anti-Wrinkle Injections &amp; Fillers</a> <span>|</span>
+              <a href="#">Sagging Skin</a> <span>|</span>
+              <a href="#">Volume Loss</a> <span>|</span>
+              <a href="#">Under-Eye Rejuvenation</a> <span>|</span>
+              <a href="#">Thread Lift</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Hair &amp; Scalp Restoration</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Growth Factor Therapy (GFC)</a> <span>|</span>
+              <a href="#">PRP Hair Therapy</a> <span>|</span>
+              <a href="#">Exosome Scalp Therapy</a> <span>|</span>
+              <a href="#">FUE Hair Transplant</a> <span>|</span>
+              <a href="#">DHI Hair Transplant</a> <span>|</span>
+              <a href="#">Mesotherapy</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Medi-Facials &amp; Peels</h4>
+            <p class="footer-treat-tags">
+              <a href="#">HydraFacial</a> <span>|</span>
+              <a href="#">Vampire Facial (PRP)</a> <span>|</span>
+              <a href="#">Carbon Laser Facial</a> <span>|</span>
+              <a href="#">Chemical Peels</a> <span>|</span>
+              <a href="#">Oxygeneo Facial</a> <span>|</span>
+              <a href="#">Signature Glow Facial</a>
+            </p>
+          </div>
+        </div>
+
+        <!-- Column 3 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Clinical Dermatology</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Psoriasis</a> <span>|</span>
+              <a href="#">Eczema</a> <span>|</span>
+              <a href="#">Rosacea</a> <span>|</span>
+              <a href="#">Vitiligo</a> <span>|</span>
+              <a href="#">Urticaria</a> <span>|</span>
+              <a href="#">Fungal Infection</a> <span>|</span>
+              <a href="#">Nail Disorders</a> <span>|</span>
+              <a href="#">Keloid</a> <span>|</span>
+              <a href="#">Stretch Marks</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Clinical &amp; Dermato-Surgery</h4>
+            <p class="footer-treat-tags">
+              <a href="#">Mole Removal</a> <span>|</span>
+              <a href="#">Wart Removal</a> <span>|</span>
+              <a href="#">Scar Revision</a> <span>|</span>
+              <a href="#">Cyst &amp; Lipoma Excision</a> <span>|</span>
+              <a href="#">Ear Lobe Repair</a> <span>|</span>
+              <a href="#">Skin Biopsy</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Skin Tightening &amp; Contouring</h4>
+            <p class="footer-treat-tags">
+              <a href="#">HIFU</a> <span>|</span>
+              <a href="#">RF Skin Tightening</a> <span>|</span>
+              <a href="#">CoolSculpting</a> <span>|</span>
+              <a href="#">Body Contouring</a> <span>|</span>
+              <a href="#">Stretch Marks Treatment</a>
+            </p>
+          </div>
+          <div class="footer-treat-group">
+            <h4 class="footer-treat-heading">Wellness &amp; IV Therapies</h4>
+            <p class="footer-treat-tags">
+              <a href="#">IV Vitamin Therapy</a> <span>|</span>
+              <a href="#">Infrared Detox Therapy</a> <span>|</span>
+              <a href="#">Nutrition &amp; Skin Health</a> <span>|</span>
+              <a href="#">Holistic Skin Wellness</a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom">
+      <div class="row align-items-center g-3">
+        <div class="col-md-4">
+          <p class="footer-copy">&copy; 2026 DermaTales. All rights reserved.</p>
+        </div>
+        <div class="col-md-4 text-md-center">
+          <div class="footer-locations-mini">
+            <span><i class="bi bi-geo-alt-fill"></i> Gurgaon</span>
+            <span class="footer-dot"></span>
+            <span><i class="bi bi-geo-alt-fill"></i> Delhi</span>
+          </div>
+        </div>
+        <div class="col-md-4 text-md-end">
+          <div class="footer-legal">
+            <a href="#">Contact Us</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms</a>
+            <a href="#">Disclaimer</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+  <!-- ===================== FLOATING CTA ===================== -->
+  <div class="floating-cta">
+    <a href="https://wa.me/917303851264" class="floating-whatsapp" aria-label="Chat on WhatsApp">
+      <i class="bi bi-whatsapp"></i>
+    </a>
+    <a href="tel:+917303851264" class="floating-phone d-lg-none" aria-label="Call now">
+      <i class="bi bi-telephone-fill"></i>
+    </a>
+  </div>
+
+  <!-- Back to top -->
+  <button id="backToTop" class="back-to-top" aria-label="Back to top">
+    <i class="bi bi-chevron-up"></i>
+  </button>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Custom JS -->
+  <script src="js/main.js"></script>

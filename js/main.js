@@ -3,56 +3,8 @@
    Vanilla JS, no dependencies beyond Bootstrap 5
    ============================================================ */
 
-/* ---- Component Loader ----
-   Fetches shared header.html, mobile-menu.html and footer.html
-   fragments and injects them into placeholder divs on every page.
-   After all components are loaded, initPage() fires the rest of the JS.
-   NOTE: Requires a local web server (e.g. VS Code Live Server) — fetch()
-   is blocked by the browser when opening files directly via file:// protocol.
- ---------------------------------------------------------------- */
-function loadComponent(url, placeholderId, callback) {
-  var placeholder = document.getElementById(placeholderId);
-  if (!placeholder) {
-    if (callback) callback();
-    return;
-  }
-  fetch(url)
-    .then(function (response) {
-      if (!response.ok) throw new Error('Failed to load: ' + url);
-      return response.text();
-    })
-    .then(function (html) {
-      placeholder.outerHTML = html;
-      if (callback) callback();
-    })
-    .catch(function (err) {
-      console.warn('DermaTales component loader:', err);
-      if (callback) callback();
-    });
-}
-
-/* Determine the root path so that fragment URLs resolve correctly
-   regardless of how deep the current page is. */
-function getRootPath() {
-  var segments = window.location.pathname.split('/');
-  segments.pop(); // remove filename
-  var depth = segments.filter(function (s) { return s !== ''; }).length;
-  // If served from root, depth = 0 → path prefix is './'
-  // Adjust if pages are nested in subdirectories later
-  return './';
-}
-
 document.addEventListener('DOMContentLoaded', function () {
-  var root = getRootPath();
-
-  // Load header first, then mobile menu, then footer, then init page
-  loadComponent(root + 'header.html', 'header-placeholder', function () {
-    loadComponent(root + 'mobile-menu.html', 'mobile-menu-placeholder', function () {
-      loadComponent(root + 'footer.html', 'footer-placeholder', function () {
-        initPage();
-      });
-    });
-  });
+  initPage();
 });
 
 /* ---- Main page initialisation (runs after components are injected) ---- */
