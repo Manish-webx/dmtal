@@ -5,8 +5,7 @@
     <!-- Footer Top: Centered brand + tagline + social -->
     <div class="footer-top">
       <div class="footer-brand-center">
-        <span class="logo-text">Derma<span class="logo-accent">Tales</span></span>
-        <span class="logo-tagline">Premium Skin &amp; Aesthetic Clinic</span>
+        <img src="images/dermatales-logo.png" alt="DermaTales Logo" class="footer-logo-img" style="width: 130px;">
       </div>
       <p class="footer-tagline-text">
         We believe in understanding your skin, your concerns, and your goals — and then delivering treatments that
@@ -197,22 +196,22 @@
   </div>
 </footer>
 
-  <!-- ===================== FLOATING CTA ===================== -->
-  <div class="floating-cta">
-    <a href="https://wa.me/917303851264" class="floating-whatsapp" aria-label="Chat on WhatsApp">
-      <i class="bi bi-whatsapp"></i>
-    </a>
-    <a href="tel:+917303851264" class="floating-phone d-lg-none" aria-label="Call now">
-      <i class="bi bi-telephone-fill"></i>
-    </a>
-  </div>
+<!-- ===================== FLOATING CTA ===================== -->
+<div class="floating-cta">
+  <a href="https://wa.me/917303851264" class="floating-whatsapp" aria-label="Chat on WhatsApp">
+    <i class="bi bi-whatsapp"></i>
+  </a>
+  <a href="tel:+917303851264" class="floating-phone d-lg-none" aria-label="Call now">
+    <i class="bi bi-telephone-fill"></i>
+  </a>
+</div>
 
-  <!-- Back to top -->
-  <button id="backToTop" class="back-to-top" aria-label="Back to top">
-    <i class="bi bi-chevron-up"></i>
-  </button>
+<!-- Back to top -->
+<button id="backToTop" class="back-to-top" aria-label="Back to top">
+  <i class="bi bi-chevron-up"></i>
+</button>
 
-  <!-- Bootstrap JS -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <!-- Custom JS -->
-  <script src="js/main.js"></script>
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Custom JS -->
+<script src="js/main.js"></script>
