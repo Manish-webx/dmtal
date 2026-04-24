@@ -148,8 +148,8 @@
           <div class="collapse" id="mobAbout">
             <ul class="mobile-sub-nav">
               <li><a href="about-doctor-in-gurgaon.php">About Doctor</a></li>
-              <li><a href="contact-in-gurgaon.php">Gurgaon Clinic</a></li>
-              <li><a href="contact-in-gurgaon.php">Delhi Clinic</a></li>
+              <li><a href="book-appointment.php">Gurgaon Clinic</a></li>
+              <li><a href="book-appointment.php">Delhi Clinic</a></li>
             </ul>
           </div>
         </li>
@@ -166,7 +166,7 @@
           </div>
         </li>
         <li class="mobile-nav-item">
-          <a class="mobile-nav-link" href="contact-in-gurgaon.php">Contact</a>
+          <a class="mobile-nav-link" href="book-appointment.php">Contact</a>
         </li>
       </ul>
 

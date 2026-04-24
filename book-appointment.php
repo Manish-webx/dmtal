@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -10,14 +10,14 @@
     content="contact DermaTales, dermatologist Gurgaon contact, skin specialist Delhi contact, book appointment DermaTales, clinic locations">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/contact.php">
+  <link rel="canonical" href="https://www.dermatales.com/book-appointment.php">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Contact Us — DermaTales | Gurgaon & Delhi">
   <meta property="og:description"
     content="Have a skin concern? Reach out to our board-certified dermatologists at our Gurgaon or Delhi clinics. Book your consultation today.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.dermatales.com/contact.php">
+  <meta property="og:url" content="https://www.dermatales.com/book-appointment.php">
   <meta property="og:image" content="https://www.dermatales.com/images/clinic-gurgaon.jpg">
   <meta property="og:site_name" content="DermaTales">
 

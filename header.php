@@ -132,7 +132,7 @@
                       <h6 class="mega-promo-title">Signature Glow Facial</h6>
                       <p class="mega-promo-text">Our award-winning hydra-radiance facial combines medical-grade actives
                         with luxury relaxation.</p>
-                      <a href="#appointment" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
+                      <a href="book-appointment.php" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@
                       <h6 class="mega-promo-title">Advanced PRP+</h6>
                       <p class="mega-promo-text">Our enhanced platelet-rich plasma therapy with growth factor
                         concentrate for superior hair restoration results.</p>
-                      <a href="#appointment" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
+                      <a href="book-appointment.php" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
                     </div>
                   </div>
                 </div>
@@ -251,7 +251,7 @@
                       <h6 class="mega-promo-title">Total Body Renewal</h6>
                       <p class="mega-promo-text">A bespoke combination treatment plan designed to rejuvenate, contour,
                         and restore your body's natural radiance.</p>
-                      <a href="#appointment" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
+                      <a href="book-appointment.php" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
                     </div>
                   </div>
                 </div>
@@ -367,17 +367,11 @@
               <li><a class="dropdown-item" href="#results">Before &amp; After</a></li>
             </ul>
           </li>
-
-          <!-- Contact Link -->
-          <li class="nav-item">
-            <a class="nav-link" href="contact">Contact</a>
-          </li>
-
         </ul>
 
         <!-- Desktop CTA -->
         <div class="d-none d-xl-flex align-items-center gap-2">
-          <a href="#appointment" class="btn btn-gold rounded-pill px-4">
+          <a href="book-appointment.php" class="btn btn-gold rounded-pill px-4">
             Book Free Appointment
           </a>
         </div>
