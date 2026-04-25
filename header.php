@@ -114,15 +114,6 @@
                       <li><a href="#">IV Drip Therapy</a></li>
                       <li><a href="#">Aging Face Treatment</a></li>
                     </ul>
-                    <h6 class="mega-heading mt-3">Laser Treatments</h6>
-                    <ul class="mega-list">
-                      <li><a href="#">Laser Hair Reduction</a></li>
-                      <li><a href="#">Laser Tattoo Removal</a></li>
-                      <li><a href="#">Laser For Pigmentation</a></li>
-                      <li><a href="#">Laser For Acne Scars</a></li>
-                      <li><a href="#">Laser For Chickenpox Scars</a></li>
-                      <li><a href="#">Laser For Birth Marks</a></li>
-                    </ul>
                   </div>
                   <div class="col-lg-3">
                     <div class="mega-promo d-flex flex-column h-100">
@@ -162,7 +153,6 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Hair Loss Conditions</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Hair Doctor in Gurgaon</a></li>
                       <li><a href="#">Male Patterned Baldness</a></li>
                       <li><a href="#">Female Hairloss</a></li>
                       <li><a href="#">Alopecia Areata</a></li>
@@ -173,7 +163,7 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Hair Transplant</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Hair Transplant in Gurgaon</a></li>
+                      <li><a href="#">Hair Transplant</a></li>
                       <li><a href="#">FUE Hair Transplant</a></li>
                       <li><a href="#">DHI Hair Transplant</a></li>
                       <li><a href="#">Beard Transplant</a></li>
@@ -229,9 +219,9 @@
                     </ul>
                     <h6 class="mega-heading mt-3">Weight Management</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Weight Loss Clinic Gurgaon</a></li>
-                      <li><a href="#">Mounjaro Weight Loss</a></li>
-                      <li><a href="#">Ozempic Weight Loss</a></li>
+                      <li><a href="#">Weight Loss</a></li>
+                      <li><a href="#">Mounjaro</a></li>
+                      <li><a href="#">Ozempic</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -241,6 +231,15 @@
                       <li><a href="#">Full Body Polishing</a></li>
                       <li><a href="#">Vampire Facial</a></li>
                       <li><a href="#">Thread Lift</a></li>
+                    </ul>
+                    <h6 class="mega-heading mt-3">Laser Treatments</h6>
+                    <ul class="mega-list">
+                      <li><a href="#">Laser Hair Reduction</a></li>
+                      <li><a href="#">Laser Tattoo Removal</a></li>
+                      <li><a href="#">Laser For Pigmentation</a></li>
+                      <li><a href="#">Laser For Acne Scars</a></li>
+                      <li><a href="#">Laser For Chickenpox Scars</a></li>
+                      <li><a href="#">Laser For Birth Marks</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -372,7 +371,7 @@
         <!-- Desktop CTA -->
         <div class="d-none d-xl-flex align-items-center gap-2">
           <a href="book-appointment.php" class="btn btn-gold rounded-pill px-4">
-            Book Free Appointment
+            Book Appointment
           </a>
         </div>
       </div>

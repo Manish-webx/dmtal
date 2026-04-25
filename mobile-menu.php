@@ -171,7 +171,7 @@
       </ul>
 
       <div class="mobile-cta-block mt-4">
-        <a href="#appointment" class="btn btn-gold rounded-pill w-100 mb-2">Book Free Appointment</a>
+        <a href="#appointment" class="btn btn-gold rounded-pill w-100 mb-2">Book Appointment</a>
         <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100 mb-2">
           <i class="bi bi-whatsapp me-1"></i> WhatsApp Us
         </a>

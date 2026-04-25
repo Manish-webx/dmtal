@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -348,7 +348,7 @@
       <h2>Book a Consultation with Dr. Varshney</h2>
       <p>Experience personalised dermatology care that combines clinical excellence with a luxury aesthetic approach.
         Your skin transformation starts here.</p>
-      <a href="index.php#appointment" class="btn btn-outline-light btn-lg rounded-pill px-5">Book Free Appointment</a>
+      <a href="index.php#appointment" class="btn btn-outline-light btn-lg rounded-pill px-5">Book Appointment</a>
     </div>
   </section>
 

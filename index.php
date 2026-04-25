@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="DermaTales — Premium dermatology and aesthetic skin clinic in Gurgaon &amp; Delhi offering advanced skin treatments, cosmetic dermatology, laser therapies, anti-aging solutions, and personalised skin care by board-certified dermatologists.">
+    content="DermaTales is Delhi & Gurgaon's trusted skin & hair clinic. Dr. Pooja Varshney offers laser treatments, acne, hair loss, anti-ageing & weight loss (Ozempic, Mounjaro, CoolSculpting). Book consultation.">
   <meta name="keywords"
     content="dermatology clinic Gurgaon, skin specialist Delhi, cosmetic dermatology, laser treatment, acne treatment, pigmentation treatment, anti-aging, hair loss treatment, skin rejuvenation, dermatologist Gurgaon, dermatologist Delhi">
   <meta name="author" content="DermaTales Clinic">
@@ -28,9 +28,9 @@
     content="Experience world-class dermatology care. Advanced skin treatments, cosmetic procedures, and personalised skin wellness.">
   <meta name="twitter:image" content="https://www.dermatales.com/images/og-image.jpg">
 
-  <title>DermaTales — Premium Dermatology &amp; Aesthetic Clinic</title>
+  <title>Best Skin Clinic in Delhi & Gurgaon | DermaTales</title>
 
-    <?php include 'nav-link.php'; ?>
+  <?php include 'nav-link.php'; ?>
 
 
   <!-- Schema: LocalBusiness / MedicalClinic — Gurgaon -->
@@ -180,16 +180,21 @@
           <div class="hero-content">
             <span class="hero-badge">Board-Certified Dermatologists</span>
             <h1 class="hero-title">
-              Where Science Meets the<br>
-              <span class="hero-title-accent">Art of Beautiful Skin</span>
+              Leading Skin Clinic in Delhi
             </h1>
+            <h2 class="hero-title-accent"
+              style="font-size: 2rem; display: block; margin-bottom: 1rem; font-family: var(--dt-font-display);">
+              Where Science Meets the Art of Beautiful Skin
+            </h2>
             <p class="hero-subtitle">
-              Experience personalised dermatology care that blends advanced medical expertise with luxury aesthetics.
-              Trusted by thousands across our Gurgaon &amp; Delhi clinics for visible, lasting results.
+              Welcome to DermaTales — one of the best skin clinics in Delhi, led by Dr. Pooja Varshney. From acne and
+              pigmentation to laser resurfacing, hair loss, and anti-ageing treatments — we deliver science-backed,
+              personalised skin care that truly works. With clinics in Delhi and Gurgaon, expert skin care is always
+              within reach.
             </p>
             <div class="hero-cta d-flex flex-wrap gap-3">
               <a href="#appointment" class="btn btn-gold btn-lg rounded-pill px-5">
-                Book Free Consultation
+                Book Consultation
               </a>
               <a href="#treatments" class="btn btn-outline-light btn-lg rounded-pill px-4" style="background: var(--dt-white);
     color: var(--dt-charcoal);
@@ -217,7 +222,8 @@
         </div>
         <div class="col-lg-5">
           <div class="hero-image-wrapper">
-            <img src="images/hero-banner-img.webp" alt="Doctor" class="img-fluid rounded-4">
+            <img src="images/hero-banner-img.webp" alt="Leading Skin Clinic in Delhi - Dr. Pooja Varshney"
+              class="img-fluid rounded-4">
           </div>
         </div>
       </div>
@@ -231,7 +237,8 @@
         <div class="col-lg-5 order-lg-2">
           <div class="doctor-image-wrapper">
             <div class="doctor-image-placeholder">
-              <img src="images/dr-pooja.webp" alt="Doctor" class="img-fluid rounded-4">
+              <img src="images/dr-pooja.webp" alt="Meet Your Skin Specialist - Dr. Pooja Varshney Dermatologist"
+                class="img-fluid rounded-4">
             </div>
             <div class="doctor-badge-card">
               <i class="bi bi-patch-check-fill"></i>
@@ -240,7 +247,7 @@
           </div>
         </div>
         <div class="col-lg-7 order-lg-1">
-          <span class="section-eyebrow">Meet Your Dermatologist</span>
+          <span class="section-eyebrow">Meet Your Skin Specialist</span>
           <h2 class="section-title">Dr. Pooja Varshney</h2>
           <p class="doctor-designation">MBBS | MD (Dermatology / Skin &amp; VD) | Fellowship in Cosmetology</p>
           <p class="section-text">
@@ -250,9 +257,9 @@
             dedicated expert in hair transplantation with hands-on experience across multiple live workshops.
           </p>
           <p class="section-text">
-            Her philosophy is rooted in evidence-based dermatology combined with modern technologies. Whether managing
-            complex conditions like pemphigus and chronic skin diseases or delivering cutting-edge cosmetic procedures,
-            Dr. Varshney's precision and warmth have earned the trust of thousands across the Delhi-NCR region.
+            With over 15,000 patients treated across Delhi NCR and a 98% satisfaction rate, Dr. Varshney is a trusted
+            name for those seeking the best skin treatment clinic in Delhi. Her approach is rooted in science, empathy,
+            and a genuine commitment to transforming skin health.
           </p>
           <div class="doctor-credentials mt-4">
             <div class="row g-3">
@@ -282,10 +289,11 @@
     <div class="container-xl">
       <div class="text-center mb-5">
         <span class="section-eyebrow">Our Treatments</span>
-        <h2 class="section-title">Comprehensive Skin &amp; Aesthetic Solutions</h2>
-        <p class="section-lead mx-auto" style="max-width: 640px;">
-          From clinical dermatology to luxury aesthetic treatments, our full spectrum of services is designed to address
-          every skin concern with precision and care.
+        <h2 class="section-title">Comprehensive Skin, Hair &amp; Aesthetic Treatments in Delhi &amp; Gurgaon</h2>
+        <p class="section-lead mx-auto" style="max-width: 900px;">
+          From everyday skincare concerns to advanced cosmetic procedures — DermaTales offers 50+ specialised treatments
+          at our skin clinic in Delhi and Gurgaon. Every treatment plan is personally designed by Dr. Pooja Varshney for
+          your unique skin type and goals.
         </p>
       </div>
 
@@ -403,10 +411,11 @@
     <div class="container-xl">
       <div class="text-center mb-5">
         <span class="section-eyebrow">Our Technology</span>
-        <h2 class="section-title">Best Technologies We Use</h2>
-        <p class="section-lead mx-auto" style="max-width: 640px;">
-          We invest in the world's most advanced, FDA-approved medical-grade equipment to deliver safe, precise, and
-          superior results for every treatment.
+        <h2 class="section-title">World-Class Skin Technologies at Clinics</h2>
+        <p class="section-lead mx-auto" style="max-width: 900px;">
+          We believe in delivering real, measurable results — which is why DermaTales invests exclusively in globally
+          certified, FDA-approved machines. Our skin clinic in Delhi and Gurgaon uses the same internationally
+          recognised technologies as top clinics worldwide.
         </p>
       </div>
 
@@ -466,7 +475,7 @@
       <div class="text-center mb-5">
         <span class="section-eyebrow">Most Sought After</span>
         <h2 class="section-title">Popular Procedures</h2>
-        <p class="section-lead mx-auto" style="max-width: 640px;">
+        <p class="section-lead mx-auto" style="max-width: 900px;">
           These are the treatments our patients love most — delivering visible, lasting results with minimal downtime.
         </p>
       </div>
@@ -605,16 +614,20 @@
               </div>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="images/clinic-img-1.webp" class="d-block w-100" alt="DermaTales Clinic Interior 1">
+                  <img src="images/clinic-img-1.webp" class="d-block w-100"
+                    alt="Sanctuary for Your Skin - DermaTales Clinic Ambience Delhi">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/clinic-img-2.webp" class="d-block w-100" alt="DermaTales Clinic Interior 2">
+                  <img src="images/clinic-img-2.webp" class="d-block w-100"
+                    alt="Sanctuary for Your Skin - DermaTales Clinic Ambience Gurgaon">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/clinic-img-3.webp" class="d-block w-100" alt="DermaTales Clinic Interior 3">
+                  <img src="images/clinic-img-3.webp" class="d-block w-100"
+                    alt="Sanctuary for Your Skin - Premium Dermatology Clinic Facility">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/clinic-img-4.webp" class="d-block w-100" alt="DermaTales Clinic Interior 3">
+                  <img src="images/clinic-img-4.webp" class="d-block w-100"
+                    alt="Sanctuary for Your Skin - Advanced FDA Approved Technologies">
                 </div>
               </div>
               <button class="carousel-control-prev" type="button" data-bs-target="#aboutClinicCarousel"
@@ -635,15 +648,16 @@
           <span class="section-eyebrow">About DermaTales</span>
           <h2 class="section-title">A Sanctuary for Your Skin,<br>Crafted with Care</h2>
           <p class="section-lead">
-            DermaTales is a premium dermatology and aesthetic clinic founded on the belief that exceptional skin care is
-            both a science and an art. We combine evidence-based medicine with a luxury experience that puts your
-            comfort and confidence first.
+            DermaTales is a premium dermatology and aesthetic clinic founded on the belief that exceptional skincare is
+            both a science and an art. We combine evidence-based medicine with a luxury experience that prioritizes your
+            comfort and confidence.
           </p>
           <p class="section-text">
-            With two state-of-the-art clinics in Gurgaon and Delhi, our facilities are equipped with the latest
-            FDA-approved technologies. Every treatment protocol is designed by our board-certified dermatologists. From
-            medical skin conditions to advanced cosmetic procedures, we deliver personalised care with uncompromising
-            quality at both locations.
+            With two state-of-the-art clinics in Delhi and Gurgaon, our facilities are equipped with the latest
+            FDA-approved technologies. Every treatment protocol is designed by board-certified dermatologists, and every
+            detail—from hospital-grade sterilization to our consultation process, is thoughtfully crafted around your
+            safety and comfort. When you choose DermaTales, you’re choosing one of the finest skin treatment experiences
+            in Delhi NCR.
           </p>
           <div class="about-values mt-4">
             <div class="row g-3">
@@ -684,7 +698,7 @@
       <div class="text-center mb-5">
         <span class="section-eyebrow">Why DermaTales</span>
         <h2 class="section-title mb-3">Why Thousands Trust Us</h2>
-        <p class="section-lead mx-auto" style="max-width: 600px;">
+        <p class="section-lead mx-auto" style="max-width: 900px;">
           We blend board-certified clinical excellence with world-class FDA-approved technology to deliver personalized,
           premium care.
         </p>
@@ -821,6 +835,36 @@
                 </div>
               </div>
             </div>
+            <div class="accordion-item faq-item">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#faq6" aria-expanded="false" aria-controls="faq6">
+                  Does DermaTales offer weight loss treatments in Delhi and Gurgaon?
+                </button>
+              </h3>
+              <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div class="accordion-body faq-body">
+                  Yes — DermaTales now offers a comprehensive, medically supervised weight loss programme at both our
+                  Delhi and Gurgaon clinics, led by Dr. Pooja Varshney. We offer three scientifically proven options:
+                  Ozempic (semaglutide) injection for appetite control & fat loss, Mounjaro (tirzepatide), CoolSculpting
+                  for Non-invasive fat freezing.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item faq-item">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#faq7" aria-expanded="false" aria-controls="faq7">
+                  What is the best hair loss treatment available at a skin and hair clinic in Delhi?
+                </button>
+              </h3>
+              <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div class="accordion-body faq-body">
+                  At DermaTales — one of Delhi's leading skin and hair clinics, we offer the most advanced, non-surgical
+                  hair loss treatments.
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -842,7 +886,7 @@
           <div class="appointment-highlights mt-4">
             <div class="appt-highlight">
               <i class="bi bi-check-circle-fill"></i>
-              <span>Free initial consultation at both clinics</span>
+              <span>Initial consultation at both clinics</span>
             </div>
             <div class="appt-highlight">
               <i class="bi bi-check-circle-fill"></i>
@@ -873,7 +917,7 @@
 
         <div class="col-lg-6">
           <div class="appointment-form-wrapper">
-            <h3 class="form-title">Request Your Free Consultation</h3>
+            <h3 class="form-title">Request Your Consultation</h3>
             <form action="mail1.php" method="post" class="appointment-form">
               <div class="row g-3">
                 <div class="col-sm-6">
@@ -908,7 +952,7 @@
                 </div>
                 <div class="col-12">
                   <button type="submit" class="btn btn-gold btn-lg rounded-pill w-100">
-                    Book Free Consultation
+                    Book Consultation
                   </button>
                   <p class="form-note mt-2 text-center">
                     <i class="bi bi-shield-lock me-1"></i>Your information is secure and confidential.
@@ -928,7 +972,7 @@
       <div class="text-center mb-5">
         <span class="section-eyebrow section-eyebrow-light">Visit Us</span>
         <h2 class="section-title text-white">Our Clinic Locations</h2>
-        <p class="section-lead mx-auto text-white-50" style="max-width: 580px;">
+        <p class="section-lead mx-auto text-white-50" style="max-width: 900px;">
           Two premium clinics. One standard of excellence. Experience world-class dermatology care at a location
           convenient for you.
         </p>
@@ -1067,6 +1111,6 @@
 
   <?php include 'footer.php'; ?>
 
-  </body>
+</body>
 
 </html>
