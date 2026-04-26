@@ -97,12 +97,14 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Hair &amp; Scalp Restoration</h4>
             <p class="footer-treat-tags">
-              <a href="#">Growth Factor Therapy (GFC)</a> <span>|</span>
+              <a href="gfc-therapy-in-gurgaon">Growth Factor Therapy (GFC)</a> <span>|</span>
               <a href="hair-prp-treatment-in-gurgaon">PRP Hair Therapy</a> <span>|</span>
-              <a href="exoglow-in-gurgaon">Exosome Scalp Therapy</a> <span>|</span>
+              <a href="exosome-therapy-in-gurgaon">Exosome Therapy</a> <span>|</span>
+              <a href="qr678-hair-treatment-in-gurgaon">QR678 Treatment</a> <span>|</span>
+              <a href="lllt-therapy-in-gurgaon">LLLT Therapy</a> <span>|</span>
               <a href="fue-hair-transplant-in-gurgaon">FUE Hair Transplant</a> <span>|</span>
               <a href="dhi-hair-transplant-in-gurgaon">DHI Hair Transplant</a> <span>|</span>
-              <a href="#">Mesotherapy</a>
+              <a href="mesotherapy-in-gurgaon">Mesotherapy</a>
             </p>
           </div>
           <div class="footer-treat-group">
@@ -149,9 +151,9 @@
             <h4 class="footer-treat-heading">Skin Tightening &amp; Contouring</h4>
             <p class="footer-treat-tags">
               <a href="hifu-in-gurgaon">HIFU</a> <span>|</span>
-              <a href="#">RF Skin Tightening</a> <span>|</span>
-              <a href="tummy-tuck-in-gurgaon">CoolSculpting</a> <span>|</span>
-              <a href="tummy-tuck-in-gurgaon">Body Contouring</a> <span>|</span>
+              <a href="body-tightening-in-gurgaon">RF Skin Tightening</a> <span>|</span>
+              <a href="coolsculpting-in-gurgaon">CoolSculpting</a> <span>|</span>
+              <a href="lipolysis-injections-in-gurgaon">Body Contouring (Lipolysis)</a> <span>|</span>
               <a href="stretch-marks-treatment-in-gurgaon">Stretch Marks Treatment</a>
             </p>
           </div>

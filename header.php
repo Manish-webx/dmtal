@@ -148,11 +148,12 @@
                     <h6 class="mega-heading">Hair Treatments</h6>
                     <ul class="mega-list">
                       <li><a href="hair-prp-treatment-in-gurgaon">PRP Therapy</a></li>
-                      <li><a href="#">GFC Therapy</a></li>
-                      <li><a href="#">LLLT (Low Level Laser Therapy)</a></li>
-                      <li><a href="#">Mesotherapy</a></li>
-                      <li><a href="#">Exosomes & QR678</a></li>
-                      <li><a href="#">Hair Growth Boosters</a></li>
+                      <li><a href="gfc-therapy-in-gurgaon">GFC Therapy</a></li>
+                      <li><a href="lllt-therapy-in-gurgaon">LLLT (Low Level Laser Therapy)</a></li>
+                      <li><a href="mesotherapy-in-gurgaon">Mesotherapy</a></li>
+                      <li><a href="exosome-therapy-in-gurgaon">Exosome Therapy</a></li>
+                      <li><a href="qr678-hair-treatment-in-gurgaon">QR678 Hair Treatment</a></li>
+                      <li><a href="hair-growth-boosters-in-gurgaon">Hair Growth Boosters</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -217,9 +218,9 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Body Contouring</h6>
                     <ul class="mega-list">
-                      <li><a href="#">CoolSculpting</a></li>
-                      <li><a href="#">Lipolysis Injections</a></li>
-                      <li><a href="#">Body Tightening</a></li>
+                      <li><a href="coolsculpting-in-gurgaon">CoolSculpting</a></li>
+                      <li><a href="lipolysis-injections-in-gurgaon">Lipolysis Injections</a></li>
+                      <li><a href="body-tightening-in-gurgaon">Body Tightening</a></li>
                       <li><a href="cellulite-treatment-in-gurgaon">Cellulite Reduction</a></li>
                     </ul>
                     <h6 class="mega-heading mt-3">Weight Management</h6>
