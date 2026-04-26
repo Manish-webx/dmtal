@@ -60,8 +60,8 @@
       {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-        "opens": "10:00",
-        "closes": "19:00"
+        "opens": "11:00",
+        "closes": "20:00"
       }
     ],
     "medicalSpecialty": "Dermatology",
@@ -101,8 +101,8 @@
       {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-        "opens": "10:00",
-        "closes": "19:00"
+        "opens": "11:00",
+        "closes": "20:00"
       }
     ],
     "medicalSpecialty": "Dermatology",
@@ -196,13 +196,13 @@
               <a href="#appointment" class="btn btn-gold btn-lg rounded-pill px-5">
                 Book Consultation
               </a>
-              <a href="#treatments" class="btn btn-outline-light btn-lg rounded-pill px-4" style="background: var(--dt-white);
+              <!-- <a href="#treatments" class="btn btn-outline-light btn-lg rounded-pill px-4" style="background: var(--dt-white);
     color: var(--dt-charcoal);
     border-color: var(--dt-white);">
                 Explore Treatments
-              </a>
+              </a> -->
             </div>
-            <div class="hero-trust mt-4 d-flex flex-wrap align-items-center gap-4">
+            <div class="hero-trust mt-4 d-flex flex-wrap gap-4">
               <div class="hero-trust-item">
                 <span class="hero-trust-number">15,000+</span>
                 <span class="hero-trust-label">Happy Patients</span>
@@ -220,7 +220,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-5 d-none d-lg-block">
           <div class="hero-image-wrapper">
             <img src="images/hero-banner-img.webp" alt="Leading Skin Clinic in Delhi - Dr. Pooja Varshney"
               class="img-fluid rounded-4">
@@ -998,7 +998,7 @@
                 </div>
                 <div class="location-detail-row">
                   <i class="bi bi-clock-fill"></i>
-                  <span>Mon – Sat: 10:00 AM – 7:00 PM</span>
+                  <span>Mon – Sat: 11:00 AM – 8:00 PM</span>
                 </div>
               </div>
 
@@ -1045,7 +1045,7 @@
                 </div>
                 <div class="location-detail-row">
                   <i class="bi bi-clock-fill"></i>
-                  <span>Mon – Sat: 10:00 AM – 7:00 PM</span>
+                  <span>Mon – Sat: 11:00 AM – 8:00 PM</span>
                 </div>
               </div>
 
@@ -1100,7 +1100,7 @@
               <i class="bi bi-clock-fill"></i>
               <div>
                 <strong>Both Clinics Open</strong>
-                <span>Mon – Sat: 10 AM – 7 PM</span>
+                <span>Mon – Sat: 11 AM – 8 PM</span>
               </div>
             </div>
           </div>

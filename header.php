@@ -1,3 +1,8 @@
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KBCRNFG" height="0" width="0"
+    style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <!-- ===================== TOP BAR ===================== -->
 <div class="top-bar d-none d-lg-block">
   <div class="container-xl">
@@ -13,7 +18,7 @@
           <i class="bi bi-envelope-fill"></i> dermatales@gmail.com
         </a>
         <span class="top-bar-text">
-          <i class="bi bi-clock-fill"></i> Mon – Sat: 10 AM – 7 PM
+          <i class="bi bi-clock-fill"></i> Mon – Sat: 11 AM – 8 PM
         </span>
       </div>
       <div class="col-auto d-flex align-items-center gap-3">

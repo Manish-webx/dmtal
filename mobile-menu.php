@@ -183,7 +183,7 @@
       <div class="mobile-contact-info mt-4">
         <p><i class="bi bi-geo-alt-fill me-2"></i><strong>Gurugram:</strong> 694, Sector 31, Gurugram</p>
         <p><i class="bi bi-geo-alt-fill me-2"></i><strong>Delhi:</strong> Patel Nagar, New Delhi</p>
-        <p><i class="bi bi-clock-fill me-2"></i>Mon – Sat: 10 AM – 7 PM</p>
+        <p><i class="bi bi-clock-fill me-2"></i>Mon – Sat: 11 AM – 8 PM</p>
         <div class="d-flex gap-3 mt-3">
           <a href="https://www.instagram.com/dermatales/" aria-label="Instagram" target="_blank" rel="noopener"><i class="bi bi-instagram"></i></a>
           <a href="https://www.facebook.com/profile?id=61572154471704" aria-label="Facebook" target="_blank" rel="noopener"><i class="bi bi-facebook"></i></a>

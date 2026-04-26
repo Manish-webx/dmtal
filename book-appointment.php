@@ -141,7 +141,7 @@
               <div class="studio-info-row">
                 <i class="bi bi-clock"></i>
                 <div class="studio-info-text">
-                  Mon – Sat: 10:00 AM – 7:00 PM
+                  Mon – Sat: 11:00 AM – 8:00 PM
                 </div>
               </div>
 
@@ -186,7 +186,7 @@
               <div class="studio-info-row">
                 <i class="bi bi-clock"></i>
                 <div class="studio-info-text">
-                  Mon – Sat: 10:00 AM – 7:00 PM
+                  Mon – Sat: 11:00 AM – 8:00 PM
                 </div>
               </div>
 
