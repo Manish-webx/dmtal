@@ -10,7 +10,7 @@
     content="hair transplant Gurgaon, FUE hair transplant Delhi, best hair transplant clinic, hair restoration Gurgaon, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/hair-transplant-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/hair-transplant-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Best Hair Transplant in Gurgaon | FUE & FUT | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Hair Care</a>
         <span>/</span>
@@ -304,11 +304,11 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Services</h3>
               <ul class="related-list">
-                <li><a href="hair-doctor-in-gurgaon.php">Hair Doctor / Hair Loss <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="weight-loss-clinic-in-gurgaon.php">Weight Loss Clinic <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="melasma-pigmentation-in-gurgaon.php">Melasma &amp; Pigmentation <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="facial-pigmentation-in-gurgaon.php">Facial Pigmentation <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-doctor-in-gurgaon">Hair Doctor / Hair Loss <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss Clinic <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="melasma-pigmentation-in-gurgaon">Melasma &amp; Pigmentation <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

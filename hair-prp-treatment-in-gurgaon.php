@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Hair Treatments</a>
         <span>/</span>

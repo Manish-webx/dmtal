@@ -8,7 +8,7 @@
   <meta name="keywords" content="skin allergy treatment Gurgaon, urticaria, eczema management Delhi, patch testing clinic, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/allergy-treatment-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/allergy-treatment-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Allergy Treatment & Patch Testing in Gurgaon & Delhi | DermaTales">
@@ -34,7 +34,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin &amp; Face</a>
         <span>/</span>
@@ -262,11 +262,11 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Services</h3>
               <ul class="related-list">
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Clinical Dermatology <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="chemical-peels.php">Eczema Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="mole-wart-removal-in-gurgaon.php">Psoriasis Care <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="skin-tag-removal-in-gurgaon.php">Vitiligo Management <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="cyst-lipoma-treatment-in-gurgaon.php">Acne Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Clinical Dermatology <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="chemical-peels">Eczema Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="mole-wart-removal-in-gurgaon">Psoriasis Care <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="skin-tag-removal-in-gurgaon">Vitiligo Management <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="cyst-lipoma-treatment-in-gurgaon">Acne Treatment <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

@@ -123,10 +123,10 @@
           One of our patient coordinators will contact you shortly to confirm your consultation time.
         </p>
         <div class="d-flex flex-column flex-sm-row justify-content-center gap-3">
-          <a href="index.php" class="btn btn-gold btn-lg rounded-pill px-5">
+          <a href="index" class="btn btn-gold btn-lg rounded-pill px-5">
             Back to Home
           </a>
-          <a href="index.php#treatments" class="btn btn-outline-gold btn-lg rounded-pill px-4">
+          <a href="index#treatments" class="btn btn-outline-gold btn-lg rounded-pill px-4">
             Explore Treatments
           </a>
         </div>

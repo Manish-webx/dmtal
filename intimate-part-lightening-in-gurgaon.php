@@ -10,7 +10,7 @@
     content="Intimate part lightening Gurgaon, bikini line lightening, dark inner thighs treatment, sensitive area pigmentation, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/intimate-part-lightening-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/intimate-part-lightening-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Intimate Part Lightening Treatment in Gurgaon | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin & Body</a>
         <span>/</span>

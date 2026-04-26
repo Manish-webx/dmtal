@@ -10,7 +10,7 @@
     content="Laser for chickenpox scars Gurgaon, chicken pox scar removal, fractional CO2 laser, scar excision, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/laser-for-chickenpox-scars-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/laser-for-chickenpox-scars-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Laser For Chickenpox Scars in Gurgaon | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin & Face</a>
         <span>/</span>

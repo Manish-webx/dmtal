@@ -10,7 +10,7 @@
     content="Ear correction Gurgaon, Otoplasty Gurgaon, prominent ear surgery, ear reshaping Delhi, pinning back ears, ear deformity correction, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/ear-correction-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/ear-correction-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Ear Correction Surgery in Gurgaon | Otoplasty | DermaTales">
@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Dermatosurgery</a>
         <span>/</span>

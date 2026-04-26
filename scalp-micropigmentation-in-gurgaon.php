@@ -10,7 +10,7 @@
     content="Scalp micropigmentation Gurgaon, SMP treatment, hair tattoo Gurgaon, non surgical hair restoration, thinning hair concealer, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/scalp-micropigmentation-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/scalp-micropigmentation-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Scalp Micropigmentation (SMP) in Gurgaon | Hair Tattoo | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Hair</a>
         <span>/</span>

@@ -10,7 +10,7 @@
     content="Dandruff treatment Gurgaon, Scalp Psoriasis treatment, itchy scalp, seborrheic dermatitis, flaky scalp cure, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/dandruff-scalp-psoriasis-treatment-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/dandruff-scalp-psoriasis-treatment-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Dandruff & Scalp Psoriasis Treatment in Gurgaon | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Hair Loss</a>
         <span>/</span>

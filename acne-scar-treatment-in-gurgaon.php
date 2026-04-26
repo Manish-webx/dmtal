@@ -10,7 +10,7 @@
     content="acne scar treatment Gurgaon, laser for acne scars Delhi, MNRF for acne scars, best dermatologist for acne scars, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/acne-scar-treatment-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/acne-scar-treatment-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Best Acne Scar Treatment in Gurgaon & Delhi | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin & Face</a>
         <span>/</span>

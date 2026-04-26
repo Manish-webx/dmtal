@@ -19,7 +19,7 @@
       <div class="col-auto d-flex align-items-center gap-3">
         <a href="https://www.instagram.com/dermatales/" class="top-bar-social" aria-label="Instagram" target="_blank"
           rel="noopener"><i class="bi bi-instagram"></i></a>
-        <a href="https://www.facebook.com/profile.php?id=61572154471704" class="top-bar-social" aria-label="Facebook"
+        <a href="https://www.facebook.com/profile?id=61572154471704" class="top-bar-social" aria-label="Facebook"
           target="_blank" rel="noopener"><i class="bi bi-facebook"></i></a>
       </div>
     </div>
@@ -67,38 +67,38 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Dermatology</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Acne Treatments</a></li>
-                      <li><a href="#">Acne Scar Treatments</a></li>
-                      <li><a href="#">Melasma & Pigmentation</a></li>
-                      <li><a href="#">Facial Pigmentation</a></li>
-                      <li><a href="#">Allergy</a></li>
-                      <li><a href="#">Psoriasis & Vitiligo</a></li>
+                      <li><a href="acne-scar-treatment-in-gurgaon">Acne Treatments</a></li>
+                      <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatments</a></li>
+                      <li><a href="melasma-pigmentation-in-gurgaon">Melasma & Pigmentation</a></li>
+                      <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation</a></li>
+                      <li><a href="allergy-treatment-in-gurgaon">Allergy</a></li>
+                      <li><a href="psoriasis-vitiligo-in-gurgaon">Psoriasis & Vitiligo</a></li>
                     </ul>
                     <h6 class="mega-heading mt-3">Dermatosurgery</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Mole & Wart Removal</a></li>
-                      <li><a href="#">Skin Tag Removal</a></li>
-                      <li><a href="#">Acne Scar Surgeries</a></li>
-                      <li><a href="#">Ear Lobe Repair</a></li>
-                      <li><a href="#">Cyst & Lipoma Treatment</a></li>
-                      <li><a href="#">Nail Surgery</a></li>
+                      <li><a href="mole-wart-removal-in-gurgaon">Mole & Wart Removal</a></li>
+                      <li><a href="skin-tag-removal-in-gurgaon">Skin Tag Removal</a></li>
+                      <li><a href="acne-scar-surgeries-in-gurgaon">Acne Scar Surgeries</a></li>
+                      <li><a href="ear-lobe-repair-in-gurgaon">Ear Lobe Repair</a></li>
+                      <li><a href="cyst-lipoma-treatment-in-gurgaon">Cyst & Lipoma Treatment</a></li>
+                      <li><a href="nail-surgery-in-gurgaon">Nail Surgery</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Face Cosmetics</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Chemical Peels</a></li>
-                      <li><a href="#">Open Pore Treatment</a></li>
-                      <li><a href="#">Undereye Treatment</a></li>
-                      <li><a href="#">Lip Lightening/Pigmentation</a></li>
-                      <li><a href="#">Freckles &amp; Blemishes</a></li>
-                      <li><a href="#">Skin Glow &amp; Medifacials</a></li>
-                      <li><a href="#">Hydrafacial MD Elite</a></li>
-                      <li><a href="#">Carbon Laser Facial</a></li>
-                      <li><a href="#">Lip & Nose Enhancement</a></li>
-                      <li><a href="#">Exoglow</a></li>
-                      <li><a href="#">Facial Tanning / Dull Face</a></li>
-                      <li><a href="#">Xanthelasma & Milia</a></li>
+                      <li><a href="chemical-peels-in-gurgaon">Chemical Peels</a></li>
+                      <li><a href="open-pore-treatment-in-gurgaon">Open Pore Treatment</a></li>
+                      <li><a href="undereye-treatment-in-gurgaon">Undereye Treatment</a></li>
+                      <li><a href="lip-lightening-in-gurgaon">Lip Lightening/Pigmentation</a></li>
+                      <li><a href="freckles-blemishes-in-gurgaon">Freckles &amp; Blemishes</a></li>
+                      <li><a href="skin-glow-medifacials-in-gurgaon">Skin Glow &amp; Medifacials</a></li>
+                      <li><a href="hydrafacial-md-elite-in-gurgaon">Hydrafacial MD Elite</a></li>
+                      <li><a href="carbon-laser-facial-in-gurgaon">Carbon Laser Facial</a></li>
+                      <li><a href="lip-nose-enhancement-in-gurgaon">Lip & Nose Enhancement</a></li>
+                      <li><a href="exoglow-in-gurgaon">Exoglow</a></li>
+                      <li><a href="facial-tanning-dull-face-in-gurgaon">Facial Tanning / Dull Face</a></li>
+                      <li><a href="xanthelasma-milia-in-gurgaon">Xanthelasma & Milia</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -106,12 +106,12 @@
                     <ul class="mega-list">
                       <li><a href="#">BTX-A Treatment</a></li>
                       <li><a href="#">Filler Treatment</a></li>
-                      <li><a href="#">Vampire Facelift</a></li>
-                      <li><a href="#">Thread Lift</a></li>
+                      <li><a href="vampire-facial-in-gurgaon">Vampire Facelift</a></li>
+                      <li><a href="threads-in-gurgaon">Thread Lift</a></li>
                       <li><a href="#">RF & MNRF Treatments</a></li>
-                      <li><a href="#">HIFU Treatment</a></li>
-                      <li><a href="#">Laser Resurfacing</a></li>
-                      <li><a href="#">IV Drip Therapy</a></li>
+                      <li><a href="hifu-in-gurgaon">HIFU Treatment</a></li>
+                      <li><a href="skin-laser-treatment-in-gurgaon">Laser Resurfacing</a></li>
+                      <li><a href="iv-glutathione-therapy-in-gurgaon">IV Drip Therapy</a></li>
                       <li><a href="#">Aging Face Treatment</a></li>
                     </ul>
                   </div>
@@ -123,7 +123,7 @@
                       <h6 class="mega-promo-title">Signature Glow Facial</h6>
                       <p class="mega-promo-text">Our award-winning hydra-radiance facial combines medical-grade actives
                         with luxury relaxation.</p>
-                      <a href="book-appointment.php" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
+                      <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
                     </div>
                   </div>
                 </div>
@@ -142,7 +142,7 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Hair Treatments</h6>
                     <ul class="mega-list">
-                      <li><a href="#">PRP Therapy</a></li>
+                      <li><a href="hair-prp-treatment-in-gurgaon">PRP Therapy</a></li>
                       <li><a href="#">GFC Therapy</a></li>
                       <li><a href="#">LLLT (Low Level Laser Therapy)</a></li>
                       <li><a href="#">Mesotherapy</a></li>
@@ -153,22 +153,22 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Hair Loss Conditions</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Male Patterned Baldness</a></li>
-                      <li><a href="#">Female Hairloss</a></li>
-                      <li><a href="#">Alopecia Areata</a></li>
-                      <li><a href="#">Scarring Alopecia / LPP</a></li>
-                      <li><a href="#">Dandruff & Scalp Psoriasis</a></li>
+                      <li><a href="male-patterned-baldness-in-gurgaon">Male Patterned Baldness</a></li>
+                      <li><a href="female-hair-loss-in-gurgaon">Female Hairloss</a></li>
+                      <li><a href="alopecia-areata-treatment-in-gurgaon">Alopecia Areata</a></li>
+                      <li><a href="scarring-alopecia-lpp-treatment-in-gurgaon">Scarring Alopecia / LPP</a></li>
+                      <li><a href="dandruff-scalp-psoriasis-treatment-in-gurgaon">Dandruff & Scalp Psoriasis</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Hair Transplant</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Hair Transplant</a></li>
-                      <li><a href="#">FUE Hair Transplant</a></li>
-                      <li><a href="#">DHI Hair Transplant</a></li>
-                      <li><a href="#">Beard Transplant</a></li>
-                      <li><a href="#">Eyebrow Transplant</a></li>
-                      <li><a href="#">Scalp Micropigmentation</a></li>
+                      <li><a href="hair-transplant-in-gurgaon">Hair Transplant</a></li>
+                      <li><a href="fue-hair-transplant-in-gurgaon">FUE Hair Transplant</a></li>
+                      <li><a href="dhi-hair-transplant-in-gurgaon">DHI Hair Transplant</a></li>
+                      <li><a href="beard-transplant-in-gurgaon">Beard Transplant</a></li>
+                      <li><a href="eyebrow-transplant-in-gurgaon">Eyebrow Transplant</a></li>
+                      <li><a href="scalp-micropigmentation-in-gurgaon">Scalp Micropigmentation</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -179,7 +179,7 @@
                       <h6 class="mega-promo-title">Advanced PRP+</h6>
                       <p class="mega-promo-text">Our enhanced platelet-rich plasma therapy with growth factor
                         concentrate for superior hair restoration results.</p>
-                      <a href="book-appointment.php" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
+                      <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
                     </div>
                   </div>
                 </div>
@@ -198,15 +198,15 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Body Cosmetic Treatments</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Skin Whitening Treatments</a></li>
-                      <li><a href="#">Stretch Marks Treatments</a></li>
-                      <li><a href="#">Underarm Lightening/Pigmentation</a></li>
-                      <li><a href="#">Intimate Part Lightening</a></li>
-                      <li><a href="#">De-Taning Treatment</a></li>
-                      <li><a href="#">Neck Pigmentation</a></li>
-                      <li><a href="#">Cellulite Treatment</a></li>
-                      <li><a href="#">Hesitational Marks</a></li>
-                      <li><a href="#">Birth Marks</a></li>
+                      <li><a href="skin-whitening-treatment-in-gurgaon">Skin Whitening Treatments</a></li>
+                      <li><a href="stretch-marks-treatment-in-gurgaon">Stretch Marks Treatments</a></li>
+                      <li><a href="underarm-lightening-in-gurgaon">Underarm Lightening/Pigmentation</a></li>
+                      <li><a href="intimate-part-lightening-in-gurgaon">Intimate Part Lightening</a></li>
+                      <li><a href="de-tan-treatment-in-gurgaon">De-Taning Treatment</a></li>
+                      <li><a href="neck-pigmentation-treatment-in-gurgaon">Neck Pigmentation</a></li>
+                      <li><a href="cellulite-treatment-in-gurgaon">Cellulite Treatment</a></li>
+                      <li><a href="hesitational-marks-treatment-in-gurgaon">Hesitational Marks</a></li>
+                      <li><a href="birthmarks-removal-in-gurgaon">Birth Marks</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -215,31 +215,31 @@
                       <li><a href="#">CoolSculpting</a></li>
                       <li><a href="#">Lipolysis Injections</a></li>
                       <li><a href="#">Body Tightening</a></li>
-                      <li><a href="#">Cellulite Reduction</a></li>
+                      <li><a href="cellulite-treatment-in-gurgaon">Cellulite Reduction</a></li>
                     </ul>
                     <h6 class="mega-heading mt-3">Weight Management</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Weight Loss</a></li>
-                      <li><a href="#">Mounjaro</a></li>
-                      <li><a href="#">Ozempic</a></li>
+                      <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss</a></li>
+                      <li><a href="mounjaro-weight-loss-in-gurgaon">Mounjaro</a></li>
+                      <li><a href="ozempic-weight-loss-treatment-in-gurgaon">Ozempic</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Skin Rejuvenation</h6>
                     <ul class="mega-list">
-                      <li><a href="#">IV Glutathione Therapy</a></li>
-                      <li><a href="#">Full Body Polishing</a></li>
-                      <li><a href="#">Vampire Facial</a></li>
-                      <li><a href="#">Thread Lift</a></li>
+                      <li><a href="iv-glutathione-therapy-in-gurgaon">IV Glutathione Therapy</a></li>
+                      <li><a href="full-body-polishing-in-gurgaon">Full Body Polishing</a></li>
+                      <li><a href="vampire-facial-in-gurgaon">Vampire Facial</a></li>
+                      <li><a href="threads-in-gurgaon">Thread Lift</a></li>
                     </ul>
                     <h6 class="mega-heading mt-3">Laser Treatments</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Laser Hair Reduction</a></li>
-                      <li><a href="#">Laser Tattoo Removal</a></li>
-                      <li><a href="#">Laser For Pigmentation</a></li>
-                      <li><a href="#">Laser For Acne Scars</a></li>
-                      <li><a href="#">Laser For Chickenpox Scars</a></li>
-                      <li><a href="#">Laser For Birth Marks</a></li>
+                      <li><a href="laser-hair-reduction-gurgaon">Laser Hair Reduction</a></li>
+                      <li><a href="laser-tattoo-removal-in-gurgaon">Laser Tattoo Removal</a></li>
+                      <li><a href="laser-for-pigmentation-in-gurgaon">Laser For Pigmentation</a></li>
+                      <li><a href="laser-for-acne-scars-in-gurgaon">Laser For Acne Scars</a></li>
+                      <li><a href="laser-for-chickenpox-scars-in-gurgaon">Laser For Chickenpox Scars</a></li>
+                      <li><a href="laser-for-birth-marks-in-gurgaon">Laser For Birth Marks</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -250,7 +250,7 @@
                       <h6 class="mega-promo-title">Total Body Renewal</h6>
                       <p class="mega-promo-text">A bespoke combination treatment plan designed to rejuvenate, contour,
                         and restore your body's natural radiance.</p>
-                      <a href="book-appointment.php" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
+                      <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill mt-auto">Book Now</a>
                     </div>
                   </div>
                 </div>
@@ -269,32 +269,32 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Face Procedures</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Rhinoplasty</a></li>
-                      <li><a href="#">Blepharoplasty</a></li>
-                      <li><a href="#">Facelift</a></li>
-                      <li><a href="#">Chin Augmentation</a></li>
-                      <li><a href="#">Lip Enhancement</a></li>
-                      <li><a href="#">Threads</a></li>
-                      <li><a href="#">Face Lift</a></li>
-                      <li><a href="#">HIFU</a></li>
+                      <li><a href="rhinoplasty-in-gurgaon">Rhinoplasty</a></li>
+                      <li><a href="blepharoplasty-in-gurgaon">Blepharoplasty</a></li>
+                      <li><a href="facelift-in-gurgaon">Facelift</a></li>
+                      <li><a href="chin-augmentation-in-gurgaon">Chin Augmentation</a></li>
+                      <li><a href="lip-nose-enhancement-in-gurgaon">Lip Enhancement</a></li>
+                      <li><a href="threads-in-gurgaon">Threads</a></li>
+                      <li><a href="facelift-in-gurgaon">Face Lift</a></li>
+                      <li><a href="hifu-in-gurgaon">HIFU</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Body Procedures</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Liposuction</a></li>
-                      <li><a href="#">Tummy Tuck</a></li>
-                      <li><a href="#">Arm Lift</a></li>
-                      <li><a href="#">Thigh Lift</a></li>
+                      <li><a href="liposuction-in-gurgaon">Liposuction</a></li>
+                      <li><a href="tummy-tuck-in-gurgaon">Tummy Tuck</a></li>
+                      <li><a href="arm-lift-in-gurgaon">Arm Lift</a></li>
+                      <li><a href="thigh-lift-in-gurgaon">Thigh Lift</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Other Procedures</h6>
                     <ul class="mega-list">
-                      <li><a href="#">Gynaecomastia Surgery</a></li>
-                      <li><a href="#">Ear Correction</a></li>
-                      <li><a href="#">Dimple Creation</a></li>
-                      <li><a href="#">Scar Revision Surgery</a></li>
+                      <li><a href="gynaecomastia-surgery-in-gurgaon">Gynaecomastia Surgery</a></li>
+                      <li><a href="ear-correction-in-gurgaon">Ear Correction</a></li>
+                      <li><a href="dimple-creation-in-gurgaon">Dimple Creation</a></li>
+                      <li><a href="scar-revision-surgery-in-gurgaon">Scar Revision Surgery</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -319,12 +319,12 @@
               Wellness
             </a>
             <ul class="dropdown-menu dropdown-menu-elegant">
-              <li><a class="dropdown-item" href="#">IV Vitamin Therapy</a></li>
-              <li><a class="dropdown-item" href="#">Skin Detox Programs</a></li>
-              <li><a class="dropdown-item" href="#">Holistic Skin Wellness</a></li>
-              <li><a class="dropdown-item" href="#">Nutrition & Skin Health</a></li>
-              <li><a class="dropdown-item" href="#">Stress & Skin Management</a></li>
-              <li><a class="dropdown-item" href="#">Post-Treatment Recovery</a></li>
+              <li><a class="dropdown-item" href="iv-vitamin-therapy-in-gurgaon">IV Vitamin Therapy</a></li>
+              <li><a class="dropdown-item" href="skin-detox-programs-in-gurgaon">Skin Detox Programs</a></li>
+              <li><a class="dropdown-item" href="holistic-skin-wellness-in-gurgaon">Holistic Skin Wellness</a></li>
+              <li><a class="dropdown-item" href="nutrition-skin-health-in-gurgaon">Nutrition & Skin Health</a></li>
+              <li><a class="dropdown-item" href="stress-skin-management-in-gurgaon">Stress & Skin Management</a></li>
+              <li><a class="dropdown-item" href="post-treatment-recovery-in-gurgaon">Post-Treatment Recovery</a></li>
             </ul>
           </li>
 
@@ -349,7 +349,7 @@
               About
             </a>
             <ul class="dropdown-menu dropdown-menu-elegant">
-              <li><a class="dropdown-item" href="#">About Doctor</a></li>
+              <li><a class="dropdown-item" href="about-doctor-in-gurgaon">About Doctor</a></li>
               <li><a class="dropdown-item" href="#">Gurgaon Clinic</a></li>
               <li><a class="dropdown-item" href="#">Delhi Clinic</a></li>
             </ul>
@@ -370,7 +370,7 @@
 
         <!-- Desktop CTA -->
         <div class="d-none d-xl-flex align-items-center gap-2">
-          <a href="book-appointment.php" class="btn btn-gold rounded-pill px-4">
+          <a href="book-appointment" class="btn btn-gold rounded-pill px-4">
             Book Appointment
           </a>
         </div>

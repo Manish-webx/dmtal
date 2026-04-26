@@ -10,7 +10,7 @@
     content="Ozempic Gurgaon, semaglutide weight loss Gurgaon, Ozempic injection Delhi, GLP-1 treatment Gurgaon, weight loss injection DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/ozempic-weight-loss-treatment-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/ozempic-weight-loss-treatment-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Ozempic Weight Loss Treatment in Gurgaon | Semaglutide | DermaTales">
@@ -37,9 +37,9 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
-        <a href="weight-loss-clinic-in-gurgaon.php">Weight Management</a>
+        <a href="weight-loss-clinic-in-gurgaon">Weight Management</a>
         <span>/</span>
         <span class="text-white">Ozempic Weight Loss in Gurgaon</span>
       </nav>
@@ -311,11 +311,11 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Services</h3>
               <ul class="related-list">
-                <li><a href="weight-loss-clinic-in-gurgaon.php">Weight Loss Clinic <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="mounjaro-weight-loss-in-gurgaon.php">Mounjaro (Tirzepatide) <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="hair-doctor-in-gurgaon.php">Hair Doctor / Hair Loss <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="hair-transplant-in-gurgaon.php">Hair Transplant <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss Clinic <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="mounjaro-weight-loss-in-gurgaon">Mounjaro (Tirzepatide) <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-doctor-in-gurgaon">Hair Doctor / Hair Loss <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-transplant-in-gurgaon">Hair Transplant <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

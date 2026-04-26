@@ -10,7 +10,7 @@
     content="Scar revision Gurgaon, surgical scar removal, laser scar treatment, acne scar surgery, keloid treatment Gurgaon, hypertrophic scar revision, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/scar-revision-surgery-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/scar-revision-surgery-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Scar Revision Surgery in Gurgaon | Minimize Scars | DermaTales">
@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Dermatosurgery</a>
         <span>/</span>

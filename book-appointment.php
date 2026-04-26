@@ -10,7 +10,7 @@
     content="contact DermaTales, dermatologist Gurgaon contact, skin specialist Delhi contact, book appointment DermaTales, clinic locations">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/book-appointment.php">
+  <link rel="canonical" href="https://www.dermatales.com/book-appointment">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Contact Us — DermaTales | Gurgaon & Delhi">

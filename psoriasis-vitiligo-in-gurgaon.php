@@ -10,7 +10,7 @@
     content="psoriasis treatment Gurgaon, vitiligo treatment Delhi, NBUVB phototherapy, biologics psoriasis, melanocyte transfer, skin grafting vitiligo, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/psoriasis-vitiligo-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/psoriasis-vitiligo-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Psoriasis & Vitiligo Treatment in Gurgaon & Delhi | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin &amp; Face</a>
         <span>/</span>
@@ -284,11 +284,11 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="allergy-treatment-in-gurgaon.php">Allergy Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="facial-pigmentation-in-gurgaon.php">Facial Pigmentation <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="melasma-pigmentation-in-gurgaon.php">Melasma Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="skin-tag-removal-in-gurgaon.php">Skin Tag Removal <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="allergy-treatment-in-gurgaon">Allergy Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="melasma-pigmentation-in-gurgaon">Melasma Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="skin-tag-removal-in-gurgaon">Skin Tag Removal <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

@@ -10,7 +10,7 @@
     content="IV vitamin therapy Gurgaon, Glutathione injection Gurgaon, Vitamin C IV drip, skin brightening IV, immune boost drip, IV hydration Delhi, DermaTales wellness, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/iv-vitamin-therapy-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/iv-vitamin-therapy-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="IV Vitamin Therapy in Gurgaon | Glutathione & Vitamin C | DermaTales">
@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Wellness</a>
         <span>/</span>

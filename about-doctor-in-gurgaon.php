@@ -10,7 +10,7 @@
     content="Dr Pooja Varshney, dermatologist Gurugram, skin specialist Delhi, hair transplant expert, cosmetic dermatology, MD dermatology, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/about-doctor-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/about-doctor-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Dr. Pooja Varshney — Dermatologist | DermaTales">
@@ -101,7 +101,7 @@
             </p>
 
             <div class="hero-actions-lux fade-in-up delay-4 d-flex flex-wrap gap-3">
-              <a href="index.php#appointment" class="btn btn-gold rounded-pill px-4">
+              <a href="index#appointment" class="btn btn-gold rounded-pill px-4">
                 Book Consultation <i class="bi bi-arrow-right ms-2"></i>
               </a>
             </div>
@@ -348,7 +348,7 @@
       <h2>Book a Consultation with Dr. Varshney</h2>
       <p>Experience personalised dermatology care that combines clinical excellence with a luxury aesthetic approach.
         Your skin transformation starts here.</p>
-      <a href="index.php#appointment" class="btn btn-outline-light btn-lg rounded-pill px-5">Book Appointment</a>
+      <a href="index#appointment" class="btn btn-outline-light btn-lg rounded-pill px-5">Book Appointment</a>
     </div>
   </section>
 

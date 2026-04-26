@@ -10,7 +10,7 @@
     content="De-Tan Treatment Gurgaon, Sun Tan Removal, Chemical Peel for Tanning, Laser Tan Removal, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/de-tan-treatment-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/de-tan-treatment-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Best De-Tan Treatment in Gurgaon | Sun Tan Removal | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin & Face</a>
         <span>/</span>

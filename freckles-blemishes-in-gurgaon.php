@@ -10,7 +10,7 @@
     content="freckles treatment Gurgaon, blemishes treatment Delhi, remove freckles laser, skin blemish removal, skin spots treatment Gurgaon, Q-switch laser for freckles, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/freckles-blemishes-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/freckles-blemishes-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Best Freckles & Blemishes Treatment in Gurgaon | DermaTales">
@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin &amp; Face</a>
         <span>/</span>
@@ -480,15 +480,15 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i
                       class="bi bi-chevron-right"></i></a></li>
-                <li><a href="facial-pigmentation-in-gurgaon.php">Pigmentation Treatment <i
+                <li><a href="facial-pigmentation-in-gurgaon">Pigmentation Treatment <i
                       class="bi bi-chevron-right"></i></a></li>
-                <li><a href="melasma-pigmentation-in-gurgaon.php">Melasma &amp; Pigmentation <i
+                <li><a href="melasma-pigmentation-in-gurgaon">Melasma &amp; Pigmentation <i
                       class="bi bi-chevron-right"></i></a></li>
-                <li><a href="undereye-treatment-in-gurgaon.php">Undereye Treatment <i
+                <li><a href="undereye-treatment-in-gurgaon">Undereye Treatment <i
                       class="bi bi-chevron-right"></i></a></li>
-                <li><a href="lip-lightening-in-gurgaon.php">Lip Lightening <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="lip-lightening-in-gurgaon">Lip Lightening <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

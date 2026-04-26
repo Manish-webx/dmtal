@@ -10,7 +10,7 @@
     content="skin tag removal Gurgaon, skin tag removal Delhi, RF cautery skin tag, CO2 laser skin tag, dermatosurgery, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/skin-tag-removal-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/skin-tag-removal-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Effortless Skin Tag Removal in Gurgaon & Delhi | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin &amp; Face</a>
         <span>/</span>
@@ -286,11 +286,11 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="mole-wart-removal-in-gurgaon.php">Mole & Wart Removal <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="cyst-lipoma-treatment-in-gurgaon.php">Cyst & Lipoma <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="ear-lobe-repair-in-gurgaon.php">Ear Lobe Repair <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="nail-surgery-in-gurgaon.php">Nail Surgery <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="mole-wart-removal-in-gurgaon">Mole & Wart Removal <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="cyst-lipoma-treatment-in-gurgaon">Cyst & Lipoma <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="ear-lobe-repair-in-gurgaon">Ear Lobe Repair <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="nail-surgery-in-gurgaon">Nail Surgery <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

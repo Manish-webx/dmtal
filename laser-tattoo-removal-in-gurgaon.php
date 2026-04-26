@@ -10,7 +10,7 @@
     content="Laser tattoo removal Gurgaon, tattoo fading Gurgaon, Q switched laser tattoo removal, painless tattoo removal, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/laser-tattoo-removal-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/laser-tattoo-removal-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Laser Tattoo Removal in Gurgaon | DermaTales">
@@ -37,7 +37,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin & Body</a>
         <span>/</span>

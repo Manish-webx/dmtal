@@ -10,7 +10,7 @@
     content="carbon laser facial Gurgaon, Hollywood peel Delhi, carbon peel, skin tightening facial, instant glow laser, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/carbon-laser-facial-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/carbon-laser-facial-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Best Carbon Laser Facial in Gurgaon | DermaTales">
@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Skin &amp; Face</a>
         <span>/</span>
@@ -248,11 +248,11 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="skin-glow-medifacials-in-gurgaon.php">Skin Glow &amp; Medifacials <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="hydrafacial-md-elite-in-gurgaon.php">Hydrafacial MD Elite <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="chemical-peels-in-gurgaon.php">Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="acne-scar-treatment-in-gurgaon.php">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="facial-pigmentation-in-gurgaon.php">Pigmentation Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="skin-glow-medifacials-in-gurgaon">Skin Glow &amp; Medifacials <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hydrafacial-md-elite-in-gurgaon">Hydrafacial MD Elite <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="chemical-peels-in-gurgaon">Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="facial-pigmentation-in-gurgaon">Pigmentation Treatment <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

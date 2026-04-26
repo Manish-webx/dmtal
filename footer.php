@@ -15,7 +15,7 @@
         <a href="https://www.instagram.com/dermatales/" aria-label="Instagram"
           class="footer-social-icon footer-social-instagram" target="_blank" rel="noopener"><i
             class="bi bi-instagram"></i></a>
-        <a href="https://www.facebook.com/profile.php?id=61572154471704" aria-label="Facebook"
+        <a href="https://www.facebook.com/profile?id=61572154471704" aria-label="Facebook"
           class="footer-social-icon footer-social-facebook" target="_blank" rel="noopener"><i
             class="bi bi-facebook"></i></a>
         <a href="https://wa.me/917303851264" aria-label="WhatsApp" class="footer-social-icon footer-social-whatsapp"><i
@@ -32,21 +32,21 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Pigmentation &amp; Glow</h4>
             <p class="footer-treat-tags">
-              <a href="#">Pigmentation</a> <span>|</span>
-              <a href="#">Melasma</a> <span>|</span>
-              <a href="#">Dark Circles</a> <span>|</span>
-              <a href="#">Freckles</a> <span>|</span>
-              <a href="#">Dull / Uneven Skin</a> <span>|</span>
-              <a href="#">Skin Brightening</a>
+              <a href="laser-for-pigmentation-in-gurgaon">Pigmentation</a> <span>|</span>
+              <a href="melasma-pigmentation-in-gurgaon">Melasma</a> <span>|</span>
+              <a href="undereye-treatment-in-gurgaon">Dark Circles</a> <span>|</span>
+              <a href="freckles-blemishes-in-gurgaon">Freckles</a> <span>|</span>
+              <a href="facial-tanning-dull-face-in-gurgaon">Dull / Uneven Skin</a> <span>|</span>
+              <a href="skin-whitening-treatment-in-gurgaon">Skin Brightening</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Acne &amp; Scars</h4>
             <p class="footer-treat-tags">
-              <a href="#">Acne Vulgaris</a> <span>|</span>
-              <a href="#">Acne Scars</a> <span>|</span>
-              <a href="#">Chemical Peels</a> <span>|</span>
-              <a href="#">Microneedling</a>
+              <a href="acne-scar-treatment-in-gurgaon">Acne Vulgaris</a> <span>|</span>
+              <a href="acne-scar-surgeries-in-gurgaon">Acne Scars</a> <span>|</span>
+              <a href="chemical-peels-in-gurgaon">Chemical Peels</a> <span>|</span>
+              <a href="open-pore-treatment-in-gurgaon">Microneedling</a>
             </p>
           </div>
           <div class="footer-treat-group">
@@ -54,20 +54,20 @@
             <p class="footer-treat-tags">
               <a href="#">Anti-Wrinkle Injections</a> <span>|</span>
               <a href="#">Dermal Fillers</a> <span>|</span>
-              <a href="#">IV Glutathione</a> <span>|</span>
-              <a href="#">Lip Rejuvenation</a> <span>|</span>
-              <a href="#">Stem Cell Therapy</a>
+              <a href="iv-glutathione-therapy-in-gurgaon">IV Glutathione</a> <span>|</span>
+              <a href="lip-lightening-in-gurgaon">Lip Rejuvenation</a> <span>|</span>
+              <a href="hair-prp-treatment-in-gurgaon">Stem Cell Therapy</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Advanced Lasers &amp; Energy Devices</h4>
             <p class="footer-treat-tags">
-              <a href="#">HIFU (Non-Surgical Face Lift)</a> <span>|</span>
-              <a href="#">Laser Toning (Q-Switched)</a> <span>|</span>
-              <a href="#">Laser Hair Removal</a> <span>|</span>
-              <a href="#">Fractional CO2 Laser</a> <span>|</span>
+              <a href="hifu-in-gurgaon">HIFU (Non-Surgical Face Lift)</a> <span>|</span>
+              <a href="carbon-laser-facial-in-gurgaon">Laser Toning (Q-Switched)</a> <span>|</span>
+              <a href="laser-hair-reduction-gurgaon">Laser Hair Removal</a> <span>|</span>
+              <a href="laser-for-acne-scars-in-gurgaon">Fractional CO2 Laser</a> <span>|</span>
               <a href="#">MNRF (Micro-needling RF)</a> <span>|</span>
-              <a href="#">Tattoo Removal</a>
+              <a href="laser-tattoo-removal-in-gurgaon">Tattoo Removal</a>
             </p>
           </div>
         </div>
@@ -77,43 +77,43 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Hair Loss &amp; Scalp</h4>
             <p class="footer-treat-tags">
-              <a href="#">Hair Loss</a> <span>|</span>
-              <a href="#">Baldness</a> <span>|</span>
-              <a href="#">Male &amp; Female Pattern Baldness</a> <span>|</span>
-              <a href="#">Patchy Hair Loss (Alopecia Areata)</a> <span>|</span>
-              <a href="#">Dandruff</a>
+              <a href="hair-doctor-in-gurgaon">Hair Loss</a> <span>|</span>
+              <a href="male-patterned-baldness-in-gurgaon">Baldness</a> <span>|</span>
+              <a href="male-patterned-baldness-in-gurgaon">Male &amp; Female Pattern Baldness</a> <span>|</span>
+              <a href="alopecia-areata-treatment-in-gurgaon">Patchy Hair Loss (Alopecia Areata)</a> <span>|</span>
+              <a href="dandruff-scalp-psoriasis-treatment-in-gurgaon">Dandruff</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Anti-Aging</h4>
             <p class="footer-treat-tags">
               <a href="#">Anti-Wrinkle Injections &amp; Fillers</a> <span>|</span>
-              <a href="#">Sagging Skin</a> <span>|</span>
+              <a href="facelift-in-gurgaon">Sagging Skin</a> <span>|</span>
               <a href="#">Volume Loss</a> <span>|</span>
-              <a href="#">Under-Eye Rejuvenation</a> <span>|</span>
-              <a href="#">Thread Lift</a>
+              <a href="undereye-treatment-in-gurgaon">Under-Eye Rejuvenation</a> <span>|</span>
+              <a href="threads-in-gurgaon">Thread Lift</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Hair &amp; Scalp Restoration</h4>
             <p class="footer-treat-tags">
               <a href="#">Growth Factor Therapy (GFC)</a> <span>|</span>
-              <a href="#">PRP Hair Therapy</a> <span>|</span>
-              <a href="#">Exosome Scalp Therapy</a> <span>|</span>
-              <a href="#">FUE Hair Transplant</a> <span>|</span>
-              <a href="#">DHI Hair Transplant</a> <span>|</span>
+              <a href="hair-prp-treatment-in-gurgaon">PRP Hair Therapy</a> <span>|</span>
+              <a href="exoglow-in-gurgaon">Exosome Scalp Therapy</a> <span>|</span>
+              <a href="fue-hair-transplant-in-gurgaon">FUE Hair Transplant</a> <span>|</span>
+              <a href="dhi-hair-transplant-in-gurgaon">DHI Hair Transplant</a> <span>|</span>
               <a href="#">Mesotherapy</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Medi-Facials &amp; Peels</h4>
             <p class="footer-treat-tags">
-              <a href="#">HydraFacial</a> <span>|</span>
-              <a href="#">Vampire Facial (PRP)</a> <span>|</span>
-              <a href="#">Carbon Laser Facial</a> <span>|</span>
-              <a href="#">Chemical Peels</a> <span>|</span>
+              <a href="hydrafacial-md-elite-in-gurgaon">HydraFacial</a> <span>|</span>
+              <a href="vampire-facial-in-gurgaon">Vampire Facial (PRP)</a> <span>|</span>
+              <a href="carbon-laser-facial-in-gurgaon">Carbon Laser Facial</a> <span>|</span>
+              <a href="chemical-peels-in-gurgaon">Chemical Peels</a> <span>|</span>
               <a href="#">Oxygeneo Facial</a> <span>|</span>
-              <a href="#">Signature Glow Facial</a>
+              <a href="skin-glow-medifacials-in-gurgaon">Signature Glow Facial</a>
             </p>
           </div>
         </div>
@@ -123,45 +123,45 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Clinical Dermatology</h4>
             <p class="footer-treat-tags">
-              <a href="#">Psoriasis</a> <span>|</span>
+              <a href="psoriasis-vitiligo-in-gurgaon">Psoriasis</a> <span>|</span>
               <a href="#">Eczema</a> <span>|</span>
               <a href="#">Rosacea</a> <span>|</span>
-              <a href="#">Vitiligo</a> <span>|</span>
+              <a href="psoriasis-vitiligo-in-gurgaon">Vitiligo</a> <span>|</span>
               <a href="#">Urticaria</a> <span>|</span>
               <a href="#">Fungal Infection</a> <span>|</span>
-              <a href="#">Nail Disorders</a> <span>|</span>
-              <a href="#">Keloid</a> <span>|</span>
-              <a href="#">Stretch Marks</a>
+              <a href="nail-surgery-in-gurgaon">Nail Disorders</a> <span>|</span>
+              <a href="scar-revision-surgery-in-gurgaon">Keloid</a> <span>|</span>
+              <a href="stretch-marks-treatment-in-gurgaon">Stretch Marks</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Clinical &amp; Dermato-Surgery</h4>
             <p class="footer-treat-tags">
-              <a href="#">Mole Removal</a> <span>|</span>
-              <a href="#">Wart Removal</a> <span>|</span>
-              <a href="#">Scar Revision</a> <span>|</span>
-              <a href="#">Cyst &amp; Lipoma Excision</a> <span>|</span>
-              <a href="#">Ear Lobe Repair</a> <span>|</span>
+              <a href="mole-wart-removal-in-gurgaon">Mole Removal</a> <span>|</span>
+              <a href="mole-wart-removal-in-gurgaon">Wart Removal</a> <span>|</span>
+              <a href="scar-revision-surgery-in-gurgaon">Scar Revision</a> <span>|</span>
+              <a href="cyst-lipoma-treatment-in-gurgaon">Cyst &amp; Lipoma Excision</a> <span>|</span>
+              <a href="ear-lobe-repair-in-gurgaon">Ear Lobe Repair</a> <span>|</span>
               <a href="#">Skin Biopsy</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Skin Tightening &amp; Contouring</h4>
             <p class="footer-treat-tags">
-              <a href="#">HIFU</a> <span>|</span>
+              <a href="hifu-in-gurgaon">HIFU</a> <span>|</span>
               <a href="#">RF Skin Tightening</a> <span>|</span>
-              <a href="#">CoolSculpting</a> <span>|</span>
-              <a href="#">Body Contouring</a> <span>|</span>
-              <a href="#">Stretch Marks Treatment</a>
+              <a href="tummy-tuck-in-gurgaon">CoolSculpting</a> <span>|</span>
+              <a href="tummy-tuck-in-gurgaon">Body Contouring</a> <span>|</span>
+              <a href="stretch-marks-treatment-in-gurgaon">Stretch Marks Treatment</a>
             </p>
           </div>
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Wellness &amp; IV Therapies</h4>
             <p class="footer-treat-tags">
-              <a href="#">IV Vitamin Therapy</a> <span>|</span>
-              <a href="#">Infrared Detox Therapy</a> <span>|</span>
-              <a href="#">Nutrition &amp; Skin Health</a> <span>|</span>
-              <a href="#">Holistic Skin Wellness</a>
+              <a href="iv-vitamin-therapy-in-gurgaon">IV Vitamin Therapy</a> <span>|</span>
+              <a href="skin-detox-programs-in-gurgaon">Infrared Detox Therapy</a> <span>|</span>
+              <a href="nutrition-skin-health-in-gurgaon">Nutrition &amp; Skin Health</a> <span>|</span>
+              <a href="holistic-skin-wellness-in-gurgaon">Holistic Skin Wellness</a>
             </p>
           </div>
         </div>
@@ -184,7 +184,7 @@
         </div>
         <div class="col-md-4 text-md-end">
           <div class="footer-legal">
-            <a href="#">Contact Us</a>
+            <a href="book-appointment">Contact Us</a>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms</a>
             <a href="#">Disclaimer</a>

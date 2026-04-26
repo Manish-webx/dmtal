@@ -10,7 +10,7 @@
     content="lip enhancement Gurgaon, nose filler Gurgaon, non-surgical rhinoplasty, lip fillers Delhi, dermal fillers Gurgaon, lip injections, nose job fillers, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/lip-nose-enhancement-in-gurgaon.php">
+  <link rel="canonical" href="https://www.dermatales.com/lip-nose-enhancement-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Best Lip & Nose Enhancement in Gurgaon | Dermal Fillers | DermaTales">
@@ -36,7 +36,7 @@
     <div class="service-hero-overlay"></div>
     <div class="container-xl position-relative z-index-2">
       <nav class="breadcrumb-lux">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span>/</span>
         <a href="#">Face Cosmetics</a>
         <span>/</span>
