@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Hair Doctor in Gurgaon</span>
       </nav>
-      <h1 class="hero-title-lux">Hair <span class="text-charcoal-deep italic">Doctor</span> in Gurgaon</h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Hair <span class="text-charcoal-deep italic">Doctor</span> in Gurgaon</h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Expert diagnosis and personalised treatment for hair loss, alopecia, and scalp disorders by board-certified dermatologists.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">Why See a Specialist Hair Doctor?</h2>
-                <p>Hair loss is far more than a cosmetic concern — it is often an early signal of underlying medical conditions such as thyroid imbalance, nutritional deficiencies, hormonal fluctuations, or autoimmune disease. At DermaTales, our dermatologist-led hair clinic in Gurgaon combines advanced diagnostics with proven medical therapies to identify the root cause of your hair loss and design a treatment plan unique to you.</p>
+                <p>Hair loss is far more than a cosmetic concern â€” it is often an early signal of underlying medical conditions such as thyroid imbalance, nutritional deficiencies, hormonal fluctuations, or autoimmune disease. At DermaTales, our dermatologist-led hair clinic in Gurgaon combines advanced diagnostics with proven medical therapies to identify the root cause of your hair loss and design a treatment plan unique to you.</p>
                 <p>Whether you are experiencing gradual thinning, sudden patchy loss, or a diffuse shedding pattern, our specialists have the clinical expertise to restore both your hair and your confidence.</p>
               </div>
               <div class="col-md-5">
@@ -203,29 +208,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="8000">0</div>
-                  <div class="stat-label-local">Hair Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="95">0</div>
-                  <div class="stat-label-local">% Success Rate</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -251,7 +235,7 @@
                 </h3>
                 <div id="hdFaq2" class="accordion-collapse collapse" data-bs-parent="#hairDocFAQ">
                   <div class="accordion-body faq-body">
-                    After the initial consultation and diagnosis, most patients undergo a 3–6 month medical protocol. In-clinic treatments like PRP are usually performed monthly for 3–4 sessions, followed by quarterly maintenance.
+                    After the initial consultation and diagnosis, most patients undergo a 3â€“6 month medical protocol. In-clinic treatments like PRP are usually performed monthly for 3â€“4 sessions, followed by quarterly maintenance.
                   </div>
                 </div>
               </div>
@@ -275,7 +259,7 @@
                 </h3>
                 <div id="hdFaq4" class="accordion-collapse collapse" data-bs-parent="#hairDocFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients notice a reduction in shedding within 6–8 weeks of starting treatment. Visible regrowth typically appears between 3–6 months, with continued improvement over a year of consistent treatment.
+                    Most patients notice a reduction in shedding within 6â€“8 weeks of starting treatment. Visible regrowth typically appears between 3â€“6 months, with continued improvement over a year of consistent treatment.
                   </div>
                 </div>
               </div>
@@ -325,3 +309,5 @@
   </body>
 
 </html>
+
+

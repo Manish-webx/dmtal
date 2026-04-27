@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Laser For Pigmentation</span>
       </nav>
-      <h1 class="hero-title-lux">Laser For <span class="text-charcoal-deep italic">Pigmentation</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Laser For <span class="text-charcoal-deep italic">Pigmentation</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Achieve a flawless, glass-skin complexion. Medical-grade laser treatments to effectively erase deep-seated melasma, freckles, and stubborn dark spots.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   Pigmentation issues like melasma, severe sun damage, freckles, and post-inflammatory hyperpigmentation (PIH) from acne can be incredibly stubborn. While topical creams work on the surface, they often fail to reach pigment trapped deep within the dermal layers.
                 </p>
                 <p>
-                  At DermaTales, we utilize <strong>Q-Switched Laser Toning</strong>—the absolute gold standard in dermatology for treating deep pigmentation safely. This non-invasive technology bypasses the top layer of the skin, targeting only the excess melanin deposits to clear your complexion from the inside out, without causing heat damage or downtime.
+                  At DermaTales, we utilize <strong>Q-Switched Laser Toning</strong>â€”the absolute gold standard in dermatology for treating deep pigmentation safely. This non-invasive technology bypasses the top layer of the skin, targeting only the excess melanin deposits to clear your complexion from the inside out, without causing heat damage or downtime.
                 </p>
               </div>
               <div class="col-md-5">
@@ -149,7 +154,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">The Laser Session</h4>
-                <p class="small text-muted">The laser is passed over the face. You will feel a mild, warm tingling sensation—no numbing is required.</p>
+                <p class="small text-muted">The laser is passed over the face. You will feel a mild, warm tingling sensationâ€”no numbing is required.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Post-Care Application</h4>
@@ -183,7 +188,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -259,3 +263,5 @@
 </body>
 
 </html>
+
+

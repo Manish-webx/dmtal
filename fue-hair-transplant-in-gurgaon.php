@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">FUE Hair Transplant</span>
       </nav>
-      <h1 class="hero-title-lux">FUE Hair <span class="text-charcoal-deep italic">Transplant</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">FUE Hair <span class="text-charcoal-deep italic">Transplant</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         State-of-the-art Follicular Unit Extraction for seamless, natural-looking hair restoration. High graft survival with no linear scarring.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -82,7 +87,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How FUE Works</h2>
             <p>
-              The FUE procedure is a masterpiece of medical precision. We use micro-punches (typically 0.7mm to 0.9mm in diameter) to extract individual follicular units—which contain 1 to 4 hairs each—one by one. This leaves only microscopic dot scars in the donor area that are virtually invisible once the surrounding hair grows out, even if cut very short. Tiny incisions are then made in the recipient area, and the extracted follicles are placed at precise angles and densities to match your natural hair growth pattern perfectly.
+              The FUE procedure is a masterpiece of medical precision. We use micro-punches (typically 0.7mm to 0.9mm in diameter) to extract individual follicular unitsâ€”which contain 1 to 4 hairs eachâ€”one by one. This leaves only microscopic dot scars in the donor area that are virtually invisible once the surrounding hair grows out, even if cut very short. Tiny incisions are then made in the recipient area, and the extracted follicles are placed at precise angles and densities to match your natural hair growth pattern perfectly.
             </p>
           </div>
 
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -271,3 +275,5 @@
 </body>
 
 </html>
+
+

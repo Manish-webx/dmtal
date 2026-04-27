@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Holistic Skin Wellness</span>
       </nav>
-      <h1 class="hero-title-lux">Holistic Skin <span class="text-charcoal-deep italic">Wellness</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
-        Beyond the surface. We view the skin as a dynamic reflection of your internal health, emotions, and lifestyle — clinical care integrated with the wisdom of holistic wellness.
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Holistic Skin <span class="text-charcoal-deep italic">Wellness</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
+        Beyond the surface. We view the skin as a dynamic reflection of your internal health, emotions, and lifestyle â€” clinical care integrated with the wisdom of holistic wellness.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Integrative Philosophy</h2>
                 <p>
-                  Medical dermatology often focuses solely on symptoms. At DermaTales, we practice Integrative Dermatology—an approach that considers the "whole person." We understand that chronic skin conditions like acne, eczema, and psoriasis are deeply intertwined with gut health, hormonal balance, sleep quality, and stress levels.
+                  Medical dermatology often focuses solely on symptoms. At DermaTales, we practice Integrative Dermatologyâ€”an approach that considers the "whole person." We understand that chronic skin conditions like acne, eczema, and psoriasis are deeply intertwined with gut health, hormonal balance, sleep quality, and stress levels.
                 </p>
                 <p>
                   Our Holistic Skin Wellness programs don't replace advanced medical treatments; they enhance them. By addressing the root lifestyle causes alongside clinical procedures, we achieve faster, more sustainable, and truly radiant results.
@@ -120,13 +125,13 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-4 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-3">Skin-Gut Repair Protocol</h5>
-                  <p class="small text-muted mb-0">For patients with persistent hormonal or cystic acne—combining clinical extractions with probiotic-rich diets and stress management techniques.</p>
+                  <p class="small text-muted mb-0">For patients with persistent hormonal or cystic acneâ€”combining clinical extractions with probiotic-rich diets and stress management techniques.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-4 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-3">Longevity & Vitality Program</h5>
-                  <p class="small text-muted mb-0">Focused on graceful aging—integrating laser resurfacing with antioxidant nutrition, sleep optimization, and anti-glycation lifestyle tips.</p>
+                  <p class="small text-muted mb-0">Focused on graceful agingâ€”integrating laser resurfacing with antioxidant nutrition, sleep optimization, and anti-glycation lifestyle tips.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -183,7 +188,7 @@
                 </h3>
                 <div id="hoFaq3" class="accordion-collapse collapse" data-bs-parent="#holisticFAQ">
                   <div class="accordion-body faq-body">
-                    Absolutely. Acne is often a manifestation of internal imbalances—hormonal, digestive, or inflammatory. By managing diet and stress alongside clinical peels and extraction, we see far lower recurrence rates.
+                    Absolutely. Acne is often a manifestation of internal imbalancesâ€”hormonal, digestive, or inflammatory. By managing diet and stress alongside clinical peels and extraction, we see far lower recurrence rates.
                   </div>
                 </div>
               </div>
@@ -226,3 +231,4 @@
 </body>
 
 </html>
+

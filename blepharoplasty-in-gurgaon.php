@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Blepharoplasty</span>
       </nav>
-      <h1 class="hero-title-lux">Eyelid <span class="text-charcoal-deep italic">Surgery</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Eyelid <span class="text-charcoal-deep italic">Surgery</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Restore the sparkle to your eyes. Our precision blepharoplasty procedures effectively address sagging lids and under-eye bags, unveiling a rested and rejuvenated appearance.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -204,29 +209,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="3500">0</div>
-                  <div class="stat-label-local">Eyes Rejuvenated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="12">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="98">0</div>
-                  <div class="stat-label-local">Patient Satisfaction %</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
 
 
@@ -316,3 +300,5 @@
   </body>
 
 </html>
+
+

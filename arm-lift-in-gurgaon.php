@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Arm Lift (Brachioplasty)</span>
       </nav>
-      <h1 class="hero-title-lux">Arm <span class="text-charcoal-deep italic">Lift</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Arm <span class="text-charcoal-deep italic">Lift</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Define your profile with confidence. Our arm lift procedures effectively eliminate redundant skin and localized fat from the upper arms, restoring a taut, youthful, and well-defined contour.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -147,7 +152,7 @@
                 </h3>
                 <div id="arFaq2" class="accordion-collapse collapse" data-bs-parent="#armFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients can return to work within 1 week. You will need to wear a compression sleeve for about 4 weeks and avoid heavy lifting or overhead reaching for at least 3–4 weeks to ensure safe healing of the incisions.
+                    Most patients can return to work within 1 week. You will need to wear a compression sleeve for about 4 weeks and avoid heavy lifting or overhead reaching for at least 3â€“4 weeks to ensure safe healing of the incisions.
                   </div>
                 </div>
               </div>
@@ -203,3 +208,4 @@
 </body>
 
 </html>
+

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Skin Laser Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Skin Laser <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Skin Laser <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         The future of skin perfection. Our clinic utilizes advanced medical lasers to target skin imperfections with microscopic precision, promoting deep cellular renewal for a flawless appearance.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -240,7 +245,7 @@
                 </h3>
                 <div id="lFaq1" class="accordion-collapse collapse show" data-bs-parent="#laserFAQ">
                   <div class="accordion-body faq-body">
-                    It depends on the type of laser. Laser Toning and Carbon Facials have zero downtime. Resurfacing lasers like CO2 may require 4–7 days of recovery as the skin heals, during which there might be redness and mild peeling.
+                    It depends on the type of laser. Laser Toning and Carbon Facials have zero downtime. Resurfacing lasers like CO2 may require 4â€“7 days of recovery as the skin heals, during which there might be redness and mild peeling.
                   </div>
                 </div>
               </div>
@@ -253,7 +258,7 @@
                 </h3>
                 <div id="lFaq2" class="accordion-collapse collapse" data-bs-parent="#laserFAQ">
                   <div class="accordion-body faq-body">
-                    While some improvement is visible after a single session, most concerns like acne scars or deep pigmentation require a series of 4–6 sessions for significant, life-changing results.
+                    While some improvement is visible after a single session, most concerns like acne scars or deep pigmentation require a series of 4â€“6 sessions for significant, life-changing results.
                   </div>
                 </div>
               </div>
@@ -309,3 +314,4 @@
 </body>
 
 </html>
+

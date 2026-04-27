@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -31,10 +31,15 @@
         <a href="#">Treatments</a><span>/</span>
         <span class="text-white">GFC Therapy</span>
       </nav>
-      <h1 class="hero-title-lux">GFC <span class="text-charcoal-deep italic">Therapy</span></h1>
-      <p class="section-lead text-white-50" style="max-width:600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">GFC <span class="text-charcoal-deep italic">Therapy</span></h1>
+          <p class="section-lead text-white-50" style="max-width:600px;">
         Harness the pure power of Growth Factor Concentrate (GFC) for advanced hair restoration and deep skin rejuvenation.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -230,7 +235,7 @@
                 </h3>
                 <div id="gfcFaq2" class="accordion-collapse collapse" data-bs-parent="#gfcFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients begin with 3–4 sessions spaced 4 weeks apart. Results typically become visible after the second session. Maintenance sessions every 6–12 months are recommended to sustain and enhance results.
+                    Most patients begin with 3â€“4 sessions spaced 4 weeks apart. Results typically become visible after the second session. Maintenance sessions every 6â€“12 months are recommended to sustain and enhance results.
                   </div>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">DHI Hair Transplant</span>
       </nav>
-      <h1 class="hero-title-lux">DHI Hair <span class="text-charcoal-deep italic">Transplant</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">DHI Hair <span class="text-charcoal-deep italic">Transplant</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Direct Hair Implantation utilizing the advanced Choi Implanter Pen. Achieve unparalleled density and flawless hair angles with faster recovery.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -82,7 +87,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How DHI Works</h2>
             <p>
-              The extraction phase in DHI is identical to FUE—follicles are individually harvested from the donor area. However, during the implantation phase, the extracted grafts are carefully loaded into the hollow needle of the Choi Pen. The surgeon then presses the pen directly into the scalp, deploying the graft into the tissue in one swift, seamless motion. This direct method allows the surgeon to control the exact depth, angle, and direction of every single hair with 100% precision.
+              The extraction phase in DHI is identical to FUEâ€”follicles are individually harvested from the donor area. However, during the implantation phase, the extracted grafts are carefully loaded into the hollow needle of the Choi Pen. The surgeon then presses the pen directly into the scalp, deploying the graft into the tissue in one swift, seamless motion. This direct method allows the surgeon to control the exact depth, angle, and direction of every single hair with 100% precision.
             </p>
           </div>
 
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -258,3 +262,5 @@
 </body>
 
 </html>
+
+

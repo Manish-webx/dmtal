@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,11 +42,16 @@
         <span>/</span>
         <span class="text-white">Thigh Lift (Thighplasty)</span>
       </nav>
-      <h1 class="hero-title-lux">Thigh <span class="text-charcoal-deep italic">Lift</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Thigh <span class="text-charcoal-deep italic">Lift</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Step forward with confidence. Our thighplasty procedures target redundant skin and stubborn fat in the inner and
         outer thighs, creating a smoother, more toned leg profile that reflects your dedication to wellness.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -70,7 +75,7 @@
                 <p>
                   At DermaTales, we focus on biological symmetry and precision excision. We aim to remove exactly the
                   right amount of skin to achieve a taut appearance without over-tightening, while ensuring that scars
-                  are placed in the most inconspicuous areas possible—typically within the natural groin folds or along
+                  are placed in the most inconspicuous areas possibleâ€”typically within the natural groin folds or along
                   the inner thigh.
                 </p>
               </div>
@@ -154,7 +159,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Month 2: Returning to Fitness</h4>
-                <p class="small text-muted">Lower body workouts and heavy lifting can usually be resumed after 6–8
+                <p class="small text-muted">Lower body workouts and heavy lifting can usually be resumed after 6â€“8
                   weeks. Scars will continue to flatten and fade over 12 months.</p>
               </div>
             </div>

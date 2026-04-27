@@ -10,20 +10,20 @@
     content="Dr Pooja Varshney, dermatologist Gurugram, skin specialist Delhi, hair transplant expert, cosmetic dermatology, MD dermatology, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/about-doctor-in-gurgaon">
+  <link rel="canonical" href="https://www.dermatales.com/dr-pooja-varshney">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Dr. Pooja Varshney — Dermatologist | DermaTales">
   <meta property="og:description"
     content="MBBS, MD (Dermatology), Fellowship in Cosmetology. 10+ years of clinical excellence in dermatology and hair transplantation.">
   <meta property="og:type" content="profile">
-  <meta property="og:url" content="https://www.dermatales.com/about-doctor-in-gurgaon.php">
+  <meta property="og:url" content="https://www.dermatales.com/dr-pooja-varshney">
   <meta property="og:image" content="https://www.dermatales.com/images/dr-pooja-varshney.jpg">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Dr. Pooja Varshney — Dermatologist | DermaTales</title>
 
-    <?php include 'nav-link.php'; ?>
+  <?php include 'nav-link.php'; ?>
 </head>
 
 <body>
@@ -48,8 +48,7 @@
         <div class="col-lg-5 order-lg-2">
           <div class="hero-image-luxury">
             <div class="luxury-img-frame">
-              <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80" alt="Dr. Pooja Varshney"
-                class="hero-img-lux">
+              <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney" class="hero-img-lux">
               <!-- Decorative Arch Wrapper -->
               <svg class="arch-overlay" viewBox="0 0 100 100" preserveAspectRatio="none">
                 <path d="M0,0 L100,0 L100,100 L0,100 Z" fill="none" stroke="var(--dt-champagne)" stroke-width="0.5"
@@ -85,8 +84,8 @@
               <span class="hero-eyebrow-gold">Excellence in Clinical & Aesthetic Care</span>
             </div>
 
-            <h1 class="hero-title-lux fade-in-up delay-1">
-              Dr. Pooja <br><span class="text-charcoal-deep">Varshney</span>
+            <h1 class="hero-title-lux fade-in-up delay-1" style="color: #1B2A4A;">
+              Dr. Pooja <br><span class="text-charcoal-deep" style="color:#9E5563">Varshney</span>
             </h1>
 
             <div class="hero-credentials-lux fade-in-up delay-2 mt-3 mb-4">
@@ -356,8 +355,6 @@
   <!-- ===================== FOOTER ===================== -->
   <?php include 'footer.php'; ?>
 
-  </body>
+</body>
 
 </html>
-
-

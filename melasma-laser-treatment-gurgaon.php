@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,11 +42,16 @@
         <span>/</span>
         <span class="text-white">Melasma Laser Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Melasma Laser <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Melasma Laser <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Precision pigment correction. Our advanced Laser Toning (Q-Switch) protocols target deep-seated melasma at the
         cellular level, restoring a uniform and radiant complexion safely.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -128,7 +133,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Quick & No Downtime</h5>
-                  <p class="small text-muted mb-0">A "lunchtime" procedure that takes 15–20 minutes with no visible
+                  <p class="small text-muted mb-0">A "lunchtime" procedure that takes 15â€“20 minutes with no visible
                     peeling or recovery time.</p>
                 </div>
               </div>
@@ -280,7 +285,7 @@
                 </h3>
                 <div id="mFaq2" class="accordion-collapse collapse" data-bs-parent="#melasmaFAQ">
                   <div class="accordion-body faq-body">
-                    For melasma, a series of 6 to 10 sessions spaced 2–3 weeks apart is usually recommended. Significant
+                    For melasma, a series of 6 to 10 sessions spaced 2â€“3 weeks apart is usually recommended. Significant
                     improvement is typically visible after the 4th session.
                   </div>
                 </div>

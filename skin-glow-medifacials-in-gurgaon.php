@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Skin Glow &amp; Medifacials</span>
       </nav>
-      <h1 class="hero-title-lux">Skin Glow &amp; <span class="text-charcoal-deep italic">Medifacials</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Skin Glow &amp; <span class="text-charcoal-deep italic">Medifacials</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Unlock your skin's natural radiance. Our medical-grade facials combine clinical exfoliation, active serum infusions, and deep hydration for a flawless, instantly glowing complexion without the downtime.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -65,7 +70,7 @@
                   Tired, dull, or dehydrated skin can make you look older than you feel. Regular salon facials may provide brief relaxation, but they cannot match the profound cellular rejuvenation of a Medifacial. At DermaTales, our Skin Glow Medifacials are medically designed, results-driven treatments that merge the luxury of a spa facial with the efficacy of clinical dermatology.
                 </p>
                 <p>
-                  Every Medifacial is customised. Under the guidance of our board-certified dermatologist, we tailor the exfoliation technique and infuse medical-grade serums—rich in antioxidants, peptides, and hyaluronic acid—directly into your dermis, restoring vibrancy from the inside out. 
+                  Every Medifacial is customised. Under the guidance of our board-certified dermatologist, we tailor the exfoliation technique and infuse medical-grade serumsâ€”rich in antioxidants, peptides, and hyaluronic acidâ€”directly into your dermis, restoring vibrancy from the inside out. 
                 </p>
               </div>
               <div class="col-md-5">
@@ -337,3 +342,4 @@
 
   </body>
 </html>
+

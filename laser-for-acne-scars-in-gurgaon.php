@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Laser For Acne Scars</span>
       </nav>
-      <h1 class="hero-title-lux">Laser For <span class="text-charcoal-deep italic">Acne Scars</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Laser For <span class="text-charcoal-deep italic">Acne Scars</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Rebuild and resurface. We utilize gold-standard Fractional CO2 lasers to safely smooth out deep acne pits, craters, and textured skin.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Gold Standard in Skin Resurfacing</h2>
                 <p>
-                  Severe breakouts often leave behind a painful reminder in the form of atrophic acne scars—deep pits, rolling scars, and ice-pick craters. These occur when the skin loses underlying collagen during the inflammatory healing process of acne. No topical cream can fill these physical depressions.
+                  Severe breakouts often leave behind a painful reminder in the form of atrophic acne scarsâ€”deep pits, rolling scars, and ice-pick craters. These occur when the skin loses underlying collagen during the inflammatory healing process of acne. No topical cream can fill these physical depressions.
                 </p>
                 <p>
                   To restore a smooth skin texture, you must rebuild the collagen from within. At DermaTales, we deploy <strong>Fractional CO2 Lasers</strong>. This technology is universally recognized by dermatologists as the most powerful and effective tool for aggressively remodeling deep scar tissue and stimulating fresh, thick collagen.
@@ -183,7 +188,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -259,3 +263,5 @@
 </body>
 
 </html>
+
+

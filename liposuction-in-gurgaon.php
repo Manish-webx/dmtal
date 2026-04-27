@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Liposuction</span>
       </nav>
-      <h1 class="hero-title-lux">Advanced <span class="text-charcoal-deep italic">Liposuction</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Advanced <span class="text-charcoal-deep italic">Liposuction</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Sculpt your physique with surgical precision. Our advanced liposuction techniques effectively target stubborn fat deposits, providing a more refined and contoured silhouette with safety as our highest priority.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Precision Body Contouring</h2>
                 <p>
-                  Liposuction is not a weight-loss procedure; it is a body-sculpting intervention. It is designed for individuals who have reached a stable weight but struggle with localized fat deposits that are resistant to diet and exercise—commonly in the abdomen, flanks (love handles), thighs, and arms.
+                  Liposuction is not a weight-loss procedure; it is a body-sculpting intervention. It is designed for individuals who have reached a stable weight but struggle with localized fat deposits that are resistant to diet and exerciseâ€”commonly in the abdomen, flanks (love handles), thighs, and arms.
                 </p>
                 <p>
                   At DermaTales, we utilize "Tumescent Liposuction" and energy-based technologies like VASER and Laser Lipo. These methods allow for more precise fat removal, smoother results, and significantly less downtime compared to traditional liposuction techniques.
@@ -177,7 +182,7 @@
                 </h3>
                 <div id="lpFaq2" class="accordion-collapse collapse" data-bs-parent="#lipoFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients can return to non-strenuous office work within 3–5 days. You will need to wear a compression garment for 4–6 weeks to minimize swelling and help the skin retract. Full exercise can usually be resumed after 4 weeks.
+                    Most patients can return to non-strenuous office work within 3â€“5 days. You will need to wear a compression garment for 4â€“6 weeks to minimize swelling and help the skin retract. Full exercise can usually be resumed after 4 weeks.
                   </div>
                 </div>
               </div>
@@ -234,3 +239,4 @@
 </body>
 
 </html>
+

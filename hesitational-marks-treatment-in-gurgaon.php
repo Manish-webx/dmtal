@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Hesitational Marks</span>
       </nav>
-      <h1 class="hero-title-lux">Hesitational Marks <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Hesitational Marks <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Empower your journey forward. We offer safe, highly confidential, and medically advanced solutions to significantly fade hesitational scars and cut marks.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   Hesitational marks, often resulting from past self-harm, can be a lingering physical reminder of a painful time. While healing emotionally is paramount, fading these scars can be an important step in moving forward and reclaiming your confidence.
                 </p>
                 <p>
-                  At DermaTales, we treat our patients with the utmost empathy, respect, and strict confidentiality. Our dermatologists understand the unique nature of these scars—which can be raised (hypertrophic), flat, or discolored. We utilize the most advanced dermatological tools, including Fractional CO2 Lasers, Microneedling Radiofrequency (MNRF), and surgical revision, to remodel the scar tissue and blend it seamlessly with the surrounding skin.
+                  At DermaTales, we treat our patients with the utmost empathy, respect, and strict confidentiality. Our dermatologists understand the unique nature of these scarsâ€”which can be raised (hypertrophic), flat, or discolored. We utilize the most advanced dermatological tools, including Fractional CO2 Lasers, Microneedling Radiofrequency (MNRF), and surgical revision, to remodel the scar tissue and blend it seamlessly with the surrounding skin.
                 </p>
               </div>
               <div class="col-md-5">
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -258,3 +262,5 @@
 </body>
 
 </html>
+
+

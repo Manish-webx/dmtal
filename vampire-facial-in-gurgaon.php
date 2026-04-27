@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,11 +43,16 @@
         <span>/</span>
         <span class="text-white">Vampire Facial</span>
       </nav>
-      <h1 class="hero-title-lux">Vampire <span class="text-charcoal-deep italic">Facial</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Vampire <span class="text-charcoal-deep italic">Facial</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Unlock your skin's innate healing potential. Harness the regenerative power of Platelet-Rich Plasma (PRP) for
         unparalleled rejuvenation and anti-aging.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                 <p>
                   Made famous by celebrities, the "Vampire Facial" is a highly advanced skin rejuvenation treatment
                   combining Microneedling with Platelet-Rich Plasma (PRP). The intriguing name comes from the fact that
-                  it uses your body's own blood—specifically the growth-factor-rich platelets—to stimulate cellular
+                  it uses your body's own bloodâ€”specifically the growth-factor-rich plateletsâ€”to stimulate cellular
                   turnover and massive collagen production.
                 </p>
                 <p>
@@ -220,7 +225,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -316,3 +320,4 @@
 </body>
 
 </html>
+

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -40,10 +40,15 @@
         <span>/</span>
         <span class="text-white">Allergy Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Allergy <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Allergy <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Comprehensive diagnostic patch testing and management for skin allergies, urticaria, and contact dermatitis in a clinical setting.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -179,29 +184,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="50">0</div>
-                  <div class="stat-label-local">Techniques Used</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
 
 
@@ -291,3 +275,5 @@
   </body>
 
 </html>
+
+

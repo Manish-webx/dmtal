@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">De-Tan Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">De-Tan <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">De-Tan <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Reverse the effects of the harsh sun. Clinical treatments to effectively remove stubborn tan, brighten dull skin, and restore your natural complexion.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Bring Back Your Natural Glow</h2>
                 <p>
-                  Frequent sun exposure without adequate protection leads to an overproduction of melanin, resulting in a dark, dull layer over the skin—commonly known as a sun tan. While mild tans fade over time, frequent exposure or a deep holiday tan can become stubborn and difficult to remove with home scrubs.
+                  Frequent sun exposure without adequate protection leads to an overproduction of melanin, resulting in a dark, dull layer over the skinâ€”commonly known as a sun tan. While mild tans fade over time, frequent exposure or a deep holiday tan can become stubborn and difficult to remove with home scrubs.
                 </p>
                 <p>
                   At DermaTales, our advanced De-Tan treatments go beyond superficial salon facials. We use clinical-grade Chemical Peels, Microdermabrasion, and Laser technologies to safely exfoliate the damaged, pigmented upper layers of the skin, instantly revealing a brighter, even-toned, and refreshed complexion underneath.
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -258,3 +262,5 @@
 </body>
 
 </html>
+
+

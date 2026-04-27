@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Hydrafacial MD Elite</span>
       </nav>
-      <h1 class="hero-title-lux">Hydrafacial MD <span class="text-charcoal-deep italic">Elite</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Hydrafacial MD <span class="text-charcoal-deep italic">Elite</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         The best skin of your life in just 45 minutes. Experience the genuine, patented 4-in-1 technology that cleanses, extracts, exfoliates, and deeply hydrates for an unparalleled glow.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,10 +67,10 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Ultimate Skin Reset</h2>
                 <p>
-                  Often imitated but never duplicated, the authentic Hydrafacial MD Elite is a multi-step, transformative medical facial. Unlike traditional manual extractions that can be painful and cause redness, or microdermabrasion that uses harsh crystals, Hydrafacial uses patented Vortex-Fusion® technology.
+                  Often imitated but never duplicated, the authentic Hydrafacial MD Elite is a multi-step, transformative medical facial. Unlike traditional manual extractions that can be painful and cause redness, or microdermabrasion that uses harsh crystals, Hydrafacial uses patented Vortex-FusionÂ® technology.
                 </p>
                 <p>
-                  This unique mechanism works like a vacuum to gently but powerfully open pores and pull out impurities, while simultaneously pushing active serums containing hyaluronic acid, peptides, and antioxidants deep into the skin. It’s the ultimate zero-downtime, maximum-reward facial suitable for every skin type—even the most sensitive.
+                  This unique mechanism works like a vacuum to gently but powerfully open pores and pull out impurities, while simultaneously pushing active serums containing hyaluronic acid, peptides, and antioxidants deep into the skin. Itâ€™s the ultimate zero-downtime, maximum-reward facial suitable for every skin typeâ€”even the most sensitive.
                 </p>
               </div>
               <div class="col-md-5">
@@ -84,19 +89,19 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Step 1: Cleanse + Peel</h5>
-                  <p class="small text-muted mb-0">Uncovers a new layer of skin with gentle exfoliation and relaxing resurfacing. We use Activ-4™ serum and a mild GlySal™ (glycolic and salicylic acid) peel to loosen dirt and debris without irritation.</p>
+                  <p class="small text-muted mb-0">Uncovers a new layer of skin with gentle exfoliation and relaxing resurfacing. We use Activ-4â„¢ serum and a mild GlySalâ„¢ (glycolic and salicylic acid) peel to loosen dirt and debris without irritation.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Step 2: Extract + Hydrate</h5>
-                  <p class="small text-muted mb-0">Removes debris from pores with painless Vortex suction. Simultaneously, the skin is nourished with intense moisturisers (Beta-HD™) that quench the skin.</p>
+                  <p class="small text-muted mb-0">Removes debris from pores with painless Vortex suction. Simultaneously, the skin is nourished with intense moisturisers (Beta-HDâ„¢) that quench the skin.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Step 3: Fuse + Protect</h5>
-                  <p class="small text-muted mb-0">Saturates the skin’s surface with antioxidants and peptides (Antiox+™) to maximize your glow and protect the freshly thoroughly cleansed skin barrier.</p>
+                  <p class="small text-muted mb-0">Saturates the skinâ€™s surface with antioxidants and peptides (Antiox+â„¢) to maximize your glow and protect the freshly thoroughly cleansed skin barrier.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -115,7 +120,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Instant Gratification</h5>
-                  <p class="small text-muted mb-0">Walk out with visibly plumper, more radiant skin in under an hour. It’s the ultimate pre-event 'glass skin' procedure.</p>
+                  <p class="small text-muted mb-0">Walk out with visibly plumper, more radiant skin in under an hour. Itâ€™s the ultimate pre-event 'glass skin' procedure.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -194,14 +199,14 @@
                 <div class="feature-list-icon"><i class="bi bi-cup-straw"></i></div>
                 <div class="feature-list-content">
                   <h4>Authentic Consumables</h4>
-                  <p>We strictly use the proprietary, sealed Hydrafacial serums (Activ-4™, Beta-HD™, and Antiox+™) — never diluted or substituted with cheaper liquids.</p>
+                  <p>We strictly use the proprietary, sealed Hydrafacial serums (Activ-4â„¢, Beta-HDâ„¢, and Antiox+â„¢) â€” never diluted or substituted with cheaper liquids.</p>
                 </div>
               </div>
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-person-hearts"></i></div>
                 <div class="feature-list-content">
                   <h4>Dermatologist Supervised</h4>
-                  <p>Our board-certified dermatologist oversees the process, prescribing specific booster serums based on your skin’s unique clinical needs, elevating it from a cosmetic facial to a medical treatment.</p>
+                  <p>Our board-certified dermatologist oversees the process, prescribing specific booster serums based on your skinâ€™s unique clinical needs, elevating it from a cosmetic facial to a medical treatment.</p>
                 </div>
               </div>
             </div>
@@ -298,3 +303,4 @@
 
   </body>
 </html>
+

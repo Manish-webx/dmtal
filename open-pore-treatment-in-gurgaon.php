@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Open Pore Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Open <span class="text-charcoal-deep italic">Pore Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Open <span class="text-charcoal-deep italic">Pore Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Achieve flawlessly smooth, refined skin with our advanced pore minimising protocols. We combine the latest dermatological technologies to visibly reduce open pores and restore your skin's natural elegance.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,10 +68,10 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Refined Skin. Invisible Pores.</h2>
                 <p>
-                  Enlarged, open pores are one of the most common skin complaints — affecting millions regardless of age, gender, or skin type. At DermaTales, we understand that visible pores are not just an aesthetic nuisance; they are often a sign of excess sebum production, reduced collagen, sun damage, or improper skin care. Our board-certified dermatologists take a root-cause approach to open pore treatment.
+                  Enlarged, open pores are one of the most common skin complaints â€” affecting millions regardless of age, gender, or skin type. At DermaTales, we understand that visible pores are not just an aesthetic nuisance; they are often a sign of excess sebum production, reduced collagen, sun damage, or improper skin care. Our board-certified dermatologists take a root-cause approach to open pore treatment.
                 </p>
                 <p>
-                  Rather than temporarily masking pores with primers, we use clinically proven medical procedures that permanently reduce the size of sebaceous follicles by remodelling the surrounding collagen — delivering lasting, visible results that no skincare product can replicate.
+                  Rather than temporarily masking pores with primers, we use clinically proven medical procedures that permanently reduce the size of sebaceous follicles by remodelling the surrounding collagen â€” delivering lasting, visible results that no skincare product can replicate.
                 </p>
               </div>
               <div class="col-md-5">
@@ -109,7 +114,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Genetics</h5>
-                  <p class="small text-muted mb-0">Inherited skin type plays a significant role — individuals with naturally oily or thick skin are genetically predisposed to larger pores.</p>
+                  <p class="small text-muted mb-0">Inherited skin type plays a significant role â€” individuals with naturally oily or thick skin are genetically predisposed to larger pores.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -124,7 +129,7 @@
           <!-- Section: Treatments We Offer -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Our Open Pore Treatment Options</h2>
-            <p>We offer a comprehensive, multi-modal approach to pore minimisation — combining the best of medical technology for lasting results:</p>
+            <p>We offer a comprehensive, multi-modal approach to pore minimisation â€” combining the best of medical technology for lasting results:</p>
             <div class="row g-4 mt-2">
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
@@ -159,7 +164,7 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Medical-Grade Skincare Protocol</h5>
-                  <p class="small text-muted mb-0">A personalised home-care regimen using retinoids, niacinamide, AHAs/BHAs, and oil-free SPF — prescribed and monitored by our dermatologist to maintain clinical results between sessions.</p>
+                  <p class="small text-muted mb-0">A personalised home-care regimen using retinoids, niacinamide, AHAs/BHAs, and oil-free SPF â€” prescribed and monitored by our dermatologist to maintain clinical results between sessions.</p>
                 </div>
               </div>
             </div>
@@ -246,11 +251,11 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Skin Preparation</h4>
-                <p class="small text-muted">For procedures like MNRF or fractional laser, a numbing cream is applied 30–45 minutes before the session for maximum comfort.</p>
+                <p class="small text-muted">For procedures like MNRF or fractional laser, a numbing cream is applied 30â€“45 minutes before the session for maximum comfort.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">The Treatment Session</h4>
-                <p class="small text-muted">The selected technology (MNRF, laser toning, or chemical peel) is applied with precision. Session duration ranges from 20–60 minutes depending on the treatment.</p>
+                <p class="small text-muted">The selected technology (MNRF, laser toning, or chemical peel) is applied with precision. Session duration ranges from 20â€“60 minutes depending on the treatment.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Cooling & Soothing Care</h4>
@@ -272,7 +277,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Root-Cause Diagnosis</h4>
-                  <p>We don't just treat pores — we identify and address the underlying triggers (excess oil, collagen loss, sun damage) so results are lasting, not temporary.</p>
+                  <p>We don't just treat pores â€” we identify and address the underlying triggers (excess oil, collagen loss, sun damage) so results are lasting, not temporary.</p>
                 </div>
               </div>
 
@@ -281,7 +286,7 @@
                 <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
                 <div class="feature-list-content">
                   <h4>Gold-Standard Technology</h4>
-                  <p>We use the Millifrac MNRF system and advanced laser platforms to deliver precise, safe, and measurable collagen remodelling — the most effective approach for pore minimisation.</p>
+                  <p>We use the Millifrac MNRF system and advanced laser platforms to deliver precise, safe, and measurable collagen remodelling â€” the most effective approach for pore minimisation.</p>
                 </div>
               </div>
 
@@ -290,7 +295,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Combination Treatment Protocols</h4>
-                  <p>We synergise multiple modalities — laser toning, MNRF, and peels — in a structured protocol for comprehensive pore reduction that addresses all causative layers of the skin.</p>
+                  <p>We synergise multiple modalities â€” laser toning, MNRF, and peels â€” in a structured protocol for comprehensive pore reduction that addresses all causative layers of the skin.</p>
                 </div>
               </div>
 
@@ -305,29 +310,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="98">0</div>
-                  <div class="stat-label-local">% Patient Satisfaction</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -341,7 +325,7 @@
                 </h3>
                 <div id="poreFaq1" class="accordion-collapse collapse show" data-bs-parent="#poreFAQ">
                   <div class="accordion-body faq-body">
-                    Pores cannot technically be "closed" permanently as they are structural components of the skin. However, with treatments like MNRF and fractional laser, we can significantly and lastingly reduce their visible size by rebuilding collagen around the follicle walls — making pores appear much smaller and barely visible to the naked eye.
+                    Pores cannot technically be "closed" permanently as they are structural components of the skin. However, with treatments like MNRF and fractional laser, we can significantly and lastingly reduce their visible size by rebuilding collagen around the follicle walls â€” making pores appear much smaller and barely visible to the naked eye.
                   </div>
                 </div>
               </div>
@@ -353,7 +337,7 @@
                 </h3>
                 <div id="poreFaq2" class="accordion-collapse collapse" data-bs-parent="#poreFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients see noticeable improvement after 3–4 sessions. A full treatment protocol typically involves 4–6 sessions spaced 4 weeks apart, depending on pore severity, skin type, and the chosen treatment modality. Your dermatologist will map out a personalised timeline during your consultation.
+                    Most patients see noticeable improvement after 3â€“4 sessions. A full treatment protocol typically involves 4â€“6 sessions spaced 4 weeks apart, depending on pore severity, skin type, and the chosen treatment modality. Your dermatologist will map out a personalised timeline during your consultation.
                   </div>
                 </div>
               </div>
@@ -377,7 +361,7 @@
                 </h3>
                 <div id="poreFaq4" class="accordion-collapse collapse" data-bs-parent="#poreFAQ">
                   <div class="accordion-body faq-body">
-                    Laser toning and chemical peels have minimal to no downtime — most patients resume normal daily activities the same day. MNRF and fractional CO2 laser may involve 2–5 days of redness and mild swelling. You will be provided with detailed aftercare instructions and prescribed skincare for smooth recovery.
+                    Laser toning and chemical peels have minimal to no downtime â€” most patients resume normal daily activities the same day. MNRF and fractional CO2 laser may involve 2â€“5 days of redness and mild swelling. You will be provided with detailed aftercare instructions and prescribed skincare for smooth recovery.
                   </div>
                 </div>
               </div>
@@ -439,3 +423,5 @@
   </body>
 
 </html>
+
+

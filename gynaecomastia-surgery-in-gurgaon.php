@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Gynaecomastia Surgery</span>
       </nav>
-      <h1 class="hero-title-lux">Gynaecomastia <span class="text-charcoal-deep italic">Surgery</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Gynaecomastia <span class="text-charcoal-deep italic">Surgery</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Restore your masculine contour and confidence. We provide gold-standard surgical and non-surgical solutions for Gynaecomastia (male breast tissue enlargement) with a focus on safety and natural results.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -131,7 +136,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Week 1: Office Work</h4>
-                <p class="small text-muted">Most patients can return to sedentary office work within 3–5 days. Swelling begins to subside significantly.</p>
+                <p class="small text-muted">Most patients can return to sedentary office work within 3â€“5 days. Swelling begins to subside significantly.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Week 4-6: Full Activity</h4>
@@ -166,7 +171,7 @@
                 </h3>
                 <div id="gyFaq2" class="accordion-collapse collapse" data-bs-parent="#gynaeFAQ">
                   <div class="accordion-body faq-body">
-                    We use tiny incisions for liposuction (2–3mm) and place glandular excision incisions along the natural border of the areola. Once healed, these scars are typically very difficult to see.
+                    We use tiny incisions for liposuction (2â€“3mm) and place glandular excision incisions along the natural border of the areola. Once healed, these scars are typically very difficult to see.
                   </div>
                 </div>
               </div>
@@ -222,3 +227,4 @@
 </body>
 
 </html>
+

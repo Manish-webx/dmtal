@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -31,10 +31,15 @@
         <a href="#">Body Contouring</a><span>/</span>
         <span class="text-white">CoolSculpting</span>
       </nav>
-      <h1 class="hero-title-lux">CoolSculpting <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width:600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">CoolSculpting <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width:600px;">
         Eliminate stubborn fat safely and effectively with FDA-cleared CoolSculpting. Non-surgical body contouring with no downtime.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -73,7 +78,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Permanent Fat Reduction</h5>
-                  <p class="small text-muted mb-0">Treated fat cells are permanently destroyed and eliminated — they cannot grow back, delivering lasting contouring results.</p>
+                  <p class="small text-muted mb-0">Treated fat cells are permanently destroyed and eliminated â€” they cannot grow back, delivering lasting contouring results.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -85,7 +90,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">No Downtime</h5>
-                  <p class="small text-muted mb-0">Return to work and daily activities immediately after treatment. Most sessions are completed in 35–60 minutes per area.</p>
+                  <p class="small text-muted mb-0">Return to work and daily activities immediately after treatment. Most sessions are completed in 35â€“60 minutes per area.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -97,7 +102,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Natural-Looking Results</h5>
-                  <p class="small text-muted mb-0">Fat is gradually eliminated over 1–3 months, producing smooth, natural-looking contour improvement without sudden dramatic changes.</p>
+                  <p class="small text-muted mb-0">Fat is gradually eliminated over 1â€“3 months, producing smooth, natural-looking contour improvement without sudden dramatic changes.</p>
                 </div>
               </div>
             </div>
@@ -249,7 +254,7 @@
                 </h3>
                 <div id="coolFaq1" class="accordion-collapse collapse show" data-bs-parent="#coolFAQ">
                   <div class="accordion-body faq-body">
-                    CoolSculpting can reduce fat in the treated area by up to 20–27% per session. Results are visible from 3 weeks after treatment, with optimal results appearing at 2–3 months as the body naturally eliminates the frozen fat cells.
+                    CoolSculpting can reduce fat in the treated area by up to 20â€“27% per session. Results are visible from 3 weeks after treatment, with optimal results appearing at 2â€“3 months as the body naturally eliminates the frozen fat cells.
                   </div>
                 </div>
               </div>
@@ -261,7 +266,7 @@
                 </h3>
                 <div id="coolFaq2" class="accordion-collapse collapse" data-bs-parent="#coolFAQ">
                   <div class="accordion-body faq-body">
-                    Many patients achieve satisfactory results with a single session per area. However, 2–3 sessions may be recommended for larger areas or patients desiring more dramatic contouring. Your doctor will assess and advise accordingly.
+                    Many patients achieve satisfactory results with a single session per area. However, 2â€“3 sessions may be recommended for larger areas or patients desiring more dramatic contouring. Your doctor will assess and advise accordingly.
                   </div>
                 </div>
               </div>

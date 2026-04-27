@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Cellulite Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Cellulite <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Cellulite <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Smooth out dimpled skin and restore firmness. Advanced non-surgical technologies to target and reduce stubborn cellulite on the thighs, buttocks, and abdomen.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Beyond Diet and Exercise</h2>
                 <p>
-                  Cellulite—often described as having an "orange peel" or dimpled texture—affects over 80% of women. It occurs when fat cells push up against the skin while tough, fibrous connective bands pull down, creating an uneven surface. Because it is structural, even intense diet and exercise cannot eliminate cellulite completely.
+                  Celluliteâ€”often described as having an "orange peel" or dimpled textureâ€”affects over 80% of women. It occurs when fat cells push up against the skin while tough, fibrous connective bands pull down, creating an uneven surface. Because it is structural, even intense diet and exercise cannot eliminate cellulite completely.
                 </p>
                 <p>
                   At DermaTales, we use state-of-the-art non-invasive treatments to target the underlying architecture of cellulite. By combining technologies like Radiofrequency (RF), Acoustic Wave Therapy, and deeper collagen-inducing treatments, we shrink the fat cells, break down the stiff fibrous bands, and tighten the overlying skin for a dramatically smoother appearance.
@@ -183,7 +188,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -259,3 +263,5 @@
 </body>
 
 </html>
+
+

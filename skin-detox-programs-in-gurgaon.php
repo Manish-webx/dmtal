@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Skin Detox Programs</span>
       </nav>
-      <h1 class="hero-title-lux">Skin Detox <span class="text-charcoal-deep italic">Programs</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Skin Detox <span class="text-charcoal-deep italic">Programs</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         A clinical reset for urban skin. Our structured detox programs combine medical-grade exfoliation, antioxidant infusion, and lymphatic drainage to clear away the legacy of pollution and stress.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Urban Skin: The Modern Challenge</h2>
                 <p>
-                  Living in a metropolitan area like Gurgaon exposes your skin to unique stressors—PM2.5 particles, heavy metals, blue light, and fluctuating humidity. These pollutants don't just sit on the surface; they penetrate deeper, causing oxidative stress, chronic inflammation, and premature aging.
+                  Living in a metropolitan area like Gurgaon exposes your skin to unique stressorsâ€”PM2.5 particles, heavy metals, blue light, and fluctuating humidity. These pollutants don't just sit on the surface; they penetrate deeper, causing oxidative stress, chronic inflammation, and premature aging.
                 </p>
                 <p>
                   DermaTales Skin Detox Programs are designed to provide a comprehensive biological "reboot." We don't just cleanse; we neutralise free radicals, unclog pores from microscopic pollutants, and stimulate the skin's natural detoxification pathways.
@@ -118,7 +123,7 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-4 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-3">Carbon Laser "Hollywood" Peel</h5>
-                  <p class="small text-muted mb-0">A layer of liquid carbon is applied to the face to adsorb pollutants and oil, then blasted away with laser energy—effectively clearing impurities and tightening pores.</p>
+                  <p class="small text-muted mb-0">A layer of liquid carbon is applied to the face to adsorb pollutants and oil, then blasted away with laser energyâ€”effectively clearing impurities and tightening pores.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -162,7 +167,7 @@
                 </h3>
                 <div id="deFaq1" class="accordion-collapse collapse show" data-bs-parent="#detoxFAQ">
                   <div class="accordion-body faq-body">
-                    For those living in highly polluted areas like Gurgaon, we recommend a clinical detox session once every 4–6 weeks to keep up with environmental damage. A "Deep Detox" protocol (3 sessions) is recommended during seasonal changes.
+                    For those living in highly polluted areas like Gurgaon, we recommend a clinical detox session once every 4â€“6 weeks to keep up with environmental damage. A "Deep Detox" protocol (3 sessions) is recommended during seasonal changes.
                   </div>
                 </div>
               </div>
@@ -175,7 +180,7 @@
                 </h3>
                 <div id="deFaq2" class="accordion-collapse collapse" data-bs-parent="#detoxFAQ">
                   <div class="accordion-body faq-body">
-                    In some cases, as the pores clear of deep-seated oil and pollutants, you may experience mild "purging" for 2–3 days. However, our clinical protocols are designed to minimize this and provide immediate soothing to the skin.
+                    In some cases, as the pores clear of deep-seated oil and pollutants, you may experience mild "purging" for 2â€“3 days. However, our clinical protocols are designed to minimize this and provide immediate soothing to the skin.
                   </div>
                 </div>
               </div>
@@ -231,3 +236,4 @@
 </body>
 
 </html>
+

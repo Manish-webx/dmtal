@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">HIFU Tightening</span>
       </nav>
-      <h1 class="hero-title-lux">HIFU Skin <span class="text-charcoal-deep italic">Tightening</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">HIFU Skin <span class="text-charcoal-deep italic">Tightening</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Harness the power of focused ultrasound for deep-tissue lifting. Achieve a firmer, more contoured look without a single incision or needle.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Deep Tissue Rebirth</h2>
                 <p>
-                  High-Intensity Focused Ultrasound (HIFU) is the world's most advanced non-surgical technology for skin lifting and tightening. Unlike lasers that treat the surface, HIFU bypasses the upper layers of the skin to deliver targeted energy directly into the SMAS layer—the same structural layer that surgeons manipulate during a traditional facelift.
+                  High-Intensity Focused Ultrasound (HIFU) is the world's most advanced non-surgical technology for skin lifting and tightening. Unlike lasers that treat the surface, HIFU bypasses the upper layers of the skin to deliver targeted energy directly into the SMAS layerâ€”the same structural layer that surgeons manipulate during a traditional facelift.
                 </p>
                 <p>
                   At DermaTales, we utilize medical-grade HIFU systems that allow for precise depth control (1.5mm, 3.0mm, and 4.5mm). This enables us to treat the eyes, face, jawline, and neck with tailored energy levels, ensuring maximum lifting effect while preserving your natural facial expressions.
@@ -204,29 +209,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="9500">0</div>
-                  <div class="stat-label-local">Pulses Delivered</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="12">0</div>
-                  <div class="stat-label-local">Month Longevity</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
 
 
@@ -316,3 +300,5 @@
   </body>
 
 </html>
+
+

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Thread Lift</span>
       </nav>
-      <h1 class="hero-title-lux">Thread <span class="text-charcoal-deep italic">Lift</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Thread <span class="text-charcoal-deep italic">Lift</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Define your contours without surgery. Experience the dual power of immediate mechanical lifting and long-term collagen stimulation with our premium thread-lifting protocols.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -204,29 +209,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="8500">0</div>
-                  <div class="stat-label-local">Threads Placed</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="12">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="97">0</div>
-                  <div class="stat-label-local">Natural Look Rating %</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
 
 
@@ -316,3 +300,5 @@
   </body>
 
 </html>
+
+

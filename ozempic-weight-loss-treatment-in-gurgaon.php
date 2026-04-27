@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Ozempic Weight Loss in Gurgaon</span>
       </nav>
-      <h1 class="hero-title-lux">Ozempic <span class="text-charcoal-deep italic">Weight Loss</span> in Gurgaon</h1>
-      <p class="section-lead text-white-50" style="max-width: 620px;">
-        Clinically proven semaglutide therapy — the world's most prescribed GLP-1 weight loss injection — administered under expert medical supervision for safe, significant results.
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Ozempic <span class="text-charcoal-deep italic">Weight Loss</span> in Gurgaon</h1>
+          <p class="section-lead text-white-50" style="max-width: 620px;">
+        Clinically proven semaglutide therapy â€” the world's most prescribed GLP-1 weight loss injection â€” administered under expert medical supervision for safe, significant results.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">What is Ozempic (Semaglutide)?</h2>
-                <p>Ozempic (semaglutide) is a once-weekly injectable GLP-1 (glucagon-like peptide-1) receptor agonist developed by Novo Nordisk. Originally approved for Type 2 diabetes, its remarkable weight loss efficacy — demonstrated in the landmark STEP clinical trials — has established it as one of the most prescribed medications for medical weight management globally.</p>
+                <p>Ozempic (semaglutide) is a once-weekly injectable GLP-1 (glucagon-like peptide-1) receptor agonist developed by Novo Nordisk. Originally approved for Type 2 diabetes, its remarkable weight loss efficacy â€” demonstrated in the landmark STEP clinical trials â€” has established it as one of the most prescribed medications for medical weight management globally.</p>
                 <p>Semaglutide works by mimicking the action of the body's natural GLP-1 hormone: suppressing appetite, slowing gastric emptying, and regulating blood sugar. At DermaTales, all Ozempic programmes are fully physician-supervised, with regular monitoring, dose optimisation, and integrated nutrition support for the safest and most effective outcomes.</p>
               </div>
               <div class="col-md-5">
@@ -99,7 +104,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Cardiovascular Protection</h5>
-                  <p class="small text-muted mb-0">The LEADER trial demonstrated a 26% reduction in major cardiovascular events in high-risk patients on semaglutide — a unique benefit beyond weight loss.</p>
+                  <p class="small text-muted mb-0">The LEADER trial demonstrated a 26% reduction in major cardiovascular events in high-risk patients on semaglutide â€” a unique benefit beyond weight loss.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -124,7 +129,7 @@
                 <div class="candidate-card candidate-card-ideal">
                   <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal Candidates</h3>
                   <ul class="candidate-list">
-                    <li><i class="bi bi-check2 text-gold"></i>Adults with BMI ≥ 30, or ≥ 27 with obesity-related conditions.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Adults with BMI â‰¥ 30, or â‰¥ 27 with obesity-related conditions.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Patients with Type 2 diabetes seeking weight loss and glucose control.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Individuals with high cardiovascular risk, NAFLD, or metabolic syndrome.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Those who want a well-established, extensively studied GLP-1 therapy.</li>
@@ -137,7 +142,7 @@
                   <ul class="candidate-list">
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Personal or family history of medullary thyroid carcinoma (MTC).</li>
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>History of Multiple Endocrine Neoplasia type 2 (MEN 2).</li>
-                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnancy or breastfeeding — must be discontinued before conception.</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnancy or breastfeeding â€” must be discontinued before conception.</li>
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Severe renal impairment or history of pancreatitis (case-by-case assessment).</li>
                   </ul>
                 </div>
@@ -159,15 +164,15 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Dose Escalation</h4>
-                <p class="small text-muted">The dose is increased every 4 weeks (0.25 → 0.5 → 1 → 2 mg) based on your tolerance and clinical response, targeting the most effective therapeutic dose.</p>
+                <p class="small text-muted">The dose is increased every 4 weeks (0.25 â†’ 0.5 â†’ 1 â†’ 2 mg) based on your tolerance and clinical response, targeting the most effective therapeutic dose.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Monthly Monitoring Visits</h4>
-                <p class="small text-muted">Regular check-ins to measure weight loss progress, body composition, blood markers, and medication tolerability — with dietary and lifestyle adjustments at every visit.</p>
+                <p class="small text-muted">Regular check-ins to measure weight loss progress, body composition, blood markers, and medication tolerability â€” with dietary and lifestyle adjustments at every visit.</p>
               </div>
               <div class="timeline-lux-item" data-step="5">
                 <h4 class="h6 fw-bold mb-1">Maintenance &amp; Long-Term Plan</h4>
-                <p class="small text-muted">Once target weight is achieved, a structured maintenance protocol — including gradual dose reduction and lifestyle reinforcement — is designed to sustain your results long-term.</p>
+                <p class="small text-muted">Once target weight is achieved, a structured maintenance protocol â€” including gradual dose reduction and lifestyle reinforcement â€” is designed to sustain your results long-term.</p>
               </div>
             </div>
           </div>
@@ -180,7 +185,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Doctor-Only Prescription</h4>
-                  <p>Ozempic is a controlled prescription medication. We conduct a full clinical evaluation before prescribing — ensuring it is right for you and safe given your health status.</p>
+                  <p>Ozempic is a controlled prescription medication. We conduct a full clinical evaluation before prescribing â€” ensuring it is right for you and safe given your health status.</p>
                 </div>
               </div>
               <div class="feature-list-item">
@@ -194,7 +199,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Comprehensive Programme Support</h4>
-                  <p>Medication is integrated with clinical nutrition planning, metabolic monitoring, and lifestyle coaching — creating a holistic programme that maximises and sustains your weight loss.</p>
+                  <p>Medication is integrated with clinical nutrition planning, metabolic monitoring, and lifestyle coaching â€” creating a holistic programme that maximises and sustains your weight loss.</p>
                 </div>
               </div>
               <div class="feature-list-item">
@@ -207,30 +212,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15">0</div>
-                  <div class="stat-label-local">% Avg. Weight Loss (STEP-1)*</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="68">0</div>
-                  <div class="stat-label-local">Weeks of STEP Trial Duration</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="26">0</div>
-                  <div class="stat-label-local">% CV Risk Reduction</div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <p class="small text-muted mt-2 text-center">*Based on STEP-1 clinical trial data at 2.4 mg (Wegovy) with lifestyle intervention. Individual results will vary.</p>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -244,7 +227,7 @@
                 </h3>
                 <div id="ozFaq1" class="accordion-collapse collapse show" data-bs-parent="#ozFAQ">
                   <div class="accordion-body faq-body">
-                    Both contain the same active ingredient — semaglutide. Ozempic is approved for Type 2 diabetes (maximum dose 2 mg), while Wegovy is the higher-dose formulation (2.4 mg) specifically approved for chronic weight management. Clinically, the higher dose produces greater weight loss. Our doctors will determine the right formulation for your specific goals.
+                    Both contain the same active ingredient â€” semaglutide. Ozempic is approved for Type 2 diabetes (maximum dose 2 mg), while Wegovy is the higher-dose formulation (2.4 mg) specifically approved for chronic weight management. Clinically, the higher dose produces greater weight loss. Our doctors will determine the right formulation for your specific goals.
                   </div>
                 </div>
               </div>
@@ -268,7 +251,7 @@
                 </h3>
                 <div id="ozFaq3" class="accordion-collapse collapse" data-bs-parent="#ozFAQ">
                   <div class="accordion-body faq-body">
-                    The most common side effects are nausea, reduced appetite, and mild gastrointestinal discomfort — primarily during dose escalation. Most patients find these manageable and temporary. Serious side effects are uncommon and are caught early through our regular monitoring protocol.
+                    The most common side effects are nausea, reduced appetite, and mild gastrointestinal discomfort â€” primarily during dose escalation. Most patients find these manageable and temporary. Serious side effects are uncommon and are caught early through our regular monitoring protocol.
                   </div>
                 </div>
               </div>
@@ -292,7 +275,7 @@
                 </h3>
                 <div id="ozFaq5" class="accordion-collapse collapse" data-bs-parent="#ozFAQ">
                   <div class="accordion-body faq-body">
-                    The active weight loss phase typically lasts 6–12 months. After achieving your target weight, the duration of continued use depends on your individual health profile — some patients transition to a maintenance dose while others are gradually weaned off under medical guidance.
+                    The active weight loss phase typically lasts 6â€“12 months. After achieving your target weight, the duration of continued use depends on your individual health profile â€” some patients transition to a maintenance dose while others are gradually weaned off under medical guidance.
                   </div>
                 </div>
               </div>
@@ -339,3 +322,5 @@
   </body>
 
 </html>
+
+

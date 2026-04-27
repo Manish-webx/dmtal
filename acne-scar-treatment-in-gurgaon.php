@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Acne Scar Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Acne Scar <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
-        Say goodbye to stubborn acne scars and craters. Experience the fusion of medical science and artistic precision to restore your skin's natural smooth texture.
-      </p>
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Acne Scar <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
+            Say goodbye to stubborn acne scars and craters. Experience the fusion of medical science and artistic precision to restore your skin's natural smooth texture.
+          </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Restore Your Inner Confidence</h2>
                 <p>
-                  Acne scars can be a source of constant self-consciousness, often lingering long after the active acne has subsided. At DermaTales, we understand that every scar tells a story, and our goal is to help you rewrite yours. Our board-certified dermatologists specialise in multi-modal treatment protocols designed to target all types of acne scars—from deep boxcar scars to ice-pick and rolling scars.
+                  Acne scars can be a source of constant self-consciousness, often lingering long after the active acne has subsided. At DermaTales, we understand that every scar tells a story, and our goal is to help you rewrite yours. Our board-certified dermatologists specialise in multi-modal treatment protocols designed to target all types of acne scarsâ€”from deep boxcar scars to ice-pick and rolling scars.
                 </p>
                 <p>
                   We don't believe in a one-size-fits-all approach. Your skin is unique, and so is your scarring. Our treatments focus on collagen induction, skin resurfacing, and dermal remodeling to deliver visible results that last.
@@ -204,30 +209,6 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="50">0</div>
-                  <div class="stat-label-local">Techniques Used</div>
-                </div>
-              </div>
-            </div>
-          </div>
-
 
 
           <!-- FAQ SECTION -->
@@ -316,5 +297,6 @@
   </body>
 
 </html>
+
 
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Mounjaro Weight Loss in Gurgaon</span>
       </nav>
-      <h1 class="hero-title-lux">Mounjaro <span class="text-charcoal-deep italic">Weight Loss</span> in Gurgaon</h1>
-      <p class="section-lead text-white-50" style="max-width: 620px;">
-        The world's most advanced dual GIP/GLP-1 receptor agonist — Mounjaro (tirzepatide) — now available under expert medical supervision for transformative, lasting weight loss.
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Mounjaro <span class="text-charcoal-deep italic">Weight Loss</span> in Gurgaon</h1>
+          <p class="section-lead text-white-50" style="max-width: 620px;">
+        The world's most advanced dual GIP/GLP-1 receptor agonist â€” Mounjaro (tirzepatide) â€” now available under expert medical supervision for transformative, lasting weight loss.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,8 +67,8 @@
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">What is Mounjaro (Tirzepatide)?</h2>
-                <p>Mounjaro (tirzepatide) is a breakthrough weekly injectable medication developed by Eli Lilly. It is the first and only FDA-approved <strong>dual GIP and GLP-1 receptor agonist</strong>, meaning it activates two separate gut-hormone pathways simultaneously — making it significantly more powerful than single-action GLP-1 drugs like Ozempic.</p>
-                <p>In landmark clinical trials (SURMOUNT programme), patients on Mounjaro lost an average of <strong>20–22% of their body weight</strong> over 72 weeks — the highest weight reduction ever recorded in a pharmaceutical trial. At DermaTales, we administer Mounjaro under strict physician supervision, with full monitoring and personalised dose titration for optimal safety and results.</p>
+                <p>Mounjaro (tirzepatide) is a breakthrough weekly injectable medication developed by Eli Lilly. It is the first and only FDA-approved <strong>dual GIP and GLP-1 receptor agonist</strong>, meaning it activates two separate gut-hormone pathways simultaneously â€” making it significantly more powerful than single-action GLP-1 drugs like Ozempic.</p>
+                <p>In landmark clinical trials (SURMOUNT programme), patients on Mounjaro lost an average of <strong>20â€“22% of their body weight</strong> over 72 weeks â€” the highest weight reduction ever recorded in a pharmaceutical trial. At DermaTales, we administer Mounjaro under strict physician supervision, with full monitoring and personalised dose titration for optimal safety and results.</p>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
@@ -81,25 +86,25 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">GLP-1 Receptor Activation</h5>
-                  <p class="small text-muted mb-0">Reduces appetite, slows gastric emptying, and lowers blood sugar by stimulating insulin release in a glucose-dependent manner — preventing dangerous hypoglycaemia.</p>
+                  <p class="small text-muted mb-0">Reduces appetite, slows gastric emptying, and lowers blood sugar by stimulating insulin release in a glucose-dependent manner â€” preventing dangerous hypoglycaemia.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">GIP Receptor Activation</h5>
-                  <p class="small text-muted mb-0">Enhances fat metabolism directly in fat cells, reduces inflammatory signals, and amplifies the appetite-suppressing effects of GLP-1 — uniquely Mounjaro's advantage.</p>
+                  <p class="small text-muted mb-0">Enhances fat metabolism directly in fat cells, reduces inflammatory signals, and amplifies the appetite-suppressing effects of GLP-1 â€” uniquely Mounjaro's advantage.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Visceral Fat Reduction</h5>
-                  <p class="small text-muted mb-0">Clinical data confirms Mounjaro specifically reduces visceral (abdominal) fat — the most dangerous type linked to cardiovascular disease and metabolic syndrome.</p>
+                  <p class="small text-muted mb-0">Clinical data confirms Mounjaro specifically reduces visceral (abdominal) fat â€” the most dangerous type linked to cardiovascular disease and metabolic syndrome.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Cardiometabolic Benefits</h5>
-                  <p class="small text-muted mb-0">Significant improvements in blood pressure, cholesterol, HbA1c, and liver fat seen in trials — making Mounjaro uniquely beneficial for those with diabetes or metabolic syndrome.</p>
+                  <p class="small text-muted mb-0">Significant improvements in blood pressure, cholesterol, HbA1c, and liver fat seen in trials â€” making Mounjaro uniquely beneficial for those with diabetes or metabolic syndrome.</p>
                 </div>
               </div>
             </div>
@@ -112,7 +117,7 @@
                 <div class="candidate-card candidate-card-ideal">
                   <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal Candidates</h3>
                   <ul class="candidate-list">
-                    <li><i class="bi bi-check2 text-gold"></i>Adults with BMI ≥ 30, or ≥ 27 with a weight-related health condition.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Adults with BMI â‰¥ 30, or â‰¥ 27 with a weight-related health condition.</li>
                     <li><i class="bi bi-check2 text-gold"></i>People with Type 2 diabetes seeking simultaneous glucose and weight control.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Those who haven't achieved sufficient results with Ozempic or other GLP-1 drugs.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Patients with metabolic syndrome, PCOS, or high cardiovascular risk.</li>
@@ -125,7 +130,7 @@
                   <ul class="candidate-list">
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Personal or family history of medullary thyroid carcinoma (MTC).</li>
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).</li>
-                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnancy or planned pregnancy — must be stopped ≥2 months before conception.</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnancy or planned pregnancy â€” must be stopped â‰¥2 months before conception.</li>
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Active or prior pancreatitis (relative contraindication, assessed case-by-case).</li>
                   </ul>
                 </div>
@@ -147,7 +152,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Gradual Dose Escalation</h4>
-                <p class="small text-muted">Doses are increased every 4 weeks (2.5 → 5 → 7.5 → 10 → 12.5 → 15 mg) based on tolerance and clinical response, up to the therapeutic target dose.</p>
+                <p class="small text-muted">Doses are increased every 4 weeks (2.5 â†’ 5 â†’ 7.5 â†’ 10 â†’ 12.5 â†’ 15 mg) based on tolerance and clinical response, up to the therapeutic target dose.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Monthly Follow-Up &amp; Monitoring</h4>
@@ -168,14 +173,14 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Physician-Only Prescribing</h4>
-                  <p>Mounjaro is a prescription-only medication. At DermaTales, it is prescribed exclusively by qualified doctors following a full clinical assessment — never dispensed without consultation.</p>
+                  <p>Mounjaro is a prescription-only medication. At DermaTales, it is prescribed exclusively by qualified doctors following a full clinical assessment â€” never dispensed without consultation.</p>
                 </div>
               </div>
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
                 <div class="feature-list-content">
                   <h4>Authentic, Verified Medication</h4>
-                  <p>We source Mounjaro only from authorised pharmaceutical distributors — guaranteeing product authenticity, cold-chain integrity, and correct storage at all times.</p>
+                  <p>We source Mounjaro only from authorised pharmaceutical distributors â€” guaranteeing product authenticity, cold-chain integrity, and correct storage at all times.</p>
                 </div>
               </div>
               <div class="feature-list-item">
@@ -195,30 +200,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="22">0</div>
-                  <div class="stat-label-local">% Avg. Body Weight Lost*</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="72">0</div>
-                  <div class="stat-label-local">Weeks of Clinical Trials</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="2">0</div>
-                  <div class="stat-label-local">Receptor Pathways Activated</div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <p class="small text-muted mt-2 text-center">*Based on SURMOUNT-1 clinical trial data at 15 mg dose with lifestyle intervention. Individual results will vary.</p>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -232,7 +215,7 @@
                 </h3>
                 <div id="mjFaq1" class="accordion-collapse collapse show" data-bs-parent="#mjFAQ">
                   <div class="accordion-body faq-body">
-                    Head-to-head trial data (SURMOUNT-5) confirms that Mounjaro produces greater weight loss than Ozempic (semaglutide) — approximately 47% more total weight loss in direct comparison. Both are highly effective; the best choice depends on your individual medical profile, which our doctors will assess during consultation.
+                    Head-to-head trial data (SURMOUNT-5) confirms that Mounjaro produces greater weight loss than Ozempic (semaglutide) â€” approximately 47% more total weight loss in direct comparison. Both are highly effective; the best choice depends on your individual medical profile, which our doctors will assess during consultation.
                   </div>
                 </div>
               </div>
@@ -256,7 +239,7 @@
                 </h3>
                 <div id="mjFaq3" class="accordion-collapse collapse" data-bs-parent="#mjFAQ">
                   <div class="accordion-body faq-body">
-                    The most common side effects are gastrointestinal: nausea, reduced appetite, mild vomiting, constipation or diarrhoea — particularly during dose escalation phases. These typically subside as your body adjusts. Serious adverse effects are rare and are detected early through our monitoring protocol.
+                    The most common side effects are gastrointestinal: nausea, reduced appetite, mild vomiting, constipation or diarrhoea â€” particularly during dose escalation phases. These typically subside as your body adjusts. Serious adverse effects are rare and are detected early through our monitoring protocol.
                   </div>
                 </div>
               </div>
@@ -268,7 +251,7 @@
                 </h3>
                 <div id="mjFaq4" class="accordion-collapse collapse" data-bs-parent="#mjFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients begin noticing appetite reduction and early weight loss within the first 4 weeks. Significant weight loss becomes measurable by weeks 8–12 and continues to accelerate as the dose is increased to therapeutic levels.
+                    Most patients begin noticing appetite reduction and early weight loss within the first 4 weeks. Significant weight loss becomes measurable by weeks 8â€“12 and continues to accelerate as the dose is increased to therapeutic levels.
                   </div>
                 </div>
               </div>
@@ -315,3 +298,5 @@
   </body>
 
 </html>
+
+

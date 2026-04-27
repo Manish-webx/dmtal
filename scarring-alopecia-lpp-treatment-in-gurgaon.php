@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Scarring Alopecia & LPP</span>
       </nav>
-      <h1 class="hero-title-lux">Scarring <span class="text-charcoal-deep italic">Alopecia</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Scarring <span class="text-charcoal-deep italic">Alopecia</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Urgent, aggressive dermatological care to halt destructive inflammation, alleviate symptoms, and save your remaining hair follicles.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -114,7 +119,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
         </div> <!-- End Main Content -->
 
@@ -148,3 +152,5 @@
 </body>
 
 </html>
+
+

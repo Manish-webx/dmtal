@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,11 +43,16 @@
         <span>/</span>
         <span class="text-white">Chemical Peels</span>
       </nav>
-      <h1 class="hero-title-lux">Chemical <span class="text-charcoal-deep italic">Peels</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Chemical <span class="text-charcoal-deep italic">Peels</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Reveal a luminous, rejuvenated complexion with medical-grade chemical peels. Precisely formulated to target
-        acne, pigmentation, fine lines, and dullness — peel your way to perfect skin.
+        acne, pigmentation, fine lines, and dullness â€” peel your way to perfect skin.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -71,8 +76,8 @@
                   product can match.
                 </p>
                 <p>
-                  Our board-certified dermatologists assess your skin's unique needs before recommending a peel depth —
-                  superficial, medium, or deep — ensuring maximum efficacy with minimal risk. Each session is a step
+                  Our board-certified dermatologists assess your skin's unique needs before recommending a peel depth â€”
+                  superficial, medium, or deep â€” ensuring maximum efficacy with minimal risk. Each session is a step
                   towards clearer, younger-looking, and more uniform skin.
                 </p>
               </div>
@@ -144,7 +149,7 @@
               A chemical peel works by applying a carefully selected acid solution to the skin, which causes the
               controlled exfoliation and eventual shedding of the outermost layers. As the skin peels, fresh, new cells
               generate from beneath, revealing a smoother, more even, and radiant complexion. Simultaneously, the
-              controlled injury triggers collagen production in the dermis — the key to long-term improvements in skin
+              controlled injury triggers collagen production in the dermis â€” the key to long-term improvements in skin
               texture, firmness, and tone.
             </p>
           </div>
@@ -191,8 +196,8 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Minimal Downtime</h5>
-                  <p class="small text-muted mb-0">Superficial and medium peels offer a quick recovery — most patients
-                    return to daily activities within 2–5 days.</p>
+                  <p class="small text-muted mb-0">Superficial and medium peels offer a quick recovery â€” most patients
+                    return to daily activities within 2â€“5 days.</p>
                 </div>
               </div>
             </div>
@@ -272,7 +277,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Physician-Administered Peels</h4>
-                  <p>Every peel at DermaTales is performed directly by our MD dermatologist — not a technician. This
+                  <p>Every peel at DermaTales is performed directly by our MD dermatologist â€” not a technician. This
                     ensures precise peel depth control and the safest possible outcome for your skin.</p>
                 </div>
               </div>
@@ -282,8 +287,8 @@
                 <div class="feature-list-icon"><i class="bi bi-droplet-half"></i></div>
                 <div class="feature-list-content">
                   <h4>Medical-Grade Formulations</h4>
-                  <p>We use premium, clinically proven peel systems from international dermatology brands — not generic
-                    salon-grade products — for predictable, superior results.</p>
+                  <p>We use premium, clinically proven peel systems from international dermatology brands â€” not generic
+                    salon-grade products â€” for predictable, superior results.</p>
                 </div>
               </div>
 
@@ -309,29 +314,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="6">0</div>
-                  <div class="stat-label-local">Peel Formulations</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -346,8 +330,8 @@
                 </h3>
                 <div id="peelFaq1" class="accordion-collapse collapse show" data-bs-parent="#peelFAQ">
                   <div class="accordion-body faq-body">
-                    For most concerns, a series of 4 to 6 sessions spaced 3–4 weeks apart is recommended for optimal
-                    results. Maintenance sessions every 2–3 months help sustain the improvement. Your dermatologist will
+                    For most concerns, a series of 4 to 6 sessions spaced 3â€“4 weeks apart is recommended for optimal
+                    results. Maintenance sessions every 2â€“3 months help sustain the improvement. Your dermatologist will
                     guide you on the exact frequency based on your skin's response.
                   </div>
                 </div>
@@ -376,8 +360,8 @@
                 </h3>
                 <div id="peelFaq3" class="accordion-collapse collapse" data-bs-parent="#peelFAQ">
                   <div class="accordion-body faq-body">
-                    Downtime varies by peel depth. Superficial peels may cause mild flaking for 1–3 days. Medium-depth
-                    peels (like TCA) may involve peeling for 5–7 days. During this time, rigorous sun protection is
+                    Downtime varies by peel depth. Superficial peels may cause mild flaking for 1â€“3 days. Medium-depth
+                    peels (like TCA) may involve peeling for 5â€“7 days. During this time, rigorous sun protection is
                     essential. We provide detailed aftercare instructions to make your recovery seamless.
                   </div>
                 </div>
@@ -391,7 +375,7 @@
                 </h3>
                 <div id="peelFaq4" class="accordion-collapse collapse" data-bs-parent="#peelFAQ">
                   <div class="accordion-body faq-body">
-                    Yes, absolutely. However, darker skin types (Fitzpatrick IV–VI) require more careful selection of
+                    Yes, absolutely. However, darker skin types (Fitzpatrick IVâ€“VI) require more careful selection of
                     peel type and concentration to avoid post-inflammatory hyperpigmentation. Our dermatologists are
                     highly experienced in treating Indian and South Asian skin tones safely and effectively.
                   </div>
@@ -462,3 +446,4 @@
   </body>
 
 </html>
+

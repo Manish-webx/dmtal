@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Ear Correction (Otoplasty)</span>
       </nav>
-      <h1 class="hero-title-lux">Ear <span class="text-charcoal-deep italic">Correction</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Ear <span class="text-charcoal-deep italic">Correction</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Achieve facial harmony with precision otoplasty. Whether correcting prominent ears or refining ear shape, our advanced dermatosurgical techniques provide natural, balanced results with minimal downtime.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -222,3 +227,4 @@
 </body>
 
 </html>
+

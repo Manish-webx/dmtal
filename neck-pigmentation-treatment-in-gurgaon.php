@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Neck Pigmentation</span>
       </nav>
-      <h1 class="hero-title-lux">Neck <span class="text-charcoal-deep italic">Pigmentation</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Neck <span class="text-charcoal-deep italic">Pigmentation</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Restore an even, flawless skin tone. Specialized clinical treatments to effectively fade dark neck patches, sun damage, and frictional pigmentation.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -258,3 +262,5 @@
 </body>
 
 </html>
+
+

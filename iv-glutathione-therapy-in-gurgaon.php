@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">IV Glutathione Therapy</span>
       </nav>
-      <h1 class="hero-title-lux">IV Glutathione <span class="text-charcoal-deep italic">Therapy</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">IV Glutathione <span class="text-charcoal-deep italic">Therapy</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Nourish your skin from the inside out. Detoxify, boost your immunity, and achieve a radiant, luminous complexion with our advanced IV drip therapy.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -189,7 +194,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -277,3 +281,5 @@
   </body>
 
 </html>
+
+

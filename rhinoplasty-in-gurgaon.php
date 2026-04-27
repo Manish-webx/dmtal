@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Rhinoplasty</span>
       </nav>
-      <h1 class="hero-title-lux">Rhinoplasty <span class="text-charcoal-deep italic">Surgery</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Rhinoplasty <span class="text-charcoal-deep italic">Surgery</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Achieve facial harmony with precision nose reshaping. Whether for aesthetic refinement or functional correction, experience the perfect blend of surgical expertise and artistic vision.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   As the central feature of the face, the nose plays a critical role in facial symmetry and profile harmony. Rhinoplasty, commonly known as a "nose job," is a sophisticated surgical procedure designed to reshape, resize, or restructure the nose for both cosmetic and functional purposes.
                 </p>
                 <p>
-                  At DermaTales, we believe that a successful rhinoplasty should never look "operated." Our expert facial surgeons focus on natural results that complement your unique features while ensuring optimal respiratory function—correcting issues like a deviated septum or narrow valves.
+                  At DermaTales, we believe that a successful rhinoplasty should never look "operated." Our expert facial surgeons focus on natural results that complement your unique features while ensuring optimal respiratory functionâ€”correcting issues like a deviated septum or narrow valves.
                 </p>
               </div>
               <div class="col-md-5">
@@ -81,7 +86,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Rhinoplasty Works</h2>
             <p>
-              Rhinoplasty involves accessing the bone and cartilage structure of the nose through either an **Open** or **Closed** approach. In an open rhinoplasty, a small incision is made across the columella, providing full visibility of the anatomy, while a closed rhinoplasty is performed entirely through internal incisions. The surgeon then meticulously sculpts the underlying structure—removing a nasal hump, refining a bulbous tip, or straightening a crooked bridge—to achieve the desired contour and improve airflow.
+              Rhinoplasty involves accessing the bone and cartilage structure of the nose through either an **Open** or **Closed** approach. In an open rhinoplasty, a small incision is made across the columella, providing full visibility of the anatomy, while a closed rhinoplasty is performed entirely through internal incisions. The surgeon then meticulously sculpts the underlying structureâ€”removing a nasal hump, refining a bulbous tip, or straightening a crooked bridgeâ€”to achieve the desired contour and improve airflow.
             </p>
           </div>
 
@@ -198,35 +203,14 @@
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural, Refined Results</h4>
-                  <p>Our aesthetic philosophy focuses on "Invisible Surgery"—results that look entirely natural and belong on your face.</p>
+                  <p>Our aesthetic philosophy focuses on "Invisible Surgery"â€”results that look entirely natural and belong on your face.</p>
                 </div>
               </div>
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="5000">0</div>
-                  <div class="stat-label-local">Surgeries Performed</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15">0</div>
-                  <div class="stat-label-local">Expert Surgeons</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="99">0</div>
-                  <div class="stat-label-local">Success Rate %</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
 
 
@@ -316,3 +300,5 @@
   </body>
 
 </html>
+
+

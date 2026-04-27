@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Full Body Polishing</span>
       </nav>
-      <h1 class="hero-title-lux">Full Body <span class="text-charcoal-deep italic">Polishing</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Full Body <span class="text-charcoal-deep italic">Polishing</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Shed the dullness and unveil your natural radiance. A luxurious exfoliating and hydrating treatment for silky smooth, glowing skin from head to toe.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -189,7 +194,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -277,3 +281,5 @@
   </body>
 
 </html>
+
+

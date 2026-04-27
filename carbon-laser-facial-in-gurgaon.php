@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Carbon Laser Facial</span>
       </nav>
-      <h1 class="hero-title-lux">Carbon Laser <span class="text-charcoal-deep italic">Facial</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Carbon Laser <span class="text-charcoal-deep italic">Facial</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Famously known as the "Hollywood Peel," this advanced laser treatment shrinks pores, controls oil, and gives you an instant, red-carpet ready glow with absolutely zero downtime.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The "Hollywood Peel" Secret</h2>
                 <p>
-                  The Carbon Laser Facial is incredibly popular for a reason—it immediately transforms dull, congested skin into a radiant, smooth canvas. By combining the purifying power of medical-grade activated liquid carbon with the precision of a Q-Switched Nd:YAG laser, this treatment works on two levels simultaneously.
+                  The Carbon Laser Facial is incredibly popular for a reasonâ€”it immediately transforms dull, congested skin into a radiant, smooth canvas. By combining the purifying power of medical-grade activated liquid carbon with the precision of a Q-Switched Nd:YAG laser, this treatment works on two levels simultaneously.
                 </p>
                 <p>
                   First, the carbon deeply cleanses your pores by absorbing oil and impurities. Then, the laser blasts away the carbon taking the dead skin and contaminants with it, while gently heating the deeper layers of the dermis to stimulate fresh collagen production. It's painless, fast, and incredibly effective.
@@ -273,3 +278,4 @@
 
   </body>
 </html>
+

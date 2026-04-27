@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,11 +42,16 @@
         <span>/</span>
         <span class="text-white">Freckles &amp; Blemishes</span>
       </nav>
-      <h1 class="hero-title-lux">Freckles &amp; <span class="text-charcoal-deep italic">Blemishes</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Freckles &amp; <span class="text-charcoal-deep italic">Blemishes</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Reveal your clearest, most even complexion. Our advanced protocols precisely target and eliminate freckles, sun
-        spots, post-acne marks, and skin blemishes — restoring uniformly radiant, flawless skin.
+        spots, post-acne marks, and skin blemishes â€” restoring uniformly radiant, flawless skin.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -72,7 +77,7 @@
                   Our board-certified dermatologist performs a thorough dermoscopic evaluation to accurately classify
                   your blemishes before recommending the most appropriate clinical treatment. From superficial epidermal
                   pigmentation to deeper dermal lesions, we have advanced technologies designed to target each type
-                  precisely — for visible, lasting clearance.
+                  precisely â€” for visible, lasting clearance.
                 </p>
               </div>
               <div class="col-md-5">
@@ -100,7 +105,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Solar Lentigines (Sun Spots)</h5>
-                  <p class="small text-muted mb-0">Also called age spots or liver spots — flat, oval, darker brown marks
+                  <p class="small text-muted mb-0">Also called age spots or liver spots â€” flat, oval, darker brown marks
                     caused by years of UV exposure. Common on the face, hands, and shoulders of adults over 40.</p>
                 </div>
               </div>
@@ -122,7 +127,7 @@
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Café-au-lait Spots</h5>
+                  <h5 class="fw-bold h6 mb-2">CafÃ©-au-lait Spots</h5>
                   <p class="small text-muted mb-0">Light brown, evenly pigmented oval patches. These can appear anywhere
                     on the body and, if cosmetically concerning, can be significantly lightened with targeted laser
                     treatments.</p>
@@ -132,7 +137,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Seborrhoeic Keratoses</h5>
                   <p class="small text-muted mb-0">Waxy, raised, "stuck-on" brown or black lesions that appear with
-                    ageing. Non-cancerous, but often cosmetically undesirable — easily and safely removed with laser or
+                    ageing. Non-cancerous, but often cosmetically undesirable â€” easily and safely removed with laser or
                     electrocautery.</p>
                 </div>
               </div>
@@ -157,7 +162,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Pico Laser</h5>
                   <p class="small text-muted mb-0">Ultra-short picosecond pulses break down pigmentation into even finer
-                    particles for faster clearance and reduced downtime compared to traditional Q-switch laser — ideal
+                    particles for faster clearance and reduced downtime compared to traditional Q-switch laser â€” ideal
                     for resistant or stubborn blemishes.</p>
                 </div>
               </div>
@@ -165,15 +170,15 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Intense Pulsed Light (IPL)</h5>
                   <p class="small text-muted mb-0">Broad-spectrum light energy targets multiple chromophores
-                    simultaneously — effective for diffuse freckling, sun damage, and superficial pigmentation over
-                    large skin areas like the face and décolletage.</p>
+                    simultaneously â€” effective for diffuse freckling, sun damage, and superficial pigmentation over
+                    large skin areas like the face and dÃ©colletage.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Chemical Peels (AHA / TCA)</h5>
                   <p class="small text-muted mb-0">Medical-grade peels accelerate cell turnover and exfoliate
-                    superficial pigmented cells — effective for post-acne marks, mild freckling, and generalised uneven
+                    superficial pigmented cells â€” effective for post-acne marks, mild freckling, and generalised uneven
                     skin tone when used in a series.</p>
                 </div>
               </div>
@@ -182,7 +187,7 @@
                   <h5 class="fw-bold h6 mb-2">Electrocauterisation / Radiofrequency</h5>
                   <p class="small text-muted mb-0">Precise removal of raised blemishes like seborrhoeic keratoses,
                     dermatosis papulosa nigra, and superficial skin tags using controlled electrical or radiofrequency
-                    energy — with minimal scarring.</p>
+                    energy â€” with minimal scarring.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -218,7 +223,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Long-Lasting Results</h5>
                   <p class="small text-muted mb-0">Laser-based treatments destroy the melanin-producing cells
-                    responsible for lesions — providing permanent removal in many cases.</p>
+                    responsible for lesions â€” providing permanent removal in many cases.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -239,7 +244,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Minimal Downtime</h5>
                   <p class="small text-muted mb-0">Most laser and peel-based blemish treatments involve minimal recovery
-                    — most patients return to daily activities within 1–3 days.</p>
+                    â€” most patients return to daily activities within 1â€“3 days.</p>
                 </div>
               </div>
             </div>
@@ -292,8 +297,8 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Personalised Treatment Planning</h4>
-                <p class="small text-muted">Based on the type, depth, and skin phototype, the optimal modality —
-                  Q-switch laser, peel, or electrocautery — is selected. A complete treatment timeline with realistic
+                <p class="small text-muted">Based on the type, depth, and skin phototype, the optimal modality â€”
+                  Q-switch laser, peel, or electrocautery â€” is selected. A complete treatment timeline with realistic
                   outcome expectations is shared.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
@@ -303,7 +308,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Precision Treatment</h4>
-                <p class="small text-muted">The selected procedure is delivered with precision — laser pulses target
+                <p class="small text-muted">The selected procedure is delivered with precision â€” laser pulses target
                   individual lesions with millimetre accuracy, or a peel is applied uniformly across the affected area.
                 </p>
               </div>
@@ -325,7 +330,7 @@
                 <div class="feature-list-content">
                   <h4>Dermoscopic Pre-Screening</h4>
                   <p>Every pigmented lesion is evaluated with dermoscopy before treatment. This ensures that benign
-                    blemishes are safely treated and any concerning lesions are referred for biopsy first — your safety
+                    blemishes are safely treated and any concerning lesions are referred for biopsy first â€” your safety
                     is paramount.</p>
                 </div>
               </div>
@@ -342,8 +347,8 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Comprehensive Blemish Management</h4>
-                  <p>We treat the full spectrum — freckles, sun spots, PIH, flat moles, seborrhoeic keratoses, and more
-                    — under one roof. Our multi-modal approach addresses all types of lesions with the appropriate and
+                  <p>We treat the full spectrum â€” freckles, sun spots, PIH, flat moles, seborrhoeic keratoses, and more
+                    â€” under one roof. Our multi-modal approach addresses all types of lesions with the appropriate and
                     most effective technology.</p>
                 </div>
               </div>
@@ -412,9 +417,9 @@
                 </h3>
                 <div id="frFaq2" class="accordion-collapse collapse" data-bs-parent="#frecklesFAQ">
                   <div class="accordion-body faq-body">
-                    Mild-to-moderate freckling typically requires 2–4 sessions of Q-switch or pico laser, spaced 4 weeks
+                    Mild-to-moderate freckling typically requires 2â€“4 sessions of Q-switch or pico laser, spaced 4 weeks
                     apart. Deeper or more widespread pigmentation may require additional sessions. Many patients notice
-                    a dramatic improvement after just 1–2 treatments.
+                    a dramatic improvement after just 1â€“2 treatments.
                   </div>
                 </div>
               </div>
@@ -444,7 +449,7 @@
                 <div id="frFaq4" class="accordion-collapse collapse" data-bs-parent="#frecklesFAQ">
                   <div class="accordion-body faq-body">
                     After Q-switch laser for freckles and spots, a small scab or darkening of the treated lesion may
-                    appear for 5–7 days before naturally shedding — revealing lighter skin beneath. It's important not
+                    appear for 5â€“7 days before naturally shedding â€” revealing lighter skin beneath. It's important not
                     to pick at the area. Most patients resume daily activities immediately, with only visible spot
                     marking for a few days.
                   </div>
@@ -460,9 +465,9 @@
                 <div id="frFaq5" class="accordion-collapse collapse" data-bs-parent="#frecklesFAQ">
                   <div class="accordion-body faq-body">
                     Sun protection is absolutely critical after any blemish treatment. Apply broad-spectrum SPF 50 daily
-                    and avoid direct sun exposure for at least 4–6 weeks. Do not pick or scrub treated areas. Use only
+                    and avoid direct sun exposure for at least 4â€“6 weeks. Do not pick or scrub treated areas. Use only
                     the prescribed gentle cleanser, soothing moisturiser, and brightening serum provided in your
-                    post-care kit. Avoid swimming pools and heavy sweating for 48–72 hours post-procedure.
+                    post-care kit. Avoid swimming pools and heavy sweating for 48â€“72 hours post-procedure.
                   </div>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -31,10 +31,15 @@
         <a href="#">Body Contouring</a><span>/</span>
         <span class="text-white">Body Tightening</span>
       </nav>
-      <h1 class="hero-title-lux">Body <span class="text-charcoal-deep italic">Tightening</span></h1>
-      <p class="section-lead text-white-50" style="max-width:600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Body <span class="text-charcoal-deep italic">Tightening</span></h1>
+          <p class="section-lead text-white-50" style="max-width:600px;">
         Restore your skin's firmness and elasticity. Advanced non-surgical body tightening to smooth, lift, and contour your physique.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -73,19 +78,19 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">No Surgery or Scars</h5>
-                  <p class="small text-muted mb-0">Achieve surgical-quality tightening results without incisions, anaesthesia, or scarring — completely non-invasive.</p>
+                  <p class="small text-muted mb-0">Achieve surgical-quality tightening results without incisions, anaesthesia, or scarring â€” completely non-invasive.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Immediate Tightening</h5>
-                  <p class="small text-muted mb-0">Many patients notice an immediate skin contraction after the first session, with progressive improvement over the following 3–6 months.</p>
+                  <p class="small text-muted mb-0">Many patients notice an immediate skin contraction after the first session, with progressive improvement over the following 3â€“6 months.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Treats Multiple Areas</h5>
-                  <p class="small text-muted mb-0">Effective on the abdomen, arms, thighs, buttocks, neck, and face — comprehensively addressing skin laxity across the body.</p>
+                  <p class="small text-muted mb-0">Effective on the abdomen, arms, thighs, buttocks, neck, and face â€” comprehensively addressing skin laxity across the body.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -172,7 +177,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Preparation & Gel Application</h4>
-                <p class="small text-muted">The treatment area is cleansed and a conductive gel is applied to the skin surface. For RF treatments, the procedure is virtually painless — no numbing is required.</p>
+                <p class="small text-muted">The treatment area is cleansed and a conductive gel is applied to the skin surface. For RF treatments, the procedure is virtually painless â€” no numbing is required.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Energy Delivery</h4>
@@ -180,7 +185,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Post-Session Care</h4>
-                <p class="small text-muted">A soothing moisturizer or SPF is applied after the session. Mild redness resolves in a few hours and results progressively improve over the following 3–6 months as new collagen builds.</p>
+                <p class="small text-muted">A soothing moisturizer or SPF is applied after the session. Mild redness resolves in a few hours and results progressively improve over the following 3â€“6 months as new collagen builds.</p>
               </div>
             </div>
           </div>
@@ -249,7 +254,7 @@
                 </h3>
                 <div id="bodyTightFaq1" class="accordion-collapse collapse show" data-bs-parent="#bodyTightFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients see an initial tightening after the first session. A course of 4–6 sessions spaced 2–4 weeks apart is typically recommended for optimal, long-lasting results. Collagen continues to remodel and improve for up to 6 months following the treatment course.
+                    Most patients see an initial tightening after the first session. A course of 4â€“6 sessions spaced 2â€“4 weeks apart is typically recommended for optimal, long-lasting results. Collagen continues to remodel and improve for up to 6 months following the treatment course.
                   </div>
                 </div>
               </div>
@@ -273,7 +278,7 @@
                 </h3>
                 <div id="bodyTightFaq3" class="accordion-collapse collapse" data-bs-parent="#bodyTightFAQ">
                   <div class="accordion-body faq-body">
-                    Results typically last 1–2 years depending on the treatment used, the area treated, and the natural pace of your skin's aging process. Maintaining a stable weight, staying hydrated, and using SPF daily will help prolong results. Annual maintenance sessions are recommended.
+                    Results typically last 1â€“2 years depending on the treatment used, the area treated, and the natural pace of your skin's aging process. Maintaining a stable weight, staying hydrated, and using SPF daily will help prolong results. Annual maintenance sessions are recommended.
                   </div>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Hair PRP Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Hair PRP <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Hair PRP <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Harness your body's natural healing power. Our advanced Platelet-Rich Plasma (PRP) therapy delivers concentrated growth factors directly to your hair follicles to stimulate growth and density.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -250,7 +255,7 @@
                 </h3>
                 <div id="pFaq2" class="accordion-collapse collapse" data-bs-parent="#prpFAQ">
                   <div class="accordion-body faq-body">
-                    Results are gradual. Reduced hair fall is often noted after the second session. New hair growth and increased density typically become visible after the 4th session (approximately 3–4 months into the treatment plan).
+                    Results are gradual. Reduced hair fall is often noted after the second session. New hair growth and increased density typically become visible after the 4th session (approximately 3â€“4 months into the treatment plan).
                   </div>
                 </div>
               </div>
@@ -263,7 +268,7 @@
                 </h3>
                 <div id="pFaq3" class="accordion-collapse collapse" data-bs-parent="#prpFAQ">
                   <div class="accordion-body faq-body">
-                    A typical protocol involves a loading phase of 4–6 sessions spaced 3–4 weeks apart. Subsequently, maintenance sessions once every 3–6 months help sustain the hair density and growth results long-term.
+                    A typical protocol involves a loading phase of 4â€“6 sessions spaced 3â€“4 weeks apart. Subsequently, maintenance sessions once every 3â€“6 months help sustain the hair density and growth results long-term.
                   </div>
                 </div>
               </div>
@@ -305,3 +310,4 @@
 </body>
 
 </html>
+

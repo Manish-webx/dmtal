@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Hair Transplant in Gurgaon</span>
       </nav>
-      <h1 class="hero-title-lux">Hair <span class="text-charcoal-deep italic">Transplant</span> in Gurgaon</h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Hair <span class="text-charcoal-deep italic">Transplant</span> in Gurgaon</h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Permanent, natural-looking hair restoration using advanced FUE and FUT techniques performed by expert dermatosurgeons.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -63,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Restore Your Hair Permanently</h2>
                 <p>Hair transplant is the gold-standard solution for permanent hair restoration. At DermaTales, our dermatosurgical team performs state-of-the-art Follicular Unit Extraction (FUE) and Follicular Unit Transplantation (FUT) procedures tailored to your specific pattern of hair loss and aesthetic goals. Every graft is meticulously harvested and implanted to replicate your natural hairline and density.</p>
-                <p>The result is a completely natural appearance — because the transplanted hair is your own, it grows, colours, and behaves exactly like the rest of your hair, for life.</p>
+                <p>The result is a completely natural appearance â€” because the transplanted hair is your own, it grows, colours, and behaves exactly like the rest of your hair, for life.</p>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
@@ -80,19 +85,19 @@
             <div class="row g-4 mt-2">
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">FUE — Follicular Unit Extraction</h5>
+                  <h5 class="fw-bold h6 mb-2">FUE â€” Follicular Unit Extraction</h5>
                   <p class="small text-muted mb-0">Individual follicular units are extracted directly from the donor scalp using a precision micro-punch tool, leaving no linear scar. Ideal for patients who prefer short hairstyles and a quicker recovery.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">FUT — Follicular Unit Transplantation</h5>
+                  <h5 class="fw-bold h6 mb-2">FUT â€” Follicular Unit Transplantation</h5>
                   <p class="small text-muted mb-0">A strip of donor skin is surgically removed and dissected into individual grafts. Allows the highest graft yield in a single session, making it ideal for advanced stages of baldness.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">DHI — Direct Hair Implantation</h5>
+                  <h5 class="fw-bold h6 mb-2">DHI â€” Direct Hair Implantation</h5>
                   <p class="small text-muted mb-0">A specialised FUE variant where grafts are implanted directly using a Choi implanter pen, enabling precise depth, angle, and density control for a natural hairline.</p>
                 </div>
               </div>
@@ -114,7 +119,7 @@
                   <ul class="candidate-list">
                     <li><i class="bi bi-check2 text-gold"></i>Men or women with stable pattern baldness (not actively progressing rapidly).</li>
                     <li><i class="bi bi-check2 text-gold"></i>Individuals with sufficient healthy donor hair at the back and sides of the scalp.</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Those aged 25+ who have had hair loss for at least 2–3 years.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Those aged 25+ who have had hair loss for at least 2â€“3 years.</li>
                     <li><i class="bi bi-check2 text-gold"></i>People with realistic expectations and commitment to post-op care.</li>
                   </ul>
                 </div>
@@ -172,7 +177,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Expert Dermatosurgeons</h4>
-                  <p>All procedures are performed by board-certified dermatologists with advanced training in hair transplant surgery — not technicians.</p>
+                  <p>All procedures are performed by board-certified dermatologists with advanced training in hair transplant surgery â€” not technicians.</p>
                 </div>
               </div>
               <div class="feature-list-item">
@@ -199,29 +204,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="3000">0</div>
-                  <div class="stat-label-local">Transplants Performed</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="98">0</div>
-                  <div class="stat-label-local">% Graft Survival Rate</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Surgical Expertise</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -247,7 +231,7 @@
                 </h3>
                 <div id="htFaq2" class="accordion-collapse collapse" data-bs-parent="#htFAQ">
                   <div class="accordion-body faq-body">
-                    Depending on the number of grafts, a session typically takes 6–10 hours. Larger sessions requiring 3,000+ grafts may be spread across two days for optimal graft quality and patient comfort.
+                    Depending on the number of grafts, a session typically takes 6â€“10 hours. Larger sessions requiring 3,000+ grafts may be spread across two days for optimal graft quality and patient comfort.
                   </div>
                 </div>
               </div>
@@ -259,7 +243,7 @@
                 </h3>
                 <div id="htFaq3" class="accordion-collapse collapse" data-bs-parent="#htFAQ">
                   <div class="accordion-body faq-body">
-                    Transplanted hair sheds within 2–4 weeks after the procedure (normal shedding phase). New growth begins at 3–4 months, and the full, final result is visible at 12–15 months post-surgery.
+                    Transplanted hair sheds within 2â€“4 weeks after the procedure (normal shedding phase). New growth begins at 3â€“4 months, and the full, final result is visible at 12â€“15 months post-surgery.
                   </div>
                 </div>
               </div>
@@ -271,7 +255,7 @@
                 </h3>
                 <div id="htFaq4" class="accordion-collapse collapse" data-bs-parent="#htFAQ">
                   <div class="accordion-body faq-body">
-                    The procedure is performed under local anaesthesia, so you will not feel pain during surgery. Mild soreness and tightness are expected for 3–5 days post-procedure, which is managed with prescribed painkillers.
+                    The procedure is performed under local anaesthesia, so you will not feel pain during surgery. Mild soreness and tightness are expected for 3â€“5 days post-procedure, which is managed with prescribed painkillers.
                   </div>
                 </div>
               </div>
@@ -333,3 +317,5 @@
   </body>
 
 </html>
+
+

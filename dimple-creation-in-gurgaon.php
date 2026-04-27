@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Dimple Creation</span>
       </nav>
-      <h1 class="hero-title-lux">Dimple <span class="text-charcoal-deep italic">Creation</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Dimple <span class="text-charcoal-deep italic">Creation</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         A smile that leaves an impression. Our precise dimpleplasty procedures create charming, natural-looking dimples that appear when you smile, enhancing your facial aesthetics with a quick, safe clinical procedure.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Art of the Dimple</h2>
                 <p>
-                  Natural dimples are actually a small biological quirk—a slight defect in the cheek muscle (buccinator). Despite being an "imperfection," they are universally considered a sign of beauty and charm. Dimple Creation, or Dimpleplasty, is a minimally invasive surgical procedure that replicates this natural look.
+                  Natural dimples are actually a small biological quirkâ€”a slight defect in the cheek muscle (buccinator). Despite being an "imperfection," they are universally considered a sign of beauty and charm. Dimple Creation, or Dimpleplasty, is a minimally invasive surgical procedure that replicates this natural look.
                 </p>
                 <p>
                   At DermaTales, we perform dimple creation with an emphasis on placement and depth. We don't believe in "cookie-cutter" dimples; we carefully mark the position based on your facial anatomy and the way your muscles move when you smile, ensuring the results look entirely organic.
@@ -90,7 +95,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-4 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-3">Quick Recovery</h5>
-                  <p class="small text-muted mb-0">Most patients can resume normal non-strenuous activities within 24–48 hours of the procedure.</p>
+                  <p class="small text-muted mb-0">Most patients can resume normal non-strenuous activities within 24â€“48 hours of the procedure.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -149,7 +154,7 @@
                 </h3>
                 <div id="diFaq1" class="accordion-collapse collapse show" data-bs-parent="#dimpleFAQ">
                   <div class="accordion-body faq-body">
-                    Immediately after surgery, the dimple may be visible even when your face is at rest. However, as the area heals (usually within 1–2 weeks), the dimple will become "dynamic"—meaning it will only appear when you smile or move your cheek muscles, just like a natural dimple.
+                    Immediately after surgery, the dimple may be visible even when your face is at rest. However, as the area heals (usually within 1â€“2 weeks), the dimple will become "dynamic"â€”meaning it will only appear when you smile or move your cheek muscles, just like a natural dimple.
                   </div>
                 </div>
               </div>
@@ -218,3 +223,4 @@
 </body>
 
 </html>
+

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Intimate Lightening</span>
       </nav>
-      <h1 class="hero-title-lux">Intimate Part <span class="text-charcoal-deep italic">Lightening</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Intimate Part <span class="text-charcoal-deep italic">Lightening</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Safe, discreet, and highly effective clinical treatments to address pigmentation in sensitive areas like the bikini line and inner thighs.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -183,7 +188,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -259,3 +263,5 @@
 </body>
 
 </html>
+
+

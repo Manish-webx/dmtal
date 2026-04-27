@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -32,10 +32,15 @@
         <a href="#">Hair Treatments</a><span>/</span>
         <span class="text-white">QR678 Hair Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">QR678 <span class="text-charcoal-deep italic">Hair Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width:600px;">
-        India's most talked-about hair regrowth treatment. QR678 is a patented cocktail of 6 growth factors clinically proven to stop hair fall and restore density — non-surgically.
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">QR678 <span class="text-charcoal-deep italic">Hair Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width:600px;">
+        India's most talked-about hair regrowth treatment. QR678 is a patented cocktail of 6 growth factors clinically proven to stop hair fall and restore density â€” non-surgically.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -51,7 +56,7 @@
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">What is QR678?</h2>
-                <p>QR678 is a proprietary, patented hair growth factor formulation developed by dermatologists. It is a unique blend of six plant-derived growth factors — including VEGF, IGF-1, FGF, KGF, EGF, and PDGF — specifically chosen for their proven ability to stimulate hair follicle proliferation, extend the growth phase, and increase hair shaft diameter.</p>
+                <p>QR678 is a proprietary, patented hair growth factor formulation developed by dermatologists. It is a unique blend of six plant-derived growth factors â€” including VEGF, IGF-1, FGF, KGF, EGF, and PDGF â€” specifically chosen for their proven ability to stimulate hair follicle proliferation, extend the growth phase, and increase hair shaft diameter.</p>
                 <p>Unlike general Mesotherapy or PRP, QR678 delivers a standardized, consistent dose of scientifically validated growth factors in every session. At DermaTales, we administer QR678 with precision micro-injection technique for maximum follicular penetration and results.</p>
               </div>
               <div class="col-md-5">
@@ -70,7 +75,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Patented Formula</h5>
-                  <p class="small text-muted mb-0">QR678 is a patent-protected, clinically validated formulation — not a generic cocktail. Every vial delivers the exact same proven growth factor concentration.</p>
+                  <p class="small text-muted mb-0">QR678 is a patent-protected, clinically validated formulation â€” not a generic cocktail. Every vial delivers the exact same proven growth factor concentration.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -82,7 +87,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">6 Targeted Growth Factors</h5>
-                  <p class="small text-muted mb-0">The six growth factors in QR678 work in synergy — some stimulate new follicle growth, some extend the anagen phase, and others improve scalp vascularization.</p>
+                  <p class="small text-muted mb-0">The six growth factors in QR678 work in synergy â€” some stimulate new follicle growth, some extend the anagen phase, and others improve scalp vascularization.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -100,7 +105,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Zero Downtime</h5>
-                  <p class="small text-muted mb-0">Sessions take under 30 minutes and require no recovery time — you can style your hair and carry on with your day immediately after treatment.</p>
+                  <p class="small text-muted mb-0">Sessions take under 30 minutes and require no recovery time â€” you can style your hair and carry on with your day immediately after treatment.</p>
                 </div>
               </div>
             </div>
@@ -127,7 +132,7 @@
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Active scalp infections, severe psoriasis, or open sores in the treatment area.</li>
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnant or breastfeeding women.</li>
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Patients with known allergies to plant-derived proteins (requires allergy screening).</li>
-                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Complete advanced baldness (Norwood 6–7) with no remaining viable follicles.</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Complete advanced baldness (Norwood 6â€“7) with no remaining viable follicles.</li>
                   </ul>
                 </div>
               </div>
@@ -144,7 +149,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Scalp Cleansing & Numbing</h4>
-                <p class="small text-muted">The scalp is cleansed to remove sebum and product residue. A topical numbing cream is applied for 20–30 minutes to ensure a comfortable, virtually painless procedure.</p>
+                <p class="small text-muted">The scalp is cleansed to remove sebum and product residue. A topical numbing cream is applied for 20â€“30 minutes to ensure a comfortable, virtually painless procedure.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">QR678 Micro-Injection</h4>
@@ -152,7 +157,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Post-Treatment Care</h4>
-                <p class="small text-muted">A soothing scalp serum is applied after injections. Avoid washing the scalp for 12–24 hours. Mild redness or tiny bumps resolve within a few hours. No downtime required.</p>
+                <p class="small text-muted">A soothing scalp serum is applied after injections. Avoid washing the scalp for 12â€“24 hours. Mild redness or tiny bumps resolve within a few hours. No downtime required.</p>
               </div>
             </div>
           </div>
@@ -172,7 +177,7 @@
                 <div class="feature-list-icon"><i class="bi bi-star-fill"></i></div>
                 <div class="feature-list-content">
                   <h4>Authentic QR678 Formula</h4>
-                  <p>We use only the original, certified QR678 formulation — not generic alternatives — guaranteeing the clinical efficacy and safety established in published studies.</p>
+                  <p>We use only the original, certified QR678 formulation â€” not generic alternatives â€” guaranteeing the clinical efficacy and safety established in published studies.</p>
                 </div>
               </div>
               <div class="feature-list-item">
@@ -233,7 +238,7 @@
                 </h3>
                 <div id="qr678Faq2" class="accordion-collapse collapse" data-bs-parent="#qr678FAQ">
                   <div class="accordion-body faq-body">
-                    A standard QR678 protocol consists of 6–8 sessions spaced 2–3 weeks apart. Clinical studies show that most patients see measurable hair density improvement after 4 sessions. Maintenance sessions every 3–6 months are recommended after the initial course to sustain and build on results.
+                    A standard QR678 protocol consists of 6â€“8 sessions spaced 2â€“3 weeks apart. Clinical studies show that most patients see measurable hair density improvement after 4 sessions. Maintenance sessions every 3â€“6 months are recommended after the initial course to sustain and build on results.
                   </div>
                 </div>
               </div>
@@ -285,3 +290,4 @@
 </body>
 
 </html>
+

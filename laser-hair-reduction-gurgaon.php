@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,11 +42,16 @@
         <span>/</span>
         <span class="text-white">Laser Hair Reduction</span>
       </nav>
-      <h1 class="hero-title-lux">Laser Hair <span class="text-charcoal-deep italic">Reduction</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Laser Hair <span class="text-charcoal-deep italic">Reduction</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Effortless smoothness, permanently. Our medical-grade laser systems provide safe, effective, and virtually
         painless hair reduction for all body areas and skin tones.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -65,7 +70,7 @@
                 <p>
                   Traditional hair removal methods like waxing, shaving, and threading are temporary, time-consuming,
                   and often painful. They can also lead to ingrown hairs, skin irritation, and darkening. Laser Hair
-                  Reduction at DermaTales offers a long-term solution that targets the root cause — the hair follicle
+                  Reduction at DermaTales offers a long-term solution that targets the root cause â€” the hair follicle
                   itself.
                 </p>
                 <p>
@@ -298,9 +303,9 @@
                 </h3>
                 <div id="hairFaq1" class="accordion-collapse collapse show" data-bs-parent="#hairFAQ">
                   <div class="accordion-body faq-body">
-                    Most individuals require 6 to 8 sessions spaced 4–6 weeks apart. This is because hair grows in
+                    Most individuals require 6 to 8 sessions spaced 4â€“6 weeks apart. This is because hair grows in
                     cycles, and the laser can only target hair follicles in the active growth phase (Anagen). Each
-                    session delivers a 15–20% reduction.
+                    session delivers a 15â€“20% reduction.
                   </div>
                 </div>
               </div>

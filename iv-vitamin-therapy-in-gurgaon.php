@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">IV Vitamin Therapy</span>
       </nav>
-      <h1 class="hero-title-lux">IV Vitamin <span class="text-charcoal-deep italic">Therapy</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">IV Vitamin <span class="text-charcoal-deep italic">Therapy</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Radiance from the inside out. Our clinical IV infusions deliver high concentrations of vital nutrients directly into your bloodstream for maximum bioavailability, instant glow, and systemic wellness.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -160,7 +165,7 @@
                 </h3>
                 <div id="ivFaq3" class="accordion-collapse collapse" data-bs-parent="#ivFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients experience an "IV Glow" and an energy boost within 24 hours of the first session. For lasting skin-brightening results (with Glutathione), a series of 6–10 sessions is typically recommended.
+                    Most patients experience an "IV Glow" and an energy boost within 24 hours of the first session. For lasting skin-brightening results (with Glutathione), a series of 6â€“10 sessions is typically recommended.
                   </div>
                 </div>
               </div>
@@ -203,3 +208,4 @@
 </body>
 
 </html>
+

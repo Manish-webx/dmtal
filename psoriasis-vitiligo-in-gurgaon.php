@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Psoriasis &amp; Vitiligo</span>
       </nav>
-      <h1 class="hero-title-lux">Psoriasis &amp; <span class="text-charcoal-deep italic">Vitiligo</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Psoriasis &amp; <span class="text-charcoal-deep italic">Vitiligo</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Specialized clinical management for Psoriasis and Vitiligo using targeted Phototherapy, Biologics, and advanced grafting techniques.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -148,7 +153,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Personalized Protocol Design</h4>
-                <p class="small text-muted">A bespoke treatment plan created — whether Phototherapy, Biologics, topical agents, or surgical grafting based on your case.</p>
+                <p class="small text-muted">A bespoke treatment plan created â€” whether Phototherapy, Biologics, topical agents, or surgical grafting based on your case.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Treatment Initiation</h4>
@@ -179,7 +184,7 @@
                 <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
                 <div class="feature-list-content">
                   <h4>Advanced NBUVB Phototherapy</h4>
-                  <p>We use FDA-approved Narrowband UVB units — the gold standard in phototherapy — for targeted, measurable results in both Psoriasis and Vitiligo management.</p>
+                  <p>We use FDA-approved Narrowband UVB units â€” the gold standard in phototherapy â€” for targeted, measurable results in both Psoriasis and Vitiligo management.</p>
                 </div>
               </div>
 
@@ -203,29 +208,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="50">0</div>
-                  <div class="stat-label-local">Techniques Used</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -239,7 +223,7 @@
                 </h3>
                 <div id="pvFaq1" class="accordion-collapse collapse show" data-bs-parent="#pvFAQ">
                   <div class="accordion-body faq-body">
-                    Psoriasis is a chronic condition that can be effectively controlled — many patients achieve complete clearance with modern Biologics. Vitiligo can be repigmented, especially stable patches, through phototherapy or surgical grafting. While a complete biological cure does not yet exist, significant and lasting improvement is achievable with the right treatment protocol.
+                    Psoriasis is a chronic condition that can be effectively controlled â€” many patients achieve complete clearance with modern Biologics. Vitiligo can be repigmented, especially stable patches, through phototherapy or surgical grafting. While a complete biological cure does not yet exist, significant and lasting improvement is achievable with the right treatment protocol.
                   </div>
                 </div>
               </div>
@@ -251,7 +235,7 @@
                 </h3>
                 <div id="pvFaq2" class="accordion-collapse collapse" data-bs-parent="#pvFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients with Psoriasis or Vitiligo undergo 2–3 NBUVB sessions per week. Visible improvement is often noted after 20–30 sessions, though a full course may span 3–6 months. The schedule is tailored to your individual response and skin type.
+                    Most patients with Psoriasis or Vitiligo undergo 2â€“3 NBUVB sessions per week. Visible improvement is often noted after 20â€“30 sessions, though a full course may span 3â€“6 months. The schedule is tailored to your individual response and skin type.
                   </div>
                 </div>
               </div>
@@ -263,7 +247,7 @@
                 </h3>
                 <div id="pvFaq3" class="accordion-collapse collapse" data-bs-parent="#pvFAQ">
                   <div class="accordion-body faq-body">
-                    Yes. Melanocyte transfer (non-cultured epidermal cell suspension) is a well-established, minimally invasive surgical procedure for stable Vitiligo. Success rates for repigmentation are high—often exceeding 80%—when performed on stable patches in appropriate anatomical sites by an experienced dermatologist.
+                    Yes. Melanocyte transfer (non-cultured epidermal cell suspension) is a well-established, minimally invasive surgical procedure for stable Vitiligo. Success rates for repigmentation are highâ€”often exceeding 80%â€”when performed on stable patches in appropriate anatomical sites by an experienced dermatologist.
                   </div>
                 </div>
               </div>
@@ -313,3 +297,5 @@
   </body>
 
 </html>
+
+

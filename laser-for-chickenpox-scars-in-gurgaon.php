@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Laser For Chickenpox Scars</span>
       </nav>
-      <h1 class="hero-title-lux">Laser For <span class="text-charcoal-deep italic">Chickenpox Scars</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Laser For <span class="text-charcoal-deep italic">Chickenpox Scars</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Smooth away the past. Advanced Fractional Lasers and targeted remodeling techniques to lift and fill deep, depressed chickenpox marks.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   Chickenpox often leaves behind highly distinct, atrophic (depressed) scars. Unlike acne scars which are usually numerous and clustered, chickenpox scars are often solitary, sharply defined, and quite deep. They occur because the viral infection severely damages the dermal layer, leading to collagen destruction.
                 </p>
                 <p>
-                  Because these scars are deep and "punched out," standard chemical peels or microdermabrasion are ineffective. At DermaTales, we use aggressive collagen-stimulating modalities—primarily <strong>Fractional CO2 Lasers</strong> and <strong>MNRF</strong>—to vaporize the rigid edges of the scar and stimulate massive new tissue growth to fill in the depression from the bottom up.
+                  Because these scars are deep and "punched out," standard chemical peels or microdermabrasion are ineffective. At DermaTales, we use aggressive collagen-stimulating modalitiesâ€”primarily <strong>Fractional CO2 Lasers</strong> and <strong>MNRF</strong>â€”to vaporize the rigid edges of the scar and stimulate massive new tissue growth to fill in the depression from the bottom up.
                 </p>
               </div>
               <div class="col-md-5">
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -258,3 +262,5 @@
 </body>
 
 </html>
+
+

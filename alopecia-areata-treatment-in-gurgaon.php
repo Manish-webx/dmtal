@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Alopecia Areata</span>
       </nav>
-      <h1 class="hero-title-lux">Alopecia <span class="text-charcoal-deep italic">Areata</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Alopecia <span class="text-charcoal-deep italic">Areata</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Targeted medical intervention for autoimmune patchy hair loss. Fast-acting therapies to calm inflammation and trigger new hair growth.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   <strong>Alopecia Areata</strong> is an autoimmune disorder where the body's immune system mistakenly attacks healthy hair follicles. This results in sudden hair loss, most commonly appearing as one or more distinct, coin-sized smooth bald patches on the scalp, beard, or eyebrows.
                 </p>
                 <p>
-                  While the hair loss can be highly unpredictable—and in severe cases can progress to total loss of scalp hair (Alopecia Totalis) or body hair (Alopecia Universalis)—the hair follicles themselves are not permanently destroyed. With prompt and aggressive dermatological treatment, the hair can absolutely regrow.
+                  While the hair loss can be highly unpredictableâ€”and in severe cases can progress to total loss of scalp hair (Alopecia Totalis) or body hair (Alopecia Universalis)â€”the hair follicles themselves are not permanently destroyed. With prompt and aggressive dermatological treatment, the hair can absolutely regrow.
                 </p>
               </div>
               <div class="col-md-5">
@@ -106,7 +111,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -160,3 +164,5 @@
 </body>
 
 </html>
+
+

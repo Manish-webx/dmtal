@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Dandruff & Scalp Psoriasis</span>
       </nav>
-      <h1 class="hero-title-lux">Scalp <span class="text-charcoal-deep italic">Conditions</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Scalp <span class="text-charcoal-deep italic">Conditions</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Relief from persistent itching, heavy flaking, and inflammation. Advanced clinical management for Seborrheic Dermatitis and Scalp Psoriasis.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   A flaky, itchy scalp is not just embarrassing; severe inflammation can weaken hair roots and lead to temporary hair shedding. Two of the most common and stubborn culprits are <strong>Severe Dandruff (Seborrheic Dermatitis)</strong> and <strong>Scalp Psoriasis</strong>.
                 </p>
                 <p>
-                  While they may look similar—presenting as red patches and white or silvery scales—they are fundamentally different diseases. Dandruff is driven by an overgrowth of naturally occurring yeast (Malassezia) combined with excess oil production. Psoriasis is an autoimmune condition causing rapid buildup of skin cells into thick plaques. Proper medical diagnosis at DermaTales ensures you receive the correct treatment.
+                  While they may look similarâ€”presenting as red patches and white or silvery scalesâ€”they are fundamentally different diseases. Dandruff is driven by an overgrowth of naturally occurring yeast (Malassezia) combined with excess oil production. Psoriasis is an autoimmune condition causing rapid buildup of skin cells into thick plaques. Proper medical diagnosis at DermaTales ensures you receive the correct treatment.
                 </p>
               </div>
               <div class="col-md-5">
@@ -97,7 +102,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
         </div> <!-- End Main Content -->
 
@@ -131,3 +135,5 @@
 </body>
 
 </html>
+
+

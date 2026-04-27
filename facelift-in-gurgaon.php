@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Facelift Surgery</span>
       </nav>
-      <h1 class="hero-title-lux">Facelift <span class="text-charcoal-deep italic">Surgery</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Facelift <span class="text-charcoal-deep italic">Surgery</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Rewrite the narrative of aging. Our comprehensive facelift procedures target deep tissue structures to restore youthful contours, define your jawline, and provide a naturally rejuvenated appearance.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -81,7 +86,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How a Modern Facelift Works</h2>
             <p>
-              The procedure involves discreet incisions typically placed in the hairline and around the natural contours of the ear. The surgeon carefully lifts the skin to access the **SMAS (Superficial Musculo-Aponeurotic System)**—the deeper layer of facial tissue. By tightening this foundation and removing redundant skin, we create a firm, well-defined jawline and neck. Results are further enhanced by expertly redistributing facial fat to restore youthful volume in the mid-face and cheeks.
+              The procedure involves discreet incisions typically placed in the hairline and around the natural contours of the ear. The surgeon carefully lifts the skin to access the **SMAS (Superficial Musculo-Aponeurotic System)**â€”the deeper layer of facial tissue. By tightening this foundation and removing redundant skin, we create a firm, well-defined jawline and neck. Results are further enhanced by expertly redistributing facial fat to restore youthful volume in the mid-face and cheeks.
             </p>
           </div>
 
@@ -180,7 +185,7 @@
                 <div class="feature-list-icon"><i class="bi bi-star"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural-Refined Aesthetic</h4>
-                  <p>Our philosophy is "Invisible Rejuvenation"—restoring your face to how it looked years ago, not changing how you look.</p>
+                  <p>Our philosophy is "Invisible Rejuvenation"â€”restoring your face to how it looked years ago, not changing how you look.</p>
                 </div>
               </div>
               
@@ -204,29 +209,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="2000">0</div>
-                  <div class="stat-label-local">Lifts Performed</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Result Longevity (Years)</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
 
 
@@ -316,3 +300,5 @@
   </body>
 
 </html>
+
+

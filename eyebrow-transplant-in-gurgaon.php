@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Eyebrow Transplant</span>
       </nav>
-      <h1 class="hero-title-lux">Eyebrow <span class="text-charcoal-deep italic">Transplant</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Eyebrow <span class="text-charcoal-deep italic">Transplant</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Frame your face flawlessly. Precision FUE/DHI techniques to permanently restore dense, natural-looking eyebrows. Ditch the daily pencils forever.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -82,7 +87,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">The Intricacy of Brow Implantation</h2>
             <p>
-              Eyebrow hair behaves very differently from scalp hair. It grows flush against the skin and changes direction abruptly—hairs at the inner edge point upward, while hairs at the tail point horizontally. To mimic this, our surgeons use the finest DHI Implanter Pens. We exclusively harvest single-hair follicular units (often from the nape of the neck or behind the ear for finer texture) and implant them at extreme flat angles. We meticulously reconstruct the "herringbone" pattern of a natural brow.
+              Eyebrow hair behaves very differently from scalp hair. It grows flush against the skin and changes direction abruptlyâ€”hairs at the inner edge point upward, while hairs at the tail point horizontally. To mimic this, our surgeons use the finest DHI Implanter Pens. We exclusively harvest single-hair follicular units (often from the nape of the neck or behind the ear for finer texture) and implant them at extreme flat angles. We meticulously reconstruct the "herringbone" pattern of a natural brow.
             </p>
           </div>
 
@@ -181,7 +186,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -257,3 +261,5 @@
 </body>
 
 </html>
+
+

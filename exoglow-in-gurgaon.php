@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">ExoGlow Rejuvenation</span>
       </nav>
-      <h1 class="hero-title-lux">ExoGlow <span class="text-charcoal-deep italic">Rejuvenation</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">ExoGlow <span class="text-charcoal-deep italic">Rejuvenation</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Harness the regenerative power of exosomes. ExoGlow represents the pinnacle of cellular skincare, delivering signaling molecules directly into the skin to trigger deep repair and a luminous glow.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Skin Biology. Evolved.</h2>
                 <p>
-                  ExoGlow is not just another medifacial; it is a bio-regenerative treatment that communicates with your cells. At its core are **Exosomes** — microscopic messengers derived from stem cells that contain a concentrated cocktail of growth factors, peptides, and signals for repair.
+                  ExoGlow is not just another medifacial; it is a bio-regenerative treatment that communicates with your cells. At its core are **Exosomes** â€” microscopic messengers derived from stem cells that contain a concentrated cocktail of growth factors, peptides, and signals for repair.
                 </p>
                 <p>
                   As we age, our cells' ability to communicate and repair itself diminishes. ExoGlow restores this communication by delivering trillions of these "repair signals" directly into the skin's deeper layers, reversing damage and restoring a youthful, healthy radiance.
@@ -159,7 +164,7 @@
                 </h3>
                 <div id="exoFaq1" class="accordion-collapse collapse show" data-bs-parent="#exoglowFAQ">
                   <div class="accordion-body faq-body">
-                    While a single session provides a noticeable glow and improved hydration, we recommend a series of 3 to 5 sessions spaced 3–4 weeks apart for significant cellular repair and anti-aging benefits.
+                    While a single session provides a noticeable glow and improved hydration, we recommend a series of 3 to 5 sessions spaced 3â€“4 weeks apart for significant cellular repair and anti-aging benefits.
                   </div>
                 </div>
               </div>
@@ -172,7 +177,7 @@
                 </h3>
                 <div id="exoFaq2" class="accordion-collapse collapse" data-bs-parent="#exoglowFAQ">
                   <div class="accordion-body faq-body">
-                    When delivered via ultrasound or nano-infusion, there is zero downtime. If microneedling is used as the delivery method, you may experience mild redness for 12–24 hours, which typically resolves very quickly.
+                    When delivered via ultrasound or nano-infusion, there is zero downtime. If microneedling is used as the delivery method, you may experience mild redness for 12â€“24 hours, which typically resolves very quickly.
                   </div>
                 </div>
               </div>
@@ -241,3 +246,4 @@
 </body>
 
 </html>
+

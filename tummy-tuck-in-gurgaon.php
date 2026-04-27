@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Tummy Tuck</span>
       </nav>
-      <h1 class="hero-title-lux">Tummy <span class="text-charcoal-deep italic">Tuck</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Tummy <span class="text-charcoal-deep italic">Tuck</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Restore confidence in your core. Our abdominoplasty procedures are designed to remove redundant skin, repair weakened abdominal muscles, and create a smoother, firmer abdominal profile after pregnancy or weight loss.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -135,7 +140,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Month 2: Full Activity</h4>
-                <p class="small text-muted">Core exercises and heavy lifting can usually be resumed after 6–8 weeks. Scars begin to mature and fade.</p>
+                <p class="small text-muted">Core exercises and heavy lifting can usually be resumed after 6â€“8 weeks. Scars begin to mature and fade.</p>
               </div>
             </div>
           </div>
@@ -153,7 +158,7 @@
                 </h3>
                 <div id="ttFaq1" class="accordion-collapse collapse show" data-bs-parent="#tummyFAQ">
                   <div class="accordion-body faq-body">
-                    While a tummy tuck does result in a permanent scar, we place it very low—at the bikini line level—so it is completely hidden by underwear and swimsuits. We also provide laser scar revision protocols post-surgery to further minimize its appearance.
+                    While a tummy tuck does result in a permanent scar, we place it very lowâ€”at the bikini line levelâ€”so it is completely hidden by underwear and swimsuits. We also provide laser scar revision protocols post-surgery to further minimize its appearance.
                   </div>
                 </div>
               </div>
@@ -222,3 +227,4 @@
 </body>
 
 </html>
+

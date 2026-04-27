@@ -32,6 +32,6 @@
     <h3 class="dr-widget-name">Dr. Pooja Varshney</h3>
     <div class="dr-widget-title">MD (Dermatology), MBBS</div>
     <p class="small text-muted mb-4">Secured first rank in PG exams with 10+ years of clinical excellence.</p>
-    <a href="about-doctor-in-gurgaon" class="btn btn-outline-gold btn-sm rounded-pill w-100">Know
+    <a href="dr-pooja-varshney" class="btn btn-outline-gold btn-sm rounded-pill w-100">Know
         More</a>
 </div>

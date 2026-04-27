@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Xanthelasma & Milia Removal</span>
       </nav>
-      <h1 class="hero-title-lux">Xanthelasma & <span class="text-charcoal-deep italic">Milia Removal</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Xanthelasma & <span class="text-charcoal-deep italic">Milia Removal</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Restore the clarity of your skin. Our precision clinical techniques safely eliminate unsightly cholesterol deposits and keratin cysts around the delicate eye area with minimal scarring and maximum safety.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -181,7 +186,7 @@
                 </h3>
                 <div id="xaFaq3" class="accordion-collapse collapse" data-bs-parent="#xanthelasmaFAQ">
                   <div class="accordion-body faq-body">
-                    A small scab will form at the site of removal. For Milia, this usually heals within 3–5 days. For Xanthelasma removed via RF or laser, it typically takes 7–10 days for the scab to shed and the skin to look smooth again.
+                    A small scab will form at the site of removal. For Milia, this usually heals within 3â€“5 days. For Xanthelasma removed via RF or laser, it typically takes 7â€“10 days for the scab to shed and the skin to look smooth again.
                   </div>
                 </div>
               </div>
@@ -224,3 +229,4 @@
 </body>
 
 </html>
+

@@ -78,6 +78,9 @@
                       <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation</a></li>
                       <li><a href="allergy-treatment-in-gurgaon">Allergy</a></li>
                       <li><a href="psoriasis-vitiligo-in-gurgaon">Psoriasis & Vitiligo</a></li>
+                      <li><a href="fungal-infection-treatment-in-gurgaon">Fungal Infection</a></li>
+                      <li><a href="eczema-treatment-in-gurgaon">Eczema</a></li>
+                      <li><a href="rosacea-treatment-in-gurgaon">Rosacea</a></li>
                     </ul>
                     <h6 class="mega-heading mt-3">Dermatosurgery</h6>
                     <ul class="mega-list">
@@ -87,6 +90,7 @@
                       <li><a href="ear-lobe-repair-in-gurgaon">Ear Lobe Repair</a></li>
                       <li><a href="cyst-lipoma-treatment-in-gurgaon">Cyst & Lipoma Treatment</a></li>
                       <li><a href="nail-surgery-in-gurgaon">Nail Surgery</a></li>
+                      <li><a href="skin-biopsy-in-gurgaon">Skin Biopsy</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -109,15 +113,15 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Anti-Aging Treatments</h6>
                     <ul class="mega-list">
-                      <li><a href="#">BTX-A Treatment</a></li>
-                      <li><a href="#">Filler Treatment</a></li>
+                      <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment</a></li>
+                      <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
                       <li><a href="vampire-facial-in-gurgaon">Vampire Facelift</a></li>
                       <li><a href="threads-in-gurgaon">Thread Lift</a></li>
-                      <li><a href="#">RF & MNRF Treatments</a></li>
+                      <li><a href="mnrf-treatment-in-gurgaon">MNRF Treatments</a></li>
                       <li><a href="hifu-in-gurgaon">HIFU Treatment</a></li>
                       <li><a href="skin-laser-treatment-in-gurgaon">Laser Resurfacing</a></li>
                       <li><a href="iv-glutathione-therapy-in-gurgaon">IV Drip Therapy</a></li>
-                      <li><a href="#">Aging Face Treatment</a></li>
+                      <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
@@ -311,7 +315,7 @@
                       <h6 class="mega-promo-title">Safety First</h6>
                       <p class="mega-promo-text">All surgeries performed by board-certified specialists in
                         NABH-accredited facilities with comprehensive pre and post-operative care.</p>
-                      <a href="#appointment" class="btn btn-gold btn-sm rounded-pill">Consult Now</a>
+                      <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill">Consult Now</a>
                     </div>
                   </div>
                 </div>
@@ -355,7 +359,7 @@
               About
             </a>
             <ul class="dropdown-menu dropdown-menu-elegant">
-              <li><a class="dropdown-item" href="about-doctor-in-gurgaon">About Doctor</a></li>
+              <li><a class="dropdown-item" href="dr-pooja-varshney">About Doctor</a></li>
               <li><a class="dropdown-item" href="#">Gurgaon Clinic</a></li>
               <li><a class="dropdown-item" href="#">Delhi Clinic</a></li>
             </ul>

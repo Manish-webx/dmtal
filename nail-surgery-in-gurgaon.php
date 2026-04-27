@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Nail Surgery &amp; Relief</span>
       </nav>
-      <h1 class="hero-title-lux">Nail Surgery <span class="text-charcoal-deep italic">&amp; Relief</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Nail Surgery <span class="text-charcoal-deep italic">&amp; Relief</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Radical relief for painful ingrown nails and matrix disorders. Professional clinical care with a focus on permanent solutions.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -203,29 +208,8 @@
             </div>
           </div>
 
-          <!-- STATS -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="98">0</div>
-                  <div class="stat-label-local">% Success Rate</div>
-                </div>
-              </div>
-            </div>
-          </div>
+
+
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -239,7 +223,7 @@
                 </h3>
                 <div id="nailFaq1" class="accordion-collapse collapse show" data-bs-parent="#nailFAQ">
                   <div class="accordion-body faq-body">
-                    No. A digital nerve block (local anesthesia) is administered at the base of the toe before the procedure. You will feel absolutely no pain during surgery. Some mild soreness may be felt for 1–2 days afterward, which is easily managed with over-the-counter pain relief.
+                    No. A digital nerve block (local anesthesia) is administered at the base of the toe before the procedure. You will feel absolutely no pain during surgery. Some mild soreness may be felt for 1â€“2 days afterward, which is easily managed with over-the-counter pain relief.
                   </div>
                 </div>
               </div>
@@ -263,7 +247,7 @@
                 </h3>
                 <div id="nailFaq3" class="accordion-collapse collapse" data-bs-parent="#nailFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients can walk normally right after the procedure. The treated area requires simple dressing changes at home for about 2–4 weeks until fully healed. We provide detailed aftercare instructions and schedule follow-up appointments to ensure smooth recovery.
+                    Most patients can walk normally right after the procedure. The treated area requires simple dressing changes at home for about 2â€“4 weeks until fully healed. We provide detailed aftercare instructions and schedule follow-up appointments to ensure smooth recovery.
                   </div>
                 </div>
               </div>
@@ -313,3 +297,5 @@
   </body>
 
 </html>
+
+

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Beard Transplant</span>
       </nav>
-      <h1 class="hero-title-lux">Beard <span class="text-charcoal-deep italic">Transplant</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Beard <span class="text-charcoal-deep italic">Transplant</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Sculpt a stronger, more masculine profile. Advanced FUE and DHI techniques to permanently fill in patchy facial hair or create a full, thick beard.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -66,7 +71,7 @@
                   A well-defined beard can dramatically enhance a man's facial structure and jawline. However, genetics, scarring, or conditions like alopecia can lead to patchy, thin, or entirely absent facial hair. If oils and serums have failed you, a <strong>Beard Transplant</strong> is the only permanent solution.
                 </p>
                 <p>
-                  At DermaTales, we use precise FUE and DHI extraction techniques to harvest hair from the back of the scalp and artistically implant them into the beard, mustache, or sideburn areas. The transplanted hair acts exactly like normal facial hair—it will grow, it can be shaved, and it will require trimming.
+                  At DermaTales, we use precise FUE and DHI extraction techniques to harvest hair from the back of the scalp and artistically implant them into the beard, mustache, or sideburn areas. The transplanted hair acts exactly like normal facial hairâ€”it will grow, it can be shaved, and it will require trimming.
                 </p>
               </div>
               <div class="col-md-5">
@@ -182,7 +187,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -258,3 +262,5 @@
 </body>
 
 </html>
+
+

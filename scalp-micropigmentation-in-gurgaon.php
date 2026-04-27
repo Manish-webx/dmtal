@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Scalp Micropigmentation</span>
       </nav>
-      <h1 class="hero-title-lux">Scalp <span class="text-charcoal-deep italic">Micropigmentation</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Scalp <span class="text-charcoal-deep italic">Micropigmentation</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         The ultimate non-surgical hair loss solution. Expertly applied medical-grade pigments to replicate natural hair follicles, creating a buzz-cut illusion or adding density.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -183,7 +188,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -259,3 +263,5 @@
 </body>
 
 </html>
+
+

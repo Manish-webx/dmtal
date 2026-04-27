@@ -23,6 +23,9 @@
               <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation</a></li>
               <li><a href="allergy-treatment-in-gurgaon">Allergy</a></li>
               <li><a href="psoriasis-vitiligo-in-gurgaon">Psoriasis & Vitiligo</a></li>
+              <li><a href="fungal-infection-treatment-in-gurgaon">Fungal Infection</a></li>
+              <li><a href="eczema-treatment-in-gurgaon">Eczema</a></li>
+              <li><a href="rosacea-treatment-in-gurgaon">Rosacea</a></li>
               <li class="mobile-sub-heading">Dermatosurgery</li>
               <li><a href="mole-wart-removal-in-gurgaon">Mole & Wart Removal</a></li>
               <li><a href="skin-tag-removal-in-gurgaon">Skin Tag Removal</a></li>
@@ -30,6 +33,7 @@
               <li><a href="ear-lobe-repair-in-gurgaon">Ear Lobe Repair</a></li>
               <li><a href="cyst-lipoma-treatment-in-gurgaon">Cyst & Lipoma Treatment</a></li>
               <li><a href="nail-surgery-in-gurgaon">Nail Surgery</a></li>
+              <li><a href="skin-biopsy-in-gurgaon">Skin Biopsy</a></li>
               <li class="mobile-sub-heading">Face Cosmetics</li>
               <li><a href="chemical-peels-in-gurgaon">Chemical Peels</a></li>
               <li><a href="open-pore-treatment-in-gurgaon">Open Pore Treatment</a></li>
@@ -40,7 +44,10 @@
               <li><a href="hydrafacial-md-elite-in-gurgaon">Hydrafacial MD Elite</a></li>
               <li><a href="carbon-laser-facial-in-gurgaon">Carbon Laser Facial</a></li>
               <li class="mobile-sub-heading">Anti-Aging & Lasers</li>
-              <li><a href="#">BTX-A & Fillers</a></li>
+              <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment</a></li>
+              <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
+              <li><a href="mnrf-treatment-in-gurgaon">MNRF Treatment</a></li>
+              <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment</a></li>
               <li><a href="laser-hair-reduction-gurgaon">Laser Hair Reduction</a></li>
               <li><a href="skin-laser-treatment-in-gurgaon">Laser Resurfacing</a></li>
               <li><a href="laser-tattoo-removal-in-gurgaon">Laser Tattoo Removal</a></li>
@@ -147,7 +154,7 @@
           </button>
           <div class="collapse" id="mobAbout">
             <ul class="mobile-sub-nav">
-              <li><a href="about-doctor-in-gurgaon">About Doctor</a></li>
+              <li><a href="dr-pooja-varshney">About Doctor</a></li>
               <li><a href="book-appointment">Gurgaon Clinic</a></li>
               <li><a href="book-appointment">Delhi Clinic</a></li>
             </ul>

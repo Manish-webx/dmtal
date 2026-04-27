@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Male Pattern Baldness</span>
       </nav>
-      <h1 class="hero-title-lux">Male Pattern <span class="text-charcoal-deep italic">Baldness</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Male Pattern <span class="text-charcoal-deep italic">Baldness</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Combat receding hairlines and crown thinning with evidence-based medical and surgical hair restoration therapies.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -147,7 +152,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -201,3 +205,5 @@
 </body>
 
 </html>
+
+

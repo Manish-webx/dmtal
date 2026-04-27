@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,10 +42,15 @@
         <span>/</span>
         <span class="text-white">Facial Tanning / Dull Face</span>
       </nav>
-      <h1 class="hero-title-lux">Facial Tanning / <span class="text-charcoal-deep italic">Dull Face</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
-        Unveil the luminosity beneath. Our multi-modal radiance protocols effectively reverse the effects of sun exposure, pollution, and fatigue — restoring a bright, uniform, and healthy complexion.
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Facial Tanning / <span class="text-charcoal-deep italic">Dull Face</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
+        Unveil the luminosity beneath. Our multi-modal radiance protocols effectively reverse the effects of sun exposure, pollution, and fatigue â€” restoring a bright, uniform, and healthy complexion.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -62,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Beyond Surface Glow</h2>
                 <p>
-                  Facial tanning and a dull complexion are often the results of accumulated damage: UV radiation, urbanization, oxidative stress, and a slow-down in natural cellular turnover. When the skin's surface is covered in microscopic irregularities and excess melanin, it absorbs light rather than reflecting it — leading to a "dull" or "tired" appearance.
+                  Facial tanning and a dull complexion are often the results of accumulated damage: UV radiation, urbanization, oxidative stress, and a slow-down in natural cellular turnover. When the skin's surface is covered in microscopic irregularities and excess melanin, it absorbs light rather than reflecting it â€” leading to a "dull" or "tired" appearance.
                 </p>
                 <p>
                   At DermaTales, we tackle dullness at every layer. Our treatments do not just exfoliate; they suppress melanin overproduction, deeply hydrate the skin, and stimulate the growth of fresh, reflective skin cells.
@@ -186,7 +191,7 @@
                 </h3>
                 <div id="tnFaq3" class="accordion-collapse collapse" data-bs-parent="#tanningFAQ">
                   <div class="accordion-body faq-body">
-                    We highly recommend avoiding direct sun exposure for 48–72 hours post-treatment. Sun protection (SPF 50+) is mandatory after every session to prevent the tan from returning and to protect the fresh skin cells.
+                    We highly recommend avoiding direct sun exposure for 48â€“72 hours post-treatment. Sun protection (SPF 50+) is mandatory after every session to prevent the tan from returning and to protect the fresh skin cells.
                   </div>
                 </div>
               </div>
@@ -229,3 +234,4 @@
 </body>
 
 </html>
+

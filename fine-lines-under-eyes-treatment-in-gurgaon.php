@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,11 +42,16 @@
         <span>/</span>
         <span class="text-white">Fine Lines Under Eyes</span>
       </nav>
-      <h1 class="hero-title-lux">Fine Lines <span class="text-charcoal-deep italic">Under Eyes</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Fine Lines <span class="text-charcoal-deep italic">Under Eyes</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Refresh your gaze. Our specialized periorbital rejuvenation protocols target fine lines and crepey skin,
         restoring elasticity and brightness to the delicate eye area.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -214,7 +219,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Topical Numbing</h4>
-                <p class="small text-muted">A high-potency numbing cream is applied for 30–45 minutes to ensure absolute
+                <p class="small text-muted">A high-potency numbing cream is applied for 30â€“45 minutes to ensure absolute
                   comfort during the precision treatment.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
@@ -312,7 +317,7 @@
                 </h3>
                 <div id="eFaq2" class="accordion-collapse collapse" data-bs-parent="#eyeFAQ">
                   <div class="accordion-body faq-body">
-                    It depends on the treatment. Skin boosters last 6–9 months, while results from laser resurfacing and
+                    It depends on the treatment. Skin boosters last 6â€“9 months, while results from laser resurfacing and
                     PRP can last over a year as they permanently improve the skin's collagen structure.
                   </div>
                 </div>
@@ -326,8 +331,8 @@
                 </h3>
                 <div id="eFaq3" class="accordion-collapse collapse" data-bs-parent="#eyeFAQ">
                   <div class="accordion-body faq-body">
-                    Skin boosters and PRP have minimal downtime (1–2 days of mild swelling). Fractional lasers may
-                    require 3–5 days of "social downtime" as the skin heals and regenerates.
+                    Skin boosters and PRP have minimal downtime (1â€“2 days of mild swelling). Fractional lasers may
+                    require 3â€“5 days of "social downtime" as the skin heals and regenerates.
                   </div>
                 </div>
               </div>

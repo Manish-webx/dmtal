@@ -52,8 +52,8 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Regenerative Injectables</h4>
             <p class="footer-treat-tags">
-              <a href="#">Anti-Wrinkle Injections</a> <span>|</span>
-              <a href="#">Dermal Fillers</a> <span>|</span>
+              <a href="btx-a-treatment-in-gurgaon">Anti-Wrinkle Injections</a> <span>|</span>
+              <a href="filler-treatment-in-gurgaon">Dermal Fillers</a> <span>|</span>
               <a href="iv-glutathione-therapy-in-gurgaon">IV Glutathione</a> <span>|</span>
               <a href="lip-lightening-in-gurgaon">Lip Rejuvenation</a> <span>|</span>
               <a href="hair-prp-treatment-in-gurgaon">Stem Cell Therapy</a>
@@ -66,7 +66,7 @@
               <a href="carbon-laser-facial-in-gurgaon">Laser Toning (Q-Switched)</a> <span>|</span>
               <a href="laser-hair-reduction-gurgaon">Laser Hair Removal</a> <span>|</span>
               <a href="laser-for-acne-scars-in-gurgaon">Fractional CO2 Laser</a> <span>|</span>
-              <a href="#">MNRF (Micro-needling RF)</a> <span>|</span>
+              <a href="mnrf-treatment-in-gurgaon">MNRF (Micro-needling RF)</a> <span>|</span>
               <a href="laser-tattoo-removal-in-gurgaon">Tattoo Removal</a>
             </p>
           </div>
@@ -87,9 +87,9 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Anti-Aging</h4>
             <p class="footer-treat-tags">
-              <a href="#">Anti-Wrinkle Injections &amp; Fillers</a> <span>|</span>
+              <a href="btx-a-treatment-in-gurgaon">Anti-Wrinkle Injections & Fillers</a> <span>|</span>
               <a href="facelift-in-gurgaon">Sagging Skin</a> <span>|</span>
-              <a href="#">Volume Loss</a> <span>|</span>
+              <a href="filler-treatment-in-gurgaon">Volume Loss</a> <span>|</span>
               <a href="undereye-treatment-in-gurgaon">Under-Eye Rejuvenation</a> <span>|</span>
               <a href="threads-in-gurgaon">Thread Lift</a>
             </p>
@@ -114,7 +114,6 @@
               <a href="vampire-facial-in-gurgaon">Vampire Facial (PRP)</a> <span>|</span>
               <a href="carbon-laser-facial-in-gurgaon">Carbon Laser Facial</a> <span>|</span>
               <a href="chemical-peels-in-gurgaon">Chemical Peels</a> <span>|</span>
-              <a href="#">Oxygeneo Facial</a> <span>|</span>
               <a href="skin-glow-medifacials-in-gurgaon">Signature Glow Facial</a>
             </p>
           </div>
@@ -126,13 +125,11 @@
             <h4 class="footer-treat-heading">Clinical Dermatology</h4>
             <p class="footer-treat-tags">
               <a href="psoriasis-vitiligo-in-gurgaon">Psoriasis</a> <span>|</span>
-              <a href="#">Eczema</a> <span>|</span>
-              <a href="#">Rosacea</a> <span>|</span>
+              <a href="eczema-treatment-in-gurgaon">Eczema</a> <span>|</span>
+              <a href="rosacea-treatment-in-gurgaon">Rosacea</a> <span>|</span>
               <a href="psoriasis-vitiligo-in-gurgaon">Vitiligo</a> <span>|</span>
-              <a href="#">Urticaria</a> <span>|</span>
-              <a href="#">Fungal Infection</a> <span>|</span>
+              <a href="fungal-infection-treatment-in-gurgaon">Fungal Infection</a> <span>|</span>
               <a href="nail-surgery-in-gurgaon">Nail Disorders</a> <span>|</span>
-              <a href="scar-revision-surgery-in-gurgaon">Keloid</a> <span>|</span>
               <a href="stretch-marks-treatment-in-gurgaon">Stretch Marks</a>
             </p>
           </div>
@@ -144,7 +141,7 @@
               <a href="scar-revision-surgery-in-gurgaon">Scar Revision</a> <span>|</span>
               <a href="cyst-lipoma-treatment-in-gurgaon">Cyst &amp; Lipoma Excision</a> <span>|</span>
               <a href="ear-lobe-repair-in-gurgaon">Ear Lobe Repair</a> <span>|</span>
-              <a href="#">Skin Biopsy</a>
+              <a href="skin-biopsy-in-gurgaon">Skin Biopsy</a>
             </p>
           </div>
           <div class="footer-treat-group">

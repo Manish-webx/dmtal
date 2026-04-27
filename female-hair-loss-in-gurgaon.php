@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -43,10 +43,15 @@
         <span>/</span>
         <span class="text-white">Female Hair Loss</span>
       </nav>
-      <h1 class="hero-title-lux">Female <span class="text-charcoal-deep italic">Hair Loss</span></h1>
-      <p class="section-lead text-white-50" style="max-width: 600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Female <span class="text-charcoal-deep italic">Hair Loss</span></h1>
+          <p class="section-lead text-white-50" style="max-width: 600px;">
         Hair loss in women is complex and deeply distressing. We offer diagnostic-driven therapies to restore your hair's density, strength, and your confidence.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -140,7 +145,6 @@
             </div>
           </div>
 
-          <?php include('stats.php'); ?>
 
         </div> <!-- End Main Content -->
 
@@ -174,3 +178,5 @@
 </body>
 
 </html>
+
+

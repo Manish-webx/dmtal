@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -31,10 +31,15 @@
         <a href="#">Treatments</a><span>/</span>
         <span class="text-white">Mesotherapy Treatment</span>
       </nav>
-      <h1 class="hero-title-lux">Mesotherapy <span class="text-charcoal-deep italic">Treatment</span></h1>
-      <p class="section-lead text-white-50" style="max-width:600px;">
+      <div class="hero-layout">
+        <div class="hero-layout-text">
+          <h1 class="hero-title-lux">Mesotherapy <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <p class="section-lead text-white-50" style="max-width:600px;">
         Targeted micro-injections packed with vitamins, minerals, and amino acids for glowing skin and healthier hair.
       </p>
+        </div>
+        <?php include 'hero-stats.php'; ?>
+      </div>
     </div>
   </section>
 
@@ -73,7 +78,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Versatile Treatment</h5>
-                  <p class="small text-muted mb-0">Effective for hair loss, skin brightening, fine lines, open pores, and localized fat reduction — all in one platform.</p>
+                  <p class="small text-muted mb-0">Effective for hair loss, skin brightening, fine lines, open pores, and localized fat reduction â€” all in one platform.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -85,7 +90,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Minimal Downtime</h5>
-                  <p class="small text-muted mb-0">Sessions take just 20–30 minutes with minimal to no recovery time, making it ideal for busy schedules.</p>
+                  <p class="small text-muted mb-0">Sessions take just 20â€“30 minutes with minimal to no recovery time, making it ideal for busy schedules.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -141,7 +146,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Cleansing & Preparation</h4>
-                <p class="small text-muted">The treatment area is thoroughly cleansed and a topical numbing cream is applied for 20–30 minutes to ensure a comfortable experience.</p>
+                <p class="small text-muted">The treatment area is thoroughly cleansed and a topical numbing cream is applied for 20â€“30 minutes to ensure a comfortable experience.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Micro-Injection Technique</h4>
@@ -218,7 +223,7 @@
                 </h3>
                 <div id="mesoFaq1" class="accordion-collapse collapse show" data-bs-parent="#mesoFAQ">
                   <div class="accordion-body faq-body">
-                    For hair loss, a course of 6–8 sessions spaced 2–3 weeks apart is typically recommended. For skin rejuvenation, 4–6 sessions are usually sufficient. Maintenance sessions every 3–6 months help sustain results long-term.
+                    For hair loss, a course of 6â€“8 sessions spaced 2â€“3 weeks apart is typically recommended. For skin rejuvenation, 4â€“6 sessions are usually sufficient. Maintenance sessions every 3â€“6 months help sustain results long-term.
                   </div>
                 </div>
               </div>
@@ -242,7 +247,7 @@
                 </h3>
                 <div id="mesoFaq3" class="accordion-collapse collapse" data-bs-parent="#mesoFAQ">
                   <div class="accordion-body faq-body">
-                    Downtime is minimal. You may experience slight redness, swelling, or small bumps at injection sites, which typically resolve within 24–48 hours. Avoiding heavy makeup, sun exposure, and strenuous exercise for 24 hours post-treatment is advised.
+                    Downtime is minimal. You may experience slight redness, swelling, or small bumps at injection sites, which typically resolve within 24â€“48 hours. Avoiding heavy makeup, sun exposure, and strenuous exercise for 24 hours post-treatment is advised.
                   </div>
                 </div>
               </div>
