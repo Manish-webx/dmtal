@@ -27,8 +27,7 @@
 
 
 <div class="sidebar-widget dr-widget-card">
-    <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=200&q=80" alt="Dr. Pooja Varshney"
-        class="dr-widget-img">
+    <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney" class="dr-widget-img">
     <h3 class="dr-widget-name">Dr. Pooja Varshney</h3>
     <div class="dr-widget-title">MD (Dermatology), MBBS</div>
     <p class="small text-muted mb-4">Secured first rank in PG exams with 10+ years of clinical excellence.</p>

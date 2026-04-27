@@ -216,8 +216,8 @@
             <ul class="exp-menu-list">
               <li>Skin diseases &amp; acute infections</li>
               <li>Pemphigus &amp; chronic conditions</li>
-              <li>Eczema, psoriasis &amp; rosacea</li>
-              <li>Fungal infections &amp; severe allergies</li>
+              <li><a href="eczema-treatment-in-gurgaon">Eczema</a>, <a href="psoriasis-vitiligo-in-gurgaon">Psoriasis</a> &amp; <a href="rosacea-treatment-in-gurgaon">Rosacea</a></li>
+              <li><a href="fungal-infection-treatment-in-gurgaon">Fungal infections</a> &amp; severe allergies</li>
               <li>Autoimmune skin manifestations</li>
             </ul>
           </div>
@@ -226,10 +226,10 @@
           <div class="exp-menu-lux border-end pe-4 h-100">
             <h3 class="exp-menu-title"><i class="bi bi-droplet-half me-2 text-gold"></i> Hair Restoration</h3>
             <ul class="exp-menu-list">
-              <li>Severe hair fall &amp; alopecia</li>
-              <li>Advanced PRP &amp; GFC therapy</li>
-              <li>FUE &amp; DHI hair transplant surgeries</li>
-              <li>Exosomes &amp; QR678 boosters</li>
+              <li><a href="female-hair-loss-in-gurgaon">Severe hair fall</a> &amp; <a href="alopecia-areata-treatment-in-gurgaon">Alopecia</a></li>
+              <li>Advanced <a href="hair-prp-treatment-in-gurgaon">PRP</a> &amp; <a href="gfc-therapy-in-gurgaon">GFC therapy</a></li>
+              <li><a href="fue-hair-transplant-in-gurgaon">FUE</a> &amp; <a href="dhi-hair-transplant-in-gurgaon">DHI</a> hair transplant surgeries</li>
+              <li><a href="exosome-therapy-in-gurgaon">Exosomes</a> &amp; <a href="qr678-hair-treatment-in-gurgaon">QR678 boosters</a></li>
               <li>Scalp infections &amp; scarring alopecia</li>
             </ul>
           </div>
@@ -238,11 +238,11 @@
           <div class="exp-menu-lux h-100">
             <h3 class="exp-menu-title"><i class="bi bi-gem me-2 text-gold"></i> Cosmetic Aesthetics</h3>
             <ul class="exp-menu-list">
-              <li>Fractional &amp; Q-Switch Laser toning</li>
-              <li>Anti-aging &amp; skin rejuvenation</li>
-              <li>Acne scars &amp; hard pigmentation</li>
-              <li>Dermal fillers &amp; Botox injections</li>
-              <li>HIFU &amp; non-surgical facelifts</li>
+              <li>Fractional &amp; <a href="skin-laser-treatment-in-gurgaon">Q-Switch Laser toning</a></li>
+              <li><a href="aging-face-treatment-in-gurgaon">Anti-aging</a> &amp; skin rejuvenation</li>
+              <li><a href="acne-scar-treatment-in-gurgaon">Acne scars</a> &amp; <a href="facial-pigmentation-in-gurgaon">hard pigmentation</a></li>
+              <li><a href="filler-treatment-in-gurgaon">Dermal fillers</a> &amp; <a href="btx-a-treatment-in-gurgaon">Botox injections</a></li>
+              <li><a href="hifu-in-gurgaon">HIFU</a> &amp; <a href="facelift-in-gurgaon">non-surgical facelifts</a></li>
             </ul>
           </div>
         </div>

@@ -285,7 +285,6 @@
                       <li><a href="chin-augmentation-in-gurgaon">Chin Augmentation</a></li>
                       <li><a href="lip-nose-enhancement-in-gurgaon">Lip Enhancement</a></li>
                       <li><a href="threads-in-gurgaon">Threads</a></li>
-                      <li><a href="facelift-in-gurgaon">Face Lift</a></li>
                       <li><a href="hifu-in-gurgaon">HIFU</a></li>
                     </ul>
                   </div>

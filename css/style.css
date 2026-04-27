@@ -1032,6 +1032,16 @@ h6 {
   transition: color var(--dt-transition), padding-left var(--dt-transition);
 }
 
+.treatment-card-services a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.treatment-card-services a:hover {
+  color: var(--dt-champagne);
+}
+
 .treatment-card-services li::before {
   content: '';
   position: absolute;
@@ -2261,6 +2271,44 @@ h6 {
 .floating-phone:hover {
   transform: scale(1.08);
   color: var(--dt-white);
+}
+
+/* Sidebar Appointment Button (Desktop Only) */
+.sidebar-appointment-btn {
+  position: fixed;
+  right: 0;
+  top: 37%;
+  transform: translateY(-50%) rotate(-90deg);
+  transform-origin: right bottom;
+  background: var(--dt-champagne-dark);
+  color: var(--dt-white);
+  padding: 12px 22px;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  z-index: 1050;
+  text-decoration: none;
+  border-radius: 10px 10px 0 0;
+  box-shadow: -4px 0 20px rgba(0, 0, 0, 0.18);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  white-space: nowrap;
+}
+
+.sidebar-appointment-btn:hover {
+  background: var(--dt-champagne);
+  color: var(--dt-white);
+  padding-right: 30px;
+  transform: translateY(-50%) rotate(-90deg) translateX(-5px);
+}
+
+.sidebar-appointment-btn i {
+  font-size: 16px;
+  transform: rotate(90deg);
+  display: inline-block;
 }
 
 /* Back to top */
@@ -4066,6 +4114,16 @@ h6 {
   font-weight: 300;
 }
 
+.exp-menu-list a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.exp-menu-list a:hover {
+  color: var(--dt-champagne-dark);
+}
+
 .exp-menu-list li:last-child {
   border-bottom: none;
 }
@@ -4885,6 +4943,10 @@ h6 {
     gap: 15px;
     text-align: center;
     align-items: center;
+  }
+
+  .breadcrumb-lux {
+    display: none !important;
   }
 
   .feature-list-icon {

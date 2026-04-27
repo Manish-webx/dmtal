@@ -214,3 +214,9 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <!-- Custom JS -->
 <script src="js/main.js"></script>
+
+<!-- Sidebar Appointment Button (Desktop) -->
+<a href="book-appointment" class="sidebar-appointment-btn">
+  <i class="bi bi-calendar-check"></i>
+  <span>Book Appointment</span>
+</a>

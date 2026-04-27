@@ -277,7 +277,7 @@
               </div>
             </div>
           </div>
-          <a href="#" class="btn btn-gold rounded-pill mt-4 px-4">Know More About Dr.
+          <a href="dr-pooja-varshney" class="btn btn-gold rounded-pill mt-4 px-4">Know More About Dr.
             Varshney</a>
         </div>
       </div>
@@ -300,97 +300,99 @@
       <div class="row g-4">
         <!-- Treatment Card 1: Skin & Face -->
         <div class="col-md-4">
-          <a href="#" class="treatment-card-img" style="background-image: url('images/skin-treatment.webp');">
+          <div class="treatment-card-img" style="background-image: url('images/skin-treatment.webp');">
             <div class="treatment-card-overlay"></div>
             <div class="treatment-card-content">
               <h3 class="treatment-card-title">Skin &amp; Face</h3>
               <ul class="treatment-card-services">
-                <li>Acne Treatment</li>
-                <li>Pigmentation &amp; Melasma</li>
-                <li>Chemical Peels</li>
-                <li>Dermal Fillers</li>
-                <li>Botox &amp; Anti-Wrinkle</li>
-                <li>Laser Skin Resurfacing</li>
-                <li>Threads</li>
-                <li>Face Lift</li>
-                <li>HIFU</li>
+                <li><a href="acne-scar-treatment-in-gurgaon">Acne Treatment</a></li>
+                <li><a href="facial-pigmentation-in-gurgaon">Pigmentation &amp; Melasma</a></li>
+                <li><a href="chemical-peels-in-gurgaon">Chemical Peels</a></li>
+                <li><a href="filler-treatment-in-gurgaon">Dermal Fillers</a></li>
+                <li><a href="btx-a-treatment-in-gurgaon">Botox &amp; Anti-Wrinkle</a></li>
+                <li><a href="skin-laser-treatment-in-gurgaon">Laser Skin Resurfacing</a></li>
+                <li><a href="threads-in-gurgaon">Threads</a></li>
+                <li><a href="facelift-in-gurgaon">Face Lift</a></li>
+                <li><a href="hifu-in-gurgaon">HIFU</a></li>
               </ul>
             </div>
-          </a>
+          </div>
         </div>
         <!-- Treatment Card 2: Hair -->
         <div class="col-md-4">
-          <a href="#" class="treatment-card-img"
+          <div class="treatment-card-img"
             style="background-image: url('https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=600&q=80');">
             <div class="treatment-card-overlay"></div>
             <div class="treatment-card-content">
               <h3 class="treatment-card-title">Hair</h3>
               <ul class="treatment-card-services">
-                <li>PRP Hair Therapy</li>
-                <li>GFC Hair Treatment</li>
-                <li>FUE Hair Transplant</li>
-                <li>DHI Hair Transplant</li>
-                <li>Mesotherapy for Hair</li>
-                <li>Scalp Micropigmentation</li>
-                <li>Exosomes</li>
-                <li>QR678</li>
+                <li><a href="hair-prp-treatment-in-gurgaon">PRP Hair Therapy</a></li>
+                <li><a href="gfc-therapy-in-gurgaon">GFC Hair Treatment</a></li>
+                <li><a href="fue-hair-transplant-in-gurgaon">FUE Hair Transplant</a></li>
+                <li><a href="dhi-hair-transplant-in-gurgaon">DHI Hair Transplant</a></li>
+                <li><a href="mesotherapy-in-gurgaon">Mesotherapy for Hair</a></li>
+                <li><a href="scalp-micropigmentation-in-gurgaon">Scalp Micropigmentation</a></li>
+                <li><a href="exosome-therapy-in-gurgaon">Exosomes</a></li>
+                <li><a href="qr678-hair-treatment-in-gurgaon">QR678</a></li>
               </ul>
             </div>
-          </a>
+          </div>
         </div>
         <!-- Treatment Card 3: Body -->
         <div class="col-md-4">
-          <a href="#" class="treatment-card-img"
+          <div class="treatment-card-img"
             style="background-image: url('https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80');">
             <div class="treatment-card-overlay"></div>
             <div class="treatment-card-content">
               <h3 class="treatment-card-title">Body</h3>
               <ul class="treatment-card-services">
-                <li>CoolSculpting</li>
-                <li>Body Tightening</li>
-                <li>Cellulite Reduction</li>
-                <li>Scar Revision</li>
-                <li>Stretch Mark Removal</li>
-                <li>Lipolysis Injections</li>
+                <li><a href="coolsculpting-in-gurgaon">CoolSculpting</a></li>
+                <li><a href="body-tightening-in-gurgaon">Body Tightening</a></li>
+                <li><a href="cellulite-treatment-in-gurgaon">Cellulite Reduction</a></li>
+                <li><a href="scar-revision-surgery-in-gurgaon">Scar Revision</a></li>
+                <li><a href="stretch-marks-treatment-in-gurgaon">Stretch Mark Removal</a></li>
+                <li><a href="laser-hair-reduction-gurgaon">Laser Hair Reduction</a></li>
+                <li><a href="laser-tattoo-removal-in-gurgaon">Laser Tattoo Removal</a></li>
+                <li><a href="vampire-facial-in-gurgaon">Vampire Facial</a></li>
+                <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss</a></li>
               </ul>
             </div>
-          </a>
+          </div>
         </div>
         <!-- Treatment Card 5: Wellness -->
         <div class="col-md-6">
-          <a href="#" class="treatment-card-img"
+          <div class="treatment-card-img"
             style="background-image: url('https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=600&q=80');">
             <div class="treatment-card-overlay"></div>
             <div class="treatment-card-content">
               <h3 class="treatment-card-title">Wellness</h3>
               <ul class="treatment-card-services">
-                <li>IV Vitamin Therapy</li>
-                <li>Skin Detox Programs</li>
-                <li>Holistic Skin Wellness</li>
-                <li>Nutrition &amp; Skin Health</li>
-                <li>Stress &amp; Skin Management</li>
-                <li>Post-Treatment Recovery</li>
+                <li><a href="iv-vitamin-therapy-in-gurgaon">IV Vitamin Therapy</a></li>
+                <li><a href="skin-detox-programs-in-gurgaon">Skin Detox Programs</a></li>
+                <li><a href="holistic-skin-wellness-in-gurgaon">Holistic Skin Wellness</a></li>
+                <li><a href="nutrition-skin-health-in-gurgaon">Nutrition &amp; Skin Health</a></li>
+                <li><a href="stress-skin-management-in-gurgaon">Stress &amp; Skin Management</a></li>
+                <li><a href="post-treatment-recovery-in-gurgaon">Post-Treatment Recovery</a></li>
               </ul>
             </div>
-          </a>
+          </div>
         </div>
         <!-- Treatment Card 6: Exclusive Treatments -->
         <div class="col-md-6">
-          <a href="#" class="treatment-card-img"
+          <div class="treatment-card-img"
             style="background-image: url('https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80');">
             <div class="treatment-card-overlay"></div>
             <div class="treatment-card-content">
-              <h3 class="treatment-card-title">Exclusive Treatments</h3>
+              <h3 class="treatment-card-title">Aesthetic Surgeries</h3>
               <ul class="treatment-card-services">
-                <li>DermaTales Signature Facial</li>
-                <li>Luxury Anti-Aging Protocol</li>
-                <li>Executive Skin Assessment</li>
-                <li>Bridal Glow Package</li>
-                <li>Celebrity Skin Program</li>
-                <li>Men's Premium Grooming</li>
+                <li><a href="liposuction-in-gurgaon">Liposuction</a></li>
+                <li><a href="tummy-tuck-in-gurgaon">Tummy Tuck</a></li>
+                <li><a href="threads-in-gurgaon">Threads</a></li>
+                <li><a href="facelift-in-gurgaon">Face Lift</a></li>
+                <li><a href="ear-correction-in-gurgaon">Ear Correction</a></li>
               </ul>
             </div>
-          </a>
+          </div>
         </div>
       </div>
     </div>
@@ -485,7 +487,8 @@
                 <span><i class="bi bi-clock"></i> 30–45 min</span>
                 <span><i class="bi bi-arrow-repeat"></i> 6–8 sessions</span>
               </div>
-              <a href="#appointment" class="treatment-link mt-2">Book Now <i class="bi bi-arrow-right"></i></a>
+              <a href="laser-hair-reduction-gurgaon" class="treatment-link mt-2">Learn More <i
+                  class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -504,7 +507,8 @@
                 <span><i class="bi bi-clock"></i> 20–30 min</span>
                 <span><i class="bi bi-arrow-repeat"></i> 4–6 sessions</span>
               </div>
-              <a href="#appointment" class="treatment-link mt-2">Book Now <i class="bi bi-arrow-right"></i></a>
+              <a href="chemical-peels-in-gurgaon" class="treatment-link mt-2">Learn More <i
+                  class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -522,7 +526,8 @@
                 <span><i class="bi bi-clock"></i> 15–30 min</span>
                 <span><i class="bi bi-calendar-check"></i> Instant results</span>
               </div>
-              <a href="#appointment" class="treatment-link mt-2">Book Now <i class="bi bi-arrow-right"></i></a>
+              <a href="filler-treatment-in-gurgaon" class="treatment-link mt-2">Learn More <i
+                  class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -541,7 +546,8 @@
                 <span><i class="bi bi-clock"></i> 45–60 min</span>
                 <span><i class="bi bi-arrow-repeat"></i> 4–6 sessions</span>
               </div>
-              <a href="#appointment" class="treatment-link mt-2">Book Now <i class="bi bi-arrow-right"></i></a>
+              <a href="hair-prp-treatment-in-gurgaon" class="treatment-link mt-2">Learn More <i
+                  class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -559,7 +565,8 @@
                 <span><i class="bi bi-clock"></i> 40–50 min</span>
                 <span><i class="bi bi-calendar-check"></i> Zero downtime</span>
               </div>
-              <a href="#appointment" class="treatment-link mt-2">Book Now <i class="bi bi-arrow-right"></i></a>
+              <a href="hydrafacial-md-elite-in-gurgaon" class="treatment-link mt-2">Learn More <i
+                  class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -577,7 +584,8 @@
                 <span><i class="bi bi-clock"></i> Custom plan</span>
                 <span><i class="bi bi-arrow-repeat"></i> Ongoing care</span>
               </div>
-              <a href="#appointment" class="treatment-link mt-2">Book Now <i class="bi bi-arrow-right"></i></a>
+              <a href="acne-scar-treatment-in-gurgaon" class="treatment-link mt-2">Learn More <i
+                  class="bi bi-arrow-right"></i></a>
             </div>
           </div>
         </div>

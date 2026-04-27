@@ -40,8 +40,8 @@
     <div class="container-xl position-relative z-index-2">
       <div class="fade-up">
         <span class="lux-eyebrow">Connect With Us</span>
-        <h1 class="hero-title-lux mb-4">Let's Craft Your <br><span class="text-charcoal-deep italic"
-            style="color:#1B2A4A !important">Skin Story</span></h1>
+        <h1 class="hero-title-lux mb-4" style="color: #1B2A4A;">Let's Craft Your <br><span
+            class="text-charcoal-deep italic" style="color: #9E5563">Skin Story</span></h1>
         <p class="section-lead mx-auto mb-5" style="max-width: 600px;">
           Whether you're seeking clinical expertise or luxury aesthetic transformations, our team is dedicated to your
           skin's unique journey.
