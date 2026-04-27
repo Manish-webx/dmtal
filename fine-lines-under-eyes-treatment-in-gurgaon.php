@@ -266,30 +266,6 @@
             </div>
           </div>
 
-          <!-- Stats -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="98">0</div>
-                  <div class="stat-label-local">% Patient Satisfaction</div>
-                </div>
-              </div>
-            </div>
-          </div>
-
           <!-- FAQ -->
           <div class="mt-4 fade-up">
             <h2 class="lux-section-title">Frequently Asked Questions</h2>
@@ -375,3 +351,4 @@
 </body>
 
 </html>
+

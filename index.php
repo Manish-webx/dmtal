@@ -315,7 +315,6 @@
                 <li>Face Lift</li>
                 <li>HIFU</li>
               </ul>
-              <span class="treatment-card-cta">Explore <i class="bi bi-arrow-right"></i></span>
             </div>
           </a>
         </div>
@@ -336,7 +335,6 @@
                 <li>Exosomes</li>
                 <li>QR678</li>
               </ul>
-              <span class="treatment-card-cta">Explore <i class="bi bi-arrow-right"></i></span>
             </div>
           </a>
         </div>
@@ -355,7 +353,6 @@
                 <li>Stretch Mark Removal</li>
                 <li>Lipolysis Injections</li>
               </ul>
-              <span class="treatment-card-cta">Explore <i class="bi bi-arrow-right"></i></span>
             </div>
           </a>
         </div>
@@ -374,7 +371,6 @@
                 <li>Stress &amp; Skin Management</li>
                 <li>Post-Treatment Recovery</li>
               </ul>
-              <span class="treatment-card-cta">Explore <i class="bi bi-arrow-right"></i></span>
             </div>
           </a>
         </div>
@@ -393,15 +389,9 @@
                 <li>Celebrity Skin Program</li>
                 <li>Men's Premium Grooming</li>
               </ul>
-              <span class="treatment-card-cta">Explore <i class="bi bi-arrow-right"></i></span>
             </div>
           </a>
         </div>
-      </div>
-
-
-      <div class="text-center mt-5">
-        <a href="#" class="btn btn-outline-gold btn-lg rounded-pill px-5">View All Treatments</a>
       </div>
     </div>
   </section>

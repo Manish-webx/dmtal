@@ -23,7 +23,7 @@
 
   <title>Best Lip Lightening & Pigmentation Treatment in Gurgaon | DermaTales</title>
 
-    <?php include 'nav-link.php'; ?>
+  <?php include 'nav-link.php'; ?>
 </head>
 
 <body>
@@ -44,11 +44,13 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Lip Lightening &amp; <span class="text-charcoal-deep italic">Pigmentation</span></h1>
+          <h1 class="hero-title-lux">Lip Lightening &amp; <span class="text-charcoal-deep italic">Pigmentation</span>
+          </h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        Reclaim naturally rosy, beautiful lips. Our advanced lip depigmentation protocols use laser, specialised peels,
-        and bio-stimulators to restore your lips' natural colour and radiance.
-      </p>
+            Reclaim naturally rosy, beautiful lips. Our advanced lip depigmentation protocols use laser, specialised
+            peels,
+            and bio-stimulators to restore your lips' natural colour and radiance.
+          </p>
         </div>
         <?php include 'hero-stats.php'; ?>
       </div>
@@ -135,7 +137,8 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Genetics</h5>
                   <p class="small text-muted mb-0">Hereditary hyperpigmentation of the lip mucosa is common in South
-                    Asian, African, and Mediterranean populations â€” often beginning in childhood and deepening with age.
+                    Asian, African, and Mediterranean populations â€” often beginning in childhood and deepening with
+                    age.
                   </p>
                 </div>
               </div>
@@ -308,7 +311,8 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Precision Treatment Session</h4>
-                <p class="small text-muted">The selected procedure â€” Q-switch laser, chemical peel, or mesotherapy â€” is
+                <p class="small text-muted">The selected procedure â€” Q-switch laser, chemical peel, or mesotherapy â€”
+                  is
                   delivered with precision targeting the pigmented areas of the lips and surrounding skin.</p>
               </div>
               <div class="timeline-lux-item" data-step="5">
@@ -328,7 +332,8 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Safe, Ethical Lightening</h4>
-                  <p>We use only medically validated depigmentation protocols â€” not harsh bleaching agents. Our approach
+                  <p>We use only medically validated depigmentation protocols â€” not harsh bleaching agents. Our
+                    approach
                     restores your natural lip colour safely, without increasing the risk of future pigmentation.</p>
                 </div>
               </div>
@@ -353,41 +358,19 @@
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural-Looking Enhancement</h4>
-                  <p>Our goal is authenticity. We aim to restore your natural lip tone â€” not bleach or over-lighten. The
+                  <p>Our goal is authenticity. We aim to restore your natural lip tone â€” not bleach or over-lighten.
+                    The
                     result is lips that look naturally healthy, radiant, and beautifully you.</p>
                 </div>
               </div>
             </div>
           </div>
 
-          <!-- Stats -->
-          <div class="why-stats stats-row-local fade-up">
-            <div class="row g-4 text-center justify-content-center">
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="15000">0</div>
-                  <div class="stat-label-local">Patients Treated</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="10">0</div>
-                  <div class="stat-label-local">Years Experience</div>
-                </div>
-              </div>
-              <div class="col-6 col-md-4">
-                <div class="stat-item-local">
-                  <div class="why-stat-number stat-num-local" data-count="98">0</div>
-                  <div class="stat-label-local">% Patient Satisfaction</div>
-                </div>
-              </div>
-            </div>
-          </div>
 
           <!-- FAQ -->
           <div class="mt-4 fade-up">
             <h2 class="lux-section-title">Frequently Asked Questions</h2>
-            <div class="accordion accordion-flush mt-4" id="lipFAQ">
+            <div class="accordion accordionflush mt-4" id="lipFAQ">
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse"
@@ -398,7 +381,8 @@
                 <div id="lipFaq1" class="accordion-collapse collapse show" data-bs-parent="#lipFAQ">
                   <div class="accordion-body faq-body">
                     Most patients see a noticeable lightening after 3â€“4 sessions. Full results from laser lip
-                    depigmentation typically appear after 4â€“6 sessions spaced 3â€“4 weeks apart. The number of sessions
+                    depigmentation typically appear after 4â€“6 sessions spaced 3â€“4 weeks apart. The number of
+                    sessions
                     depends on the depth and type of pigmentation, as well as whether contributing factors (such as sun
                     exposure or smoking) have been addressed.
                   </div>
@@ -415,7 +399,8 @@
                   <div class="accordion-body faq-body">
                     A topical numbing cream is applied before all laser and mesotherapy procedures. Most patients
                     describe a mild snapping or tingling sensation during Q-switch laser sessions. The procedure is
-                    short (15â€“20 minutes) and very well tolerated. Post-treatment, lips may feel slightly warm or tender
+                    short (15â€“20 minutes) and very well tolerated. Post-treatment, lips may feel slightly warm or
+                    tender
                     for a few hours.
                   </div>
                 </div>
@@ -482,8 +467,8 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="undereye-treatment-in-gurgaon">Undereye Treatment <i
-                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="undereye-treatment-in-gurgaon">Undereye Treatment <i class="bi bi-chevron-right"></i></a>
+                </li>
                 <li><a href="freckles-blemishes-in-gurgaon">Freckles &amp; Blemishes <i
                       class="bi bi-chevron-right"></i></a></li>
                 <li><a href="facial-pigmentation-in-gurgaon">Pigmentation Treatment <i
@@ -509,6 +494,6 @@
 
   <?php include 'footer.php'; ?>
 
-  </body>
+</body>
 
 </html>
