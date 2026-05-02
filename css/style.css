@@ -2276,10 +2276,10 @@ h6 {
 /* Sidebar Appointment Button (Desktop Only) */
 .sidebar-appointment-btn {
   position: fixed;
-  right: 0;
-  top: 37%;
+  right: -90px;
+  top: 58%;
   transform: translateY(-50%) rotate(-90deg);
-  transform-origin: right bottom;
+  transform-origin: center center;
   background: var(--dt-champagne-dark);
   color: var(--dt-white);
   padding: 12px 22px;
@@ -2294,15 +2294,14 @@ h6 {
   display: flex;
   align-items: center;
   gap: 10px;
-  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: background 0.3s ease, right 0.3s ease;
   white-space: nowrap;
 }
 
 .sidebar-appointment-btn:hover {
   background: var(--dt-champagne);
   color: var(--dt-white);
-  padding-right: 30px;
-  transform: translateY(-50%) rotate(-90deg) translateX(-5px);
+  right: -38px;
 }
 
 .sidebar-appointment-btn i {
