@@ -72,7 +72,7 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Dermatology</h6>
                     <ul class="mega-list">
-                      <li><a href="acne-scar-treatment-in-gurgaon">Acne Treatments</a></li>
+                      <li><a href="acne-treatment-in-gurgaon">Acne Treatments</a></li>
                       <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatments</a></li>
                       <li><a href="melasma-pigmentation-in-gurgaon">Melasma & Pigmentation</a></li>
                       <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation</a></li>
@@ -81,9 +81,6 @@
                       <li><a href="fungal-infection-treatment-in-gurgaon">Fungal Infection</a></li>
                       <li><a href="eczema-treatment-in-gurgaon">Eczema</a></li>
                       <li><a href="rosacea-treatment-in-gurgaon">Rosacea</a></li>
-                    </ul>
-                    <h6 class="mega-heading mt-3">Dermatosurgery</h6>
-                    <ul class="mega-list">
                       <li><a href="mole-wart-removal-in-gurgaon">Mole & Wart Removal</a></li>
                       <li><a href="skin-tag-removal-in-gurgaon">Skin Tag Removal</a></li>
                       <li><a href="acne-scar-surgeries-in-gurgaon">Acne Scar Surgeries</a></li>
