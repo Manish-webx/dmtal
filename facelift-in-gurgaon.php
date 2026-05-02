@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -86,7 +86,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How a Modern Facelift Works</h2>
             <p>
-              The procedure involves discreet incisions typically placed in the hairline and around the natural contours of the ear. The surgeon carefully lifts the skin to access the **SMAS (Superficial Musculo-Aponeurotic System)**â€”the deeper layer of facial tissue. By tightening this foundation and removing redundant skin, we create a firm, well-defined jawline and neck. Results are further enhanced by expertly redistributing facial fat to restore youthful volume in the mid-face and cheeks.
+              The procedure involves discreet incisions typically placed in the hairline and around the natural contours of the ear. The surgeon carefully lifts the skin to access the **SMAS (Superficial Musculo-Aponeurotic System)**—the deeper layer of facial tissue. By tightening this foundation and removing redundant skin, we create a firm, well-defined jawline and neck. Results are further enhanced by expertly redistributing facial fat to restore youthful volume in the mid-face and cheeks.
             </p>
           </div>
 
@@ -185,7 +185,7 @@
                 <div class="feature-list-icon"><i class="bi bi-star"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural-Refined Aesthetic</h4>
-                  <p>Our philosophy is "Invisible Rejuvenation"â€”restoring your face to how it looked years ago, not changing how you look.</p>
+                  <p>Our philosophy is "Invisible Rejuvenation"—restoring your face to how it looked years ago, not changing how you look.</p>
                 </div>
               </div>
               
@@ -282,7 +282,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

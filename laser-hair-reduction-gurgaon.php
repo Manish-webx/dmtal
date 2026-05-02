@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,7 +70,7 @@
                 <p>
                   Traditional hair removal methods like waxing, shaving, and threading are temporary, time-consuming,
                   and often painful. They can also lead to ingrown hairs, skin irritation, and darkening. Laser Hair
-                  Reduction at DermaTales offers a long-term solution that targets the root cause â€” the hair follicle
+                  Reduction at DermaTales offers a long-term solution that targets the root cause — the hair follicle
                   itself.
                 </p>
                 <p>
@@ -279,9 +279,9 @@
                 </h3>
                 <div id="hairFaq1" class="accordion-collapse collapse show" data-bs-parent="#hairFAQ">
                   <div class="accordion-body faq-body">
-                    Most individuals require 6 to 8 sessions spaced 4â€“6 weeks apart. This is because hair grows in
+                    Most individuals require 6 to 8 sessions spaced 4–6 weeks apart. This is because hair grows in
                     cycles, and the laser can only target hair follicles in the active growth phase (Anagen). Each
-                    session delivers a 15â€“20% reduction.
+                    session delivers a 15–20% reduction.
                   </div>
                 </div>
               </div>
@@ -338,7 +338,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -67,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Why Aftercare is 50% of the Result</h2>
                 <p>
-                  A clinical procedureâ€”whether it's a deep chemical peel, a fractional laser session, or a surgical interventionâ€”is only the first half of your skin transformation. The second half happens during the recovery phase. Without proper aftercare, the risk of complications like post-inflammatory hyperpigmentation (PIH), infection, or delayed healing increases significantly.
+                  A clinical procedure—whether it's a deep chemical peel, a fractional laser session, or a surgical intervention—is only the first half of your skin transformation. The second half happens during the recovery phase. Without proper aftercare, the risk of complications like post-inflammatory hyperpigmentation (PIH), infection, or delayed healing increases significantly.
                 </p>
                 <p>
                   At DermaTales, we don't just perform the procedure and send you home. We provide a structured recovery roadmap tailored to your specific skin phototype and the intensity of the treatment you received.
@@ -92,7 +92,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Proliferative Phase (Day 3-10)</h4>
-                <p class="small text-muted">New skin cells are forming. Hydration and barrier support are paramount. This is often when mild peeling or scabbing occursâ€”it is vital not to pick or scrub the skin.</p>
+                <p class="small text-muted">New skin cells are forming. Hydration and barrier support are paramount. This is often when mild peeling or scabbing occurs—it is vital not to pick or scrub the skin.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Remodeling Phase (Week 2 onwards)</h4>
@@ -198,7 +198,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

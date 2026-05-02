@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -152,7 +152,7 @@
                 </h3>
                 <div id="arFaq2" class="accordion-collapse collapse" data-bs-parent="#armFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients can return to work within 1 week. You will need to wear a compression sleeve for about 4 weeks and avoid heavy lifting or overhead reaching for at least 3â€“4 weeks to ensure safe healing of the incisions.
+                    Most patients can return to work within 1 week. You will need to wear a compression sleeve for about 4 weeks and avoid heavy lifting or overhead reaching for at least 3–4 weeks to ensure safe healing of the incisions.
                   </div>
                 </div>
               </div>
@@ -192,7 +192,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

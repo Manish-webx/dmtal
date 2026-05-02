@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -165,7 +165,7 @@
                 </h3>
                 <div id="ivFaq3" class="accordion-collapse collapse" data-bs-parent="#ivFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients experience an "IV Glow" and an energy boost within 24 hours of the first session. For lasting skin-brightening results (with Glutathione), a series of 6â€“10 sessions is typically recommended.
+                    Most patients experience an "IV Glow" and an energy boost within 24 hours of the first session. For lasting skin-brightening results (with Glutathione), a series of 6–10 sessions is typically recommended.
                   </div>
                 </div>
               </div>
@@ -192,7 +192,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

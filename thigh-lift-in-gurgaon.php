@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -75,7 +75,7 @@
                 <p>
                   At DermaTales, we focus on biological symmetry and precision excision. We aim to remove exactly the
                   right amount of skin to achieve a taut appearance without over-tightening, while ensuring that scars
-                  are placed in the most inconspicuous areas possibleâ€”typically within the natural groin folds or along
+                  are placed in the most inconspicuous areas possible—typically within the natural groin folds or along
                   the inner thigh.
                 </p>
               </div>
@@ -159,7 +159,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Month 2: Returning to Fitness</h4>
-                <p class="small text-muted">Lower body workouts and heavy lifting can usually be resumed after 6â€“8
+                <p class="small text-muted">Lower body workouts and heavy lifting can usually be resumed after 6–8
                   weeks. Scars will continue to flatten and fade over 12 months.</p>
               </div>
             </div>
@@ -236,7 +236,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

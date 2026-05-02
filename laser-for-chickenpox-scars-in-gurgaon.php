@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                   Chickenpox often leaves behind highly distinct, atrophic (depressed) scars. Unlike acne scars which are usually numerous and clustered, chickenpox scars are often solitary, sharply defined, and quite deep. They occur because the viral infection severely damages the dermal layer, leading to collagen destruction.
                 </p>
                 <p>
-                  Because these scars are deep and "punched out," standard chemical peels or microdermabrasion are ineffective. At DermaTales, we use aggressive collagen-stimulating modalitiesâ€”primarily <strong>Fractional CO2 Lasers</strong> and <strong>MNRF</strong>â€”to vaporize the rigid edges of the scar and stimulate massive new tissue growth to fill in the depression from the bottom up.
+                  Because these scars are deep and "punched out," standard chemical peels or microdermabrasion are ineffective. At DermaTales, we use aggressive collagen-stimulating modalities—primarily <strong>Fractional CO2 Lasers</strong> and <strong>MNRF</strong>—to vaporize the rigid edges of the scar and stimulate massive new tissue growth to fill in the depression from the bottom up.
                 </p>
               </div>
               <div class="col-md-5">
@@ -244,7 +244,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

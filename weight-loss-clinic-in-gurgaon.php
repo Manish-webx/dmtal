@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -66,9 +66,9 @@
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
-                <h2 class="lux-section-title">Medical Weight Loss â€” Beyond Dieting</h2>
-                <p>Sustainable weight loss requires more than willpower. It demands a precise understanding of your body's metabolic rate, hormonal profile, and nutritional needs. At DermaTales' weight loss clinic in Gurgaon, our qualified medical team designs personalised, science-backed programmes that address the root physiological causes of weight gain â€” not just its symptoms.</p>
-                <p>From advanced GLP-1 receptor agonist therapies (Ozempic, Mounjaro) to targeted nutrition and body composition analysis, we offer the complete clinical toolkit for transforming your health â€” safely and sustainably.</p>
+                <h2 class="lux-section-title">Medical Weight Loss — Beyond Dieting</h2>
+                <p>Sustainable weight loss requires more than willpower. It demands a precise understanding of your body's metabolic rate, hormonal profile, and nutritional needs. At DermaTales' weight loss clinic in Gurgaon, our qualified medical team designs personalised, science-backed programmes that address the root physiological causes of weight gain — not just its symptoms.</p>
+                <p>From advanced GLP-1 receptor agonist therapies (Ozempic, Mounjaro) to targeted nutrition and body composition analysis, we offer the complete clinical toolkit for transforming your health — safely and sustainably.</p>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
@@ -104,7 +104,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Clinical Nutrition Planning</h5>
-                  <p class="small text-muted mb-0">Dietitian-designed meal plans calibrated to your lifestyle, food preferences, and medical requirements â€” not generic crash diets.</p>
+                  <p class="small text-muted mb-0">Dietitian-designed meal plans calibrated to your lifestyle, food preferences, and medical requirements — not generic crash diets.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -129,7 +129,7 @@
                 <div class="candidate-card candidate-card-ideal">
                   <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal Candidates</h3>
                   <ul class="candidate-list">
-                    <li><i class="bi bi-check2 text-gold"></i>Adults with a BMI â‰¥ 27 and at least one weight-related health condition.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Adults with a BMI ≥ 27 and at least one weight-related health condition.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Those who have tried diet and exercise without sustainable results.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Individuals with diabetes, PCOS, or thyroid-related weight gain.</li>
                     <li><i class="bi bi-check2 text-gold"></i>People seeking a clinically supervised, medication-assisted approach.</li>
@@ -185,21 +185,21 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Qualified Medical Doctors</h4>
-                  <p>All programmes are designed and monitored by registered physicians â€” not coaches or nutritionists acting alone.</p>
+                  <p>All programmes are designed and monitored by registered physicians — not coaches or nutritionists acting alone.</p>
                 </div>
               </div>
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
                 <div class="feature-list-content">
                   <h4>Latest GLP-1 Therapies</h4>
-                  <p>We offer both Ozempic and Mounjaro â€” the two most clinically advanced injectable weight loss medications currently approved.</p>
+                  <p>We offer both Ozempic and Mounjaro — the two most clinically advanced injectable weight loss medications currently approved.</p>
                 </div>
               </div>
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Holistic, Root-Cause Approach</h4>
-                  <p>We don't just prescribe injections â€” we investigate and treat the underlying hormonal and metabolic issues driving your weight gain.</p>
+                  <p>We don't just prescribe injections — we investigate and treat the underlying hormonal and metabolic issues driving your weight gain.</p>
                 </div>
               </div>
               <div class="feature-list-item">
@@ -227,7 +227,7 @@
                 </h3>
                 <div id="wlFaq1" class="accordion-collapse collapse show" data-bs-parent="#wlFAQ">
                   <div class="accordion-body faq-body">
-                    Medical weight loss is physician-led and addresses the physiological barriers to weight loss â€” hormonal imbalances, insulin resistance, slow metabolism â€” that generic diets ignore. We combine clinical diagnostics, prescription medications (where appropriate), and nutritional science for results that last.
+                    Medical weight loss is physician-led and addresses the physiological barriers to weight loss — hormonal imbalances, insulin resistance, slow metabolism — that generic diets ignore. We combine clinical diagnostics, prescription medications (where appropriate), and nutritional science for results that last.
                   </div>
                 </div>
               </div>
@@ -251,7 +251,7 @@
                 </h3>
                 <div id="wlFaq3" class="accordion-collapse collapse" data-bs-parent="#wlFAQ">
                   <div class="accordion-body faq-body">
-                    Clinical trials show patients on GLP-1 therapies with lifestyle modification lose 15â€“22% of body weight over 12â€“15 months. Individual results depend on adherence, metabolic profile, and the specific medication used.
+                    Clinical trials show patients on GLP-1 therapies with lifestyle modification lose 15–22% of body weight over 12–15 months. Individual results depend on adherence, metabolic profile, and the specific medication used.
                   </div>
                 </div>
               </div>
@@ -304,7 +304,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

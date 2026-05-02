@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -56,8 +56,8 @@
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">What is Exosome Therapy?</h2>
-                <p>Exosomes are nano-sized extracellular vesicles naturally produced by stem cells. They act as biological messengers â€” carrying growth factors, proteins, and genetic information (mRNA and microRNA) between cells. When applied to the scalp or skin, they transmit powerful regeneration signals to damaged or dormant cells.</p>
-                <p>At DermaTales, we use medical-grade, lab-derived exosomes to reactivate weakened hair follicles, accelerate wound healing, and rejuvenate aging skin. The result is denser, thicker hair growth and a visibly more youthful complexion â€” all without surgery.</p>
+                <p>Exosomes are nano-sized extracellular vesicles naturally produced by stem cells. They act as biological messengers — carrying growth factors, proteins, and genetic information (mRNA and microRNA) between cells. When applied to the scalp or skin, they transmit powerful regeneration signals to damaged or dormant cells.</p>
+                <p>At DermaTales, we use medical-grade, lab-derived exosomes to reactivate weakened hair follicles, accelerate wound healing, and rejuvenate aging skin. The result is denser, thicker hair growth and a visibly more youthful complexion — all without surgery.</p>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
@@ -70,7 +70,7 @@
           <!-- Why Choose Exosome Therapy -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Why Choose Exosome Therapy?</h2>
-            <p>Exosome therapy represents the next evolution beyond PRP and GFC â€” working at a deeper, more precise biological level:</p>
+            <p>Exosome therapy represents the next evolution beyond PRP and GFC — working at a deeper, more precise biological level:</p>
             <div class="row g-4 mt-2">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
@@ -81,25 +81,25 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Higher Growth Factor Load</h5>
-                  <p class="small text-muted mb-0">A single exosome vial contains billions of vesicles, each packed with hundreds of growth factors â€” far exceeding the concentration achievable with PRP.</p>
+                  <p class="small text-muted mb-0">A single exosome vial contains billions of vesicles, each packed with hundreds of growth factors — far exceeding the concentration achievable with PRP.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Reduces Inflammation</h5>
-                  <p class="small text-muted mb-0">Exosomes carry anti-inflammatory signals that calm scalp inflammation â€” a major underlying cause of androgenetic and diffuse hair loss.</p>
+                  <p class="small text-muted mb-0">Exosomes carry anti-inflammatory signals that calm scalp inflammation — a major underlying cause of androgenetic and diffuse hair loss.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Reactivates Dormant Follicles</h5>
-                  <p class="small text-muted mb-0">By triggering the Wnt/Î²-catenin pathway, exosomes can reawaken follicles that have entered extended dormancy, restoring the hair growth cycle.</p>
+                  <p class="small text-muted mb-0">By triggering the Wnt/β-catenin pathway, exosomes can reawaken follicles that have entered extended dormancy, restoring the hair growth cycle.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">No Blood Draw Required</h5>
-                  <p class="small text-muted mb-0">Unlike PRP or GFC, exosome therapy uses lab-derived vesicles â€” no blood collection is needed, making the process faster and more comfortable.</p>
+                  <p class="small text-muted mb-0">Unlike PRP or GFC, exosome therapy uses lab-derived vesicles — no blood collection is needed, making the process faster and more comfortable.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -157,7 +157,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Post-Session Care</h4>
-                <p class="small text-muted">A soothing scalp serum is applied. Mild redness subsides within hours. No washing for 12â€“24 hours is advised. Daily activities can resume immediately with zero downtime.</p>
+                <p class="small text-muted">A soothing scalp serum is applied. Mild redness subsides within hours. No washing for 12–24 hours is advised. Daily activities can resume immediately with zero downtime.</p>
               </div>
             </div>
           </div>
@@ -202,7 +202,7 @@
                 </h3>
                 <div id="exosomeFaq1" class="accordion-collapse collapse show" data-bs-parent="#exosomeFAQ">
                   <div class="accordion-body faq-body">
-                    PRP uses concentrated platelets from your own blood, which contain a limited number of growth factors. Exosomes are nano-vesicles derived from stem cells, carrying hundreds of growth factors, cytokines, and genetic signals (mRNA, microRNA) per vesicle â€” in the billions. This gives exosomes a far greater regenerative signaling capacity. Additionally, no blood draw is required for exosome therapy.
+                    PRP uses concentrated platelets from your own blood, which contain a limited number of growth factors. Exosomes are nano-vesicles derived from stem cells, carrying hundreds of growth factors, cytokines, and genetic signals (mRNA, microRNA) per vesicle — in the billions. This gives exosomes a far greater regenerative signaling capacity. Additionally, no blood draw is required for exosome therapy.
                   </div>
                 </div>
               </div>
@@ -214,7 +214,7 @@
                 </h3>
                 <div id="exosomeFaq2" class="accordion-collapse collapse" data-bs-parent="#exosomeFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients require 3â€“4 sessions spaced 4â€“6 weeks apart for hair restoration. Due to the high potency of exosomes, fewer sessions are often needed compared to PRP. Skin rejuvenation typically requires 2â€“3 sessions. Maintenance every 6â€“12 months sustains results.
+                    Most patients require 3–4 sessions spaced 4–6 weeks apart for hair restoration. Due to the high potency of exosomes, fewer sessions are often needed compared to PRP. Skin rejuvenation typically requires 2–3 sessions. Maintenance every 6–12 months sustains results.
                   </div>
                 </div>
               </div>
@@ -226,7 +226,7 @@
                 </h3>
                 <div id="exosomeFaq3" class="accordion-collapse collapse" data-bs-parent="#exosomeFAQ">
                   <div class="accordion-body faq-body">
-                    Initial reduction in hair fall is typically noticed within 2â€“4 weeks. Visible new hair growth generally appears from the 6â€“10 week mark as follicles re-enter the anagen (growth) phase. Full density improvement is visible at 4â€“6 months. Skin improvements in texture and glow can be noticed within 2â€“3 weeks.
+                    Initial reduction in hair fall is typically noticed within 2–4 weeks. Visible new hair growth generally appears from the 6–10 week mark as follicles re-enter the anagen (growth) phase. Full density improvement is visible at 4–6 months. Skin improvements in texture and glow can be noticed within 2–3 weeks.
                   </div>
                 </div>
               </div>
@@ -250,7 +250,7 @@
             </div>
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Restore Your Skin's Smoothness</h2>
                 <p>
-                  Skin tags are common, benign growths that often appear in areas where skin rubs against skin or clothingâ€”such as the neck, underarms, eyelids, and groin. While completely harmless, they can be a constant source of irritation, snagging, or aesthetic concern. At DermaTales, we offer a specialised solution to remove these tags permanently with minimal discomfort.
+                  Skin tags are common, benign growths that often appear in areas where skin rubs against skin or clothing—such as the neck, underarms, eyelids, and groin. While completely harmless, they can be a constant source of irritation, snagging, or aesthetic concern. At DermaTales, we offer a specialised solution to remove these tags permanently with minimal discomfort.
                 </p>
                 <p>
                   Our board-certified dermatologists treat every removal as a clinical procedure, ensuring sterile conditions and precision technique. The goal is for the removal site to heal perfectly, matching surrounding skin texture and tone so the tag is forgotten forever.
@@ -86,7 +86,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Skin Tag Removal Works</h2>
             <p>
-              At DermaTales, we use high-precision electrosurgical techniques (RF Cautery) or CO2 lasers to provide a clean, scar-minimising removal. The procedure involves isolating the skin tag and applying targeted thermal energy at its base. This simultaneously detaches the growths and seals the wound, preventing bleeding and ensuring a sterile healing environment. The result is a smooth, mark-free surface â€” typically visible within a few days of healing.
+              At DermaTales, we use high-precision electrosurgical techniques (RF Cautery) or CO2 lasers to provide a clean, scar-minimising removal. The procedure involves isolating the skin tag and applying targeted thermal energy at its base. This simultaneously detaches the growths and seals the wound, preventing bleeding and ensuring a sterile healing environment. The result is a smooth, mark-free surface — typically visible within a few days of healing.
             </p>
           </div>
 
@@ -193,7 +193,7 @@
                 <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
                 <div class="feature-list-content">
                   <h4>Advanced Technology</h4>
-                  <p>We use FDA-approved RF cautery systems and precision CO2 lasersâ€”the gold standard in dermatosurgeryâ€”for safe, clean, and effective removal.</p>
+                  <p>We use FDA-approved RF cautery systems and precision CO2 lasers—the gold standard in dermatosurgery—for safe, clean, and effective removal.</p>
                 </div>
               </div>
               
@@ -225,7 +225,7 @@
                 </h3>
                 <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#skinTagFAQ">
                   <div class="accordion-body faq-body">
-                    When removed by a professional dermatologist using precision RF cautery or CO2 laser, skin tags heal with little to no visible scarring. The technique is designed to be tissue-sparing and the wound typically heals flat within 5â€“10 days.
+                    When removed by a professional dermatologist using precision RF cautery or CO2 laser, skin tags heal with little to no visible scarring. The technique is designed to be tissue-sparing and the wound typically heals flat within 5–10 days.
                   </div>
                 </div>
               </div>
@@ -281,7 +281,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                   Pigmentation issues like melasma, severe sun damage, freckles, and post-inflammatory hyperpigmentation (PIH) from acne can be incredibly stubborn. While topical creams work on the surface, they often fail to reach pigment trapped deep within the dermal layers.
                 </p>
                 <p>
-                  At DermaTales, we utilize <strong>Q-Switched Laser Toning</strong>â€”the absolute gold standard in dermatology for treating deep pigmentation safely. This non-invasive technology bypasses the top layer of the skin, targeting only the excess melanin deposits to clear your complexion from the inside out, without causing heat damage or downtime.
+                  At DermaTales, we utilize <strong>Q-Switched Laser Toning</strong>—the absolute gold standard in dermatology for treating deep pigmentation safely. This non-invasive technology bypasses the top layer of the skin, targeting only the excess melanin deposits to clear your complexion from the inside out, without causing heat damage or downtime.
                 </p>
               </div>
               <div class="col-md-5">
@@ -154,7 +154,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">The Laser Session</h4>
-                <p class="small text-muted">The laser is passed over the face. You will feel a mild, warm tingling sensationâ€”no numbing is required.</p>
+                <p class="small text-muted">The laser is passed over the face. You will feel a mild, warm tingling sensation—no numbing is required.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Post-Care Application</h4>
@@ -245,7 +245,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

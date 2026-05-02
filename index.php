@@ -41,7 +41,7 @@
     "name": "DermaTales — Gurgaon",
     "description": "Premium dermatology and aesthetic skin clinic in Gurgaon offering advanced skin treatments, cosmetic dermatology, laser therapies, and personalised care.",
     "url": "https://www.dermatales.com",
-    "telephone": "+91-7303851264",
+    "telephone": "+91-9560015155",
     "email": "dermatales@gmail.com",
     "address": {
       "@type": "PostalAddress",
@@ -142,7 +142,7 @@
         "name": "How do I book an appointment?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You can book an appointment through our website's booking form, call us directly at +91-7303851264, or reach out via WhatsApp for instant assistance. We also offer teleconsultation for initial assessments."
+          "text": "You can book an appointment through our website's booking form, call us directly at +91-9560015155, or reach out via WhatsApp for instant assistance. We also offer teleconsultation for initial assessments."
         }
       },
       {
@@ -752,7 +752,7 @@
           <h2 class="section-title">Frequently Asked<br>Questions</h2>
           <p class="section-text">Have more questions? We're here to help. Reach out via WhatsApp or call us directly
             for personalised answers.</p>
-          <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill mt-2">
+          <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill mt-2">
             <i class="bi bi-whatsapp me-2"></i>Ask on WhatsApp
           </a>
         </div>
@@ -797,7 +797,7 @@
               </h3>
               <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                 <div class="accordion-body faq-body">
-                  You can book an appointment through our website's booking form, call us directly at +91 73038 51264,
+                  You can book an appointment through our website's booking form, call us directly at +91 95600 15155,
                   or reach out via WhatsApp for instant assistance. We also offer teleconsultation for initial
                   assessments.
                 </div>
@@ -901,10 +901,10 @@
           </div>
 
           <div class="d-flex flex-wrap gap-2 mt-4">
-            <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill px-4">
+            <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill px-4">
               <i class="bi bi-whatsapp me-1"></i> WhatsApp Us
             </a>
-            <a href="tel:+917303851264" class="btn btn-outline-gold rounded-pill px-4">
+            <a href="tel:+919560015155" class="btn btn-outline-gold rounded-pill px-4">
               <i class="bi bi-telephone-fill me-1"></i> Call Gurgaon
             </a>
             <a href="tel:+918700530623" class="btn btn-outline-gold rounded-pill px-4">
@@ -992,7 +992,7 @@
                 </div>
                 <div class="location-detail-row">
                   <i class="bi bi-telephone-fill"></i>
-                  <a href="tel:+917303851264">+91 73038 51264</a>
+                  <a href="tel:+919560015155">+91 95600 15155</a>
                 </div>
                 <div class="location-detail-row">
                   <i class="bi bi-clock-fill"></i>
@@ -1006,7 +1006,7 @@
                   class="btn btn-outline-gold btn-sm rounded-pill px-3">
                   <i class="bi bi-map me-1"></i> Get Directions
                 </a>
-                <a href="tel:+917303851264" class="btn btn-outline-gold btn-sm rounded-pill px-3">
+                <a href="tel:+919560015155" class="btn btn-outline-gold btn-sm rounded-pill px-3">
                   <i class="bi bi-telephone me-1"></i> Call
                 </a>
               </div>
@@ -1080,7 +1080,7 @@
               <i class="bi bi-whatsapp"></i>
               <div>
                 <strong>WhatsApp Us</strong>
-                <a href="https://wa.me/917303851264">Chat instantly</a>
+                <a href="https://wa.me/919560015155">Chat instantly</a>
               </div>
             </div>
           </div>

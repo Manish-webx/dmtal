@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -138,7 +138,7 @@
               <div class="col-md-6">
                 <div class="feature-card-lux p-4 rounded-4 bg-light h-100">
                   <h5 class="fw-bold h6 mb-3">Intralesional Injections</h5>
-                  <p class="small text-muted mb-0">For raised hypertrophic or keloid scarsâ€”injecting anti-inflammatory agents to flatten the tissue and reduce redness and itching.</p>
+                  <p class="small text-muted mb-0">For raised hypertrophic or keloid scars—injecting anti-inflammatory agents to flatten the tissue and reduce redness and itching.</p>
                 </div>
               </div>
             </div>
@@ -196,7 +196,7 @@
                 </h3>
                 <div id="scFaq3" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    For surgical revision, you will have sutures that need to be removed in 5â€“10 days. You must protect the area from tension and sun exposure for several weeks to ensure the best possible healing.
+                    For surgical revision, you will have sutures that need to be removed in 5–10 days. You must protect the area from tension and sun exposure for several weeks to ensure the best possible healing.
                   </div>
                 </div>
               </div>
@@ -223,7 +223,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

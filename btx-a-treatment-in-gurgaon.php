@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -47,7 +47,7 @@
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">BTX-A <span class="text-charcoal-deep italic">Treatment</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        The world's most trusted anti-wrinkle treatment. Precision Botulinum Toxin injections to smooth dynamic wrinkles, prevent new lines, and refresh your appearance â€” all in under 15 minutes.
+        The world's most trusted anti-wrinkle treatment. Precision Botulinum Toxin injections to smooth dynamic wrinkles, prevent new lines, and refresh your appearance — all in under 15 minutes.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -68,10 +68,10 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">What Is BTX-A?</h2>
                 <p>
-                  BTX-A (Botulinum Toxin Type A) is a highly purified, FDA-approved neuromodulator that temporarily relaxes specific facial muscles responsible for creating dynamic wrinkles â€” the lines that form when you frown, squint, or raise your eyebrows. It is the single most popular non-surgical cosmetic treatment performed worldwide, with millions of procedures done safely every year.
+                  BTX-A (Botulinum Toxin Type A) is a highly purified, FDA-approved neuromodulator that temporarily relaxes specific facial muscles responsible for creating dynamic wrinkles — the lines that form when you frown, squint, or raise your eyebrows. It is the single most popular non-surgical cosmetic treatment performed worldwide, with millions of procedures done safely every year.
                 </p>
                 <p>
-                  At DermaTales, Dr. Pooja Varshney uses premium, internationally-sourced BTX-A products with a focus on <strong>micro-precision dosing</strong>. The goal is never to "freeze" your face, but to strategically soften overactive muscles while preserving your natural expressions. The result is a face that looks rested, refreshed, and naturally youthful â€” never stiff or expressionless.
+                  At DermaTales, Dr. Pooja Varshney uses premium, internationally-sourced BTX-A products with a focus on <strong>micro-precision dosing</strong>. The goal is never to "freeze" your face, but to strategically soften overactive muscles while preserving your natural expressions. The result is a face that looks rested, refreshed, and naturally youthful — never stiff or expressionless.
                 </p>
               </div>
               <div class="col-md-5">
@@ -86,10 +86,10 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How BTX-A Works</h2>
             <p>
-              When injected in tiny, precise doses, BTX-A blocks the release of <strong>acetylcholine</strong> â€” the neurotransmitter that signals muscles to contract. By temporarily inhibiting this signal at the neuromuscular junction, the targeted muscles relax, and the overlying skin smooths out. The effect is specific to the treated muscles; surrounding muscles continue to function normally, ensuring natural facial movement.
+              When injected in tiny, precise doses, BTX-A blocks the release of <strong>acetylcholine</strong> — the neurotransmitter that signals muscles to contract. By temporarily inhibiting this signal at the neuromuscular junction, the targeted muscles relax, and the overlying skin smooths out. The effect is specific to the treated muscles; surrounding muscles continue to function normally, ensuring natural facial movement.
             </p>
             <p>
-              Results typically begin to appear within <strong>3-5 days</strong>, with the full effect visible at 10-14 days. The relaxation effect lasts approximately 4-6 months. With regular treatments, many patients find that their muscles "learn" to relax, often requiring lower doses over time â€” a phenomenon known as the <strong>preventive effect</strong> of BTX-A.
+              Results typically begin to appear within <strong>3-5 days</strong>, with the full effect visible at 10-14 days. The relaxation effect lasts approximately 4-6 months. With regular treatments, many patients find that their muscles "learn" to relax, often requiring lower doses over time — a phenomenon known as the <strong>preventive effect</strong> of BTX-A.
             </p>
           </div>
 
@@ -153,7 +153,7 @@
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">Dynamic Muscle Assessment</h4>
-                <p class="small text-muted">You'll be asked to make a series of facial expressions â€” frown, smile, raise eyebrows â€” so the doctor can map the exact muscles causing your wrinkles.</p>
+                <p class="small text-muted">You'll be asked to make a series of facial expressions — frown, smile, raise eyebrows — so the doctor can map the exact muscles causing your wrinkles.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Injection Point Marking</h4>
@@ -188,7 +188,7 @@
                 <div class="feature-list-icon"><i class="bi bi-compass"></i></div>
                 <div class="feature-list-content">
                   <h4>Micro-Precision Technique</h4>
-                  <p>Dr. Varshney's approach focuses on targeted, conservative dosing â€” smoothing wrinkles while preserving the natural muscle dynamics of your face.</p>
+                  <p>Dr. Varshney's approach focuses on targeted, conservative dosing — smoothing wrinkles while preserving the natural muscle dynamics of your face.</p>
                 </div>
               </div>
               
@@ -197,7 +197,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Expression-Preserving Results</h4>
-                  <p>Our goal is a refreshed, rested appearance â€” never a "frozen" look. We modulate muscle activity rather than eliminating it entirely.</p>
+                  <p>Our goal is a refreshed, rested appearance — never a "frozen" look. We modulate muscle activity rather than eliminating it entirely.</p>
                 </div>
               </div>
               
@@ -229,7 +229,7 @@
                 </h3>
                 <div id="bf1" class="accordion-collapse collapse show" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    BTX-A injections are performed with ultra-fine needles and feel like a tiny pinch. The entire procedure takes 10-15 minutes, and most patients describe the discomfort as minimal â€” comparable to an ant bite. No anaesthesia is typically required, though ice or topical numbing can be applied for sensitive patients.
+                    BTX-A injections are performed with ultra-fine needles and feel like a tiny pinch. The entire procedure takes 10-15 minutes, and most patients describe the discomfort as minimal — comparable to an ant bite. No anaesthesia is typically required, though ice or topical numbing can be applied for sensitive patients.
                   </div>
                 </div>
               </div>
@@ -285,7 +285,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

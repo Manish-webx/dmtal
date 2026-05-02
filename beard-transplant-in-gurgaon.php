@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                   A well-defined beard can dramatically enhance a man's facial structure and jawline. However, genetics, scarring, or conditions like alopecia can lead to patchy, thin, or entirely absent facial hair. If oils and serums have failed you, a <strong>Beard Transplant</strong> is the only permanent solution.
                 </p>
                 <p>
-                  At DermaTales, we use precise FUE and DHI extraction techniques to harvest hair from the back of the scalp and artistically implant them into the beard, mustache, or sideburn areas. The transplanted hair acts exactly like normal facial hairâ€”it will grow, it can be shaved, and it will require trimming.
+                  At DermaTales, we use precise FUE and DHI extraction techniques to harvest hair from the back of the scalp and artistically implant them into the beard, mustache, or sideburn areas. The transplanted hair acts exactly like normal facial hair—it will grow, it can be shaved, and it will require trimming.
                 </p>
               </div>
               <div class="col-md-5">
@@ -244,7 +244,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

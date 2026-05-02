@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -47,7 +47,7 @@
           <h1 class="hero-title-lux">Undereye <span class="text-charcoal-deep italic">Treatment</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
         Reclaim bright, well-rested eyes. Our advanced undereye treatments tackle dark circles, hollowness, puffiness
-        and fine lines â€” revealing eyes that truly reflect how vibrant you feel inside.
+        and fine lines — revealing eyes that truly reflect how vibrant you feel inside.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -69,13 +69,13 @@
                 <h2 class="lux-section-title">Bright Eyes. Younger Look.</h2>
                 <p>
                   The undereye area is often the first zone to show signs of fatigue, stress, and ageing. Dark circles,
-                  hollow tear troughs, fine lines, and puffy eye bags can make you look perpetually tired â€” even when
+                  hollow tear troughs, fine lines, and puffy eye bags can make you look perpetually tired — even when
                   you're well-rested. At DermaTales, our undereye treatments go beyond surface-level solutions to
                   address the underlying anatomical and pigmentation causes of these concerns.
                 </p>
                 <p>
                   Our board-certified dermatologist evaluates whether your undereye concern is vascular, pigmentary,
-                  structural (volume loss or herniated fat), or a combination â€” and designs a bespoke, multi-modal
+                  structural (volume loss or herniated fat), or a combination — and designs a bespoke, multi-modal
                   protocol to address it precisely. No guesswork. No one-size-fits-all. Just results.
                 </p>
               </div>
@@ -91,14 +91,14 @@
           <!-- Causes of Dark Circles -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">What Causes Undereye Concerns?</h2>
-            <p>Undereye issues have multiple, distinct causes â€” accurate diagnosis is the first step to effective
+            <p>Undereye issues have multiple, distinct causes — accurate diagnosis is the first step to effective
               treatment:</p>
             <div class="row g-4 mt-2">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Pigmentation (Melanin)</h5>
                   <p class="small text-muted mb-0">Excess melanin deposits in the periorbital skin create brown or
-                    greyish dark circles â€” common in South Asian skin tones and often hereditary.</p>
+                    greyish dark circles — common in South Asian skin tones and often hereditary.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -112,7 +112,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Volume Loss (Tear Trough)</h5>
                   <p class="small text-muted mb-0">Age-related loss of fat and bone volume creates a hollow, sunken
-                    appearance under the eyes â€” a tear trough deformity that casts a shadow.</p>
+                    appearance under the eyes — a tear trough deformity that casts a shadow.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -165,7 +165,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Q-Switch Laser Toning</h5>
                   <p class="small text-muted mb-0">Targets melanin-based pigmentation in the undereye skin. The laser
-                    selectively breaks down pigment clusters, lightening dark circles caused by excess melanin â€” with no
+                    selectively breaks down pigment clusters, lightening dark circles caused by excess melanin — with no
                     downtime.</p>
                 </div>
               </div>
@@ -180,8 +180,8 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Carboxytherapy</h5>
-                  <p class="small text-muted mb-0">Infusion of medical-grade COâ‚‚ gas into the undereye skin improves
-                    microcirculation, reduces vascular dark circles, and breaks down fat deposits that cause eye bags â€”
+                  <p class="small text-muted mb-0">Infusion of medical-grade CO₂ gas into the undereye skin improves
+                    microcirculation, reduces vascular dark circles, and breaks down fat deposits that cause eye bags —
                     safely and effectively.</p>
                 </div>
               </div>
@@ -204,7 +204,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Brighter Eyes</h5>
                   <p class="small text-muted mb-0">Visibly lightened dark circles that make you look rested, refreshed,
-                    and more youthful â€” day and night.</p>
+                    and more youthful — day and night.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -232,7 +232,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Natural-Looking Results</h5>
                   <p class="small text-muted mb-0">Our dermatologist's precision technique ensures results are subtle,
-                    harmonious, and authentically you â€” never overdone.</p>
+                    harmonious, and authentically you — never overdone.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -286,8 +286,8 @@
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">Periorbital Consultation & Diagnosis</h4>
-                <p class="small text-muted">Our dermatologist performs a detailed analysis of your undereye area â€”
-                  identifying whether the concern is pigmentary, vascular, structural, or combined â€” before recommending
+                <p class="small text-muted">Our dermatologist performs a detailed analysis of your undereye area —
+                  identifying whether the concern is pigmentary, vascular, structural, or combined — before recommending
                   a targeted treatment plan.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
@@ -297,7 +297,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Precision Treatment</h4>
-                <p class="small text-muted">The selected modality â€” filler, PRP, laser toning, or carboxytherapy â€” is
+                <p class="small text-muted">The selected modality — filler, PRP, laser toning, or carboxytherapy — is
                   administered with surgical precision targeting the specific undereye concern.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
@@ -323,7 +323,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Accurate Root-Cause Diagnosis</h4>
-                  <p>We identify the precise cause of your dark circles â€” pigmentary, vascular, or structural â€” before
+                  <p>We identify the precise cause of your dark circles — pigmentary, vascular, or structural — before
                     treatment. This diagnostic precision is what separates effective treatment from guesswork.</p>
                 </div>
               </div>
@@ -339,7 +339,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Multi-Modal Combination Protocols</h4>
-                  <p>We often combine modalities â€” such as PRP with laser toning â€” for comprehensive results that
+                  <p>We often combine modalities — such as PRP with laser toning — for comprehensive results that
                     address both pigmentation and skin quality simultaneously in a single treatment plan.</p>
                 </div>
               </div>
@@ -347,7 +347,7 @@
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural, Rested Results</h4>
-                  <p>Our philosophy is subtle enhancement â€” we restore your natural brightness and vitality without the
+                  <p>Our philosophy is subtle enhancement — we restore your natural brightness and vitality without the
                     "overdone" look. Your results should simply make you look like the best, most rested version of
                     yourself.</p>
                 </div>
@@ -401,8 +401,8 @@
                   <div class="accordion-body faq-body">
                     PRP is highly effective for managing vascular and pigmentary dark circles and improving overall
                     undereye skin quality. Growth factors in PRP stimulate collagen production, thicken the thin skin,
-                    and improve the local microcirculation â€” delivering gradual but significant and natural improvement
-                    over 3â€“4 sessions.
+                    and improve the local microcirculation — delivering gradual but significant and natural improvement
+                    over 3–4 sessions.
                   </div>
                 </div>
               </div>
@@ -416,7 +416,7 @@
                 <div id="ueFaq4" class="accordion-collapse collapse" data-bs-parent="#undereyeFAQ">
                   <div class="accordion-body faq-body">
                     All treatments are performed by our board-certified dermatologist with the highest safety standards.
-                    Minor bruising or swelling can occur after filler injections, typically resolving within 2â€“5 days.
+                    Minor bruising or swelling can occur after filler injections, typically resolving within 2–5 days.
                     Laser toning and chemical peels have virtually no downtime. You'll receive a full post-care protocol
                     to ensure safe and smooth recovery.
                   </div>
@@ -432,7 +432,7 @@
                 <div id="ueFaq5" class="accordion-collapse collapse" data-bs-parent="#undereyeFAQ">
                   <div class="accordion-body faq-body">
                     Tear trough fillers deliver visible results in a single session. PRP and laser toning typically
-                    require 3â€“4 sessions spaced 4 weeks apart for optimal results. Your dermatologist will outline a
+                    require 3–4 sessions spaced 4 weeks apart for optimal results. Your dermatologist will outline a
                     personalised treatment timeline based on your specific undereye concern and its severity.
                   </div>
                 </div>
@@ -464,7 +464,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

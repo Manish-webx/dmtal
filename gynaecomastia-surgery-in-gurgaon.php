@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -136,7 +136,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Week 1: Office Work</h4>
-                <p class="small text-muted">Most patients can return to sedentary office work within 3â€“5 days. Swelling begins to subside significantly.</p>
+                <p class="small text-muted">Most patients can return to sedentary office work within 3–5 days. Swelling begins to subside significantly.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Week 4-6: Full Activity</h4>
@@ -171,7 +171,7 @@
                 </h3>
                 <div id="gyFaq2" class="accordion-collapse collapse" data-bs-parent="#gynaeFAQ">
                   <div class="accordion-body faq-body">
-                    We use tiny incisions for liposuction (2â€“3mm) and place glandular excision incisions along the natural border of the areola. Once healed, these scars are typically very difficult to see.
+                    We use tiny incisions for liposuction (2–3mm) and place glandular excision incisions along the natural border of the areola. Once healed, these scars are typically very difficult to see.
                   </div>
                 </div>
               </div>
@@ -211,7 +211,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

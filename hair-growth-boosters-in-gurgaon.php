@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -102,7 +102,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Customizable Formula</h5>
-                  <p class="small text-muted mb-0">Each booster cocktail is tailored to your specific deficiency profile â€” whether it is biotin, peptides, zinc, or a combination blend.</p>
+                  <p class="small text-muted mb-0">Each booster cocktail is tailored to your specific deficiency profile — whether it is biotin, peptides, zinc, or a combination blend.</p>
                 </div>
               </div>
             </div>
@@ -211,7 +211,7 @@
                 </h3>
                 <div id="boosterFaq2" class="accordion-collapse collapse" data-bs-parent="#boosterFAQ">
                   <div class="accordion-body faq-body">
-                    A typical course consists of 6â€“8 sessions spaced 2â€“3 weeks apart. Reduction in hair fall is usually noticeable after 2â€“3 sessions, while significant improvement in density and thickness occurs over 3â€“4 months of consistent treatment.
+                    A typical course consists of 6–8 sessions spaced 2–3 weeks apart. Reduction in hair fall is usually noticeable after 2–3 sessions, while significant improvement in density and thickness occurs over 3–4 months of consistent treatment.
                   </div>
                 </div>
               </div>
@@ -247,7 +247,7 @@
             </div>
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

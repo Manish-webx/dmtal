@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -247,7 +247,7 @@
                 </h3>
                 <div id="mwFaq3" class="accordion-collapse collapse" data-bs-parent="#moleWartFAQ">
                   <div class="accordion-body faq-body">
-                    Recovery is typically very fast. A small scab forms at the site and heals naturally within 7â€“10 days, leaving smooth skin underneath. We provide complete aftercare instructions to ensure optimal healing.
+                    Recovery is typically very fast. A small scab forms at the site and heals naturally within 7–10 days, leaving smooth skin underneath. We provide complete aftercare instructions to ensure optimal healing.
                   </div>
                 </div>
               </div>
@@ -279,7 +279,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

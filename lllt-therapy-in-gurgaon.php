@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -78,7 +78,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Completely Painless</h5>
-                  <p class="small text-muted mb-0">No needles, no incisions â€” LLLT is a comfortable, relaxing treatment with absolutely zero pain involved.</p>
+                  <p class="small text-muted mb-0">No needles, no incisions — LLLT is a comfortable, relaxing treatment with absolutely zero pain involved.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -199,7 +199,7 @@
                 </h3>
                 <div id="llltFaq1" class="accordion-collapse collapse show" data-bs-parent="#llltFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients notice a reduction in hair shedding after 4â€“6 sessions. Visible new growth and increased density are typically observed after 3â€“4 months of consistent treatment. LLLT is a gradual process that rewards consistency.
+                    Most patients notice a reduction in hair shedding after 4–6 sessions. Visible new growth and increased density are typically observed after 3–4 months of consistent treatment. LLLT is a gradual process that rewards consistency.
                   </div>
                 </div>
               </div>
@@ -211,7 +211,7 @@
                 </h3>
                 <div id="llltFaq2" class="accordion-collapse collapse" data-bs-parent="#llltFAQ">
                   <div class="accordion-body faq-body">
-                    A typical protocol involves 2â€“3 sessions per week for the first 3 months, followed by maintenance sessions. The total number of sessions varies based on your degree of hair loss and response to treatment.
+                    A typical protocol involves 2–3 sessions per week for the first 3 months, followed by maintenance sessions. The total number of sessions varies based on your degree of hair loss and response to treatment.
                   </div>
                 </div>
               </div>
@@ -247,7 +247,7 @@
             </div>
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

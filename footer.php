@@ -18,7 +18,7 @@
         <a href="https://www.facebook.com/profile?id=61572154471704" aria-label="Facebook"
           class="footer-social-icon footer-social-facebook" target="_blank" rel="noopener"><i
             class="bi bi-facebook"></i></a>
-        <a href="https://wa.me/917303851264" aria-label="WhatsApp" class="footer-social-icon footer-social-whatsapp"><i
+        <a href="https://wa.me/919560015155" aria-label="WhatsApp" class="footer-social-icon footer-social-whatsapp"><i
             class="bi bi-whatsapp"></i></a>
       </div>
     </div>
@@ -197,10 +197,10 @@
 
 <!-- ===================== FLOATING CTA ===================== -->
 <div class="floating-cta">
-  <a href="https://wa.me/917303851264" class="floating-whatsapp" aria-label="Chat on WhatsApp">
+  <a href="https://wa.me/919560015155" class="floating-whatsapp" aria-label="Chat on WhatsApp">
     <i class="bi bi-whatsapp"></i>
   </a>
-  <a href="tel:+917303851264" class="floating-phone d-lg-none" aria-label="Call now">
+  <a href="tel:+919560015155" class="floating-phone d-lg-none" aria-label="Call now">
     <i class="bi bi-telephone-fill"></i>
   </a>
 </div>

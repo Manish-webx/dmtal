@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Gold Standard in Skin Resurfacing</h2>
                 <p>
-                  Severe breakouts often leave behind a painful reminder in the form of atrophic acne scarsâ€”deep pits, rolling scars, and ice-pick craters. These occur when the skin loses underlying collagen during the inflammatory healing process of acne. No topical cream can fill these physical depressions.
+                  Severe breakouts often leave behind a painful reminder in the form of atrophic acne scars—deep pits, rolling scars, and ice-pick craters. These occur when the skin loses underlying collagen during the inflammatory healing process of acne. No topical cream can fill these physical depressions.
                 </p>
                 <p>
                   To restore a smooth skin texture, you must rebuild the collagen from within. At DermaTales, we deploy <strong>Fractional CO2 Lasers</strong>. This technology is universally recognized by dermatologists as the most powerful and effective tool for aggressively remodeling deep scar tissue and stimulating fresh, thick collagen.
@@ -245,7 +245,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -105,7 +105,7 @@
                   <h5 class="fw-bold h6 mb-3">Liquid Rhinoplasty (Nose Filler)</h5>
                   <p class="small text-muted mb-0">A non-surgical alternative to traditional rhinoplasty. We can smooth
                     out dorsal humps, lift a drooping nasal tip, and improve the overall bridge profile with
-                    strategically placed filler â€” all in less than 30 minutes.</p>
+                    strategically placed filler — all in less than 30 minutes.</p>
                 </div>
               </div>
             </div>
@@ -138,7 +138,7 @@
                 <div class="text-center p-3">
                   <i class="bi bi-calendar-check h2 text-gold mb-3 d-block"></i>
                   <h6 class="fw-bold">Long-Lasting</h6>
-                  <p class="small text-muted">Results typically last 9â€“18 months depending on the area and filler type.
+                  <p class="small text-muted">Results typically last 9–18 months depending on the area and filler type.
                   </p>
                 </div>
               </div>
@@ -150,7 +150,7 @@
             <h2 class="lux-section-title">Key Benefits</h2>
             <ul class="candidate-list row">
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Enhanced facial symmetry and balance.</li>
-              <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Zero downtimeâ€”return to work immediately.</li>
+              <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Zero downtime—return to work immediately.</li>
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Non-surgical and minimally invasive.</li>
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Customisable from subtle to dramatic.</li>
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Improved confidence in your profile.</li>
@@ -213,7 +213,7 @@
                 </h3>
                 <div id="enFaq2" class="accordion-collapse collapse" data-bs-parent="#enhancementFAQ">
                   <div class="accordion-body faq-body">
-                    The injection process itself usually takes 15â€“30 minutes. Including the consultation and numbing
+                    The injection process itself usually takes 15–30 minutes. Including the consultation and numbing
                     time, you should plan to be in the clinic for about one hour.
                   </div>
                 </div>
@@ -242,7 +242,7 @@
                 </h3>
                 <div id="enFaq4" class="accordion-collapse collapse" data-bs-parent="#enhancementFAQ">
                   <div class="accordion-body faq-body">
-                    Mild swelling is normal for 24â€“48 hours, especially with lips. Some minor bruising may occur but can
+                    Mild swelling is normal for 24–48 hours, especially with lips. Some minor bruising may occur but can
                     usually be covered with makeup the next day. We provide full aftercare guidance to minimise these
                     symptoms.
                   </div>
@@ -271,7 +271,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

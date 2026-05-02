@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -78,7 +78,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Permanent Fat Removal</h5>
-                  <p class="small text-muted mb-0">Destroyed fat cells are permanently eliminated â€” unlike dieting where fat cells merely shrink, lipolysis removes them from the body entirely.</p>
+                  <p class="small text-muted mb-0">Destroyed fat cells are permanently eliminated — unlike dieting where fat cells merely shrink, lipolysis removes them from the body entirely.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -90,13 +90,13 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Minimal Downtime</h5>
-                  <p class="small text-muted mb-0">Swelling and bruising typically resolve within 1â€“2 weeks. Most patients return to work within 1â€“3 days post-treatment.</p>
+                  <p class="small text-muted mb-0">Swelling and bruising typically resolve within 1–2 weeks. Most patients return to work within 1–3 days post-treatment.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Natural Results</h5>
-                  <p class="small text-muted mb-0">Fat is gradually eliminated over 4â€“6 weeks, producing smooth, natural-looking contouring improvements without sudden drastic changes.</p>
+                  <p class="small text-muted mb-0">Fat is gradually eliminated over 4–6 weeks, producing smooth, natural-looking contouring improvements without sudden drastic changes.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -185,7 +185,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Post-Treatment Care</h4>
-                <p class="small text-muted">Cold compresses are applied to reduce swelling. Mild bruising and swelling over the following 1â€“2 weeks is normal as the body processes the dissolved fat cells.</p>
+                <p class="small text-muted">Cold compresses are applied to reduce swelling. Mild bruising and swelling over the following 1–2 weeks is normal as the body processes the dissolved fat cells.</p>
               </div>
             </div>
           </div>
@@ -230,7 +230,7 @@
                 </h3>
                 <div id="lipolysisFaq1" class="accordion-collapse collapse show" data-bs-parent="#lipolysisFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients require 2â€“4 sessions per area, spaced 4â€“6 weeks apart. The double chin often shows good results after 2 sessions, while larger areas like the abdomen may require more. Your doctor will advise based on the amount of fat and your goals.
+                    Most patients require 2–4 sessions per area, spaced 4–6 weeks apart. The double chin often shows good results after 2 sessions, while larger areas like the abdomen may require more. Your doctor will advise based on the amount of fat and your goals.
                   </div>
                 </div>
               </div>
@@ -242,7 +242,7 @@
                 </h3>
                 <div id="lipolysisFaq2" class="accordion-collapse collapse" data-bs-parent="#lipolysisFAQ">
                   <div class="accordion-body faq-body">
-                    Expect swelling, redness, and mild tenderness in the treated area for 3â€“7 days, which is part of the normal fat breakdown process. Bruising may also occur. Most patients can return to work within 1â€“3 days and the swelling subsides within 1â€“2 weeks.
+                    Expect swelling, redness, and mild tenderness in the treated area for 3–7 days, which is part of the normal fat breakdown process. Bruising may also occur. Most patients can return to work within 1–3 days and the swelling subsides within 1–2 weeks.
                   </div>
                 </div>
               </div>
@@ -278,7 +278,7 @@
             </div>
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

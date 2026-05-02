@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                   Hesitational marks, often resulting from past self-harm, can be a lingering physical reminder of a painful time. While healing emotionally is paramount, fading these scars can be an important step in moving forward and reclaiming your confidence.
                 </p>
                 <p>
-                  At DermaTales, we treat our patients with the utmost empathy, respect, and strict confidentiality. Our dermatologists understand the unique nature of these scarsâ€”which can be raised (hypertrophic), flat, or discolored. We utilize the most advanced dermatological tools, including Fractional CO2 Lasers, Microneedling Radiofrequency (MNRF), and surgical revision, to remodel the scar tissue and blend it seamlessly with the surrounding skin.
+                  At DermaTales, we treat our patients with the utmost empathy, respect, and strict confidentiality. Our dermatologists understand the unique nature of these scars—which can be raised (hypertrophic), flat, or discolored. We utilize the most advanced dermatological tools, including Fractional CO2 Lasers, Microneedling Radiofrequency (MNRF), and surgical revision, to remodel the scar tissue and blend it seamlessly with the surrounding skin.
                 </p>
               </div>
               <div class="col-md-5">
@@ -244,7 +244,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

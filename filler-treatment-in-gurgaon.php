@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -47,7 +47,7 @@
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">Dermal Filler <span class="text-charcoal-deep italic">Treatment</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        Restore what time takes away. Premium hyaluronic acid fillers to replenish lost volume, sculpt facial contours, and erase deep lines â€” with immediate, natural-looking results.
+        Restore what time takes away. Premium hyaluronic acid fillers to replenish lost volume, sculpt facial contours, and erase deep lines — with immediate, natural-looking results.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -68,10 +68,10 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Art of Volume Restoration</h2>
                 <p>
-                  Dermal fillers are injectable gels â€” most commonly made of cross-linked hyaluronic acid (HA) â€” designed to restore volume, smooth wrinkles, and enhance facial contours. As we age, we lose approximately 1% of our facial fat and collagen each year, leading to hollowed cheeks, deepened nasolabial folds, thinning lips, and a deflated, tired appearance.
+                  Dermal fillers are injectable gels — most commonly made of cross-linked hyaluronic acid (HA) — designed to restore volume, smooth wrinkles, and enhance facial contours. As we age, we lose approximately 1% of our facial fat and collagen each year, leading to hollowed cheeks, deepened nasolabial folds, thinning lips, and a deflated, tired appearance.
                 </p>
                 <p>
-                  At DermaTales, Dr. Pooja Varshney employs an anatomically-guided, full-face approach to filler treatment. Rather than merely "filling lines," we focus on restoring the structural foundation of the face â€” the temples, cheekbones, chin, and jawline â€” to recreate the youthful "triangle of beauty" and achieve results that are harmonious, balanced, and undeniably natural.
+                  At DermaTales, Dr. Pooja Varshney employs an anatomically-guided, full-face approach to filler treatment. Rather than merely "filling lines," we focus on restoring the structural foundation of the face — the temples, cheekbones, chin, and jawline — to recreate the youthful "triangle of beauty" and achieve results that are harmonious, balanced, and undeniably natural.
                 </p>
               </div>
               <div class="col-md-5">
@@ -89,7 +89,7 @@
               Hyaluronic acid is a naturally occurring molecule in the human body that binds water and provides hydration and volume to the skin. Injectable HA fillers replicate this function, acting as a <strong>biocompatible scaffold</strong> that immediately restores volume at the injection site. Different filler consistencies are used for different purposes: softer, more fluid gels for delicate areas like lips and under-eyes, and firmer, more cohesive gels for structural areas like the jawline and cheekbones.
             </p>
             <p>
-              Beyond the immediate volumizing effect, modern HA fillers also stimulate <strong>neocollagenesis</strong> â€” your body's natural production of new collagen around the filler material. This means results continue to improve subtly over the weeks following treatment, and the skin quality in the treated area often appears better even after the filler naturally metabolizes.
+              Beyond the immediate volumizing effect, modern HA fillers also stimulate <strong>neocollagenesis</strong> — your body's natural production of new collagen around the filler material. This means results continue to improve subtly over the weeks following treatment, and the skin quality in the treated area often appears better even after the filler naturally metabolizes.
             </p>
           </div>
 
@@ -161,7 +161,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Precision Injection</h4>
-                <p class="small text-muted">Using fine needles or blunt-tipped cannulas, the filler is deposited at the correct anatomical depth â€” supraperiosteal for structure, subdermal for volume, and intradermal for lines.</p>
+                <p class="small text-muted">Using fine needles or blunt-tipped cannulas, the filler is deposited at the correct anatomical depth — supraperiosteal for structure, subdermal for volume, and intradermal for lines.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Sculpting & Review</h4>
@@ -179,7 +179,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Premium Products Only</h4>
-                  <p>We exclusively use globally renowned, CE-marked and USFDA-approved hyaluronic acid fillers from brands like Juvederm and Restylane â€” never generic alternatives.</p>
+                  <p>We exclusively use globally renowned, CE-marked and USFDA-approved hyaluronic acid fillers from brands like Juvederm and Restylane — never generic alternatives.</p>
                 </div>
               </div>
               
@@ -197,7 +197,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural Results Philosophy</h4>
-                  <p>We follow the "less is more" principle. Our goal is to make you look refreshed and rested â€” never overfilled or unnatural.</p>
+                  <p>We follow the "less is more" principle. Our goal is to make you look refreshed and rested — never overfilled or unnatural.</p>
                 </div>
               </div>
               
@@ -241,7 +241,7 @@
                 </h3>
                 <div id="ff2" class="accordion-collapse collapse" data-bs-parent="#fillerFAQ">
                   <div class="accordion-body faq-body">
-                    Not when done correctly. Overfilled or poorly placed fillers cause unnatural results. At DermaTales, Dr. Varshney follows conservative voluming principles, focusing on structural restoration rather than simply "adding volume." The result is a face that looks naturally youthful â€” not artificially inflated.
+                    Not when done correctly. Overfilled or poorly placed fillers cause unnatural results. At DermaTales, Dr. Varshney follows conservative voluming principles, focusing on structural restoration rather than simply "adding volume." The result is a face that looks naturally youthful — not artificially inflated.
                   </div>
                 </div>
               </div>
@@ -285,7 +285,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

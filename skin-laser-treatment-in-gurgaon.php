@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -221,7 +221,7 @@
                 </h3>
                 <div id="lFaq1" class="accordion-collapse collapse show" data-bs-parent="#laserFAQ">
                   <div class="accordion-body faq-body">
-                    It depends on the type of laser. Laser Toning and Carbon Facials have zero downtime. Resurfacing lasers like CO2 may require 4â€“7 days of recovery as the skin heals, during which there might be redness and mild peeling.
+                    It depends on the type of laser. Laser Toning and Carbon Facials have zero downtime. Resurfacing lasers like CO2 may require 4–7 days of recovery as the skin heals, during which there might be redness and mild peeling.
                   </div>
                 </div>
               </div>
@@ -234,7 +234,7 @@
                 </h3>
                 <div id="lFaq2" class="accordion-collapse collapse" data-bs-parent="#laserFAQ">
                   <div class="accordion-body faq-body">
-                    While some improvement is visible after a single session, most concerns like acne scars or deep pigmentation require a series of 4â€“6 sessions for significant, life-changing results.
+                    While some improvement is visible after a single session, most concerns like acne scars or deep pigmentation require a series of 4–6 sessions for significant, life-changing results.
                   </div>
                 </div>
               </div>
@@ -274,7 +274,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

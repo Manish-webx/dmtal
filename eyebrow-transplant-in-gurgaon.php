@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -87,7 +87,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">The Intricacy of Brow Implantation</h2>
             <p>
-              Eyebrow hair behaves very differently from scalp hair. It grows flush against the skin and changes direction abruptlyâ€”hairs at the inner edge point upward, while hairs at the tail point horizontally. To mimic this, our surgeons use the finest DHI Implanter Pens. We exclusively harvest single-hair follicular units (often from the nape of the neck or behind the ear for finer texture) and implant them at extreme flat angles. We meticulously reconstruct the "herringbone" pattern of a natural brow.
+              Eyebrow hair behaves very differently from scalp hair. It grows flush against the skin and changes direction abruptly—hairs at the inner edge point upward, while hairs at the tail point horizontally. To mimic this, our surgeons use the finest DHI Implanter Pens. We exclusively harvest single-hair follicular units (often from the nape of the neck or behind the ear for finer texture) and implant them at extreme flat angles. We meticulously reconstruct the "herringbone" pattern of a natural brow.
             </p>
           </div>
 
@@ -243,7 +243,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

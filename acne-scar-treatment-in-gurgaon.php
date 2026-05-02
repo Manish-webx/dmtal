@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Restore Your Inner Confidence</h2>
                 <p>
-                  Acne scars can be a source of constant self-consciousness, often lingering long after the active acne has subsided. At DermaTales, we understand that every scar tells a story, and our goal is to help you rewrite yours. Our board-certified dermatologists specialise in multi-modal treatment protocols designed to target all types of acne scarsâ€”from deep boxcar scars to ice-pick and rolling scars.
+                  Acne scars can be a source of constant self-consciousness, often lingering long after the active acne has subsided. At DermaTales, we understand that every scar tells a story, and our goal is to help you rewrite yours. Our board-certified dermatologists specialise in multi-modal treatment protocols designed to target all types of acne scars—from deep boxcar scars to ice-pick and rolling scars.
                 </p>
                 <p>
                   We don't believe in a one-size-fits-all approach. Your skin is unique, and so is your scarring. Our treatments focus on collagen induction, skin resurfacing, and dermal remodeling to deliver visible results that last.
@@ -279,7 +279,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

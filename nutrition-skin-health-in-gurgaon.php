@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,7 +70,7 @@
                   "You are what you eat" is a biological reality in dermatology. The gut and the skin are intrinsically linked through the "Gut-Skin Axis." Chronic inflammation in the digestive system often manifests as inflammatory skin conditions like acne, rosacea, and eczema.
                 </p>
                 <p>
-                  At DermaTales, we analyze your dietary habits to identify potential triggersâ€”such as high-glycemic foods or dairy sensitivitiesâ€”that may be fueling your skin concerns. Our goal is to create a nutritional roadmap that supports cellular repair, suppresses inflammation, and provides the building blocks for healthy collagen.
+                  At DermaTales, we analyze your dietary habits to identify potential triggers—such as high-glycemic foods or dairy sensitivities—that may be fueling your skin concerns. Our goal is to create a nutritional roadmap that supports cellular repair, suppresses inflammation, and provides the building blocks for healthy collagen.
                 </p>
               </div>
               <div class="col-md-5">
@@ -101,7 +101,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-4 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-3">Low-Glycemic Load</h5>
-                  <p class="small text-muted mb-0">Reducing refined sugars and processed carbs that cause insulin spikesâ€”a primary driver of adult acne and premature skin aging (glycation).</p>
+                  <p class="small text-muted mb-0">Reducing refined sugars and processed carbs that cause insulin spikes—a primary driver of adult acne and premature skin aging (glycation).</p>
                 </div>
               </div>
             </div>
@@ -127,7 +127,7 @@
               <div class="col-md-6">
                 <div class="feature-card-lux p-4 rounded-4 bg-light h-100">
                   <h5 class="fw-bold h6 mb-3">Barrier Restoration Nutrition</h5>
-                  <p class="small text-muted mb-0">Crucial for Eczema and Rosacea sufferersâ€”optimizing healthy fats and ceramides through nutrition to heal extremely dry or reactive skin.</p>
+                  <p class="small text-muted mb-0">Crucial for Eczema and Rosacea sufferers—optimizing healthy fats and ceramides through nutrition to heal extremely dry or reactive skin.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -205,7 +205,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

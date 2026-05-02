@@ -179,10 +179,10 @@
 
       <div class="mobile-cta-block mt-4">
         <a href="#appointment" class="btn btn-gold rounded-pill w-100 mb-2">Book Appointment</a>
-        <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100 mb-2">
+        <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100 mb-2">
           <i class="bi bi-whatsapp me-1"></i> WhatsApp Us
         </a>
-        <a href="tel:+917303851264" class="btn btn-outline-gold rounded-pill w-100">
+        <a href="tel:+919560015155" class="btn btn-outline-gold rounded-pill w-100">
           <i class="bi bi-telephone-fill me-1"></i> Call Now
         </a>
       </div>

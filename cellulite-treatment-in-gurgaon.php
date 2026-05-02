@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Beyond Diet and Exercise</h2>
                 <p>
-                  Celluliteâ€”often described as having an "orange peel" or dimpled textureâ€”affects over 80% of women. It occurs when fat cells push up against the skin while tough, fibrous connective bands pull down, creating an uneven surface. Because it is structural, even intense diet and exercise cannot eliminate cellulite completely.
+                  Cellulite—often described as having an "orange peel" or dimpled texture—affects over 80% of women. It occurs when fat cells push up against the skin while tough, fibrous connective bands pull down, creating an uneven surface. Because it is structural, even intense diet and exercise cannot eliminate cellulite completely.
                 </p>
                 <p>
                   At DermaTales, we use state-of-the-art non-invasive treatments to target the underlying architecture of cellulite. By combining technologies like Radiofrequency (RF), Acoustic Wave Therapy, and deeper collagen-inducing treatments, we shrink the fat cells, break down the stiff fibrous bands, and tighten the overlying skin for a dramatically smoother appearance.
@@ -245,7 +245,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -186,7 +186,7 @@
                 </h3>
                 <div id="xaFaq3" class="accordion-collapse collapse" data-bs-parent="#xanthelasmaFAQ">
                   <div class="accordion-body faq-body">
-                    A small scab will form at the site of removal. For Milia, this usually heals within 3â€“5 days. For Xanthelasma removed via RF or laser, it typically takes 7â€“10 days for the scab to shed and the skin to look smooth again.
+                    A small scab will form at the site of removal. For Milia, this usually heals within 3–5 days. For Xanthelasma removed via RF or laser, it typically takes 7–10 days for the scab to shed and the skin to look smooth again.
                   </div>
                 </div>
               </div>
@@ -213,7 +213,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

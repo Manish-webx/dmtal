@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -87,7 +87,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How DHI Works</h2>
             <p>
-              The extraction phase in DHI is identical to FUEâ€”follicles are individually harvested from the donor area. However, during the implantation phase, the extracted grafts are carefully loaded into the hollow needle of the Choi Pen. The surgeon then presses the pen directly into the scalp, deploying the graft into the tissue in one swift, seamless motion. This direct method allows the surgeon to control the exact depth, angle, and direction of every single hair with 100% precision.
+              The extraction phase in DHI is identical to FUE—follicles are individually harvested from the donor area. However, during the implantation phase, the extracted grafts are carefully loaded into the hollow needle of the Choi Pen. The surgeon then presses the pen directly into the scalp, deploying the graft into the tissue in one swift, seamless motion. This direct method allows the surgeon to control the exact depth, angle, and direction of every single hair with 100% precision.
             </p>
           </div>
 
@@ -244,7 +244,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

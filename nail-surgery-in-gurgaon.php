@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -223,7 +223,7 @@
                 </h3>
                 <div id="nailFaq1" class="accordion-collapse collapse show" data-bs-parent="#nailFAQ">
                   <div class="accordion-body faq-body">
-                    No. A digital nerve block (local anesthesia) is administered at the base of the toe before the procedure. You will feel absolutely no pain during surgery. Some mild soreness may be felt for 1â€“2 days afterward, which is easily managed with over-the-counter pain relief.
+                    No. A digital nerve block (local anesthesia) is administered at the base of the toe before the procedure. You will feel absolutely no pain during surgery. Some mild soreness may be felt for 1–2 days afterward, which is easily managed with over-the-counter pain relief.
                   </div>
                 </div>
               </div>
@@ -247,7 +247,7 @@
                 </h3>
                 <div id="nailFaq3" class="accordion-collapse collapse" data-bs-parent="#nailFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients can walk normally right after the procedure. The treated area requires simple dressing changes at home for about 2â€“4 weeks until fully healed. We provide detailed aftercare instructions and schedule follow-up appointments to ensure smooth recovery.
+                    Most patients can walk normally right after the procedure. The treated area requires simple dressing changes at home for about 2–4 weeks until fully healed. We provide detailed aftercare instructions and schedule follow-up appointments to ensure smooth recovery.
                   </div>
                 </div>
               </div>
@@ -279,7 +279,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -15,7 +15,7 @@
   <!-- Open Graph -->
   <meta property="og:title" content="Best MNRF Treatment in Gurgaon | Radiofrequency Microneedling | DermaTales">
   <meta property="og:description"
-    content="Transform your skin with MNRF â€” the gold standard in skin tightening and scar reduction. Precision radiofrequency microneedling at DermaTales for collagen remodelling and skin rejuvenation.">
+    content="Transform your skin with MNRF — the gold standard in skin tightening and scar reduction. Precision radiofrequency microneedling at DermaTales for collagen remodelling and skin rejuvenation.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/mnrf-treatment-in-gurgaon">
   <meta property="og:image" content="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&q=80">
@@ -47,7 +47,7 @@
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">MNRF <span class="text-charcoal-deep italic">Treatment</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        Micro-Needling Radiofrequency â€” the gold standard for skin tightening, scar reduction, and deep collagen remodelling. Precision energy delivered exactly where your skin needs it most.
+        Micro-Needling Radiofrequency — the gold standard for skin tightening, scar reduction, and deep collagen remodelling. Precision energy delivered exactly where your skin needs it most.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -71,7 +71,7 @@
                   Micro-Needling Radiofrequency (MNRF) is an advanced dermatological procedure that combines the collagen-inducing benefits of microneedling with the deep-tissue tightening power of bipolar radiofrequency energy. Unlike traditional microneedling, which only works on the surface, MNRF delivers controlled thermal energy directly into the dermal layers through insulated gold-plated microneedles.
                 </p>
                 <p>
-                  At DermaTales, we utilize medical-grade MNRF systems with adjustable needle depths (0.5mm to 3.5mm) and customizable RF energy levels. This allows Dr. Pooja Varshney to precisely target different skin concerns â€” from superficial fine lines to deep acne scars and significant skin laxity â€” all within a single session.
+                  At DermaTales, we utilize medical-grade MNRF systems with adjustable needle depths (0.5mm to 3.5mm) and customizable RF energy levels. This allows Dr. Pooja Varshney to precisely target different skin concerns — from superficial fine lines to deep acne scars and significant skin laxity — all within a single session.
                 </p>
               </div>
               <div class="col-md-5">
@@ -89,7 +89,7 @@
               The MNRF handpiece contains an array of fine, insulated microneedles that penetrate the skin to a precisely controlled depth. Once in position, bipolar radiofrequency energy is released <strong>only at the needle tips</strong>, creating microscopic zones of thermal coagulation deep within the dermis. The insulated coating ensures the epidermis (skin surface) is protected from thermal damage.
             </p>
             <p>
-              This controlled thermal injury triggers a powerful wound-healing cascade. The body responds by producing fresh <strong>Type I and Type III collagen</strong>, new elastin fibers, and hyaluronic acid. Over the following weeks and months, the treated skin becomes visibly tighter, smoother, and more youthful. The dual action â€” mechanical microneedling plus RF energy â€” makes MNRF significantly more effective than either modality alone.
+              This controlled thermal injury triggers a powerful wound-healing cascade. The body responds by producing fresh <strong>Type I and Type III collagen</strong>, new elastin fibers, and hyaluronic acid. Over the following weeks and months, the treated skin becomes visibly tighter, smoother, and more youthful. The dual action — mechanical microneedling plus RF energy — makes MNRF significantly more effective than either modality alone.
             </p>
           </div>
 
@@ -106,7 +106,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Scar Reduction</h5>
-                  <p class="small text-muted mb-0">Breaks down rigid scar collagen and replaces it with organized, healthy tissue â€” ideal for acne scars.</p>
+                  <p class="small text-muted mb-0">Breaks down rigid scar collagen and replaces it with organized, healthy tissue — ideal for acne scars.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -157,7 +157,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Depth & Energy Calibration</h4>
-                <p class="small text-muted">Needle depth and RF energy intensity are customized for each zone â€” shallower for delicate areas like under-eyes, deeper for scarred cheeks and jawline.</p>
+                <p class="small text-muted">Needle depth and RF energy intensity are customized for each zone — shallower for delicate areas like under-eyes, deeper for scarred cheeks and jawline.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">RF Microneedling Delivery</h4>
@@ -179,7 +179,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Medical-Grade Devices</h4>
-                  <p>We use premium MNRF systems with gold-plated insulated needles â€” not salon-grade devices â€” for superior safety and efficacy.</p>
+                  <p>We use premium MNRF systems with gold-plated insulated needles — not salon-grade devices — for superior safety and efficacy.</p>
                 </div>
               </div>
               
@@ -197,7 +197,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Combination Protocols</h4>
-                  <p>MNRF is often combined with PRP, subcision, or chemical peels for enhanced results â€” especially for deep acne scars.</p>
+                  <p>MNRF is often combined with PRP, subcision, or chemical peels for enhanced results — especially for deep acne scars.</p>
                 </div>
               </div>
               
@@ -253,7 +253,7 @@
                 </h3>
                 <div id="mf3" class="accordion-collapse collapse" data-bs-parent="#mnrfFAQ">
                   <div class="accordion-body faq-body">
-                    Expect mild redness and slight swelling for 24 to 48 hours â€” similar to a moderate sunburn. Most patients return to work the next day with a tinted sunscreen. There is no peeling, crusting, or prolonged healing period as seen with ablative lasers.
+                    Expect mild redness and slight swelling for 24 to 48 hours — similar to a moderate sunburn. Most patients return to work the next day with a tinted sunscreen. There is no peeling, crusting, or prolonged healing period as seen with ablative lasers.
                   </div>
                 </div>
               </div>
@@ -285,7 +285,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

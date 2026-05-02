@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,7 +70,7 @@
                   Tired, dull, or dehydrated skin can make you look older than you feel. Regular salon facials may provide brief relaxation, but they cannot match the profound cellular rejuvenation of a Medifacial. At DermaTales, our Skin Glow Medifacials are medically designed, results-driven treatments that merge the luxury of a spa facial with the efficacy of clinical dermatology.
                 </p>
                 <p>
-                  Every Medifacial is customised. Under the guidance of our board-certified dermatologist, we tailor the exfoliation technique and infuse medical-grade serumsâ€”rich in antioxidants, peptides, and hyaluronic acidâ€”directly into your dermis, restoring vibrancy from the inside out. 
+                  Every Medifacial is customised. Under the guidance of our board-certified dermatologist, we tailor the exfoliation technique and infuse medical-grade serums—rich in antioxidants, peptides, and hyaluronic acid—directly into your dermis, restoring vibrancy from the inside out. 
                 </p>
               </div>
               <div class="col-md-5">
@@ -327,7 +327,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

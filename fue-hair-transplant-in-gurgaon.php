@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -87,7 +87,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How FUE Works</h2>
             <p>
-              The FUE procedure is a masterpiece of medical precision. We use micro-punches (typically 0.7mm to 0.9mm in diameter) to extract individual follicular unitsâ€”which contain 1 to 4 hairs eachâ€”one by one. This leaves only microscopic dot scars in the donor area that are virtually invisible once the surrounding hair grows out, even if cut very short. Tiny incisions are then made in the recipient area, and the extracted follicles are placed at precise angles and densities to match your natural hair growth pattern perfectly.
+              The FUE procedure is a masterpiece of medical precision. We use micro-punches (typically 0.7mm to 0.9mm in diameter) to extract individual follicular units—which contain 1 to 4 hairs each—one by one. This leaves only microscopic dot scars in the donor area that are virtually invisible once the surrounding hair grows out, even if cut very short. Tiny incisions are then made in the recipient area, and the extracted follicles are placed at precise angles and densities to match your natural hair growth pattern perfectly.
             </p>
           </div>
 
@@ -257,7 +257,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Understanding the Aging Face</h2>
                 <p>
-                  Facial aging is a complex, multi-dimensional process that goes far beyond surface-level wrinkles. It involves the progressive loss of bone structure, fat pad descent, collagen and elastin degradation, muscle hyperactivity, and skin thinning. These changes work together to create the hallmarks of an aging face â€” hollowed temples, flattened cheeks, deepened nasolabial folds, jowls, and a tired overall appearance.
+                  Facial aging is a complex, multi-dimensional process that goes far beyond surface-level wrinkles. It involves the progressive loss of bone structure, fat pad descent, collagen and elastin degradation, muscle hyperactivity, and skin thinning. These changes work together to create the hallmarks of an aging face — hollowed temples, flattened cheeks, deepened nasolabial folds, jowls, and a tired overall appearance.
                 </p>
                 <p>
                   At DermaTales, we believe that effective anti-aging treatment must address all layers of aging simultaneously. Our dermatologist, Dr. Pooja Varshney, designs bespoke, multi-modal treatment plans that combine the best of injectables, energy-based devices, and regenerative therapies to deliver natural, harmonious, and long-lasting facial rejuvenation.
@@ -86,10 +86,10 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">The Science of Facial Aging</h2>
             <p>
-              Facial aging occurs across four distinct anatomical layers, and understanding each is key to effective treatment. <strong>Bone resorption</strong> begins as early as the late 20s, reducing the skeletal scaffold of the face. <strong>Fat pad atrophy and descent</strong> causes cheeks to flatten and hollows to deepen. <strong>SMAS and muscle changes</strong> lead to repetitive expression lines and loss of structural support. Finally, <strong>skin-level changes</strong> â€” including collagen breakdown, elastin fragmentation, and reduced hydration â€” produce fine lines, rough texture, and dullness.
+              Facial aging occurs across four distinct anatomical layers, and understanding each is key to effective treatment. <strong>Bone resorption</strong> begins as early as the late 20s, reducing the skeletal scaffold of the face. <strong>Fat pad atrophy and descent</strong> causes cheeks to flatten and hollows to deepen. <strong>SMAS and muscle changes</strong> lead to repetitive expression lines and loss of structural support. Finally, <strong>skin-level changes</strong> — including collagen breakdown, elastin fragmentation, and reduced hydration — produce fine lines, rough texture, and dullness.
             </p>
             <p>
-              At DermaTales, we assess each layer using advanced clinical evaluation and design a protocol that treats the root cause at every level â€” not just the symptoms on the surface.
+              At DermaTales, we assess each layer using advanced clinical evaluation and design a protocol that treats the root cause at every level — not just the symptoms on the surface.
             </p>
           </div>
 
@@ -179,7 +179,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Multi-Layer Expertise</h4>
-                  <p>We treat all four layers of facial aging â€” bone, fat, muscle, and skin â€” for comprehensive, natural-looking results.</p>
+                  <p>We treat all four layers of facial aging — bone, fat, muscle, and skin — for comprehensive, natural-looking results.</p>
                 </div>
               </div>
               
@@ -206,7 +206,7 @@
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural Results Philosophy</h4>
-                  <p>We believe in enhancing your features â€” never altering them. Every treatment respects your unique facial proportions.</p>
+                  <p>We believe in enhancing your features — never altering them. Every treatment respects your unique facial proportions.</p>
                 </div>
               </div>
             </div>
@@ -241,7 +241,7 @@
                 </h3>
                 <div id="af2" class="accordion-collapse collapse" data-bs-parent="#agingFAQ">
                   <div class="accordion-body faq-body">
-                    For mild to moderate aging, a well-designed non-surgical protocol can deliver remarkable results that rival surgery â€” with far less downtime and risk. However, for advanced sagging and severe skin laxity, a surgical facelift may offer superior outcomes. During your consultation, Dr. Varshney will honestly advise which approach is best suited for your unique situation.
+                    For mild to moderate aging, a well-designed non-surgical protocol can deliver remarkable results that rival surgery — with far less downtime and risk. However, for advanced sagging and severe skin laxity, a surgical facelift may offer superior outcomes. During your consultation, Dr. Varshney will honestly advise which approach is best suited for your unique situation.
                   </div>
                 </div>
               </div>
@@ -285,7 +285,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

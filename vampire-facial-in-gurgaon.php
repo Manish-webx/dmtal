@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                 <p>
                   Made famous by celebrities, the "Vampire Facial" is a highly advanced skin rejuvenation treatment
                   combining Microneedling with Platelet-Rich Plasma (PRP). The intriguing name comes from the fact that
-                  it uses your body's own bloodâ€”specifically the growth-factor-rich plateletsâ€”to stimulate cellular
+                  it uses your body's own blood—specifically the growth-factor-rich platelets—to stimulate cellular
                   turnover and massive collagen production.
                 </p>
                 <p>
@@ -302,7 +302,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -219,7 +219,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Topical Numbing</h4>
-                <p class="small text-muted">A high-potency numbing cream is applied for 30â€“45 minutes to ensure absolute
+                <p class="small text-muted">A high-potency numbing cream is applied for 30–45 minutes to ensure absolute
                   comfort during the precision treatment.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
@@ -293,7 +293,7 @@
                 </h3>
                 <div id="eFaq2" class="accordion-collapse collapse" data-bs-parent="#eyeFAQ">
                   <div class="accordion-body faq-body">
-                    It depends on the treatment. Skin boosters last 6â€“9 months, while results from laser resurfacing and
+                    It depends on the treatment. Skin boosters last 6–9 months, while results from laser resurfacing and
                     PRP can last over a year as they permanently improve the skin's collagen structure.
                   </div>
                 </div>
@@ -307,8 +307,8 @@
                 </h3>
                 <div id="eFaq3" class="accordion-collapse collapse" data-bs-parent="#eyeFAQ">
                   <div class="accordion-body faq-body">
-                    Skin boosters and PRP have minimal downtime (1â€“2 days of mild swelling). Fractional lasers may
-                    require 3â€“5 days of "social downtime" as the skin heals and regenerates.
+                    Skin boosters and PRP have minimal downtime (1–2 days of mild swelling). Fractional lasers may
+                    require 3–5 days of "social downtime" as the skin heals and regenerates.
                   </div>
                 </div>
               </div>
@@ -335,7 +335,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

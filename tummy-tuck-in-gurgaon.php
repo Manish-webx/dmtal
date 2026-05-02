@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -140,7 +140,7 @@
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Month 2: Full Activity</h4>
-                <p class="small text-muted">Core exercises and heavy lifting can usually be resumed after 6â€“8 weeks. Scars begin to mature and fade.</p>
+                <p class="small text-muted">Core exercises and heavy lifting can usually be resumed after 6–8 weeks. Scars begin to mature and fade.</p>
               </div>
             </div>
           </div>
@@ -158,7 +158,7 @@
                 </h3>
                 <div id="ttFaq1" class="accordion-collapse collapse show" data-bs-parent="#tummyFAQ">
                   <div class="accordion-body faq-body">
-                    While a tummy tuck does result in a permanent scar, we place it very lowâ€”at the bikini line levelâ€”so it is completely hidden by underwear and swimsuits. We also provide laser scar revision protocols post-surgery to further minimize its appearance.
+                    While a tummy tuck does result in a permanent scar, we place it very low—at the bikini line level—so it is completely hidden by underwear and swimsuits. We also provide laser scar revision protocols post-surgery to further minimize its appearance.
                   </div>
                 </div>
               </div>
@@ -211,7 +211,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -11,8 +11,8 @@
         <span class="top-bar-link">
           <i class="bi bi-geo-alt-fill"></i> Gurgaon &amp; Delhi
         </span>
-        <a href="tel:+917303851264" class="top-bar-link">
-          <i class="bi bi-telephone-fill"></i> +91 73038 51264
+        <a href="tel:+919560015155" class="top-bar-link">
+          <i class="bi bi-telephone-fill"></i> +91 95600 15155
         </a>
         <a href="mailto:dermatales@gmail.com" class="top-bar-link">
           <i class="bi bi-envelope-fill"></i> dermatales@gmail.com
@@ -43,10 +43,10 @@
 
       <!-- Mobile Actions -->
       <div class="d-flex align-items-center gap-2 d-xl-none">
-        <a href="tel:+917303851264" class="btn btn-sm btn-outline-gold rounded-pill" aria-label="Call now">
+        <a href="tel:+919560015155" class="btn btn-sm btn-outline-gold rounded-pill" aria-label="Call now">
           <i class="bi bi-telephone-fill"></i>
         </a>
-        <a href="https://wa.me/917303851264" class="btn btn-sm btn-whatsapp rounded-pill" aria-label="WhatsApp">
+        <a href="https://wa.me/919560015155" class="btn btn-sm btn-whatsapp rounded-pill" aria-label="WhatsApp">
           <i class="bi bi-whatsapp"></i>
         </a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu"

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Deep Tissue Rebirth</h2>
                 <p>
-                  High-Intensity Focused Ultrasound (HIFU) is the world's most advanced non-surgical technology for skin lifting and tightening. Unlike lasers that treat the surface, HIFU bypasses the upper layers of the skin to deliver targeted energy directly into the SMAS layerâ€”the same structural layer that surgeons manipulate during a traditional facelift.
+                  High-Intensity Focused Ultrasound (HIFU) is the world's most advanced non-surgical technology for skin lifting and tightening. Unlike lasers that treat the surface, HIFU bypasses the upper layers of the skin to deliver targeted energy directly into the SMAS layer—the same structural layer that surgeons manipulate during a traditional facelift.
                 </p>
                 <p>
                   At DermaTales, we utilize medical-grade HIFU systems that allow for precise depth control (1.5mm, 3.0mm, and 4.5mm). This enables us to treat the eyes, face, jawline, and neck with tailored energy levels, ensuring maximum lifting effect while preserving your natural facial expressions.
@@ -282,7 +282,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

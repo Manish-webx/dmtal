@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -67,7 +67,7 @@
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">Why See a Specialist Hair Doctor?</h2>
-                <p>Hair loss is far more than a cosmetic concern â€” it is often an early signal of underlying medical conditions such as thyroid imbalance, nutritional deficiencies, hormonal fluctuations, or autoimmune disease. At DermaTales, our dermatologist-led hair clinic in Gurgaon combines advanced diagnostics with proven medical therapies to identify the root cause of your hair loss and design a treatment plan unique to you.</p>
+                <p>Hair loss is far more than a cosmetic concern — it is often an early signal of underlying medical conditions such as thyroid imbalance, nutritional deficiencies, hormonal fluctuations, or autoimmune disease. At DermaTales, our dermatologist-led hair clinic in Gurgaon combines advanced diagnostics with proven medical therapies to identify the root cause of your hair loss and design a treatment plan unique to you.</p>
                 <p>Whether you are experiencing gradual thinning, sudden patchy loss, or a diffuse shedding pattern, our specialists have the clinical expertise to restore both your hair and your confidence.</p>
               </div>
               <div class="col-md-5">
@@ -235,7 +235,7 @@
                 </h3>
                 <div id="hdFaq2" class="accordion-collapse collapse" data-bs-parent="#hairDocFAQ">
                   <div class="accordion-body faq-body">
-                    After the initial consultation and diagnosis, most patients undergo a 3â€“6 month medical protocol. In-clinic treatments like PRP are usually performed monthly for 3â€“4 sessions, followed by quarterly maintenance.
+                    After the initial consultation and diagnosis, most patients undergo a 3–6 month medical protocol. In-clinic treatments like PRP are usually performed monthly for 3–4 sessions, followed by quarterly maintenance.
                   </div>
                 </div>
               </div>
@@ -259,7 +259,7 @@
                 </h3>
                 <div id="hdFaq4" class="accordion-collapse collapse" data-bs-parent="#hairDocFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients notice a reduction in shedding within 6â€“8 weeks of starting treatment. Visible regrowth typically appears between 3â€“6 months, with continued improvement over a year of consistent treatment.
+                    Most patients notice a reduction in shedding within 6–8 weeks of starting treatment. Visible regrowth typically appears between 3–6 months, with continued improvement over a year of consistent treatment.
                   </div>
                 </div>
               </div>
@@ -291,7 +291,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -67,10 +67,10 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Brain-Skin Axis</h2>
                 <p>
-                  Stress isn't just a mental state; it's a biochemical one. When you are stressed, your body releases cortisolâ€”the "stress hormone"â€”which signals the skin's oil glands to produce more sebum, leads to systemic inflammation, and can even compromise the skin's barrier function.
+                  Stress isn't just a mental state; it's a biochemical one. When you are stressed, your body releases cortisol—the "stress hormone"—which signals the skin's oil glands to produce more sebum, leads to systemic inflammation, and can even compromise the skin's barrier function.
                 </p>
                 <p>
-                  At DermaTales, we recognize that many skin conditionsâ€”from adult acne and eczema to hair thinningâ€”are often triggered or exacerbated by chronic stress. Our management programs integrate medical dermatology with proactive lifestyle strategies to calm the skin-mind connection.
+                  At DermaTales, we recognize that many skin conditions—from adult acne and eczema to hair thinning—are often triggered or exacerbated by chronic stress. Our management programs integrate medical dermatology with proactive lifestyle strategies to calm the skin-mind connection.
                 </p>
               </div>
               <div class="col-md-5">
@@ -114,7 +114,7 @@
               <div class="col-md-6">
                 <div class="feature-card-lux p-4 rounded-4 bg-light h-100">
                   <h5 class="fw-bold h6 mb-3">Anti-Inflammatory LED Therapy</h5>
-                  <p class="small text-muted mb-0">Uses specific wavelengths of light to calm active inflammation and reduce cortisol-induced rednessâ€”a gentle, non-invasive "calm" for distressed skin.</p>
+                  <p class="small text-muted mb-0">Uses specific wavelengths of light to calm active inflammation and reduce cortisol-induced redness—a gentle, non-invasive "calm" for distressed skin.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -204,7 +204,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

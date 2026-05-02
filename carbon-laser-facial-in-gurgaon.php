@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -67,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The "Hollywood Peel" Secret</h2>
                 <p>
-                  The Carbon Laser Facial is incredibly popular for a reasonâ€”it immediately transforms dull, congested skin into a radiant, smooth canvas. By combining the purifying power of medical-grade activated liquid carbon with the precision of a Q-Switched Nd:YAG laser, this treatment works on two levels simultaneously.
+                  The Carbon Laser Facial is incredibly popular for a reason—it immediately transforms dull, congested skin into a radiant, smooth canvas. By combining the purifying power of medical-grade activated liquid carbon with the precision of a Q-Switched Nd:YAG laser, this treatment works on two levels simultaneously.
                 </p>
                 <p>
                   First, the carbon deeply cleanses your pores by absorbing oil and impurities. Then, the laser blasts away the carbon taking the dead skin and contaminants with it, while gently heating the deeper layers of the dermis to stimulate fresh collagen production. It's painless, fast, and incredibly effective.
@@ -263,7 +263,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

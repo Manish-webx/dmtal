@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Bring Back Your Natural Glow</h2>
                 <p>
-                  Frequent sun exposure without adequate protection leads to an overproduction of melanin, resulting in a dark, dull layer over the skinâ€”commonly known as a sun tan. While mild tans fade over time, frequent exposure or a deep holiday tan can become stubborn and difficult to remove with home scrubs.
+                  Frequent sun exposure without adequate protection leads to an overproduction of melanin, resulting in a dark, dull layer over the skin—commonly known as a sun tan. While mild tans fade over time, frequent exposure or a deep holiday tan can become stubborn and difficult to remove with home scrubs.
                 </p>
                 <p>
                   At DermaTales, our advanced De-Tan treatments go beyond superficial salon facials. We use clinical-grade Chemical Peels, Microdermabrasion, and Laser technologies to safely exfoliate the damaged, pigmented upper layers of the skin, instantly revealing a brighter, even-toned, and refreshed complexion underneath.
@@ -244,7 +244,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

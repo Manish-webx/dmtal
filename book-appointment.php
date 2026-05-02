@@ -135,7 +135,7 @@
               <div class="studio-info-row">
                 <i class="bi bi-telephone"></i>
                 <div class="studio-info-text">
-                  <a href="tel:+917303851264" class="text-charcoal">+91 73038 51264</a>
+                  <a href="tel:+919560015155" class="text-charcoal">+91 95600 15155</a>
                 </div>
               </div>
               <div class="studio-info-row">
@@ -219,7 +219,7 @@
             <div class="accent-icon"><i class="bi bi-whatsapp"></i></div>
             <div>
               <div class="accent-label">Quick Chat</div>
-              <a href="https://wa.me/917303851264" class="accent-value text-decoration-none">+91 73038 51264
+              <a href="https://wa.me/919560015155" class="accent-value text-decoration-none">+91 95600 15155
                 (Gurgaon)</a>
             </div>
           </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                   As the central feature of the face, the nose plays a critical role in facial symmetry and profile harmony. Rhinoplasty, commonly known as a "nose job," is a sophisticated surgical procedure designed to reshape, resize, or restructure the nose for both cosmetic and functional purposes.
                 </p>
                 <p>
-                  At DermaTales, we believe that a successful rhinoplasty should never look "operated." Our expert facial surgeons focus on natural results that complement your unique features while ensuring optimal respiratory functionâ€”correcting issues like a deviated septum or narrow valves.
+                  At DermaTales, we believe that a successful rhinoplasty should never look "operated." Our expert facial surgeons focus on natural results that complement your unique features while ensuring optimal respiratory function—correcting issues like a deviated septum or narrow valves.
                 </p>
               </div>
               <div class="col-md-5">
@@ -86,7 +86,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Rhinoplasty Works</h2>
             <p>
-              Rhinoplasty involves accessing the bone and cartilage structure of the nose through either an **Open** or **Closed** approach. In an open rhinoplasty, a small incision is made across the columella, providing full visibility of the anatomy, while a closed rhinoplasty is performed entirely through internal incisions. The surgeon then meticulously sculpts the underlying structureâ€”removing a nasal hump, refining a bulbous tip, or straightening a crooked bridgeâ€”to achieve the desired contour and improve airflow.
+              Rhinoplasty involves accessing the bone and cartilage structure of the nose through either an **Open** or **Closed** approach. In an open rhinoplasty, a small incision is made across the columella, providing full visibility of the anatomy, while a closed rhinoplasty is performed entirely through internal incisions. The surgeon then meticulously sculpts the underlying structure—removing a nasal hump, refining a bulbous tip, or straightening a crooked bridge—to achieve the desired contour and improve airflow.
             </p>
           </div>
 
@@ -203,7 +203,7 @@
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural, Refined Results</h4>
-                  <p>Our aesthetic philosophy focuses on "Invisible Surgery"â€”results that look entirely natural and belong on your face.</p>
+                  <p>Our aesthetic philosophy focuses on "Invisible Surgery"—results that look entirely natural and belong on your face.</p>
                 </div>
               </div>
             </div>
@@ -282,7 +282,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

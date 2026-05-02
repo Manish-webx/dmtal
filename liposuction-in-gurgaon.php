@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -67,7 +67,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Precision Body Contouring</h2>
                 <p>
-                  Liposuction is not a weight-loss procedure; it is a body-sculpting intervention. It is designed for individuals who have reached a stable weight but struggle with localized fat deposits that are resistant to diet and exerciseâ€”commonly in the abdomen, flanks (love handles), thighs, and arms.
+                  Liposuction is not a weight-loss procedure; it is a body-sculpting intervention. It is designed for individuals who have reached a stable weight but struggle with localized fat deposits that are resistant to diet and exercise—commonly in the abdomen, flanks (love handles), thighs, and arms.
                 </p>
                 <p>
                   At DermaTales, we utilize "Tumescent Liposuction" and energy-based technologies like VASER and Laser Lipo. These methods allow for more precise fat removal, smoother results, and significantly less downtime compared to traditional liposuction techniques.
@@ -182,7 +182,7 @@
                 </h3>
                 <div id="lpFaq2" class="accordion-collapse collapse" data-bs-parent="#lipoFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients can return to non-strenuous office work within 3â€“5 days. You will need to wear a compression garment for 4â€“6 weeks to minimize swelling and help the skin retract. Full exercise can usually be resumed after 4 weeks.
+                    Most patients can return to non-strenuous office work within 3–5 days. You will need to wear a compression garment for 4–6 weeks to minimize swelling and help the skin retract. Full exercise can usually be resumed after 4 weeks.
                   </div>
                 </div>
               </div>
@@ -222,7 +222,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

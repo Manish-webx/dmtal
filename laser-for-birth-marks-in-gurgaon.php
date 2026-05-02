@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -68,7 +68,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Clearing the Canvas</h2>
                 <p>
-                  Birthmarks are colored marks on the skin that are present at birth or develop shortly after. They are generally categorized into two types: <strong>Pigmented birthmarks</strong> (like CafÃ©-au-lait spots or moles) caused by an overgrowth of pigment cells, and <strong>Vascular birthmarks</strong> (like Port-wine stains or hemangiomas) caused by abnormally formed blood vessels.
+                  Birthmarks are colored marks on the skin that are present at birth or develop shortly after. They are generally categorized into two types: <strong>Pigmented birthmarks</strong> (like Café-au-lait spots or moles) caused by an overgrowth of pigment cells, and <strong>Vascular birthmarks</strong> (like Port-wine stains or hemangiomas) caused by abnormally formed blood vessels.
                 </p>
                 <p>
                   While most birthmarks are harmless, many choose to have them removed for cosmetic reasons, especially if they are prominent on the face or neck. At DermaTales, we utilize state-of-the-art laser technologies specifically designed to target the pigment or the blood vessels, allowing for safe, gradual clearing of the birthmark without harming the surrounding healthy skin.
@@ -124,7 +124,7 @@
                   <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal
                     Candidates</h3>
                   <ul class="candidate-list">
-                    <li><i class="bi bi-check2 text-gold"></i>Individuals with CafÃ©-au-lait spots, Nevus of Ota, or Becker's nevus.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Individuals with Café-au-lait spots, Nevus of Ota, or Becker's nevus.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Those with vascular marks like Port-wine stains.</li>
                     <li><i class="bi bi-check2 text-gold"></i>Patients looking for non-invasive cosmetic clearance of birthmarks.</li>
                   </ul>
@@ -244,7 +244,7 @@
             <!-- Direct Contact -->
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -211,7 +211,7 @@
                 </h3>
                 <div id="gfcFaq2" class="accordion-collapse collapse" data-bs-parent="#gfcFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients begin with 3â€“4 sessions spaced 4 weeks apart. Results typically become visible after the second session. Maintenance sessions every 6â€“12 months are recommended to sustain and enhance results.
+                    Most patients begin with 3–4 sessions spaced 4 weeks apart. Results typically become visible after the second session. Maintenance sessions every 6–12 months are recommended to sustain and enhance results.
                   </div>
                 </div>
               </div>
@@ -247,7 +247,7 @@
             </div>
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>

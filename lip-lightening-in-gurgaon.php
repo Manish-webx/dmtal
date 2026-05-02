@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,8 +70,8 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">Beautiful Lips. Naturally.</h2>
                 <p>
-                  Dark, uneven lips can significantly affect your confidence and your smile. Lip pigmentation â€” the
-                  darkening of the lips' natural pink or red colour â€” is an extremely common concern, particularly in
+                  Dark, uneven lips can significantly affect your confidence and your smile. Lip pigmentation — the
+                  darkening of the lips' natural pink or red colour — is an extremely common concern, particularly in
                   South Asian skin types. At DermaTales, we offer evidence-based, medically supervised lip lightening
                   treatments that systematically reduce excess melanin from the lip tissue to restore their natural,
                   healthy tone.
@@ -79,7 +79,7 @@
                 <p>
                   Unlike harsh bleaching creams that can cause further pigmentation or damage, our clinical protocols
                   are safe, precise, and tailored to your specific lip colour, skin type, and the root cause of your
-                  pigmentation. The result: naturally lighter, softer, more defined lips â€” without looking artificial.
+                  pigmentation. The result: naturally lighter, softer, more defined lips — without looking artificial.
                 </p>
               </div>
               <div class="col-md-5">
@@ -108,7 +108,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Smoking</h5>
                   <p class="small text-muted mb-0">Nicotine and heat from cigarettes stimulate melanin production in lip
-                    tissue, causing characteristic brown-grey pigmentation â€” especially along the lip border.</p>
+                    tissue, causing characteristic brown-grey pigmentation — especially along the lip border.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -137,7 +137,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Genetics</h5>
                   <p class="small text-muted mb-0">Hereditary hyperpigmentation of the lip mucosa is common in South
-                    Asian, African, and Mediterranean populations â€” often beginning in childhood and deepening with
+                    Asian, African, and Mediterranean populations — often beginning in childhood and deepening with
                     age.
                   </p>
                 </div>
@@ -156,7 +156,7 @@
                   <h5 class="fw-bold h6 mb-2">Q-Switch Nd:YAG Laser</h5>
                   <p class="small text-muted mb-0">The most effective laser for lip depigmentation. The 1064nm
                     wavelength selectively targets and shatters melanin granules within the lip tissue without damaging
-                    surrounding structures â€” lightening pigmentation progressively over a series of sessions.</p>
+                    surrounding structures — lightening pigmentation progressively over a series of sessions.</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -170,8 +170,8 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Mesotherapy (Lip Cocktails)</h5>
-                  <p class="small text-muted mb-0">Micro-injections of brightening agents â€” including glutathione,
-                    vitamin C, and tranexamic acid â€” into the lip tissue to reduce melanin production at a cellular
+                  <p class="small text-muted mb-0">Micro-injections of brightening agents — including glutathione,
+                    vitamin C, and tranexamic acid — into the lip tissue to reduce melanin production at a cellular
                     level and restore even pigmentation.</p>
                 </div>
               </div>
@@ -209,7 +209,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Naturally Pink Lips</h5>
-                  <p class="small text-muted mb-0">Restore your lips' natural warm pink or rosy tone â€” our treatments
+                  <p class="small text-muted mb-0">Restore your lips' natural warm pink or rosy tone — our treatments
                     reveal what was always there beneath the pigmentation.</p>
                 </div>
               </div>
@@ -231,7 +231,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Boosted Confidence</h5>
                   <p class="small text-muted mb-0">A more vibrant, youthful lip colour enhances your smile and
-                    transforms facial aesthetics â€” boosting self-confidence naturally.</p>
+                    transforms facial aesthetics — boosting self-confidence naturally.</p>
                 </div>
               </div>
               <div class="col-md-4">
@@ -245,7 +245,7 @@
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Minimal Downtime</h5>
                   <p class="small text-muted mb-0">Laser toning and carbon peels have no downtime. Even chemical peels
-                    require minimal recovery â€” most patients resume daily life immediately.</p>
+                    require minimal recovery — most patients resume daily life immediately.</p>
                 </div>
               </div>
             </div>
@@ -300,7 +300,7 @@
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Triggering Factor Management</h4>
-                <p class="small text-muted">Where applicable, we address the root cause first â€” such as prescribing
+                <p class="small text-muted">Where applicable, we address the root cause first — such as prescribing
                   SPF-lip balms, advising smoking cessation, checking for nutritional deficiencies, or adjusting
                   cosmetic products.</p>
               </div>
@@ -311,7 +311,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Precision Treatment Session</h4>
-                <p class="small text-muted">The selected procedure â€” Q-switch laser, chemical peel, or mesotherapy â€”
+                <p class="small text-muted">The selected procedure — Q-switch laser, chemical peel, or mesotherapy —
                   is
                   delivered with precision targeting the pigmented areas of the lips and surrounding skin.</p>
               </div>
@@ -332,7 +332,7 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Safe, Ethical Lightening</h4>
-                  <p>We use only medically validated depigmentation protocols â€” not harsh bleaching agents. Our
+                  <p>We use only medically validated depigmentation protocols — not harsh bleaching agents. Our
                     approach
                     restores your natural lip colour safely, without increasing the risk of future pigmentation.</p>
                 </div>
@@ -341,7 +341,7 @@
                 <div class="feature-list-icon"><i class="bi bi-cpu"></i></div>
                 <div class="feature-list-content">
                   <h4>FDA-Approved Laser Technology</h4>
-                  <p>Our Q-switch Nd:YAG laser system is specifically calibrated for lip depigmentation â€” safe for the
+                  <p>Our Q-switch Nd:YAG laser system is specifically calibrated for lip depigmentation — safe for the
                     mucosa and highly effective at targeting melanin without damaging surrounding lip tissue.</p>
                 </div>
               </div>
@@ -358,7 +358,7 @@
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Natural-Looking Enhancement</h4>
-                  <p>Our goal is authenticity. We aim to restore your natural lip tone â€” not bleach or over-lighten.
+                  <p>Our goal is authenticity. We aim to restore your natural lip tone — not bleach or over-lighten.
                     The
                     result is lips that look naturally healthy, radiant, and beautifully you.</p>
                 </div>
@@ -380,8 +380,8 @@
                 </h3>
                 <div id="lipFaq1" class="accordion-collapse collapse show" data-bs-parent="#lipFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients see a noticeable lightening after 3â€“4 sessions. Full results from laser lip
-                    depigmentation typically appear after 4â€“6 sessions spaced 3â€“4 weeks apart. The number of
+                    Most patients see a noticeable lightening after 3–4 sessions. Full results from laser lip
+                    depigmentation typically appear after 4–6 sessions spaced 3–4 weeks apart. The number of
                     sessions
                     depends on the depth and type of pigmentation, as well as whether contributing factors (such as sun
                     exposure or smoking) have been addressed.
@@ -399,7 +399,7 @@
                   <div class="accordion-body faq-body">
                     A topical numbing cream is applied before all laser and mesotherapy procedures. Most patients
                     describe a mild snapping or tingling sensation during Q-switch laser sessions. The procedure is
-                    short (15â€“20 minutes) and very well tolerated. Post-treatment, lips may feel slightly warm or
+                    short (15–20 minutes) and very well tolerated. Post-treatment, lips may feel slightly warm or
                     tender
                     for a few hours.
                   </div>
@@ -430,7 +430,7 @@
                 </h3>
                 <div id="lipFaq4" class="accordion-collapse collapse" data-bs-parent="#lipFAQ">
                   <div class="accordion-body faq-body">
-                    We recommend avoiding lipstick and lip products for at least 24â€“48 hours after laser or peel
+                    We recommend avoiding lipstick and lip products for at least 24–48 hours after laser or peel
                     sessions. Subsequently, hypoallergenic, non-comedogenic lip products are preferred. Our
                     dermatologist will advise on switching to SPF lip balms and fragrance-free lip products to prevent
                     allergic re-pigmentation.
@@ -447,7 +447,7 @@
                 <div id="lipFaq5" class="accordion-collapse collapse" data-bs-parent="#lipFAQ">
                   <div class="accordion-body faq-body">
                     Absolutely. Our team has extensive experience treating Indian and South Asian skin tones. We use
-                    specifically calibrated laser parameters and mild peels that are safe for Fitzpatrick IVâ€“V
+                    specifically calibrated laser parameters and mild peels that are safe for Fitzpatrick IV–V
                     phototypes, minimising the risk of post-inflammatory hyperpigmentation (PIH) that can occur when
                     darker skins are treated incorrectly.
                   </div>
@@ -481,7 +481,7 @@
 
             <div class="p-3 text-center">
               <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/917303851264" class="btn btn-whatsapp rounded-pill w-100">
+              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
                 <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
               </a>
             </div>
