@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Effective treatments for facial pigmentation, sunspots, and age spots in Gurgaon & Delhi at DermaTales. Restore your skin's natural even tone.">
+    content="Get expert pigmentation treatment in Gurgaon at Dermatales. Dr. Pooja Varshney (MD Dermatology) offers laser, peels & personalised protocols for melasma, dark spots & uneven skin tone. Book a consultation today.">
   <meta name="keywords"
     content="facial pigmentation Gurgaon, sunspots treatment Delhi, laser for face spots, DermaTales clinic">
   <meta name="author" content="DermaTales Clinic">
@@ -21,7 +21,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/facial-pigmentation.jpg">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Facial Pigmentation Correction | DermaTales Premium Skin Clinic</title>
+  <title>Pigmentation Treatment in Gurgaon | Dr. Pooja Varshney</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
