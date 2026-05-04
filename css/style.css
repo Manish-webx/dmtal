@@ -2276,13 +2276,13 @@ h6 {
 /* Sidebar Appointment Button (Desktop Only) */
 .sidebar-appointment-btn {
   position: fixed;
-  right: -90px;
+  right: -45px;
   top: 58%;
   transform: translateY(-50%) rotate(-90deg);
   transform-origin: center center;
   background: var(--dt-champagne-dark);
   color: var(--dt-white);
-  padding: 12px 22px;
+  padding: 8px 12px;
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
@@ -4704,19 +4704,17 @@ h6 {
   position: relative;
   border-radius: var(--dt-radius-lg);
   overflow: hidden;
-  aspect-ratio: 1/1;
-  border: 1px solid var(--dt-border);
   box-shadow: var(--dt-shadow-lg);
 }
 
-.service-thumb-wrap::after {
+/* .service-thumb-wrap::after {
   content: '';
   position: absolute;
   inset: 15px;
   border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 120px 120px 20px 20px;
   pointer-events: none;
-}
+} */
 
 /* Premium Treatment Cards */
 .treatment-card-lux {
@@ -5222,11 +5220,10 @@ h6 {
   position: relative;
   border-radius: var(--dt-radius-lg);
   overflow: hidden;
-  aspect-ratio: 1/1;
-  border: 1px solid var(--dt-border);
   box-shadow: var(--dt-shadow-lg);
 }
 
+/* 
 .service-thumb-wrap::after {
   content: '';
   position: absolute;
@@ -5234,7 +5231,7 @@ h6 {
   border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 120px 120px 20px 20px;
   pointer-events: none;
-}
+} */
 
 /* Premium Treatment Cards */
 .treatment-card-lux {

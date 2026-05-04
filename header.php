@@ -74,7 +74,7 @@
                     <ul class="mega-list">
                       <li><a href="acne-treatment-in-gurgaon">Acne Treatments</a></li>
                       <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatments</a></li>
-                      <li><a href="melasma-pigmentation-in-gurgaon">Melasma & Pigmentation</a></li>
+                      <li><a href="pigmentation-treatment-in-gurgaon">Pigmentation Treatment</a></li>
                       <li><a href="facial-pigmentation-in-gurgaon">Facial Pigmentation</a></li>
                       <li><a href="allergy-treatment-in-gurgaon">Allergy</a></li>
                       <li><a href="psoriasis-vitiligo-in-gurgaon">Psoriasis & Vitiligo</a></li>

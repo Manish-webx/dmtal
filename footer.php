@@ -218,5 +218,5 @@
 <!-- Sidebar Appointment Button (Desktop) -->
 <a href="book-appointment" class="sidebar-appointment-btn">
   <i class="bi bi-calendar-check"></i>
-  <span>Book Appointment</span>
+  <span>Book Apt.</span>
 </a>
