@@ -18,7 +18,7 @@
   <meta property="og:image" content="https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=600&q=80">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Allergy Treatment & Management | DermaTales Premium Skin Clinic</title>
+  <title>Skin Allergy Treatment in Gurgaon | Dermatales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -42,7 +42,7 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Allergy <span class="text-charcoal-deep italic">Treatment</span></h1>
+          <h1 class="hero-title-lux">Skin Allergy <span class="text-charcoal-deep italic">Treatment</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
         Comprehensive diagnostic patch testing and management for skin allergies, urticaria, and contact dermatitis in a clinical setting.
       </p>
@@ -63,17 +63,17 @@
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
-                <h2 class="lux-section-title">Clinical Allergy Management</h2>
+                <h2 class="lux-section-title">Skin Allergy Treatment
+in Gurgaon</h2>
                 <p>
-                  Skin allergies can be persistent and difficult to manage without identifying the underlying trigger. Common symptoms include itching, redness, hives (Urticaria), and eczema patches. At DermaTales, we focus on evidence-based diagnostics, including <strong>Patch Testing</strong> to identity contact allergens ranging from cosmetics to metals and fragrances.
+                  DermaTales offers evidence-based <strong>skin allergy treatment in Gurgaon</strong>, led by <strong>Dr. Pooja Varshney — an MD Dermatologist with 10+ years of experience</strong> diagnosing and treating contact dermatitis, urticaria, eczema, and allergic rashes. Our approach combines precision patch testing with personalized long-term management plans so your skin stays clear — not just temporarily soothed.
+
                 </p>
-                <p>
-                  Our board-certified dermatologists provide customized management plans that include lifestyle modifications, targeted topicals, and advanced systemic therapies for long-term relief from chronic flare-ups.
-                </p>
+                
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=600&q=80" alt="Allergy treatment" class="img-fluid">
+                  <img src="https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=600&q=80" alt="skin Allergy treatment" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -130,23 +130,32 @@
 
           <!-- Section: The DermaTales Procedure -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">The Diagnostic & Treatment Process</h2>
+            <h2 class="lux-section-title">Common Skin Allergy Conditions Treated at DermaTales</h2>
+            <p>Skin allergies present differently in each patient. An accurate diagnosis from a qualified skin allergy doctor in Gurgaon is the first step toward lasting relief. Here are the conditions we commonly diagnose and treat:</p>
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
-                <h4 class="h6 fw-bold mb-1">Clinical Evaluation</h4>
-                <p class="small text-muted">A deep dive into your medical history, exposure history, and thorough skin examination by our MD dermatologists.</p>
+                <h4 class="h6 fw-bold mb-1">Contact Dermatitis</h4>
+                <p class="small text-muted">Red, itchy, inflamed skin triggered by direct contact with an allergen — cosmetics, nickel jewellery, hair dye, latex, or preservatives in skincare.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
-                <h4 class="h6 fw-bold mb-1">Advanced Patch Testing</h4>
-                <p class="small text-muted">Application of standard antigen panels on the back to safely identify specific contact allergens over a 48-72 hour period.</p>
+                <h4 class="h6 fw-bold mb-1">Urticaria (Hives)</h4>
+                <p class="small text-muted">Raised, intensely itchy welts that appear and disappear rapidly. Can be acute (under 6 weeks) or chronic, sometimes with no identifiable external trigger.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
-                <h4 class="h6 fw-bold mb-1">Trigger Identification</h4>
-                <p class="small text-muted">Reading of test results to isolate exactly which chemical, metal, or substance caused the hypersensitivity reaction.</p>
+                <h4 class="h6 fw-bold mb-1">Atopic Eczema</h4>
+                <p class="small text-muted">A chronic inflammatory skin condition involving dry, scaly, persistently itchy patches — often genetic in origin, triggered or worsened by allergens and irritants.</p>
+              </div>
+              <div class="timeline-lux-item" data-step="3">
+                <h4 class="h6 fw-bold mb-1">Photoallergic Reactions</h4>
+                <p class="small text-muted">Skin sensitivity to sunlight after exposure to certain topical products (fragrances, sunscreens, antibiotics) — redness and rash in sun-exposed areas.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
-                <h4 class="h6 fw-bold mb-1">Personalized Management Plan</h4>
-                <p class="small text-muted">Prescription medications combined with a detailed list of safe products and ingredients to avoid in the future.</p>
+                <h4 class="h6 fw-bold mb-1">Drug & Food Reactions</h4>
+                <p class="small text-muted">Skin rashes, hives, or angioedema following ingestion of medications, foods (shellfish, nuts, dairy), or food additives.</p>
+              </div>
+              <div class="timeline-lux-item" data-step="4">
+                <h4 class="h6 fw-bold mb-1">Occupational Skin Allergy</h4>
+                <p class="small text-muted">Allergic skin conditions arising from repeated workplace exposure to chemicals, dyes, metals, or rubber — common in healthcare, beauty, and construction workers.</p>
               </div>
             </div>
           </div>
@@ -183,11 +192,6 @@
               </div>
             </div>
           </div>
-
-
-
-
-
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
