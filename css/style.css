@@ -244,6 +244,59 @@ h6 {
 }
 
 /* ============================================================
+   TOP BAR DROPDOWN
+   ============================================================ */
+.top-bar-dropdown {
+  position: relative;
+  display: inline-block;
+  padding: 8px 0; /* Add padding to prevent hover gap */
+  margin: -8px 0; /* Offset padding */
+}
+
+.top-bar-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: var(--dt-white);
+  border: 1px solid var(--dt-border);
+  border-radius: var(--dt-radius-md);
+  box-shadow: var(--dt-shadow-md);
+  min-width: 140px;
+  padding: 8px 0;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all var(--dt-transition);
+  z-index: 1050;
+}
+
+.top-bar-dropdown:hover .top-bar-dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.top-bar-dropdown-menu a {
+  display: block;
+  padding: 8px 16px;
+  color: var(--dt-charcoal);
+  font-size: 13.5px;
+  text-decoration: none;
+  transition: all var(--dt-transition);
+}
+
+.top-bar-dropdown-menu a:hover {
+  background-color: var(--dt-ivory);
+  color: var(--dt-champagne-dark);
+}
+
+.top-bar-dropdown-menu a i {
+  color: var(--dt-champagne-dark);
+  margin-right: 8px;
+  font-size: 13px;
+}
+
+/* ============================================================
    MAIN HEADER — Lamidas-style Navigation
    ============================================================ */
 .main-header {
@@ -4409,7 +4462,7 @@ h6 {
 
 .hero-cred-value {
   font-family: var(--dt-font-display, 'Playfair Display', serif);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   color: #fff;
   line-height: 1.2;
@@ -4454,7 +4507,7 @@ h6 {
   }
 
   .hero-cred-value {
-    font-size: 0.85rem;
+    font-size: 1.2rem;
   }
 
   .hero-cred-label {

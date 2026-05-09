@@ -1,25 +1,30 @@
 <div class="sidebar-widget">
     <h3 class="widget-title">Book Consultation</h3>
-    <form id="appointmentForm" class="condensed-form" novalidate>
+    <form action="mail1.php" method="post" class="condensed-form">
         <div class="mb-3">
             <label class="form-label">Full Name *</label>
-            <input type="text" class="form-control" id="formName" placeholder="Your name" required>
+            <input type="text" name="name" class="form-control" id="formName" placeholder="Your name" required>
         </div>
+        <?php
+        $actual_link = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        ?>
+        <input type="text" name="url" value="<?php echo $actual_link; ?>" hidden>
         <div class="mb-3">
             <label class="form-label">Phone Number *</label>
-            <input type="tel" class="form-control" id="formPhone" placeholder="+91 XXXXX XXXXX" required>
+            <input type="tel" name="phone" class="form-control" id="formPhone" placeholder="+91 XXXXX XXXXX" required>
         </div>
         <div class="mb-3">
             <label class="form-label">Location</label>
-            <select class="form-select" id="formLocation">
+            <select name="location" class="form-select" id="formLocation">
                 <option selected disabled>Select Clinic</option>
-                <option>Gurgaon — Sec 31</option>
-                <option>Delhi — Patel Nagar</option>
+                <option value="Gurgaon">Gurgaon — Sec 31</option>
+                <option value="Delhi">Delhi — Patel Nagar</option>
             </select>
         </div>
         <div class="mb-3">
             <label class="form-label">Your Concern</label>
-            <textarea class="form-control" id="formMessage" rows="2" placeholder="Briefly describe..."></textarea>
+            <textarea class="form-control" name="message" id="formMessage" rows="2"
+                placeholder="Briefly describe..."></textarea>
         </div>
         <button type="submit" class="btn btn-gold rounded-pill w-100 py-2">Submit Request</button>
     </form>

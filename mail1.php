@@ -19,6 +19,7 @@ $body .= 'Phone Number: ' . $_POST['phone'] . "<br>";
 $body .= 'Email: ' . $_POST['email'] . "<br>";
 $body .= 'Location: ' . $_POST['location'] . "<br>";
 $body .= 'Date: ' . $_POST['date'] . "<br>";
+$body .= 'Url: ' . $_POST['url'] . "<br>";
 $body .= 'Message: ' . $_POST['message'] . "<br>";
 
 

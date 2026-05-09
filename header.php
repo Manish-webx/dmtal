@@ -11,9 +11,17 @@
         <span class="top-bar-link">
           <i class="bi bi-geo-alt-fill"></i> Gurgaon &amp; Delhi
         </span>
-        <a href="tel:+919560015155" class="top-bar-link">
-          <i class="bi bi-telephone-fill"></i> +91 95600 15155
-        </a>
+        <div class="top-bar-dropdown">
+          <span class="top-bar-link" style="cursor: pointer;">
+            <i class="bi bi-telephone-fill"></i> Call Now <i class="bi bi-chevron-down ms-1"
+              style="font-size: 10px;"></i>
+          </span>
+          <div class="top-bar-dropdown-menu">
+            <a href="tel:+919560015155" aria-label="Call Gurgaon Clinic"><i class="bi bi-telephone-fill"></i>
+              Gurgaon</a>
+            <a href="tel:++918700530623" aria-label="Call Delhi Clinic"><i class="bi bi-telephone-fill"></i> Delhi</a>
+          </div>
+        </div>
         <a href="mailto:dermatales@gmail.com" class="top-bar-link">
           <i class="bi bi-envelope-fill"></i> dermatales@gmail.com
         </a>
