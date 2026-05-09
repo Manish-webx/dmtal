@@ -10,7 +10,7 @@
     content="acne treatment Gurgaon, acne specialist Gurgaon, acne doctor Gurgaon, pimple treatment Gurgaon, Dr Pooja Varshney, DermaTales acne clinic">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/acne-scar-treatment-in-gurgaon">
+  <link rel="canonical" href="https://www.dermatales.com/acne-treatment-in-gurgaon">
 
   <!-- Open Graph -->
   <meta property="og:title" content="Acne Treatment in Gurgaon | Dr Pooja Varshney | DermaTales">
@@ -21,7 +21,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/acne-scar-treatment.jpg">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Acne Treatment in Gurgaon | Dr Pooja Varshney | DermaTales</title>
+  <title>Acne Treatment in Gurgaon | Dr Pooja Varshney(MD, Dermatologist)</title>
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
