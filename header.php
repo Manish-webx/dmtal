@@ -364,8 +364,8 @@
             </a>
             <ul class="dropdown-menu dropdown-menu-elegant">
               <li><a class="dropdown-item" href="dr-pooja-varshney">About Doctor</a></li>
-              <li><a class="dropdown-item" href="#">Gurgaon Clinic</a></li>
-              <li><a class="dropdown-item" href="#">Delhi Clinic</a></li>
+              <li><a class="dropdown-item" href="skin-clinic-in-gurgaon">Gurgaon Clinic</a></li>
+              <li><a class="dropdown-item" href="skin-clinic-in-patel-nagar">Delhi Clinic</a></li>
             </ul>
           </li>
 
@@ -376,8 +376,8 @@
             </a>
             <ul class="dropdown-menu dropdown-menu-elegant">
               <li><a class="dropdown-item" href="#blog">Blog</a></li>
-              <li><a class="dropdown-item" href="#testimonials">Testimonials</a></li>
-              <li><a class="dropdown-item" href="#results">Before &amp; After</a></li>
+              <li><a class="dropdown-item" href="#">Testimonials</a></li>
+              <li><a class="dropdown-item" href="#">Before &amp; After</a></li>
             </ul>
           </li>
         </ul>
