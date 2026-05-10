@@ -383,8 +383,8 @@
             <a href="book-appointment" class="btn btn-gold rounded-pill px-4">
               <i class="bi bi-calendar-check me-2"></i>Book Consultation
             </a>
-            <a href="https://maps.google.com/?q=Back+Side+25/4+Block+25+East+Patel+Nagar+New+Delhi+110008"
-              target="_blank" class="btn btn-outline-gold rounded-pill px-4">
+            <a href="https://maps.app.goo.gl/avkYsvHWP9sRC6zo6" target="_blank"
+              class="btn btn-outline-gold rounded-pill px-4">
               <i class="bi bi-map me-2"></i>Get Directions
             </a>
           </div>
@@ -392,7 +392,7 @@
         <div class="col-lg-7">
           <div class="map-container rounded-4 overflow-hidden shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.6745839278!2d77.2056!3d28.6518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM5JzA2LjIiTiA3N8KwMTInMjIuNiJF!5e0!3m2!1sen!2sin!4v1600000000000"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.6745839278!2d77.1745653!3d28.6445465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03e60999ad65%3A0xcc2a21711a4912ff!2sDr.AWISH%20CLINIC!5e0!3m2!1sen!2sin!4v1700000000000"
               width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
               referrerpolicy="no-referrer-when-downgrade">
             </iframe>
