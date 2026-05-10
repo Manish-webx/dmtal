@@ -22,7 +22,7 @@
     content="https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=600&q=80">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Advanced Acne Scar Surgeries | DermaTales Premium Skin Clinic</title>
+  <title>Advanced Acne Scar Rescue in Gurgaon | DermaTales </title>
 
   <?php include 'nav-link.php'; ?>
 </head>
@@ -46,7 +46,7 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Acne Scar <span class="text-charcoal-deep italic">Surgeries</span></h1>
+          <h1 class="hero-title-lux">Acne Scar Rescue <span class="text-charcoal-deep italic">Surgeries</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
             Advanced structural realignment for deep, tethered acne scars. Precision subcision and punch grafting for
             permanent textural restoration.
@@ -68,7 +68,7 @@
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
-                <h2 class="lux-section-title">Beyond Surface Treatment</h2>
+                <h2 class="lux-section-title">Acen Scar RescueTreatment</h2>
                 <p>Deep acne scars, especially the "rolling" and "ice-pick" varieties, often involve tethered fibrous
                   bands that pull the skin downward. These cannot be fully corrected by surface lasers alone. At
                   DermaTales, we specialize in surgical subcision and textural revision to release these bands and lift
@@ -79,7 +79,7 @@
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
                   <img src="https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=600&q=80"
-                    alt="Acne Scar Surgery" class="img-fluid">
+                    alt="Acne Scar rescue" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -87,7 +87,7 @@
 
           <!-- Section: How it Works -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">How Acne Scar Surgery Works</h2>
+            <h2 class="lux-section-title">How Acne Scar Rescue Works</h2>
             <p>The primary technique used is <strong>Subcision</strong>, where a specialised needle is inserted under
               the scar to break the fibrous bands that tether the skin to the deeper tissue. For deep "craters," we use
               <strong>Punch Grafting</strong> or <strong>Excision</strong> to replace the scarred tissue with healthy
@@ -97,7 +97,7 @@
 
           <!-- Section: Benefits -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">The Benefits</h2>
+            <h2 class="lux-section-title">Benefits of Acne Scar Rescue</h2>
             <div class="row g-4 mt-2">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
@@ -153,7 +153,7 @@
 
           <!-- Section: The DermaTales Procedure -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">The Procedure Steps</h2>
+            <h2 class="lux-section-title">The Procedure Steps for Acne Scar Rescue</h2>
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">Depth Mapping</h4>
