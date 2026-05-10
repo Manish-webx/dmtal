@@ -249,8 +249,10 @@ h6 {
 .top-bar-dropdown {
   position: relative;
   display: inline-block;
-  padding: 8px 0; /* Add padding to prevent hover gap */
-  margin: -8px 0; /* Offset padding */
+  padding: 8px 0;
+  /* Add padding to prevent hover gap */
+  margin: -8px 0;
+  /* Offset padding */
 }
 
 .top-bar-dropdown-menu {
@@ -2329,7 +2331,7 @@ h6 {
 /* Sidebar Appointment Button (Desktop Only) */
 .sidebar-appointment-btn {
   position: fixed;
-  right: -45px;
+  right: -49px;
   top: 58%;
   transform: translateY(-50%) rotate(-90deg);
   transform-origin: center center;
