@@ -21,7 +21,7 @@
   <meta property="og:image" content="https://images.unsplash.com/photo-1620331311520-246422fd82f9?w=800&q=80">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Alopecia Areata Treatment in Gurgaon | Patchy Hair Loss | DermaTales</title>
+  <title>Alopecia Areata Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>
@@ -45,9 +45,9 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Alopecia <span class="text-charcoal-deep italic">Areata</span></h1>
+          <h1 class="hero-title-lux">Alopecia <span class="text-charcoal-deep italic">Areata Treatment in Gurgaon</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        Targeted medical intervention for autoimmune patchy hair loss. Fast-acting therapies to calm inflammation and trigger new hair growth.
+        Targeted medical intervention for autoimmune patchy hair loss or Alopecia areata. Fast-acting therapies to calm inflammation and trigger new hair growth.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -77,7 +77,7 @@
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
                   <img src="https://images.unsplash.com/photo-1620331311520-246422fd82f9?w=600&q=80"
-                    alt="Alopecia Areata" class="img-fluid rounded-4">
+                    alt="Alopecia Areata treatment in Gurgaon" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>
@@ -85,26 +85,26 @@
 
           <!-- Section: How it Works -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Our Treatment Approach</h2>
+            <h2 class="lux-section-title">Best Treatment for Alopecia Areata in Gurgaon</h2>
             <p>
               The goal of treatment at DermaTales is to suppress the local immune response that is attacking the hair follicle, thereby allowing the hair to resume its normal growth cycle.
             </p>
             <div class="row g-4 mt-2">
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 h-100">
-                  <h5 class="fw-bold h6 mb-2">Intralesional Corticosteroids</h5>
+                  <h3 class="fw-bold h6 mb-2">Intralesional Corticosteroids</h3>
                   <p class="small text-muted mb-0">The gold standard for patchy alopecia. Tiny, virtually painless micro-injections of anti-inflammatory medication directly into the bald patches to shut down the immune attack locally. Results are often seen within 4 to 6 weeks.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 h-100">
-                  <h5 class="fw-bold h6 mb-2">Topical Immunomodulators</h5>
+                  <h3 class="fw-bold h6 mb-2">Topical Immunomodulators</h3>
                   <p class="small text-muted mb-0">Potent topical creams or solutions applied daily at home to continuously suppress inflammation and encourage follicle recovery.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 h-100">
-                  <h5 class="fw-bold h6 mb-2">Systemic Therapies</h5>
+                  <h3 class="fw-bold h6 mb-2">Systemic Therapies</h3>
                   <p class="small text-muted mb-0">For rapidly progressing or extensive cases, short courses of oral corticosteroids or newer systemic medications (like JAK inhibitors) may be prescribed to halt the spread.</p>
                 </div>
               </div>
