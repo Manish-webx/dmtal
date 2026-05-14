@@ -922,6 +922,10 @@
                   <label for="formName" class="form-label">Full Name *</label>
                   <input type="text" name="name" class="form-control" id="formName" placeholder="Your name" required>
                 </div>
+                <?php
+                $actual_link = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+                ?>
+                <input type="text" name="url" value="<?php echo $actual_link; ?>" hidden>
                 <div class="col-sm-6">
                   <label for="formPhone" class="form-label">Phone Number *</label>
                   <input type="tel" name="phone" class="form-control" id="formPhone" placeholder="+91 XXXXX XXXXX"

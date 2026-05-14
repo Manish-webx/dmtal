@@ -70,6 +70,10 @@
                       placeholder="Enter your name" required>
                   </div>
                 </div>
+                <?php
+                $actual_link = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+                ?>
+                <input type="text" name="url" value="<?php echo $actual_link; ?>" hidden>
                 <div class="col-md-6">
                   <div class="mb-4">
                     <label class="form-label-lux">PHONE NUMBER</label>
