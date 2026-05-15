@@ -21,7 +21,7 @@
   <meta property="og:image" content="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Arm Lift in Gurgaon | Brachioplasty Surgery | DermaTales</title>
+  <title>Arm Lift in Gurgaon | Brachioplasty Non Surgical -  DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

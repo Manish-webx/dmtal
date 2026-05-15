@@ -21,7 +21,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/mole-wart-removal.jpg">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Precision Mole & Wart Removal in Gurgaon & Delhi | DermaTales</title>
+  <title>Mole & Wart Removal Treatment in Gurgaon | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -45,9 +45,9 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Mole &amp; Wart <span class="text-charcoal-deep italic">Removal</span></h1>
+          <h1 class="hero-title-lux">Mole &amp; Wart <span class="text-charcoal-deep italic">Removal in Gurgaon</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        Advanced skin lesion removal using Radiofrequency and Laser technology. Safe, effective, and designed for minimal scarring.
+        Advanced <strong>mole and wart removal in Gurgaon</strong> using Radiofrequency and Laser technology. Safe, effective, and designed for minimal scarring.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -66,17 +66,17 @@
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
-                <h2 class="lux-section-title">Precision Skin Clearing</h2>
-                <p>
-                  Skin lesions like moles and warts can be sources of physical irritation and aesthetic concern. At DermaTales, we use minimally invasive techniques to precisely target and remove these growths from the root, ensuring healthy surrounding skin remains untouched.
+                <h2 class="lux-section-title">Safe & Advanced Laser Removal for Moles and Warts</h2>
+                <p>At Dermatales, mole and wart removal procedures are performed under the supervision of experienced dermatologists using advanced laser and radiofrequency-based technologies designed for precise removal with minimal skin damage. The focus is not just removing the growth, but doing it safely while maintaining the cosmetic appearance of your skin.
+
                 </p>
                 <p>
-                  Our dermatologists use high-frequency RF ablation and CO2 lasers to provide a permanent solution for warts and cosmetically concerning moles with superior healing outcomes.
+                  Whether you are dealing with a raised facial mole, recurring viral wart, skin-colored growth, or cosmetically unwanted lesion, the treatment plan is customized according to your skin type, lesion depth, and the area involved.
                 </p>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80" alt="Mole & Wart Removal at DermaTales" class="img-fluid">
+                  <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80" alt="Mole & Wart Removal in Gurgaon" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -90,31 +90,42 @@
             </p>
           </div>
 
-          <!-- Section: Benefits -->
+          <!-- treatment section -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Benefits of Professional Treatment</h2>
+            <h2 class="lux-section-title">Advanced Laser Treatment for Mole Removal in Gurgaon</h2>
+            <p>At Dermatales, different advanced technologies are used for mole and wart removal depending on the skin type, lesion depth, size, and treatment area.</p>
             <div class="row g-4 mt-2">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Scar-Free Results</h5>
-                  <p class="small text-muted mb-0">Designed to leave the skin smooth and mark-free after healing.</p>
+                  <h3 class="fw-bold h6 mb-2">CO2 Laser Removal </h3>
+                  <p class="small text-muted mb-0">Commonly used for raised moles, skin tags, and facial warts with precise skin resurfacing and minimal bleeding.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Instant Removal</h5>
-                  <p class="small text-muted mb-0">Most lesions are permanently removed in a single 15-minute session.</p>
+                  <h3 class="fw-bold h6 mb-2">Radiofrequency (RF) Cautery </h3>
+                  <p class="small text-muted mb-0">Uses controlled radiofrequency energy for accurate removal of small moles and warts with faster healing.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Viral Neutralization</h5>
-                  <p class="small text-muted mb-0">Thermal energy neutralizes the viral root to prevent wart recurrence.</p>
+                  <h3 class="fw-bold h6 mb-2">Electrocautery Treatment</h3>
+                  <p class="small text-muted mb-0"> Effective for stubborn or multiple warts by safely destroying the wart tissue with heat energy.</p>
                 </div>
               </div>
             </div>
           </div>
-
+          
+          <!--cost-->
+          <div class="mt-5 fade-up">
+            <h2 class="lux-section-title">Mole Removal Treatment Cost in Gurgaon</h2>
+            <p>
+             The cost of mole removal treatment in Gurgaon at Dermatales generally starts from ₹3,000 and may go up to ₹7,000 per mole depending on the size, depth, location, and complexity of the lesion. Factors such as whether the mole is raised, pigmented, facial, or requires advanced laser or radiofrequency removal also influence the final treatment cost.
+             <p>Similarly, wart removal treatment cost varies based on the number of warts, recurrence, type of wart, and the technique required for safe removal.</p>
+            </p>
+          </div>
+          <!--end cost-->
+          
           <!-- Section: Candidates and Avoidance -->
           <div class="mt-5 fade-up">
             <div class="row g-4">
