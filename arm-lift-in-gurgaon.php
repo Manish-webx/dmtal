@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="images/arm-l"
+                  <img src="images/arm-lift-treatment.webp"
                     alt="Arm Lift Surgery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
