@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1620331311520-246422fd82f9?w=600&q=80"
+                  <img src="images/alopecia-areata.webp"
                     alt="Alopecia Areata treatment in Gurgaon" class="img-fluid rounded-4">
                 </div>
               </div>

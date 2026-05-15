@@ -73,7 +73,7 @@ in Gurgaon</h2>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=600&q=80" alt="skin Allergy treatment" class="img-fluid">
+                  <img src="images/skin-allergy.webp" alt="skin Allergy treatment" class="img-fluid">
                 </div>
               </div>
             </div>

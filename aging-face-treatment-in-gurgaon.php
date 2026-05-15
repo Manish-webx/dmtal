@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=600&q=80" alt="Aging Face Treatment at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/aging-treatment.webp" alt="Aging Face Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

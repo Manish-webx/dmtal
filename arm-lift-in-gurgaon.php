@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80"
+                  <img src="images/arm-l"
                     alt="Arm Lift Surgery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
