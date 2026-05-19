@@ -31,6 +31,58 @@
   <title>Pigmentation Treatment in Delhi | Best Dermatologist Patel Nagar | Dermatales</title>
 
   <?php include 'nav-link.php'; ?>
+
+  <!-- =========================================================
+  FAQ SCHEMA
+  ========================================================= -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How many sessions are needed for pigmentation treatment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The number of sessions depends on the type and severity of pigmentation. Mild pigmentation may improve in fewer sessions while deeper pigmentation may require multiple sittings."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is laser treatment for pigmentation safe?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, laser treatment for pigmentation is generally safe when performed by a qualified dermatologist using appropriate laser settings for your skin type."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which is the best treatment for pigmentation?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The best treatment depends on the cause and depth of pigmentation. Laser treatment, chemical peels, and prescription skincare are commonly recommended options."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can pigmentation return after treatment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Certain conditions like melasma can recur due to sun exposure or hormonal changes. Proper skincare and sunscreen help maintain results."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who is the best pigmentation specialist in Delhi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Pooja Varshney at Dermatales Clinic provides personalized pigmentation treatments based on skin type and pigmentation condition."
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body>
@@ -70,387 +122,355 @@
       <div class="row g-5">
 
         <!-- Main Content Column -->
-        <div class="col-lg-9 order-lg-1 content-area">
+        <div class="col-lg-9 content-area">
 
-          <!-- ===== HOOK INTRODUCTION ===== -->
+          <!-- ===== INTRO ===== -->
           <div class="fade-up">
             <div class="row">
               <div class="col-md-7">
-                <h2 class="lux-section-title">Tired of Concealers? It's Time to Treat the Root Cause</h2>
+                <h2 class="lux-section-title">Pigmentation Treatment in Delhi – Advanced & Safe Solutions</h2>
                 <p>
-                  Uneven skin tone, dark patches, melasma spots — if you've been hiding behind layers of concealer and
-                  foundation, you don't have to anymore. Pigmentation is one of the most common skin concerns we see at
-                  our
-                  Delhi clinic, and the good news? It's highly treatable with the right technology and expert guidance.
+                  Uneven skin tone, dark patches, acne marks, melasma, or sun pigmentation can affect not only your
+                  appearance but also your confidence. If you are searching for safe and effective pigmentation
+                  treatment in Delhi, Dermatales offers dermatologist-led solutions tailored to your skin type and
+                  concern. At Dermatales, treatment is personally guided by Dr. Pooja Varshney, an experienced MD
+                  Dermatology & Venereology specialist with 10+ years of clinical experience in treating various skin
+                  and pigmentation concerns.
                 </p>
                 <p>
-                  At Dermatales, Dr. Pooja Varshney — a gold medalist dermatologist with over a decade of experience —
-                  uses
-                  advanced US FDA-approved lasers and medically proven protocols to safely lighten even stubborn
-                  pigmentation. Whether it's hormonal melasma, sun damage, acne marks, or age spots, we tailor every
-                  treatment to your unique skin type.
+                  Known for evidence-based treatments and patient-focused care, Dr. Pooja focuses on achieving visible
+                  yet natural-looking skin improvement safely. Our clinic in Patel Nagar, Delhi, combines advanced
+                  dermatology technology with customized skincare plans to help reduce pigmentation effectively while
+                  prioritizing long-term skin health and safety.
                 </p>
               </div>
-              <div class="col-md-5" bis_skin_checked="1">
-                <div class="service-thumb-wrap" bis_skin_checked="1">
-                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&amp;q=80"
-                    alt="Mesotherapy Treatment at DermaTales" class="img-fluid rounded-4">
+              <div class="col-md-5">
+                <div class="service-thumb-wrap">
+                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&q=80"
+                    alt="Pigmentation Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>
-
           </div>
 
-          <!-- ===== WHAT IS PIGMENTATION ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">Understanding Pigmentation: Why Does It Happen?</h2>
+          <!-- ===== WHY DOES SKIN PIGMENTATION HAPPEN? ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Why Does Skin Pigmentation Happen?</h2>
             <p>
-              Pigmentation occurs when melanin — the natural pigment that gives your skin its colour — is produced in
-              excess in certain areas. This creates dark patches, uneven tone, or spotty discoloration that topical
-              creams alone often fail to reach.
-            </p>
-            <p>
-              <strong>Common causes include:</strong>
+              Pigmentation occurs when excess melanin develops in certain areas of the skin. It may appear as:
             </p>
             <ul class="custom-list">
-              <li><i class="bi bi-sun-fill text-gold me-2"></i> <strong>Sun exposure</strong> — UV rays trigger melanin
-                overproduction, leading to sunspots and freckles.</li>
-              <li><i class="bi bi-heart-fill text-gold me-2"></i> <strong>Hormonal changes</strong> — Pregnancy,
-                contraceptive pills, or thyroid imbalances can cause melasma (mask-like brown patches).</li>
-              <li><i class="bi bi-lightning-fill text-gold me-2"></i> <strong>Post-inflammatory hyperpigmentation
-                  (PIH)</strong> — Dark marks left behind after acne, injuries, or cosmetic procedures.</li>
-              <li><i class="bi bi-clock-history text-gold me-2"></i> <strong>Ageing</strong> — As skin regenerates
-                slower, pigment tends to accumulate, causing liver/age spots.</li>
-              <li><i class="bi bi-droplet-fill text-gold me-2"></i> <strong>Genetic predisposition</strong> — Some
-                individuals naturally produce more melanin.</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Melasma</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Sun spots</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Post-acne marks</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Freckles</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Tanning</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Dark patches around mouth or forehead</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Pigmentation caused by hormonal changes</li>
+              <li><i class="bi bi-check2-circle text-gold me-2"></i> Age-related discoloration</li>
             </ul>
-          </div>
-
-          <!-- ===== TREATMENT OPTIONS ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">Pigmentation Treatment Options in Delhi</h2>
             <p>
-              There's no one-size-fits-all solution for pigmentation. At Dermatales, we begin with a thorough skin
-              analysis to identify the type and depth of pigment, then recommend the most suitable treatment:
+              Many patients try over-the-counter creams for months without improvement because the real cause of
+              pigmentation is not properly diagnosed. Different types of pigmentation require different treatment
+              approaches.
             </p>
-
-            <!-- Treatment Card 1 -->
-            <div class="treatment-card">
-              <div class="treatment-card-header">
-                <h3 class="h5 mb-0"><i class="bi bi-lightning-charge-fill text-gold me-2"></i>Q-Switched Nd:YAG Laser
-                  (Gold Standard)</h3>
-              </div>
-              <div class="treatment-card-body">
-                <p class="mb-0">
-                  The gold standard for treating deep pigmentation including melasma, dark spots, and uneven skin tone.
-                  This laser targets melanin directly without damaging the skin surface. <strong>Safe for Indian skin
-                    tones.</strong> No downtime — you can resume normal activities immediately.
-                </p>
-              </div>
-            </div>
-
-            <!-- Treatment Card 2 -->
-            <div class="treatment-card">
-              <div class="treatment-card-header">
-                <h3 class="h5 mb-0"><i class="bi bi-droplet-half text-gold me-2"></i>Carbon Laser Facial ( lunchtime
-                  Peel)</h3>
-              </div>
-              <div class="treatment-card-body">
-                <p class="mb-0">
-                  A gentle yet effective treatment that uses a carbon lotion applied to the skin, followed by
-                  laserpasses. It targets surface-level pigmentation, shrinks pores, and gives an instant glow. Perfect
-                  for busy professionals — often called the "lunchtime glow" treatment.
-                </p>
-              </div>
-            </div>
-
-            <!-- Treatment Card 3 -->
-            <div class="treatment-card">
-              <div class="treatment-card-header">
-                <h3 class="h5 mb-0"><i class="bi bi-flower1 text-gold me-2"></i>Medically-Grade Chemical Peels</h3>
-              </div>
-              <div class="treatment-card-body">
-                <p class="mb-0">
-                  We use pharmaceutical-grade acids (like glycolic, lactic, mandelic, and kojic peels) in controlled
-                  concentrations. Unlike salon peels, medical peels are customized to your skin's tolerance and pigment
-                  type for safe, effective exfoliation and lightening.
-                </p>
-              </div>
-            </div>
-
-            <!-- Treatment Card 4 -->
-            <div class="treatment-card">
-              <div class="treatment-card-header">
-                <h3 class="h5 mb-0"><i class="bi bi-prescription2 text-gold me-2"></i>Topical Medical Grade Skincare
-                </h3>
-              </div>
-              <div class="treatment-card-body">
-                <p class="mb-0">
-                  Prescribed formulations containing actives like retinol, azelaic acid, kojic acid, niacinamide, and
-                  vitamin C. These work synergistically with in-clinic treatments to maintain results and prevent new
-                  pigment formation. Not the same as over-the-counter creams.
-                </p>
-              </div>
-            </div>
-
-            <!-- Treatment Card 5 -->
-            <div class="treatment-card">
-              <div class="treatment-card-header">
-                <h3 class="h5 mb-0"><i class="bi bi-brightness-high-fill text-gold me-2"></i>MNRF (Microneedling
-                  Radiofrequency)</h3>
-              </div>
-              <div class="treatment-card-body">
-                <p class="mb-0">
-                  Combines micro-needling with radiofrequency energy to stimulate collagen and break down pigment
-                  deposits. Particularly effective for stubborn melasma and post-inflammatory pigmentation that hasn't
-                  responded to other treatments.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <!-- ===== HOW THE PROCESS WORKS ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">Your Pigmentation Treatment Journey at Dermatales</h2>
-            <div class="process-timeline">
-              <div class="process-step">
-                <div class="process-step-number">1</div>
-                <div class="process-step-content">
-                  <h4 class="h6 fw-bold mb-2">Step 1: Detailed Skin Analysis</h4>
-                  <p class="small text-muted mb-0">Dr. Varshney performs a thorough examination using Wood's Lamp to
-                    determine whether your pigmentation is superficial (epidermal) or deep (dermal). This is crucial for
-                    selecting the right treatment protocol.</p>
-                </div>
-              </div>
-              <div class="process-step">
-                <div class="process-step-number">2</div>
-                <div class="process-step-content">
-                  <h4 class="h6 fw-bold mb-2">Step 2: Personalised Treatment Plan</h4>
-                  <p class="small text-muted mb-0">Based on your skin type, pigment depth, medical history, and
-                    lifestyle, we create a custom treatment plan. We explain every option, expected results, and number
-                    of sessions — so you're fully informed before starting.</p>
-                </div>
-              </div>
-              <div class="process-step">
-                <div class="process-step-number">3</div>
-                <div class="process-step-content">
-                  <h4 class="h6 fw-bold mb-2">Step 3: Treatment Sessions</h4>
-                  <p class="small text-muted mb-0">Sessions typically last 20-30 minutes. Laser treatments feel like a
-                    mild tingling or warm sensation — most patients find them comfortable. No numbing creams needed for
-                    laser toning.</p>
-                </div>
-              </div>
-              <div class="process-step">
-                <div class="process-step-number">4</div>
-                <div class="process-step-content">
-                  <h4 class="h6 fw-bold mb-2">Step 4: Post-Treatment Care</h4>
-                  <p class="small text-muted mb-0">You'll receive medical-grade sunscreen, barrier repair creams, and
-                    personalised skincare to support healing and maintain results. We stay in touch throughout your
-                    journey.</p>
-                </div>
-              </div>
-              <div class="process-step">
-                <div class="process-step-number">5</div>
-                <div class="process-step-content">
-                  <h4 class="h6 fw-bold mb-2">Step 5: Maintenance & Prevention</h4>
-                  <p class="small text-muted mb-0">Pigmentation can recur with sun exposure or hormonal changes. We
-                    provide long-term maintenance plans including skincare routines and occasional maintenance sessions
-                    to keep your skin clear.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- ===== WHO IS AN IDEAL CANDIDATE ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">Who Benefits Most From Pigmentation Treatment?</h2>
-            <div class="row g-4">
-              <div class="col-md-6">
-                <div class="candidate-card candidate-card-ideal">
-                  <h3 class="h6 fw-bold mb-3"><i class="bi bi-check-circle-fill text-gold me-2"></i>Ideal Candidates
-                  </h3>
-                  <ul class="candidate-list">
-                    <li><i class="bi bi-check2 text-gold"></i>Adults with melasma, brown patches, or mask-like
-                      pigmentation</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Those with sunspots, freckles, or age spots</li>
-                    <li><i class="bi bi-check2 text-gold"></i>People with post-acne dark marks (PIH)</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Individuals with uneven skin tone or dull complexion</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Those who have tried creams without results</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Both men and women seeking clearer, brighter skin</li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="candidate-card candidate-card-caution">
-                  <h3 class="h6 fw-bold mb-3"><i class="bi bi-exclamation-triangle-fill text-warning me-2"></i>Important
-                    Considerations</h3>
-                  <ul class="candidate-list">
-                    <li><i class="bi bi-info-circle text-warning"></i>Pigmentation during pregnancy or breastfeeding may
-                      need to wait</li>
-                    <li><i class="bi bi-info-circle text-warning"></i>Active sunburn or extremely sensitive skin needs
-                      pre-treatment care</li>
-                    <li><i class="bi bi-info-circle text-warning"></i>Certain medications may need to be reviewed before
-                      treatment</li>
-                    <li><i class="bi bi-info-circle text-warning"></i>Results vary based on pigment depth and skin type
-                    </li>
-                    <li><i class="bi bi-info-circle text-warning"></i>Melasma requires ongoing management, not just
-                      one-time treatment</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- ===== EXPECTED RESULTS ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">What Results Can You Expect?</h2>
             <p>
-              We believe in honest expectations, not exaggerated claims. Here's what our patients typically experience:
-            </p>
-            <div class="results-grid">
-              <div class="result-item">
-                <div class="result-time">2-3 Weeks</div>
-                <p class="small mb-0">Surface pigmentation begins to fade; skin looks brighter</p>
-              </div>
-              <div class="result-item">
-                <div class="result-time">4-6 Weeks</div>
-                <p class="small mb-0">Noticeable improvement in dark spots and uneven tone</p>
-              </div>
-              <div class="result-item">
-                <div class="result-time">8-12 Weeks</div>
-                <p class="small mb-0">Significant clearance with uniform complexion</p>
-              </div>
-              <div class="result-item">
-                <div class="result-time">Ongoing</div>
-                <p class="small mb-0">Maintenance plan for long-lasting results</p>
-              </div>
-            </div>
-            <p class=" small text-muted">
-              <i class="bi bi-info-circle me-1"></i> <em>Results vary from person to person based on skin type, pigment
-                depth, and adherence to post-treatment care. Melasma, being hormonal, may require maintenance
-                sessions.</em>
+              That is why consulting a qualified pigmentation specialist in Delhi is important before starting any
+              treatment.
             </p>
           </div>
 
-          <!-- ===== COST SECTION ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">Pigmentation Treatment Cost in Delhi</h2>
+          <!-- ===== PIGMENTATION TREATMENTS AVAILABLE ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Pigmentation Treatments Available at Dermatales</h2>
             <p>
-              The cost of pigmentation treatment depends on the type and severity of your pigmentation, the technology
-              used, and the number of sessions required. At Dermatales, we believe in transparency — there are no hidden
-              charges.
+              At Dermatales, every skin assessment is done carefully to understand the depth, cause, and type of
+              pigmentation before recommending a treatment plan.
             </p>
-            <div class="cost-box">
-              <div class="cost-item">
-                <span class="cost-label">Laser Toning Session</span>
-                <span class="cost-price">Starting from ₹3,500 per session</span>
+
+            <div class="treatment-card">
+              <div class="treatment-card-header">
+                <h3 class="h5 mb-0"><i class="bi bi-lightning-charge-fill text-gold me-2"></i> 1. Laser Treatment for
+                  Pigmentation</h3>
               </div>
-              <div class="cost-item">
-                <span class="cost-label">Carbon Laser Facial</span>
-                <span class="cost-price">Starting from ₹2,500 per session</span>
-              </div>
-              <div class="cost-item">
-                <span class="cost-label">Medical Peels</span>
-                <span class="cost-price">Starting from ₹1,800 per session</span>
-              </div>
-              <div class="cost-item">
-                <span class="cost-label">Complete Treatment Package</span>
-                <span class="cost-price">Customized after consultation</span>
+              <div class="treatment-card-body">
+                <p class="mb-2">Advanced laser technology targets excess melanin without damaging surrounding skin. It
+                  is commonly recommended for:</p>
+                <ul class="candidate-list mb-3">
+                  <li><i class="bi bi-check2 text-gold"></i> Sun spots</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Acne pigmentation</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Freckles</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Uneven skin tone</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Stubborn facial pigmentation</li>
+                </ul>
+                <p class="mb-0">Our dermatologist adjusts laser settings according to your skin sensitivity and
+                  pigmentation depth to ensure safer treatment with minimal downtime.</p>
               </div>
             </div>
-            <p class="">
-              <strong>Book a consultation at our Patel Nagar clinic</strong> for an accurate assessment and personalized
-              treatment plan with complete cost breakdown.
+
+            <div class="treatment-card">
+              <div class="treatment-card-header">
+                <h3 class="h5 mb-0"><i class="bi bi-flower1 text-gold me-2"></i> 2. Chemical Peels</h3>
+              </div>
+              <div class="treatment-card-body">
+                <p class="mb-2">Medical-grade peels help exfoliate damaged skin layers and improve skin clarity
+                  gradually. These are effective for:</p>
+                <ul class="candidate-list mb-0">
+                  <li><i class="bi bi-check2 text-gold"></i> Mild pigmentation</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Acne marks</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Dull skin</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Tanning</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Early melasma</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="treatment-card">
+              <div class="treatment-card-header">
+                <h3 class="h5 mb-0"><i class="bi bi-droplet-fill text-gold me-2"></i> 3. MediFacials & Brightening
+                  Therapies</h3>
+              </div>
+              <div class="treatment-card-body">
+                <p class="mb-0">
+                  Hydrating and pigment-correcting medi-facials support skin repair and improve glow while reducing
+                  uneven tone.
+                </p>
+              </div>
+            </div>
+
+            <div class="treatment-card">
+              <div class="treatment-card-header">
+                <h3 class="h5 mb-0"><i class="bi bi-prescription2 text-gold me-2"></i> 4. Customized Prescription-Based
+                  Treatment</h3>
+              </div>
+              <div class="treatment-card-body">
+                <p class="mb-0">
+                  In some cases, topical medications and dermatologist-approved skincare routines are recommended to
+                  control melanin production and prevent recurrence.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- ===== WHICH IS THE BEST TREATMENT ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Which Is the Best Treatment for Pigmentation?</h2>
+            <p>
+              The best treatment for pigmentation depends on:
             </p>
+            <div class="row g-3 mb-4">
+              <div class="col-sm-6">
+                <ul class="custom-list">
+                  <li><i class="bi bi-arrow-right-short text-gold me-2"></i> Type of pigmentation</li>
+                  <li><i class="bi bi-arrow-right-short text-gold me-2"></i> Skin tone</li>
+                  <li><i class="bi bi-arrow-right-short text-gold me-2"></i> Duration of the condition</li>
+                </ul>
+              </div>
+              <div class="col-sm-6">
+                <ul class="custom-list">
+                  <li><i class="bi bi-arrow-right-short text-gold me-2"></i> Hormonal factors</li>
+                  <li><i class="bi bi-arrow-right-short text-gold me-2"></i> Sun exposure</li>
+                  <li><i class="bi bi-arrow-right-short text-gold me-2"></i> Previous treatments used</li>
+                </ul>
+              </div>
+            </div>
+            <p><strong>For example:</strong></p>
+            <ul class="custom-list">
+              <li><i class="bi bi-dot text-gold"></i> Melasma may require a combination of peels, skincare, and
+                maintenance.</li>
+              <li><i class="bi bi-dot text-gold"></i> Deep pigmentation often responds better to laser treatment.</li>
+              <li><i class="bi bi-dot text-gold"></i> Post-acne pigmentation may improve with peels and topical therapy.
+              </li>
+            </ul>
+            <p class="mt-3">
+              At Dermatales, we avoid a "one-treatment-for-all" approach. Your treatment is customized after detailed
+              skin evaluation.
+            </p>
+          </div>
+
+          <!-- ===== SIGNS YOU SHOULD SEE A SPECIALIST ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Signs You Should See a Pigmentation Specialist</h2>
+            <div class="candidate-card candidate-card-caution mb-4">
+              <h3 class="h6 fw-bold mb-3"><i class="bi bi-exclamation-triangle-fill text-warning me-2"></i> You should
+                consult a pigmentation dermatologist if:</h3>
+              <ul class="candidate-list">
+                <li><i class="bi bi-info-circle text-warning"></i> Dark patches are increasing</li>
+                <li><i class="bi bi-info-circle text-warning"></i> Home remedies are not working</li>
+                <li><i class="bi bi-info-circle text-warning"></i> Pigmentation returns repeatedly</li>
+                <li><i class="bi bi-info-circle text-warning"></i> Acne marks remain for months</li>
+                <li><i class="bi bi-info-circle text-warning"></i> Skin tone looks uneven</li>
+                <li><i class="bi bi-info-circle text-warning"></i> Pigmentation affects confidence or makeup appearance
+                </li>
+              </ul>
+            </div>
+            <p>Early treatment usually gives better and faster improvement.</p>
           </div>
 
           <!-- ===== WHY CHOOSE DERMATALES ===== -->
-          <div class=" fade-up">
+          <div class="fade-up mt-5">
             <h2 class="lux-section-title">Why Choose Dermatales for Pigmentation Treatment in Delhi?</h2>
             <div class="row g-4">
               <div class="col-md-6">
                 <div class="why-card">
                   <div class="why-card-icon"><i class="bi bi-award-fill"></i></div>
-                  <h4 class="h6 fw-bold">Expert Dermatologist</h4>
-                  <p class="small text-muted mb-0">Treated by Dr. Pooja Varshney — MD Dermatology, gold medalist, with
-                    10+ years of clinical expertise in pigmentation disorders.</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="why-card">
-                  <div class="why-card-icon"><i class="bi bi-cpu"></i></div>
-                  <h4 class="h6 fw-bold">US FDA-Approved Technology</h4>
-                  <p class="small text-muted mb-0">We use only genuine US FDA-approved Q-Switched Nd:YAG lasers — not
-                    older or unapproved devices that may cause harm.</p>
+                  <h4 class="h6 fw-bold">Experienced Dermatologist-Led Care</h4>
+                  <p class="small text-muted mb-0">Your treatment is supervised by Dr. Pooja Varshney with a focus on
+                    safe and medically appropriate procedures.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="why-card">
                   <div class="why-card-icon"><i class="bi bi-person-check"></i></div>
-                  <h4 class="h6 fw-bold">Personalised Protocols</h4>
-                  <p class="small text-muted mb-0">No cookie-cutter approaches. Every treatment plan is customized to
-                    your skin type, pigment depth, and lifestyle.</p>
+                  <h4 class="h6 fw-bold">Personalized Treatment Plans</h4>
+                  <p class="small text-muted mb-0">Every skin type reacts differently. We customize sessions and
+                    skincare based on your skin condition and sensitivity.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="why-card">
-                  <div class="why-card-icon"><i class="bi bi-currency-rupee"></i></div>
-                  <h4 class="h6 fw-bold">Transparent Pricing</h4>
-                  <p class="small text-muted mb-0">No hidden costs. We discuss complete treatment plans and costs
-                    upfront during your first consultation.</p>
+                  <div class="why-card-icon"><i class="bi bi-cpu"></i></div>
+                  <h4 class="h6 fw-bold">Advanced Technology</h4>
+                  <p class="small text-muted mb-0">We use modern dermatology equipment and clinically approved treatment
+                    protocols for effective pigmentation reduction.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="why-card">
                   <div class="why-card-icon"><i class="bi bi-shield-check"></i></div>
-                  <h4 class="h6 fw-bold">Safe for Indian Skin</h4>
-                  <p class="small text-muted mb-0">Extensive experience treating diverse Indian skin tones with
-                    protocols specifically optimized for melanin-rich skin.</p>
+                  <h4 class="h6 fw-bold">Focus on Skin Safety</h4>
+                  <p class="small text-muted mb-0">Over-aggressive treatments can worsen pigmentation, especially in
+                    Indian skin. Our approach prioritizes gradual, healthy skin improvement.</p>
                 </div>
               </div>
-              <div class="col-md-6">
+              <div class="col-md-12">
                 <div class="why-card">
-                  <div class="why-card-icon"><i class="bi bi-clock-history"></i></div>
-                  <h4 class="h6 fw-bold">Minimal Downtime</h4>
-                  <p class="small text-muted mb-0">Most treatments allow you to resume daily activities immediately. We
-                    prioritize convenience for working professionals.</p>
+                  <div class="why-card-icon"><i class="bi bi-chat-dots"></i></div>
+                  <h4 class="h6 fw-bold">Transparent Consultation</h4>
+                  <p class="small text-muted mb-0">Patients receive proper guidance regarding expected sessions,
+                    aftercare, maintenance, and realistic outcomes.</p>
                 </div>
               </div>
             </div>
           </div>
 
-          <!-- ===== CLINIC LOCATION ===== -->
-          <div class=" fade-up">
-            <h2 class="lux-section-title">Visit Our Delhi Clinic — Patel Nagar</h2>
-            <div class="row g-4 align-items-center">
-              <div class="col-md-6">
-                <div class="clinic-info-box">
-                  <p class="mb-2"><strong><i class="bi bi-geo-alt-fill text-gold me-2"></i>Address</strong></p>
-                  <p class="text-muted mb-4">Dermatales Clinic, Patel Nagar, Delhi</p>
-
-                  <p class="mb-2"><strong><i class="bi bi-clock-fill text-gold me-2"></i>Clinic Hours</strong></p>
-                  <p class="text-muted mb-4">Monday – Saturday: 11:00 AM – 8:00 PM<br>Sunday: By Appointment Only</p>
-
-                  <a href="book-appointment" class="btn btn-gold rounded-pill px-4">
-                    <i class="bi bi-calendar-check me-2"></i> Book Free Consultation
-                  </a>
-                </div>
+          <!-- ===== WHAT RESULTS CAN YOU EXPECT ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">What Results Can You Expect?</h2>
+            <p>Pigmentation treatment usually improves:</p>
+            <div class="row g-3 mb-4">
+              <div class="col-sm-6">
+                <ul class="custom-list">
+                  <li><i class="bi bi-star-fill text-gold me-2"></i> Skin clarity</li>
+                  <li><i class="bi bi-star-fill text-gold me-2"></i> Uneven tone</li>
+                  <li><i class="bi bi-star-fill text-gold me-2"></i> Dark patches</li>
+                </ul>
               </div>
-              <div class="col-md-6">
-                <div class="map-placeholder">
-                  <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.6759!2d77.2009!3d28.6518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM5JzA2LjMiTiA3N8KwMTInMDYuNiJF!5e0!3m2!1sen!2sin!4v1234567890"
-                    width="100%" height="450" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade">
-                  </iframe>
-                </div>
+              <div class="col-sm-6">
+                <ul class="custom-list">
+                  <li><i class="bi bi-star-fill text-gold me-2"></i> Acne marks</li>
+                  <li><i class="bi bi-star-fill text-gold me-2"></i> Overall brightness</li>
+                </ul>
               </div>
             </div>
+            <p>
+              Results vary depending on the depth and cause of pigmentation. Some patients notice improvement within a
+              few sessions, while deeper pigmentation may require a longer treatment plan and maintenance care.
+            </p>
+            <p>
+              <strong>Consistency and sun protection play a major role in maintaining results.</strong>
+            </p>
+          </div>
+
+          <!-- ===== IS LASER SAFE ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Is Laser Treatment for Pigmentation Safe?</h2>
+            <p>
+              Yes, when performed by a qualified dermatologist, laser treatment for pigmentation is generally safe and
+              effective for suitable candidates.
+            </p>
+            <p><strong>At Dermatales:</strong></p>
+            <ul class="custom-list">
+              <li><i class="bi bi-shield-check text-gold me-2"></i> Skin type is evaluated carefully</li>
+              <li><i class="bi bi-shield-check text-gold me-2"></i> Patch testing may be done when required</li>
+              <li><i class="bi bi-shield-check text-gold me-2"></i> Energy settings are customized</li>
+              <li><i class="bi bi-shield-check text-gold me-2"></i> Post-treatment care is explained properly</li>
+            </ul>
+            <p class="mt-3">
+              This helps reduce the chances of irritation or post-inflammatory pigmentation.
+            </p>
+          </div>
+
+          <!-- ===== COST SECTION ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Pigmentation Treatment Cost in Delhi</h2>
+            <p>
+              The cost of pigmentation treatment in Delhi depends on the type of pigmentation, skin condition,
+              technology used, and the number of sessions required. At Dermatales, treatments are customized after a
+              detailed skin assessment to ensure safe and effective results.
+            </p>
+            <h3 class="h5 fw-bold mb-3 mt-4">Starting Cost of Pigmentation Treatments at Dermatales</h3>
+            <div class="cost-box">
+              <div class="cost-item">
+                <span class="cost-label">Chemical Peels (Face Pigmentation)</span>
+                <span class="cost-price">₹3,000 – ₹5,000 per session</span>
+              </div>
+              <div class="cost-item">
+                <span class="cost-label">Lip / Underarm Pigmentation Peels</span>
+                <span class="cost-price">₹2,000 – ₹3,000 per session</span>
+              </div>
+              <div class="cost-item">
+                <span class="cost-label">Laser Toning / Carbon Laser</span>
+                <span class="cost-price">Starting from ₹6,000 per session</span>
+              </div>
+              <div class="cost-item">
+                <span class="cost-label">Glutathione Drips</span>
+                <span class="cost-price">Starting from ₹6,000 per session</span>
+              </div>
+            </div>
+            <p class="mt-4">
+              The exact cost may vary depending on the severity of pigmentation and the treatment plan recommended by
+              the dermatologist. During consultation, patients receive complete guidance regarding sessions, expected
+              outcomes, and maintenance care.
+            </p>
+          </div>
+
+          <!-- ===== AFTERCARE TIPS ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Aftercare Tips to Prevent Pigmentation</h2>
+            <p>To maintain results after treatment:</p>
+            <div class="candidate-card candidate-card-ideal mb-4">
+              <ul class="candidate-list">
+                <li><i class="bi bi-check2 text-gold"></i> Use sunscreen daily</li>
+                <li><i class="bi bi-check2 text-gold"></i> Avoid excessive sun exposure</li>
+                <li><i class="bi bi-check2 text-gold"></i> Do not pick acne or skin lesions</li>
+                <li><i class="bi bi-check2 text-gold"></i> Follow dermatologist-prescribed skincare</li>
+                <li><i class="bi bi-check2 text-gold"></i> Stay consistent with maintenance sessions if advised</li>
+              </ul>
+            </div>
+            <p>Preventive care is essential because some pigmentation conditions can recur.</p>
+          </div>
+
+          <!-- ===== BOOK CONSULTATION ===== -->
+          <div class="fade-up mt-5">
+            <h2 class="lux-section-title">Book Consultation for Pigmentation Treatment in Delhi</h2>
+            <p>
+              If you are looking for a trusted and dermatologist-guided pigmentation clinic in Delhi, Dermatales
+              provides personalized solutions focused on safety, skin health, and visible improvement.
+            </p>
+            <p>
+              Consult Dr. Pooja Varshney at Dermatales Clinic, Patel Nagar, Delhi, to understand the right treatment
+              approach for your skin concern.
+            </p>
+            <p>
+              <strong>Book your appointment today and take the first step toward clearer, healthier-looking
+                skin.</strong>
+            </p>
           </div>
 
           <!-- ===== FAQ SECTION ===== -->
-          <div class=" fade-up" id="faq">
-            <h2 class="lux-section-title">Frequently Asked Questions — Pigmentation Treatment in Delhi</h2>
+          <div class="fade-up mt-5" id="faq">
+            <h2 class="lux-section-title">Frequently Asked Questions</h2>
 
             <div class="accordion accordion-flush mt-4" id="faqAccordion">
 
@@ -458,15 +478,13 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq1">
-                    Is pigmentation treatment permanent?
+                    How many sessions are needed for pigmentation treatment?
                   </button>
                 </h3>
                 <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    Pigmentation can be significantly reduced and, in many cases, nearly cleared. However, it's not
-                    always permanent because pigmentation can recur with sun exposure, hormonal changes, or acne. This
-                    is why we emphasize ongoing sun protection and may recommend maintenance sessions. Melasma, in
-                    particular, is a chronic condition that requires long-term management.
+                    The number of sessions depends on the severity and type of pigmentation. Mild pigmentation may
+                    improve in fewer sessions, while deeper pigmentation requires longer treatment.
                   </div>
                 </div>
               </div>
@@ -475,16 +493,13 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq2">
-                    Is laser treatment safe for Indian skin?
+                    Can pigmentation come back after treatment?
                   </button>
                 </h3>
                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    Yes, when performed correctly. We use US FDA-approved Q-Switched Nd:YAG laser (1064nm wavelength),
-                    which is specifically designed to bypass the surface melanin in darker skin tones and target deeper
-                    pigment deposits. This makes it one of the safest options for Indian skin. Inexperienced operators
-                    with unapproved devices can cause burns or rebound pigmentation — which is why choosing an
-                    experienced dermatologist matters.
+                    Some conditions like melasma can recur due to sun exposure or hormonal triggers. Proper skincare and
+                    sunscreen help maintain results.
                   </div>
                 </div>
               </div>
@@ -493,15 +508,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq3">
-                    How many sessions do I need for pigmentation?
+                    Is pigmentation treatment painful?
                   </button>
                 </h3>
                 <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    It depends on the type and depth of pigmentation. Surface pigmentation (freckles, sunspots) may
-                    clear in 3-4 sessions. Moderate pigmentation typically requires 6-8 sessions. Deep melasma often
-                    needs 8-12 sessions or more, along with maintenance. Your dermatologist will give you a realistic
-                    estimate after your first consultation and skin analysis.
+                    Most treatments are well tolerated. Some procedures may cause mild warmth or tingling temporarily.
                   </div>
                 </div>
               </div>
@@ -510,14 +522,13 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq4">
-                    Does pigmentation treatment hurt?
+                    Which treatment is best for facial pigmentation?
                   </button>
                 </h3>
                 <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    Most patients describe the sensation as a mild tingling or warm feeling — not painful. For sensitive
-                    areas or deeper treatments, we can apply a numbing cream. You can resume normal activities
-                    immediately after most laser sessions.
+                    The best option depends on your diagnosis. Laser treatment, chemical peels, and prescription
+                    skincare are commonly recommended after evaluation.
                   </div>
                 </div>
               </div>
@@ -526,14 +537,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq5">
-                    Can I get pigmentation treatment while pregnant?
+                    Can acne marks be treated permanently?
                   </button>
                 </h3>
                 <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    We generally postpone elective pigmentation treatments during pregnancy and breastfeeding as a
-                    precautionary measure. Hormonal pigmentation like melasma often improves after delivery. We can
-                    discuss safe topical options to manage pigmentation during this time.
+                    Most post-acne pigmentation improves significantly with professional treatment and proper skincare.
                   </div>
                 </div>
               </div>
@@ -542,14 +551,13 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq6">
-                    What is the cost of pigmentation treatment in Delhi?
+                    Is laser pigmentation treatment suitable for all skin types?
                   </button>
                 </h3>
                 <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    Single laser sessions start from ₹3,500. Complete treatment packages are customized based on your
-                    pigmentation type and number of sessions needed. We provide complete cost breakdowns during your
-                    consultation — no hidden charges. Consultation at our Patel Nagar clinic is free.
+                    Laser settings must be customized carefully for Indian skin tones. Dermatologist supervision is
+                    important for safe treatment.
                   </div>
                 </div>
               </div>
@@ -558,7 +566,7 @@
           </div>
 
           <!-- ===== CTA BANNER ===== -->
-          <div class=" fade-up">
+          <div class="fade-up mt-5 mb-5">
             <div class="cta-banner">
               <div class="cta-content">
                 <h3 class="h4 fw-bold mb-3">Ready to Say Goodbye to Pigmentation?</h3>
@@ -574,12 +582,13 @@
                 </div>
               </div>
             </div>
-          </div>
 
-        </div> <!-- End Main Content -->
+          </div> <!-- End Main Content -->
+
+        </div>
 
         <!-- Sidebar Column -->
-        <div class="col-lg-3 order-lg-2">
+        <div class="col-lg-3">
           <div class="sidebar-sticky" id="appointment">
 
             <!-- Appointment Form Widget -->
@@ -654,9 +663,7 @@
 
           </div>
         </div>
-
       </div>
-    </div>
   </section>
 
   <!-- ===================== FOOTER ===================== -->
