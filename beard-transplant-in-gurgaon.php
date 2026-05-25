@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1620331311520-246422fd82f9?w=600&q=80"
+                  <img src="images/beard-transplant.webp"
                     alt="Beard Transplant" class="img-fluid rounded-4">
                 </div>
               </div>
@@ -262,5 +262,6 @@
 </body>
 
 </html>
+
 
 

@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&q=80"
+                  <img src="images/prp-treatment.webp"
                     alt="Hair PRP Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

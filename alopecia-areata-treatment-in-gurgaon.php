@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,12 +71,12 @@
                   <strong>Alopecia Areata</strong> is an autoimmune disorder where the body's immune system mistakenly attacks healthy hair follicles. This results in sudden hair loss, most commonly appearing as one or more distinct, coin-sized smooth bald patches on the scalp, beard, or eyebrows.
                 </p>
                 <p>
-                  While the hair loss can be highly unpredictableâ€”and in severe cases can progress to total loss of scalp hair (Alopecia Totalis) or body hair (Alopecia Universalis)â€”the hair follicles themselves are not permanently destroyed. With prompt and aggressive dermatological treatment, the hair can absolutely regrow.
+                  While the hair loss can be highly unpredictable—and in severe cases can progress to total loss of scalp hair (Alopecia Totalis) or body hair (Alopecia Universalis)—the hair follicles themselves are not permanently destroyed. With prompt and aggressive dermatological treatment, the hair can absolutely regrow.
                 </p>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="images/alopecia-areata.webp"
+                  <img src="images/alopecia-areata-en-ae.webp"
                     alt="Alopecia Areata treatment in Gurgaon" class="img-fluid rounded-4">
                 </div>
               </div>
@@ -164,5 +164,6 @@
 </body>
 
 </html>
+
 
 

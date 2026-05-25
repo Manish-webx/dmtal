@@ -35,7 +35,6 @@
     <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney" class="dr-widget-img">
     <h3 class="dr-widget-name">Dr. Pooja Varshney</h3>
     <div class="dr-widget-title">MD (Dermatology), MBBS</div>
-    <p class="small text-muted mb-4">Secured first rank in PG exams with 10+ years of clinical excellence.</p>
-    <a href="dr-pooja-varshney" class="btn btn-outline-gold btn-sm rounded-pill w-100">Know
-        More</a>
+    <p class="small text-muted mb-4">Fellowship in Cosmetology with 10+ years of clinical expertise in dermatology and advanced cosmetic treatments.</p>
+    <a href="dr-pooja-varshney" class="btn btn-outline-gold btn-sm rounded-pill w-100">Know More</a>
 </div>

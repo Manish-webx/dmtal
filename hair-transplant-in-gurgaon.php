@@ -72,7 +72,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1585842378054-ee2e52f94ba2?auto=format&fit=crop&w=600&q=80" alt="Hair Transplant Clinic Gurgaon" class="img-fluid">
+                  <img src="images/Hair+Transplant.webp" alt="Hair Transplant Clinic Gurgaon" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -317,5 +317,6 @@
   </body>
 
 </html>
+
 
 

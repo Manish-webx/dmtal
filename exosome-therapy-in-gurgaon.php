@@ -61,7 +61,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80" alt="Exosome Therapy at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/exosome-treatment.webp" alt="Exosome Therapy at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>
@@ -266,6 +266,7 @@
 </body>
 
 </html>
+
 
 
 
