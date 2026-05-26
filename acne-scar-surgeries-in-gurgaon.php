@@ -19,7 +19,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/acne-scar-surgeries-in-gurgaon.php">
   <meta property="og:image"
-    content="https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=600&q=80">
+    content="https://www.dermatales.com/images/acne-scar-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Advanced Acne Scar Rescue in Gurgaon | DermaTales </title>
@@ -78,7 +78,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=600&q=80"
+                  <img src="images/acne-scar-surgery.webp"
                     alt="Acne Scar rescue" class="img-fluid">
                 </div>
               </div>

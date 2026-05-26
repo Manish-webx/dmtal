@@ -18,7 +18,7 @@
     content="Advanced Narrowband UVB, Biologics, and melanocyte grafting for Psoriasis & Vitiligo at DermaTales. Expert care by board-certified dermatologists.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/psoriasis-vitiligo-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/psoriasis-vitiligo.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Psoriasis-Vitiligo.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Psoriasis & Vitiligo Treatment in Gurgaon & Delhi | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1579154235602-44373db99a23?auto=format&fit=crop&w=600&q=80" alt="Psoriasis and Vitiligo Treatment at DermaTales" class="img-fluid">
+                  <img src="images/Psoriasis-Vitiligo.webp" alt="Psoriasis and Vitiligo Treatment at DermaTales" class="img-fluid">
                 </div>
               </div>
             </div>

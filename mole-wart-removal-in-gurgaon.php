@@ -18,7 +18,7 @@
     content="Advanced RF and Laser skin lesion removal at DermaTales. Safe, scar-free, and permanent results by board-certified dermatologists.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/mole-wart-removal-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/mole-wart-removal.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/mole-removal.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Mole & Wart Removal Treatment in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80" alt="Mole & Wart Removal in Gurgaon" class="img-fluid">
+                  <img src="images/mole-removal.webp" alt="Mole & Wart Removal in Gurgaon" class="img-fluid">
                 </div>
               </div>
             </div>

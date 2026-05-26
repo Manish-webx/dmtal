@@ -15,7 +15,7 @@
   <meta property="og:description" content="Minimally invasive surgical excision for cysts and lipomas at DermaTales Gurgaon & Delhi. Expert care for permanent removal with minimal scarring.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/cyst-lipoma-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1579154235602-44373db99a23?auto=format&fit=crop&w=600&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Cysts-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Cyst & Lipoma Treatment | DermaTales Premium Skin Clinic</title>
@@ -69,7 +69,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1579154235602-44373db99a23?auto=format&fit=crop&w=600&q=80" alt="Cyst Treatment" class="img-fluid">
+                  <img src="images/Cysts-treatment.webp" alt="Cyst Treatment" class="img-fluid">
                 </div>
               </div>
             </div>

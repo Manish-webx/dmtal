@@ -18,7 +18,7 @@
     content="Find relief from eczema. Expert diagnosis and personalized care plans by Dr. Pooja Varshney at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/eczema-treatment-in-gurgaon">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Eczema.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Eczema Treatment in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&q=80" alt="Eczema Treatment" class="img-fluid rounded-4">
+                  <img src="images/Eczema.webp" alt="Eczema Treatment" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

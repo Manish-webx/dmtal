@@ -15,7 +15,7 @@
   <meta property="og:description" content="Expert restoration of torn or elongated ear lobes in Gurgaon & Delhi at DermaTales. Precision surgical repair for a natural appearance.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/ear-lobe-repair-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=600&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/ear-lobe-repair-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Restorative Ear Lobe Repair | DermaTales Premium Skin Clinic</title>
@@ -69,7 +69,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=600&q=80" alt="Ear Lobe Repair" class="img-fluid">
+                  <img src="images/ear-lobe-repair-treatment.webp" alt="Ear Lobe Repair" class="img-fluid">
                 </div>
               </div>
             </div>

@@ -18,7 +18,7 @@
     content="Radical relief for painful ingrown nails and matrix disorders at DermaTales. Professional clinical care with permanent solutions.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/nail-surgery-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/nail-surgery.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/nail-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Nail Surgery & Relief in Gurgaon & Delhi | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1519494140221-d4190281959b?auto=format&fit=crop&w=600&q=80" alt="Nail Surgery at DermaTales" class="img-fluid">
+                  <img src="images/nail-treatment.webp" alt="Nail Surgery at DermaTales" class="img-fluid">
                 </div>
               </div>
             </div>

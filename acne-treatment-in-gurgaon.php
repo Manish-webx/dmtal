@@ -18,7 +18,7 @@
     content="Advanced acne treatment in Gurgaon based on clinical evaluation and personalised care. Led by Dr Pooja Varshney, MD Dermatology, with 10+ years of experience.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/acne-scar-treatment-in-gurgaon">
-  <meta property="og:image" content="https://www.dermatales.com/images/acne-scar-treatment.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/acne-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Acne Treatment in Gurgaon | Dr Pooja Varshney(MD, Dermatologist)</title>
@@ -123,7 +123,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="images/acne.webp" alt="Acne Treatment in Gurgaon – DermaTales Clinic" class="img-fluid rounded-4">
+                  <img src="images/acne-treatment.webp" alt="Acne Treatment in Gurgaon – DermaTales Clinic" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

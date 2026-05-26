@@ -15,7 +15,7 @@
   <meta property="og:description" content="Expert diagnosis and management of skin allergies, urticaria, and eczema at DermaTales. Clinical care for long-term relief.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/allergy-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=600&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Allergy.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Skin Allergy Treatment in Gurgaon | Dermatales</title>
@@ -73,7 +73,7 @@ in Gurgaon</h2>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="images/skin-allergy.webp" alt="skin Allergy treatment" class="img-fluid">
+                  <img src="images/Allergy.webp" alt="skin Allergy treatment" class="img-fluid">
                 </div>
               </div>
             </div>

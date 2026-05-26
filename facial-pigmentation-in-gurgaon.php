@@ -18,7 +18,7 @@
     content="Transform your skin with advanced facial pigmentation treatments at DermaTales. Laser toning, peels, and more by board-certified specialists.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/facial-pigmentation-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/facial-pigmentation.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Facial-pigmentation.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Pigmentation Treatment in Gurgaon | Dr. Pooja Varshney</title>
@@ -72,7 +72,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80" alt="Facial Pigmentation Clinic" class="img-fluid">
+                  <img src="images/Facial-pigmentation.webp" alt="Facial Pigmentation Clinic" class="img-fluid">
                 </div>
               </div>
             </div>

@@ -18,7 +18,7 @@
     content="Get expert pigmentation treatment in Gurgaon at Dermatales. Dr. Pooja Varshney (MD Dermatology) offers laser, peels & personalised protocols for melasma, dark spots & uneven skin tone.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/pigmentation-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/pigmentation-treatment-gurgaon.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Pigmentation-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Pigmentation Treatment in Gurgaon | Dr. Pooja Varshney</title>
@@ -115,7 +115,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81dc2069?auto=format&fit=crop&w=600&q=80" alt="Pigmentation Treatment Gurgaon – Dermatales Clinic" class="img-fluid">
+                  <img src="images/Pigmentation-treatment.webp" alt="Pigmentation Treatment Gurgaon – Dermatales Clinic" class="img-fluid">
                 </div>
               </div>
             </div>

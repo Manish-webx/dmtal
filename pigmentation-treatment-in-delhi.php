@@ -18,7 +18,7 @@
     content="Transform your skin with advanced pigmentation treatment in Delhi. Q-Switched laser & personalised plans by Delhi's trusted dermatologist. Book your consultation today.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/pigmentation-treatment-in-delhi">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=1200&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Pigmentation-treatment.webp">
   <meta property="og:site_name" content="DermaTales - Dermatales Clinic">
   <meta property="og:locale" content="en_IN">
 
@@ -146,7 +146,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&q=80"
+                  <img src="images/Pigmentation-treatment.webp"
                     alt="Pigmentation Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

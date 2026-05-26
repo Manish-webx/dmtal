@@ -18,7 +18,7 @@
     content="Clinically proven acne scar treatment in Gurgaon. Laser, MNRF, subcision & chemical peels by MD Dermatologist with 10+ years experience.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/acne-scar-treatment-in-gurgaon">
-  <meta property="og:image" content="https://www.dermatales.com/images/acne-scar-treatment.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Acne-scar-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Acne Scar Treatment in Gurgaon | Advanced Solutions | DermaTales</title>
@@ -125,7 +125,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="images/acne.webp" alt="Acne Scar Treatment in Gurgaon – DermaTales" class="img-fluid rounded-4">
+                  <img src="images/Acne-scar-treatment.webp" alt="Acne Scar Treatment in Gurgaon – DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>
