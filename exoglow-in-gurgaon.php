@@ -18,7 +18,7 @@
     content="Experience the future of skin rejuvenation with ExoGlow at DermaTales Gurgaon. Harness exosome technology for cellular repair, radiance, and anti-aging.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/exoglow-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/ExoGlow-Rejuvenation.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>ExoGlow Treatment in Gurgaon | Exosome Skin Rejuvenation | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80"
+                  <img src="images/ExoGlow-Rejuvenation.webp"
                     alt="ExoGlow Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

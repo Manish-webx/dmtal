@@ -18,7 +18,7 @@
     content="Eliminate dark circles, eye bags, and hollow under-eyes with advanced dermatological treatments at DermaTales. PRP, fillers, laser, and customised protocols for bright, youthful eyes.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/undereye-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/undereye-treatment.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Undereye-Treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Undereye Treatment in Gurgaon & Delhi | DermaTales</title>
@@ -81,7 +81,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&q=80"
+                  <img src="images/Undereye-Treatment.webp"
                     alt="Undereye Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

@@ -18,7 +18,7 @@
     content="Minimise large, visible pores with advanced dermatological treatments at DermaTales. Laser, MNRF, chemical peels and custom skin care protocols for porcelain-smooth skin.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/open-pore-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/open-pore-treatment.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Open-Pore-Treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Open Pore Treatment in Gurgaon & Delhi | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&q=80" alt="Open Pore Treatment at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/Open-Pore-Treatment.webp" alt="Open Pore Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

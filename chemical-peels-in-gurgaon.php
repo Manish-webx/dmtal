@@ -18,7 +18,7 @@
     content="Transform dull, uneven skin with medical-grade chemical peels at DermaTales. Customised peel protocols for acne, pigmentation, anti-ageing, and radiant skin.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/chemical-peels-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/chemical-peel-treatment.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Chemical-Peel.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Chemical Peel Treatment in Gurgaon & Delhi | DermaTales</title>
@@ -83,7 +83,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=600&q=80"
+                  <img src="images/Chemical-Peel.webp"
                     alt="Chemical Peel Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

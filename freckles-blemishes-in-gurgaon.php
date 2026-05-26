@@ -18,7 +18,7 @@
     content="Achieve clear, flawless skin with advanced freckle and blemish removal treatments at DermaTales Gurgaon. Q-switch laser, peels, and customised protocols by board-certified dermatologists.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/freckles-blemishes-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/freckles-blemishes-treatment.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Freckles-Blemishes.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Freckles & Blemishes Treatment in Gurgaon | DermaTales</title>
@@ -82,7 +82,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1598524374912-6b0b0bfade04?w=600&q=80"
+                  <img src="images/Freckles-Blemishes.webp"
                     alt="Freckles and Blemishes Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

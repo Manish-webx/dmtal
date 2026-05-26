@@ -18,7 +18,7 @@
     content="Also known as the 'Hollywood Peel', our Carbon Laser Facial instantly purifies pores, reduces oil, and stimulates collagen for a red-carpet ready glow.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/carbon-laser-facial-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/carbon-laser-facial.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Carbon-Laser-Facial.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Carbon Laser Facial in Gurgaon & Delhi | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1598524374912-6b0b0bfade04?w=600&q=80" alt="Carbon Laser Facial at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/Carbon-Laser-Facial.webp" alt="Carbon Laser Facial at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

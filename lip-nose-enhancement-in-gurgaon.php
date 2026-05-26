@@ -18,7 +18,7 @@
     content="Achieve perfectly sculpted lips and a refined nose profile without surgery. Advanced dermal fillers at DermaTales Gurgaon by board-certified dermatologists.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/lip-nose-enhancement-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1620331700435-0210e42d76f8?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Lip-Nose-Enhancement.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Lip & Nose Enhancement in Gurgaon | Dermal Fillers | DermaTales</title>
@@ -81,7 +81,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1620331700435-0210e42d76f8?w=600&q=80"
+                  <img src="images/Lip-Nose-Enhancement.webp"
                     alt="Lip and Nose Enhancement at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

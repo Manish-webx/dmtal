@@ -18,7 +18,7 @@
     content="Restore your natural glow. Advanced clinical treatments for facial tanning, sun damage, and dull skin at DermaTales Gurgaon. Peels, lasers, and medifacials.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/facial-tanning-dull-face-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512290923902-8a9f81d636c?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Facial-Tanning-Dull-Face.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Facial Tanning & Dull Face Treatment in Gurgaon | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81d636c?w=600&q=80"
+                  <img src="images/Facial-Tanning-Dull-Face.webp"
                     alt="Facial Tanning Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

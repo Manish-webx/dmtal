@@ -18,7 +18,7 @@
     content="Experience instant radiance with medical-grade skin glow treatments and Medifacials at DermaTales. Customised serums and clinical exfoliation for a flawless complexion.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/skin-glow-medifacials-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/medifacials.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Skin-Glow-Medifacials.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Skin Glow & Medifacials in Gurgaon & Delhi | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&q=80" alt="Skin Glow Medifacials at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/Skin-Glow-Medifacials.webp" alt="Skin Glow Medifacials at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

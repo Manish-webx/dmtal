@@ -18,7 +18,7 @@
     content="Get the ultimate glow with the authentic Hydrafacial MD Elite at DermaTales. A patented multi-step treatment that cleanses, extracts, and hydrates instantly.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/hydrafacial-md-elite-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/hydrafacial.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Hydrafacial-MD-Elite.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Original Hydrafacial MD Elite in Gurgaon & Delhi | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80" alt="Hydrafacial MD Elite Treatment" class="img-fluid rounded-4">
+                  <img src="images/Hydrafacial-MD-Elite.webp" alt="Hydrafacial MD Elite Treatment" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>
