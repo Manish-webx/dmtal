@@ -18,7 +18,7 @@
     content="Effective and completely safe treatments for intimate area pigmentation. Experience discreet, professional care at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/intimate-part-lightening-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/Intimate-Part-Lightening.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Intimate Part Lightening Treatment in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=600&q=80"
+                  <img src="images/Intimate-Part-Lightening.webp"
                     alt="Intimate Part Lightening" class="img-fluid rounded-4">
                 </div>
               </div>

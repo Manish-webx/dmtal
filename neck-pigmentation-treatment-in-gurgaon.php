@@ -18,7 +18,7 @@
     content="Clear dark patches and uneven tone on your neck with advanced clinical peels and laser treatments at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/neck-pigmentation-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1616683884849-8e7751996f8b?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/neckpigmentation.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Neck Pigmentation Treatment in Gurgaon | Dark Neck Removal | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1616683884849-8e7751996f8b?w=600&q=80"
+                  <img src="images/neckpigmentation.webp"
                     alt="Neck Pigmentation Treatment" class="img-fluid rounded-4">
                 </div>
               </div>

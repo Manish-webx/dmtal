@@ -18,7 +18,7 @@
     content="Say goodbye to dimpled skin. Experience advanced, non-invasive cellulite reduction treatments at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/cellulite-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/CelluliteTreatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Cellulite Treatment in Gurgaon | Skin Smoothing | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80"
+                  <img src="images/CelluliteTreatment.webp"
                     alt="Cellulite Treatment" class="img-fluid rounded-4">
                 </div>
               </div>

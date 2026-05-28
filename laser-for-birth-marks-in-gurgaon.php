@@ -18,7 +18,7 @@
     content="Clear unwanted birthmarks effectively with precision laser technology at DermaTales. Safe for all skin types.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/laser-for-birth-marks-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1616683884849-8e7751996f8b?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/BirthmarkRemoval.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Laser For Birth Marks in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1616683884849-8e7751996f8b?w=600&q=80"
+                  <img src="images/BirthmarkRemoval.webp"
                     alt="Laser For Birth Marks" class="img-fluid rounded-4">
                 </div>
               </div>

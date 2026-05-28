@@ -18,7 +18,7 @@
     content="Reverse sun damage and remove stubborn tan instantly with clinical De-Tan treatments at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/de-tan-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1533604071305-b0406050b1ab?w=800&q=80">
+  <meta property="og:image" content="https://www.dermatales.com/images/de-tan.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best De-Tan Treatment in Gurgaon | Sun Tan Removal | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1533604071305-b0406050b1ab?w=600&q=80"
+                  <img src="images/de-tan.webp"
                     alt="De-Tan Treatment" class="img-fluid rounded-4">
                 </div>
               </div>

@@ -5309,10 +5309,10 @@ h6 {
     min-height: 100%;
   }
 
-  .treatment-card-body {
+  /* .treatment-card-body {
     width: 60%;
     padding: 40px !important;
-  }
+  } */
 }
 
 .treatment-card-lux:hover {
