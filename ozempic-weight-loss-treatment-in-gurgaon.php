@@ -18,7 +18,7 @@
     content="Get clinically supervised Ozempic (semaglutide) weight loss injections in Gurgaon at DermaTales. Proven GLP-1 therapy with personalised nutrition and regular monitoring.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/ozempic-weight-loss-treatment-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/ozempic-gurgaon.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Ozempic-Weight-Loss.jpg">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Ozempic Weight Loss Treatment in Gurgaon | Semaglutide | DermaTales</title>
@@ -72,7 +72,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=600&q=80" alt="Ozempic Semaglutide Weight Loss Gurgaon" class="img-fluid">
+                  <img src="images/Ozempic-Weight-Loss.jpg" alt="Ozempic Semaglutide Weight Loss Gurgaon" class="img-fluid">
                 </div>
               </div>
             </div>

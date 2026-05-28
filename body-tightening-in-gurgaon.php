@@ -13,7 +13,7 @@
   <meta property="og:description" content="Firm and tone your skin with advanced Body Tightening treatments in Gurgaon. Non-surgical solutions for loose skin and cellulite at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/body-tightening-in-gurgaon">
-  <meta property="og:image" content="https://www.dermatales.com/images/default-meta.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Body-Tightening.jpg">
   <meta property="og:site_name" content="DermaTales">
   <title>Body Tightening in Gurgaon & Delhi | DermaTales</title>
   <?php include 'nav-link.php'; ?>
@@ -58,7 +58,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&q=80" alt="Body Tightening at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/Body-Tightening.jpg" alt="Body Tightening at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

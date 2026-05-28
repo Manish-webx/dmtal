@@ -18,7 +18,7 @@
     content="Achieve lasting, safe weight loss at DermaTales' medically supervised clinic in Gurgaon. Expert doctors, GLP-1 therapies, nutrition planning, and body composition analysis.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/weight-loss-clinic-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/weight-loss-clinic-gurgaon.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/shutterstock_2201003857_1.jpeg">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Weight Loss Clinic in Gurgaon | Medical Weight Management | DermaTales</title>
@@ -72,7 +72,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=600&q=80" alt="Weight Loss Clinic Gurgaon" class="img-fluid">
+                  <img src="images/shutterstock_2201003857_1.jpeg" alt="Weight Loss Clinic Gurgaon" class="img-fluid">
                 </div>
               </div>
             </div>

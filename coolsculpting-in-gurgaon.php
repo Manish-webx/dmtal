@@ -13,7 +13,7 @@
   <meta property="og:description" content="Freeze stubborn fat away with CoolSculpting in Gurgaon. FDA-cleared, non-surgical fat reduction and body contouring at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/coolsculpting-in-gurgaon">
-  <meta property="og:image" content="https://www.dermatales.com/images/default-meta.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/CoolSculpting-Treatment.webp">
   <meta property="og:site_name" content="DermaTales">
   <title>CoolSculpting in Gurgaon & Delhi | DermaTales</title>
   <?php include 'nav-link.php'; ?>
@@ -58,7 +58,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&q=80" alt="CoolSculpting at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/CoolSculpting-Treatment.webp" alt="CoolSculpting at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

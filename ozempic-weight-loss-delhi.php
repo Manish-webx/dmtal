@@ -18,7 +18,7 @@
         content="Medically supervised Ozempic (semaglutide) weight loss injections in Delhi. Dr. Pooja Varshney provides personalized GLP-1 treatment with regular monitoring.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.dermatales.com/ozempic-weight-loss-delhi.php">
-    <meta property="og:image" content="https://www.dermatales.com/images/ozempic-delhi.jpg">
+    <meta property="og:image" content="https://www.dermatales.com/images/Ozempic-Weight-Loss.jpg">
     <meta property="og:site_name" content="DermaTales">
 
     <title>Ozempic Weight Loss Treatment in Delhi | Semaglutide Injection | DermaTales</title>
@@ -768,7 +768,7 @@
                             </div>
                             <div class="col-md-5">
                                 <div class="service-thumb-wrap">
-                                    <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=600&q=80"
+                                    <img src="images/Ozempic-Weight-Loss.jpg"
                                         alt="Ozempic Weight Loss Treatment Delhi" class="img-fluid">
                                 </div>
                             </div>

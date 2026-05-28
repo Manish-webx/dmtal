@@ -18,7 +18,7 @@
     content="Experience the power of Mounjaro (tirzepatide) for weight loss in Gurgaon under strict medical supervision at DermaTales. Clinically proven to reduce up to 22% body weight.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/mounjaro-weight-loss-in-gurgaon.php">
-  <meta property="og:image" content="https://www.dermatales.com/images/mounjaro-gurgaon.jpg">
+  <meta property="og:image" content="https://www.dermatales.com/images/Mounjaro.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Mounjaro Weight Loss in Gurgaon | Tirzepatide Therapy | DermaTales</title>
@@ -72,7 +72,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&w=600&q=80" alt="Mounjaro Weight Loss Treatment Gurgaon" class="img-fluid">
+                  <img src="images/Mounjaro.webp" alt="Mounjaro Weight Loss Treatment Gurgaon" class="img-fluid">
                 </div>
               </div>
             </div>
