@@ -18,7 +18,7 @@
     content="Fill in depressed chickenpox pits and craters effectively with clinical laser resurfacing at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/laser-for-chickenpox-scars-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80">
+  <meta property="og:image" content="images/laser-chickenpox-scars.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Laser For Chickenpox Scars in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80"
+                  <img src="images/laser-chickenpox-scars.webp"
                     alt="Laser For Chickenpox Scars" class="img-fluid rounded-4">
                 </div>
               </div>

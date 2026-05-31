@@ -18,7 +18,7 @@
     content="Experience a balanced and defined facial profile. Precision Chin Augmentation at DermaTales using surgical implants or non-surgical fillers.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/chin-augmentation-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80">
+  <meta property="og:image" content="images/chin-augmentation.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Chin Augmentation in Gurgaon | Profile Enhancement | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80" alt="Chin Augmentation Analysis" class="img-fluid rounded-4">
+                  <img src="images/chin-augmentation.webp" alt="Chin Augmentation Analysis" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

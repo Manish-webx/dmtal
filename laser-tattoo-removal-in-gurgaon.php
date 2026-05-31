@@ -18,7 +18,7 @@
     content="Regret your tattoo? Erase it safely with advanced clinical laser technology at DermaTales Gurgaon.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/laser-tattoo-removal-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&q=80">
+  <meta property="og:image" content="images/laser-tattoo-removal.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Laser Tattoo Removal in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=600&q=80"
+                  <img src="images/laser-tattoo-removal.webp"
                     alt="Laser Tattoo Removal" class="img-fluid rounded-4">
                 </div>
               </div>

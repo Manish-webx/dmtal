@@ -82,7 +82,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80"
+                  <img src="images/Laser-Hair-Reduction copy.webp"
                     alt="Laser Hair Reduction Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

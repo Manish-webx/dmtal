@@ -18,7 +18,7 @@
     content="Boost your skin's radiance from within. Try IV Glutathione therapy at DermaTales for full-body detox and skin brightening.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/iv-glutathione-therapy-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=800&q=80">
+  <meta property="og:image" content="images/iv-gluthon-therapy.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best IV Glutathione Therapy in Gurgaon | Skin Brightening | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=600&q=80" alt="IV Glutathione Therapy" class="img-fluid rounded-4">
+                  <img src="images/iv-gluthon-therapy.webp" alt="IV Glutathione Therapy" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

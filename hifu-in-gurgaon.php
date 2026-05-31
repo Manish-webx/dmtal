@@ -18,7 +18,7 @@
     content="Lift and tighten your skin with the power of ultrasound. Precision HIFU treatment at DermaTales for a naturally youthful appearance without surgery.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/hifu-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80">
+  <meta property="og:image" content="images/hifu-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best HIFU in Gurgaon | Non-Surgical Skin Tightening | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80" alt="HIFU Skin Tightening" class="img-fluid rounded-4">
+                  <img src="images/hifu-treatment.webp" alt="HIFU Skin Tightening" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

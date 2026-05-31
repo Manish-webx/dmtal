@@ -18,7 +18,7 @@
     content="Experience a comprehensive transformation with precision Facelift surgery at DermaTales. Tighten skin and muscles for a natural, youthful appearance.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/facelift-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80">
+  <meta property="og:image" content="images/facelift-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Facelift in Gurgaon | Facial Rejuvenation Surgery | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80" alt="Facelift Surgery Consultation" class="img-fluid rounded-4">
+                  <img src="images/facelift-surgery.webp" alt="Facelift Surgery Consultation" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

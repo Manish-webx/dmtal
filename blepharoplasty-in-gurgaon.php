@@ -18,7 +18,7 @@
     content="Transform your appearance with precision Blepharoplasty at DermaTales. Remove eye bags and drooping lids for a rested, youthful look.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/blepharoplasty-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80">
+  <meta property="og:image" content="images/eyelid-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Blepharoplasty in Gurgaon | Eyelid Surgery | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80" alt="Blepharoplasty Treatment" class="img-fluid rounded-4">
+                  <img src="images/eyelid-surgery.webp" alt="Blepharoplasty Treatment" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

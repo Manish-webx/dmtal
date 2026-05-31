@@ -18,7 +18,7 @@
     content="Transform your facial profile with advanced Rhinoplasty at DermaTales. Precision nose surgery by expert specialists for natural, harmonious results.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/rhinoplasty-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80">
+  <meta property="og:image" content="images/rhinoplasty-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Rhinoplasty in Gurgaon | Nose Reshaping Surgery | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80" alt="Rhinoplasty Consultation" class="img-fluid rounded-4">
+                  <img src="images/rhinoplasty-surgery.webp" alt="Rhinoplasty Consultation" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

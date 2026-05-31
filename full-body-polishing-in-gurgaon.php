@@ -18,7 +18,7 @@
     content="Indulge in a luxurious full-body polishing treatment at DermaTales. Exfoliate, hydrate, and achieve radiant skin from head to toe.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/full-body-polishing-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80">
+  <meta property="og:image" content="images/full-body-polish.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Full Body Polishing in Gurgaon | Body Glow | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80" alt="Full Body Polishing" class="img-fluid rounded-4">
+                  <img src="images/full-body-polish.webp" alt="Full Body Polishing" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

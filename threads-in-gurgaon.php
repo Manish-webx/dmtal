@@ -18,7 +18,7 @@
     content="Instant lifting and long-term rejuvenation. Expert Thread Lift at DermaTales using world-class absorbable sutures for natural, surgical-grade results.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/threads-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80">
+  <meta property="og:image" content="images/thread-lift.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Thread Lift in Gurgaon | Non-Surgical Face Lift | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80" alt="Thread Lift Procedure" class="img-fluid rounded-4">
+                  <img src="images/thread-lift.webp" alt="Thread Lift Procedure" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

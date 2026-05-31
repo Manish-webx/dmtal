@@ -18,7 +18,7 @@
     content="Smooth out deep acne pits and craters with the gold-standard Fractional CO2 Laser resurfacing at DermaTales.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/laser-for-acne-scars-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80">
+  <meta property="og:image" content="images/laser-acne-scars.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Laser For Acne Scars in Gurgaon | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&q=80"
+                  <img src="images/laser-acne-scars.webp"
                     alt="Laser For Acne Scars" class="img-fluid rounded-4">
                 </div>
               </div>

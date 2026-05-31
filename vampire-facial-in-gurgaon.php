@@ -18,7 +18,7 @@
     content="Harness your body's natural healing power for flawless skin. Vampire Facial (PRP + Microneedling) at DermaTales for scars, fine lines, and glow.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/vampire-facial-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&q=80">
+  <meta property="og:image" content="images/vampire-facial.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best Vampire Facial in Gurgaon | PRP Skin Rejuvenation | DermaTales</title>
@@ -83,7 +83,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=600&q=80"
+                  <img src="images/vampire-facial.webp"
                     alt="Vampire Facial PRP" class="img-fluid rounded-4">
                 </div>
               </div>
