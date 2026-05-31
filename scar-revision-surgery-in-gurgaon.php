@@ -18,7 +18,7 @@
     content="Advanced solutions for all types of scars. Professional Scar Revision surgery and laser treatments at DermaTales Gurgaon to restore skin texture.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/scar-revision-surgery-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1579154236101-71ec51586a11?w=800&q=80">
+  <meta property="og:image" content="images/scar-revision-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Scar Revision Surgery in Gurgaon | Minimize Scars | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1579154236101-71ec51586a11?w=600&q=80"
+                  <img src="images/scar-revision-surgery.webp"
                     alt="Scar Revision Surgery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

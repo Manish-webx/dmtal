@@ -18,7 +18,7 @@
     content="Transform your skin with MNRF — the gold standard in skin tightening and scar reduction. Precision radiofrequency microneedling at DermaTales for collagen remodelling and skin rejuvenation.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/mnrf-treatment-in-gurgaon">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800&q=80">
+  <meta property="og:image" content="images/MNRF-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best MNRF Treatment in Gurgaon | Radiofrequency Microneedling | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80" alt="MNRF Radiofrequency Microneedling Treatment" class="img-fluid rounded-4">
+                  <img src="images/MNRF-treatment.webp" alt="MNRF Radiofrequency Microneedling Treatment" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

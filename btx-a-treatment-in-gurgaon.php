@@ -18,7 +18,7 @@
     content="Smooth dynamic wrinkles with precision BTX-A injections at DermaTales. Expert anti-wrinkle treatment for forehead lines, crow's feet, and frown lines with natural-looking results.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/btx-a-treatment-in-gurgaon">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&q=80">
+  <meta property="og:image" content="images/BTX-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Best BTX-A Treatment in Gurgaon | Anti-Wrinkle Injections | DermaTales</title>
@@ -76,7 +76,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80" alt="BTX-A Anti-Wrinkle Treatment at DermaTales" class="img-fluid rounded-4">
+                  <img src="images/BTX-treatment.webp" alt="BTX-A Anti-Wrinkle Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
             </div>

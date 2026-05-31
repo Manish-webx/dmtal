@@ -18,7 +18,7 @@
     content="Restore your masculine profile. Professional Gynaecomastia surgery and non-surgical reduction at DermaTales Gurgaon. Safe, effective, and minimally invasive.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/gynaecomastia-surgery-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1576091160550-2173dad99962?w=800&q=80">
+  <meta property="og:image" content="images/gynaecomastia-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Gynaecomastia Surgery in Gurgaon | Male Breast Reduction | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1576091160550-2173dad99962?w=600&q=80"
+                  <img src="images/gynaecomastia-surgery.webp"
                     alt="Gynaecomastia Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

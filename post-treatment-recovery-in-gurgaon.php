@@ -18,7 +18,7 @@
     content="Maximize your results and minimize downtime. Comprehensive post-treatment recovery guidelines and products at DermaTales Gurgaon.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/post-treatment-recovery-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1516589174184-c685266e430c?w=800&q=80">
+  <meta property="og:image" content="images/post-treatment-recovery.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Post-Treatment Recovery Protocols Gurgaon | Post-Laser Care | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1516589174184-c685266e430c?w=600&q=80"
+                  <img src="images/post-treatment-recovery.webp"
                     alt="Post-Treatment Recovery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

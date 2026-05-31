@@ -18,7 +18,7 @@
     content="Reshape and refine prominent ears. Safe and effective Ear Correction (Otoplasty) at DermaTales Gurgaon by board-certified dermatologists.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/ear-correction-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=800&q=80">
+  <meta property="og:image" content="images/ear-correction.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Ear Correction Surgery in Gurgaon | Otoplasty | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=600&q=80"
+                  <img src="images/ear-correction.webp"
                     alt="Ear Correction Surgery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

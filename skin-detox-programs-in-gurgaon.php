@@ -18,7 +18,7 @@
     content="Reset your skin. Clinical skin detox programs at DermaTales Gurgaon to clear urban pollution, oxidative stress, and impurities. Medifacials & Lymphatic drainage.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/skin-detox-programs-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512290923902-8a9f81d636c?w=800&q=80">
+  <meta property="og:image" content="images/skin-detox-programs.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Skin Detox Programs in Gurgaon | Clear Pollution & Stress | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81d636c?w=600&q=80"
+                  <img src="images/skin-detox-programs.webp"
                     alt="Skin Detox Programs at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

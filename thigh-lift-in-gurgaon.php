@@ -18,7 +18,7 @@
     content="Refine and reshape your lower body. Professional Thigh Lift in Gurgaon. Eliminate loose skin and achieve smoother, firmer thigh contours.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/thigh-lift-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80">
+  <meta property="og:image" content="images/thigh-lift.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Thigh Lift in Gurgaon | Thighplasty Surgery | DermaTales</title>
@@ -81,7 +81,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80"
+                  <img src="images/thigh-lift.webp"
                     alt="Thigh Lift Surgery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

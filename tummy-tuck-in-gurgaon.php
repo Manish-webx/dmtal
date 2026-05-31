@@ -18,7 +18,7 @@
     content="Restore your abdominal tone and contour. Professional Tummy Tuck in Gurgaon. Remove excess skin and tighten muscles for a flatter stomach.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/tummy-tuck-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80">
+  <meta property="og:image" content="images/tummy-tuck.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Tummy Tuck in Gurgaon | Abdominoplasty Surgery | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80"
+                  <img src="images/tummy-tuck.webp"
                     alt="Tummy Tuck Surgery at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

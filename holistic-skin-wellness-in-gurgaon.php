@@ -18,7 +18,7 @@
     content="Treat your skin as a reflection of your overall health. Holistic skin wellness programs at DermaTales Gurgaon integrating lifestyle, sleep, and medical care.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/holistic-skin-wellness-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80">
+  <meta property="og:image" content="images/holistic-skin-wellness.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Holistic Skin Wellness in Gurgaon | Mind-Body Dermatology | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80"
+                  <img src="images/holistic-skin-wellness.webp"
                     alt="Holistic Skin Wellness at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

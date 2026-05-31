@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1512290923902-8a9f81dc2069?w=600&q=80"
+                  <img src="images/skin-laser-treatment.webp"
                     alt="Skin Laser Treatment at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

@@ -18,7 +18,7 @@
     content="Enhance your smile with natural-looking dimples. Professional Dimple Creation (Dimpleplasty) at DermaTales Gurgaon. Quick procedure, rapid recovery.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/dimple-creation-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&q=80">
+  <meta property="og:image" content="images/dimple-creation.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>Dimple Creation Surgery in Gurgaon | Dimpleplasty | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80"
+                  <img src="images/dimple-creation.webp"
                     alt="Dimple Creation at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>

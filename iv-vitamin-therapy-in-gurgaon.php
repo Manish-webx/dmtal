@@ -18,7 +18,7 @@
     content="Boost your glow and immunity from within. Premium IV Vitamin Therapy at DermaTales Gurgaon. Glutathione, Vitamin C, and hydration infusions.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.dermatales.com/iv-vitamin-therapy-in-gurgaon.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1579154235602-3c35d452fc3e?w=800&q=80">
+  <meta property="og:image" content="images/IV-vitamin-therapy.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title>IV Vitamin Therapy in Gurgaon | Glutathione & Vitamin C | DermaTales</title>
@@ -75,7 +75,7 @@
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="https://images.unsplash.com/photo-1579154235602-3c35d452fc3e?w=600&q=80"
+                  <img src="images/IV-vitamin-therapy.webp"
                     alt="IV Vitamin Therapy at DermaTales" class="img-fluid rounded-4">
                 </div>
               </div>
