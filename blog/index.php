@@ -183,65 +183,24 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="images/BTX-treatment.webp" class="card-img-top" alt="Anti-Aging"
+              <img src="blog-thumb/the-hair-fall-advice.webp" class="card-img-top" alt="Hair Fall Advice"
                 style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
-                <span><i class="bi bi-calendar3"></i> Jun 01, 2026</span>
+                <span><i class="bi bi-calendar3"></i> Jun 04, 2026</span>
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
-              <h3 class="blog-card-title"><a href="#" class="text-decoration-none text-charcoal">The Ultimate Guide to
-                  BTX-A Treatments</a></h3>
-              <p class="card-text text-muted">Discover how BTX-A can help you achieve a youthful, refreshed look without
-                looking frozen or expressionless.</p>
-              <a href="#" class="btn-read-more">Read Article <i class="bi bi-arrow-right-short"></i></a>
+              <h3 class="blog-card-title"><a href="blog/the-hair-fall-advice-on-instagram-is-ruining-indian-scalps"
+                  class="text-decoration-none text-charcoal">The Hair Fall Advice on Instagram Is Ruining Indian
+                  Scalps</a></h3>
+              <p class="card-text text-muted">Learn why generic Instagram hair fall advice fails and what you really
+                need for a healthy scalp.</p>
+              <a href="blog/the-hair-fall-advice-on-instagram-is-ruining-indian-scalps" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
           </div>
         </div>
-
-        <!-- Blog Card 2 -->
-        <div class="col-lg-4 col-md-6 fade-up" style="transition-delay: 0.1s;">
-          <div class="card h-100 blog-card-premium">
-            <div class="blog-card-img-wrap">
-              <img src="images/acne-treatment.webp" class="card-img-top" alt="Skin Care"
-                style="height: 280px; object-fit: cover;">
-            </div>
-            <div class="card-body p-4 pb-2">
-              <div class="blog-card-meta">
-                <span><i class="bi bi-calendar3"></i> May 25, 2026</span>
-                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
-              </div>
-              <h3 class="blog-card-title"><a href="#" class="text-decoration-none text-charcoal">How to Get Rid of
-                  Stubborn Acne Scars</a></h3>
-              <p class="card-text text-muted">Learn about the most effective advanced treatments for acne scars, from
-                chemical peels to fractional lasers.</p>
-              <a href="#" class="btn-read-more">Read Article <i class="bi bi-arrow-right-short"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Blog Card 3 -->
-        <div class="col-lg-4 col-md-6 fade-up" style="transition-delay: 0.2s;">
-          <div class="card h-100 blog-card-premium">
-            <div class="blog-card-img-wrap">
-              <img src="images/prp-treatment.webp" class="card-img-top" alt="Hair Care"
-                style="height: 280px; object-fit: cover;">
-            </div>
-            <div class="card-body p-4 pb-2">
-              <div class="blog-card-meta">
-                <span><i class="bi bi-calendar3"></i> May 18, 2026</span>
-                <span><i class="bi bi-person-circle"></i> DermaTales Team</span>
-              </div>
-              <h3 class="blog-card-title"><a href="#" class="text-decoration-none text-charcoal">Is PRP Therapy Right
-                  for Your Hair Loss?</a></h3>
-              <p class="card-text text-muted">Everything you need to know about Platelet-Rich Plasma (PRP) therapy and
-                how it can restore your hair growth naturally.</p>
-              <a href="#" class="btn-read-more">Read Article <i class="bi bi-arrow-right-short"></i></a>
-            </div>
-          </div>
-        </div>
-
       </div>
     </div>
   </section>
