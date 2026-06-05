@@ -183,7 +183,7 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/the-hair-fall-advice.webp" class="card-img-top" alt="Hair Fall Advice"
+              <img src="blog-thumb/the-hair-fall-advice-scalp.webp" class="card-img-top" alt="Hair Fall Advice"
                 style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">

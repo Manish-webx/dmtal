@@ -68,17 +68,19 @@ $page_title = "The Hair Fall Advice on Instagram Is Ruining Indian Scalps | Derm
       <div class="row g-5">
 
         <!-- Main Content Column -->
-        <div class="col-lg-8 order-lg-1 content-area">
+        <div class="col-lg-9 order-lg-1 content-area">
 
           <div class="fade-up">
-            <div class="row align-items-center">
-              <div class="col-lg-6">
+            <div class="row justify-content-center">
+              <div class="col-lg-10">
                 <div class="position-relative overflow-hidden rounded-3 mb-4">
-                  <img src="blog-thumb/the-hair-fall-advice.webp" class="img-fluid rounded-3 mb-4"
+                  <img src="blog-thumb/the-hair-fall-advice-scalp.webp" class="img-fluid rounded-3 mb-4"
                     alt="Hair Fall Advice">
                 </div>
               </div>
-              <div class="col-lg-6">
+            </div>
+            <div class="row">
+              <div class="col-lg-12">
                 <p>Last week, a woman in her late 20s walked into my clinic. She was more consistent than most patients
                   I
                   see. Oiling every night, onion juice twice a week, biotin gummies every morning, rosemary oil on
@@ -205,7 +207,7 @@ $page_title = "The Hair Fall Advice on Instagram Is Ruining Indian Scalps | Derm
         </div> <!-- End Main Content -->
 
         <!-- Sidebar -->
-        <div class="col-lg-4 order-lg-2">
+        <div class="col-lg-3 order-lg-2">
           <div class="sidebar-sticky" style="position: sticky; top: 100px;">
             <?php include '../sidebar-include.php'; ?>
 
