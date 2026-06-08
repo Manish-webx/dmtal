@@ -118,6 +118,7 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Anti-Aging Treatments</h6>
                     <ul class="mega-list">
+                      <li><a href="anti-ageing-treatment-in-delhi">Anti-Ageing Treatment</a></li>
                       <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment</a></li>
                       <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
                       <li><a href="vampire-facial-in-gurgaon">Vampire Facelift</a></li>
@@ -255,6 +256,7 @@
                       <li><a href="laser-for-acne-scars-in-gurgaon">Laser For Acne Scars</a></li>
                       <li><a href="laser-for-chickenpox-scars-in-gurgaon">Laser For Chickenpox Scars</a></li>
                       <li><a href="laser-for-birth-marks-in-gurgaon">Laser For Birth Marks</a></li>
+                      <li><a href="q-switch-laser-treatment-in-delhi">Q Switch Laser Treatment</a></li>
                     </ul>
                   </div>
                   <div class="col-lg-3">
