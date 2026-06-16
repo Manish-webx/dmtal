@@ -72,7 +72,7 @@ $page_title = "What Your Dermatologist Is Not Telling You About Pigmentation Tre
 
           <div class="fade-up">
             <div class="row justify-content-center">
-              <div class="col-lg-10">
+              <div class="col-lg-12">
                 <div class="position-relative overflow-hidden rounded-3 mb-4">
                   <img src="blog-thumb/what-your-dermatologist.webp" class="img-fluid rounded-3 mb-4"
                     alt="Pigmentation Treatment">

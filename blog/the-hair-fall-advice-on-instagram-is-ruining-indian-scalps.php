@@ -72,7 +72,7 @@ $page_title = "The Hair Fall Advice on Instagram Is Ruining Indian Scalps | Derm
 
           <div class="fade-up">
             <div class="row justify-content-center">
-              <div class="col-lg-10">
+              <div class="col-lg-12">
                 <div class="position-relative overflow-hidden rounded-3 mb-4">
                   <img src="blog-thumb/the-hair-fall-advice-scalp.webp" class="img-fluid rounded-3 mb-4"
                     alt="Hair Fall Advice">
