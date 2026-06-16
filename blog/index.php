@@ -179,6 +179,31 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card 2 -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/what-your-dermatologist.webp" class="card-img-top" alt="Pigmentation Treatment"
+                style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Jun 16, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/what-your-dermatologist-is-not-telling-you-about-pigmentation-treatment"
+                  class="text-decoration-none text-charcoal">What Your Dermatologist Is Not Telling You About
+                  Pigmentation Treatment</a></h3>
+              <p class="card-text text-muted">Pigmentation is a symptom, not a diagnosis. Learn why your dark spots keep
+                coming back and what actually works for long-term pigmentation treatment.</p>
+              <a href="blog/what-your-dermatologist-is-not-telling-you-about-pigmentation-treatment"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card 1 -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
@@ -201,6 +226,8 @@ $page_title = "Blog | DermaTales";
             </div>
           </div>
         </div>
+
+
       </div>
     </div>
   </section>
