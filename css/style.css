@@ -143,6 +143,23 @@ h6 {
   background-color: var(--dt-charcoal);
 }
 
+.bg-gold {
+  background: linear-gradient(135deg, var(--dt-champagne), var(--dt-champagne-dark)) !important;
+  color: var(--dt-white) !important;
+}
+
+.text-gold {
+  color: var(--dt-champagne-dark) !important;
+}
+
+.text-charcoal {
+  color: var(--dt-charcoal) !important;
+}
+
+.text-charcoal-deep {
+  color: var(--dt-black) !important;
+}
+
 /* ---------- BUTTONS ---------- */
 .btn {
   font-family: var(--dt-font-body);
