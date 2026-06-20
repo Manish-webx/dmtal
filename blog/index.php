@@ -183,20 +183,20 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/what-your-dermatologist.webp" class="card-img-top" alt="PCOS and Acne Treatment"
-                style="height: 280px; object-fit: cover;">
+              <img src="blog-thumb/how-pcos-affects-skin-and-hair-dermatales.webp" class="card-img-top"
+                alt="PCOS and Acne Treatment" style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
                 <span><i class="bi bi-calendar3"></i> Jun 20, 2026</span>
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
-              <h3 class="blog-card-title"><a
-                  href="blog/pcos-and-acne-treatment"
-                  class="text-decoration-none text-charcoal">Your Dermatologist Treated Your Acne. Your Gynaecologist Treated Your PCOS. Nobody Treated Both.</a></h3>
-              <p class="card-text text-muted">PCOS does not just affect your periods. Discover why coordinated treatment from a dermatologist and gynaecologist is essential for PCOS, acne, and hair loss.</p>
-              <a href="blog/pcos-and-acne-treatment"
-                class="btn-read-more">Read
+              <h3 class="blog-card-title"><a href="blog/pcos-and-acne-treatment"
+                  class="text-decoration-none text-charcoal">Your Dermatologist Treated Your Acne. Your Gynaecologist
+                  Treated Your PCOS. Nobody Treated Both.</a></h3>
+              <p class="card-text text-muted">PCOS does not just affect your periods. Discover why coordinated treatment
+                from a dermatologist and gynaecologist is essential for PCOS, acne, and hair loss.</p>
+              <a href="blog/pcos-and-acne-treatment" class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
           </div>
