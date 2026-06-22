@@ -111,12 +111,16 @@ $page_title = "PCOS and Acne Treatment: Why Treating One Specialist at a Time Do
             <h2 class="lux-section-title mt-3">The Skin Signs of PCOS Most Women Ignore</h2>
             <p>Persistent jawline and chin acne that gets worse around your cycle is the most obvious sign. But PCOS
               leaves other marks that are far less talked about.</p>
-            <p><strong>Facial pigmentation and dark patches</strong>, particularly around the neck, underarms and inner
+            <p><strong><a href="https://www.dermatales.com/facial-pigmentation-in-gurgaon"
+                  style="text-decoration: underline;">Facial pigmentation</a> and
+                dark patches</strong>, particularly around the neck, underarms and inner
               thighs, are one of them. This is called acanthosis nigricans and it is directly linked to the insulin
               resistance that accompanies PCOS in many women. Patients come to me for pigmentation treatment and leave
               with a referral for blood sugar and insulin testing. The pigmentation was never a skin problem. It was a
               metabolic signal.</p>
-            <p><strong>Hair thinning at the crown and temples</strong> is another. The same androgens driving the acne
+            <p><strong><a href="https://www.dermatales.com/female-hair-loss-in-gurgaon"
+                  style="text-decoration: underline;">Hair thinning</a> at the crown and temples</strong> is another.
+              The same androgens driving the acne
               are converting to DHT, which shrinks hair follicles over time. Women with PCOS often experience hair loss
               on the scalp and simultaneous hair growth on the face. Both from the same hormonal imbalance. Treating the
               hair loss with minoxidil alone without addressing the androgen excess is like mopping the floor with the
@@ -138,7 +142,10 @@ $page_title = "PCOS and Acne Treatment: Why Treating One Specialist at a Time Do
               does not just prescribe a cream. They look at the full hormonal profile, understand what the androgens are
               doing to the skin specifically, and build a treatment plan that addresses the cause while managing the
               visible symptoms.</p>
-            <p>At DermaTales, when a patient comes in with the classic PCOS skin pattern, the first conversation is
+            <p>At <a href="https://www.dermatales.com/skin-clinic-in-gurgaon"
+                style="text-decoration: underline;">DermaTales</a>, when a patient comes in with the classic PCOS skin
+              pattern, the first conversation
+              is
               never about which cream to use. It is about what the bloodwork looks like and whether the hormonal picture
               has been properly investigated.</p>
 
