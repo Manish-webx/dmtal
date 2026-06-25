@@ -239,48 +239,6 @@
                   <div class="accordion-body faq-body">
                     You may notice brightening after 1-2 sessions, but significant reduction in deep pigmentation typically requires a structured protocol of 4-6 sessions over a few months.
                   </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div> <!-- End Main Content -->
-
-        <!-- Sidebar Column -->
-        <div class="col-lg-3 order-lg-2">
-          <div class="sidebar-sticky">
-
-            <!-- Appointment Form Widget -->
-            <?php include 'sidebar-include.php'; ?>
-
-
-            <!-- Related Services Widget -->
-            <div class="sidebar-widget">
-              <h3 class="widget-title">Other Services</h3>
-              <ul class="related-list">
-                <li><a href="#">Acne Treatments <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Dermal Fillers <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Microneedling <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Skin Glow <i class="bi bi-chevron-right"></i></a></li>
-              </ul>
-            </div>
-
-            <!-- Direct Contact -->
-            <div class="p-3 text-center">
-              <p class="small text-muted mb-2">Need immediate help?</p>
-              <a href="https://wa.me/919560015155" class="btn btn-whatsapp rounded-pill w-100">
-                <i class="bi bi-whatsapp me-2"></i> WhatsApp Us
-              </a>
-            </div>
-
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
   <!-- ===================== FOOTER ===================== -->
   <?php include 'footer.php'; ?>
 

@@ -312,6 +312,9 @@
                 </div>
               </div>
             </div>
+            <p class="mt-3 small text-muted">
+              Looking for our Delhi clinic? The same dermatologist-led chemical peel protocols are available in Patel Nagar at our <a href="best-chemical-peel-treatment-in-delhi">Delhi clinic</a>.
+            </p>
           </div>
 
 
@@ -420,6 +423,8 @@
                 <li><a href="open-pore-treatment-in-gurgaon">Open Pore Treatment <i
                       class="bi bi-chevron-right"></i></a></li>
                 <li><a href="melasma-pigmentation-in-gurgaon">Melasma &amp; Pigmentation <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="best-chemical-peel-treatment-in-delhi">Delhi Chemical Peels <i
                       class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Dermal Fillers <i class="bi bi-chevron-right"></i></a></li>
               </ul>

@@ -411,8 +411,9 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="#">Acne Treatments <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-treatment-in-gurgaon">Acne Treatments <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="chemical-peels-in-gurgaon">Gurugram Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="best-chemical-peel-treatment-in-delhi">Delhi Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Laser Skin Resurfacing <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Hydrafacial <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Skin Glow Treatments <i class="bi bi-chevron-right"></i></a></li>

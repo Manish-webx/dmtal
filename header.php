@@ -19,7 +19,7 @@
           <div class="top-bar-dropdown-menu">
             <a href="tel:+919560015155" aria-label="Call Gurgaon Clinic"><i class="bi bi-telephone-fill"></i>
               Gurgaon</a>
-            <a href="tel:++918700530623" aria-label="Call Delhi Clinic"><i class="bi bi-telephone-fill"></i> Delhi</a>
+            <a href="tel:+918700530623" aria-label="Call Delhi Clinic"><i class="bi bi-telephone-fill"></i> Delhi</a>
           </div>
         </div>
         <a href="mailto:dermatales@gmail.com" class="top-bar-link">
@@ -101,7 +101,8 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Face Cosmetics</h6>
                     <ul class="mega-list">
-                      <li><a href="chemical-peels-in-gurgaon">Chemical Peels</a></li>
+                      <li><a href="chemical-peels-in-gurgaon">Chemical Peels (Gurgaon)</a></li>
+                      <li><a href="best-chemical-peel-treatment-in-delhi">Chemical Peels (Delhi)</a></li>
                       <li><a href="open-pore-treatment-in-gurgaon">Open Pore Treatment</a></li>
                       <li><a href="undereye-treatment-in-gurgaon">Undereye Treatment</a></li>
                       <li><a href="lip-lightening-in-gurgaon">Lip Lightening/Pigmentation</a></li>
@@ -378,8 +379,8 @@
             </a>
             <ul class="dropdown-menu dropdown-menu-elegant">
               <li><a class="dropdown-item" href="blog/">Blog</a></li>
-              <li><a class="dropdown-item" href="#">Testimonials</a></li>
-              <li><a class="dropdown-item" href="#">Before &amp; After</a></li>
+              <li><a class="dropdown-item" href="#testimonials">Testimonials</a></li>
+              <li><a class="dropdown-item" href="#results">Before &amp; After</a></li>
             </ul>
           </li>
         </ul>
