@@ -77,7 +77,8 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Hair Loss &amp; Scalp</h4>
             <p class="footer-treat-tags">
-              <a href="hair-doctor-in-gurgaon">Hair Loss</a> <span>|</span>
+              <a href="hair-doctor-in-gurgaon">Hair Loss Gurgaon</a> <span>|</span>
+              <a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Delhi</a> <span>|</span>
               <a href="male-patterned-baldness-in-gurgaon">Baldness</a> <span>|</span>
               <a href="male-patterned-baldness-in-gurgaon">Male &amp; Female Pattern Baldness</a> <span>|</span>
               <a href="alopecia-areata-treatment-in-gurgaon">Patchy Hair Loss (Alopecia Areata)</a> <span>|</span>

@@ -208,8 +208,11 @@
             </div>
           </div>
 
-
-
+          <!-- Also Available at Our Delhi Clinic -->
+          <div class="mt-4 fade-up">
+            <h3 class="h5 fw-bold mb-3 text-charcoal">Also Available at Our Delhi Clinic</h3>
+            <p>If Delhi is more convenient, the same diagnostic and treatment protocols are available with Dr. Varshney at our <a href="best-hair-fall-doctor-in-delhi-patel-nagar" class="text-gold fw-bold text-decoration-none">Best Hair Fall Doctor in Delhi, Patel Nagar</a> clinic.</p>
+          </div>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -280,6 +283,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Services</h3>
               <ul class="related-list">
+                <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="hair-transplant-in-gurgaon">Hair Transplant <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss Clinic <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="acne-scar-treatment-in-gurgaon">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>

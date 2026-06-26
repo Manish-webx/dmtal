@@ -49,6 +49,7 @@
               <li><a href="facial-tanning-dull-face-in-gurgaon">Facial Tanning / Dull Face</a></li>
               <li><a href="xanthelasma-milia-in-gurgaon">Xanthelasma & Milia</a></li>
               <li class="mobile-sub-heading">Anti-Aging & Lasers</li>
+              <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi</a></li>
               <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment</a></li>
               <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
               <li><a href="mnrf-treatment-in-gurgaon">MNRF Treatment</a></li>
@@ -75,6 +76,7 @@
               <li><a href="hair-growth-boosters-in-gurgaon">Hair Growth Boosters</a></li>
               <li class="mobile-sub-heading">Hair Loss Conditions</li>
               <li><a href="hair-doctor-in-gurgaon">Hair Doctor in Gurgaon</a></li>
+              <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Doctor in Delhi (Patel Nagar)</a></li>
               <li><a href="male-patterned-baldness-in-gurgaon">Male Patterned Baldness</a></li>
               <li><a href="female-hair-loss-in-gurgaon">Female Hairloss</a></li>
               <li><a href="alopecia-areata-treatment-in-gurgaon">Alopecia Areata</a></li>
@@ -130,6 +132,7 @@
               <li><a href="rhinoplasty-in-gurgaon">Rhinoplasty</a></li>
               <li><a href="blepharoplasty-in-gurgaon">Blepharoplasty</a></li>
               <li><a href="facelift-in-gurgaon">Facelift</a></li>
+              <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Facelift Delhi</a></li>
               <li><a href="chin-augmentation-in-gurgaon">Chin Augmentation</a></li>
               <li><a href="lip-nose-enhancement-in-gurgaon">Lip Enhancement</a></li>
               <li><a href="threads-in-gurgaon">Threads</a></li>

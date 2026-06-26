@@ -209,10 +209,11 @@
             </div>
           </div>
 
-
-
-
-
+          <!-- Non-Surgical Option at Our Delhi Clinic -->
+          <div class="mt-4 fade-up">
+            <h3 class="h5 fw-bold mb-3 text-charcoal">Non-Surgical Face Lifting Option in Delhi</h3>
+            <p>Looking for a non-invasive alternative without downtime? Explore our dermatologist-led <a href="face-lifting-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">Best Face Lifting Treatment in Delhi (Non-Surgical)</a> protocols at our Patel Nagar clinic.</p>
+          </div>
 
           <!-- FAQ SECTION -->
           <div class="mt-4 fade-up">
@@ -271,6 +272,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
+                <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Rhinoplasty <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Blepharoplasty <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Chin Augmentation <i class="bi bi-chevron-right"></i></a></li>

@@ -271,6 +271,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
+                <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">HIFU Tightening <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Facelift <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="#">Jawline Definition <i class="bi bi-chevron-right"></i></a></li>
