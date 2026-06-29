@@ -65,24 +65,70 @@
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
-                <h2 class="lux-section-title">What is GFC Therapy?</h2>
-                <p>
-                  Most people dealing with hair thinning have heard of PRP. GFC is what comes next.
+                <h2 class="lux-section-title mb-3">What is GFC Therapy?</h2>
+                
+                <!-- Badges -->
+                <div class="d-flex flex-wrap gap-2 mb-4">
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-stars me-1"></i> Next-Gen Evolution</span>
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-droplet-fill me-1"></i> Acellular & Pure</span>
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-shield-check me-1"></i> 10+ Years Experience</span>
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-geo-alt-fill me-1"></i> Patel Nagar, Delhi</span>
+                </div>
+
+                <!-- Lead Statement -->
+                <div class="p-3 rounded-3 mb-4 d-flex align-items-center gap-3 shadow-sm" style="background: linear-gradient(135deg, var(--dt-ivory), var(--dt-warm-white)); border-left: 4px solid var(--dt-champagne);">
+                  <p class="fs-6 fw-medium text-charcoal mb-0" style="line-height: 1.6;">
+                    Most people dealing with hair thinning have heard of PRP. <span class="text-gold fw-bold">GFC is what comes next.</span> Growth Factor Concentrate therapy is a more advanced, highly purified evolution of biological hair restoration.
+                  </p>
+                </div>
+
+                <p class="text-muted mb-3" style="line-height: 1.8;">
+                  Instead of injecting a broad mixture of blood components into the scalp, GFC isolates only the active growth factors from your blood—the specific proteins that trigger follicle repair, cell regeneration, and new hair growth—delivering them in a significantly purer and more concentrated form.
                 </p>
-                <p>
-                  Growth Factor Concentrate therapy is a more advanced evolution of PRP-based hair restoration. Instead of injecting a broad mixture of blood components into the scalp, GFC isolates only the active growth factors from your blood, the specific proteins that trigger follicle repair, cell regeneration, and new hair growth and delivers them in a significantly purer and more concentrated form.
+
+                <p class="text-muted mb-4" style="line-height: 1.8;">
+                  The difference matters clinically. Standard PRP contains red blood cells and other components that are not involved in follicle stimulation and can sometimes cause post-injection inflammation. <strong class="text-charcoal">GFC removes these entirely</strong>, leaving behind a cleaner solution with a higher concentration of the proteins that actually drive hair regrowth.
                 </p>
-                <p>
-                  The difference matters clinically. Standard PRP contains red blood cells and other components that are not involved in follicle stimulation and can sometimes cause post-injection inflammation. GFC removes these entirely, leaving behind a cleaner solution with a higher concentration of the proteins that actually drive hair regrowth.
-                </p>
-                <p>
-                  At DermaTales Clinic in Patel Nagar, Delhi, GFC therapy is personally supervised by <a href="dr-pooja-varshney" class="text-gold fw-bold text-decoration-none">Dr. Pooja Varshney</a>, MD Dermatology and Venereology, with over 10 years of experience in hair restoration. We use specialised GFC preparation kits that ensure optimal growth factor extraction in every session because how the solution is prepared directly determines how well it works.
-                </p>
+
+                <!-- Doctor Supervision Box -->
+                <div class="p-3 rounded-4 border shadow-sm d-flex align-items-center gap-3 transition-all" style="background-color: var(--dt-warm-white); border-color: var(--dt-border) !important;">
+                  <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 48px; height: 48px; background: linear-gradient(135deg, var(--dt-champagne), var(--dt-champagne-dark)); color: #fff;">
+                    <i class="bi bi-award-fill fs-5"></i>
+                  </div>
+                  <div>
+                    <h6 class="fw-bold text-charcoal mb-1" style="font-size: 0.95rem;">Personally Supervised Protocol</h6>
+                    <p class="mb-0 small text-muted" style="line-height: 1.5;">
+                      At DermaTales Clinic in Patel Nagar, Delhi, GFC therapy is personally supervised by <a href="dr-pooja-varshney" class="text-gold fw-bold text-decoration-none">Dr. Pooja Varshney</a> (MD Dermatology, 10+ yrs exp.), using specialised preparation kits that ensure optimal growth factor extraction in every session.
+                    </p>
+                  </div>
+                </div>
               </div>
+
               <div class="col-md-5">
-                <div class="service-thumb-wrap">
-                  <img src="images/gfc-therapy.webp"
-                    alt="GFC Hair Treatment in Delhi Patel Nagar at DermaTales" class="img-fluid rounded-4">
+                <div class="position-relative py-3">
+                  <!-- Decorative Background Glow -->
+                  <div class="position-absolute top-50 start-50 translate-middle rounded-circle" style="width: 85%; height: 85%; background: linear-gradient(135deg, var(--dt-champagne), var(--dt-dusty-rose)); filter: blur(40px); opacity: 0.25; z-index: 0;"></div>
+                  
+                  <div class="service-thumb-wrap position-relative z-index-2 border border-2 border-white shadow-lg">
+                    <img src="images/gfc-therapy.webp"
+                      alt="GFC Hair Treatment in Delhi Patel Nagar at DermaTales" class="img-fluid rounded-4 w-100">
+                  </div>
+
+                  <!-- Floating Feature Badge -->
+                  <div class="position-absolute bottom-0 start-50 translate-middle-x z-index-3 w-100 px-3" style="margin-bottom: -12px;">
+                    <div class="p-3 rounded-4 shadow-lg border d-flex align-items-center justify-content-between gap-2" style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-color: rgba(232, 223, 224, 0.8) !important;">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 40px; height: 40px; background: var(--dt-ivory); color: var(--dt-champagne-dark);">
+                          <i class="bi bi-shield-plus fs-5"></i>
+                        </div>
+                        <div>
+                          <div class="fw-bold text-charcoal" style="font-size: 0.85rem;">Purer Concentration</div>
+                          <div class="text-muted" style="font-size: 0.75rem;">Higher Follicle Stimulation</div>
+                        </div>
+                      </div>
+                      <span class="badge bg-gold text-white rounded-pill px-3 py-2 small d-none d-sm-inline-block">100% Active</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -90,43 +136,93 @@
 
           <!-- Benefits -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Why Choose GFC Therapy?</h2>
-            <p>GFC offers a next-generation biological approach with key advantages over conventional treatments:</p>
-            <div class="row g-4 mt-2">
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Purer Concentration</h5>
-                  <p class="small text-muted mb-0">GFC preparation removes red blood cells and non-essential blood components, delivering only the growth factors that directly stimulate follicle activity and tissue repair to your scalp.</p>
+            <div class="mb-4">
+              <h2 class="lux-section-title mb-2">Why Choose GFC Therapy?</h2>
+              <p class="text-muted fs-6 m-0">GFC offers a next-generation biological approach with key advantages over conventional hair treatments:</p>
+            </div>
+
+            <div class="row g-4">
+              <!-- Item 1 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-droplet-fill fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Purer Concentration</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">GFC preparation removes red blood cells and non-essential blood components, delivering only the growth factors that directly stimulate follicle activity and tissue repair to your scalp.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Less Discomfort</h5>
-                  <p class="small text-muted mb-0">Without the inflammatory blood components present in standard PRP, patients typically experience noticeably less post-injection discomfort and faster recovery after each session.</p>
+
+              <!-- Item 2 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-heart-pulse-fill fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Less Discomfort</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">Without the inflammatory blood components present in standard PRP, patients typically experience noticeably less post-injection discomfort and faster recovery after each session.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Stimulates Natural Regrowth</h5>
-                  <p class="small text-muted mb-0">Concentrated growth factors signal weakened or dormant follicles to shift back into an active growth phase, gradually producing thicker, stronger, and denser hair over the course of treatment.</p>
+
+              <!-- Item 3 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-graph-up-arrow fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Stimulates Regrowth</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">Concentrated growth factors signal weakened or dormant follicles to shift back into an active growth phase, gradually producing thicker, stronger, and denser hair over the course of treatment.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">100% Autologous</h5>
-                  <p class="small text-muted mb-0">GFC is prepared entirely from your own blood. There are no synthetic additives, no chemicals, and virtually no risk of allergic reaction or rejection from an external substance.</p>
+
+              <!-- Item 4 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-shield-check fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">100% Autologous</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">GFC is prepared entirely from your own blood. There are no synthetic additives, no chemicals, and virtually no risk of allergic reaction or rejection from an external substance.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">No Downtime</h5>
-                  <p class="small text-muted mb-0">Sessions are completed in under an hour and most patients return to their daily routine immediately afterward.</p>
+
+              <!-- Item 5 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-clock-history fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">No Downtime</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">Sessions are completed in under an hour and most patients return to their daily routine immediately afterward.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Dual Action</h5>
-                  <p class="small text-muted mb-0">Beyond hair restoration, GFC is also used for skin rejuvenation at DermaTales, making it a versatile biological treatment for patients with both scalp and skin concerns.</p>
+
+              <!-- Item 6 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-stars fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Dual Action</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">Beyond hair restoration, GFC is also used for skin rejuvenation at DermaTales, making it a versatile biological treatment for patients with both scalp and skin concerns.</p>
                 </div>
               </div>
             </div>

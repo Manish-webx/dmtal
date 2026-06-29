@@ -65,21 +65,66 @@
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
-                <h2 class="lux-section-title">Natural Hair Restoration</h2>
-                <p>
-                  Hair thinning rarely feels urgent until it is. Most people notice it quietly a little more on the pillow, a slightly thinner ponytail, a hairline that seems to have shifted. By the time it is obvious, the follicles have already been struggling for a while.
+                <h2 class="lux-section-title mb-3">Natural Hair Restoration</h2>
+                
+                <!-- Badges -->
+                <div class="d-flex flex-wrap gap-2 mb-4">
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-droplet-fill me-1"></i> Double Centrifugation</span>
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-shield-check me-1"></i> 100% Autologous</span>
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-award me-1"></i> 10+ Years Experience</span>
+                  <span class="badge bg-gold text-white p-2 px-3 rounded-pill shadow-sm"><i class="bi bi-geo-alt-fill me-1"></i> Patel Nagar, Delhi</span>
+                </div>
+
+                <!-- Lead Statement -->
+                <div class="p-3 rounded-3 mb-4 d-flex align-items-center gap-3 shadow-sm" style="background: linear-gradient(135deg, var(--dt-ivory), var(--dt-warm-white)); border-left: 4px solid var(--dt-champagne);">
+                  <p class="fs-6 fw-medium text-charcoal mb-0" style="line-height: 1.6;">
+                    Hair thinning rarely feels urgent until it is. <span class="text-gold fw-bold">Reactivate weakened follicles</span> and improve density from the inside out using your body's natural growth factors.
+                  </p>
+                </div>
+
+                <p class="text-muted mb-4" style="line-height: 1.8;">
+                  PRP (Platelet-Rich Plasma) therapy is a non-surgical treatment that isolates powerful regenerative proteins from your blood. At DermaTales in Patel Nagar, Delhi, we use an advanced double centrifugation technique to ensure the PRP prepared for your scalp carries the highest possible concentration of growth factors—because how well PRP works depends almost entirely on how well it is prepared.
                 </p>
-                <p>
-                  PRP (Platelet-Rich Plasma) therapy is a non-surgical treatment that uses your own blood's growth factors to reactivate weakened hair follicles and improve density from the inside out. At DermaTales in Patel Nagar, Delhi, we use an advanced double centrifugation technique to ensure the PRP prepared for your scalp carries the highest possible concentration of growth factors because how well PRP works depends almost entirely on how well it is prepared.
-                </p>
-                <p>
-                  Treatment is supervised personally by <a href="dr-pooja-varshney" class="text-gold fw-bold text-decoration-none">Dr. Pooja Varshney</a>, MD Dermatology and Venereology, with over 10 years of clinical experience in hair restoration.
-                </p>
+
+                <!-- Doctor Supervision Box -->
+                <div class="p-3 rounded-4 border shadow-sm d-flex align-items-center gap-3 transition-all" style="background-color: var(--dt-warm-white); border-color: var(--dt-border) !important;">
+                  <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 48px; height: 48px; background: linear-gradient(135deg, var(--dt-champagne), var(--dt-champagne-dark)); color: #fff;">
+                    <i class="bi bi-award-fill fs-5"></i>
+                  </div>
+                  <div>
+                    <h6 class="fw-bold text-charcoal mb-1" style="font-size: 0.95rem;">Personally Supervised Protocol</h6>
+                    <p class="mb-0 small text-muted" style="line-height: 1.5;">
+                      Treatment is supervised personally by <a href="dr-pooja-varshney" class="text-gold fw-bold text-decoration-none">Dr. Pooja Varshney</a> (MD Dermatology, 10+ yrs exp.), ensuring customized medical precision for optimal hair restoration.
+                    </p>
+                  </div>
+                </div>
               </div>
+
               <div class="col-md-5">
-                <div class="service-thumb-wrap">
-                  <img src="images/prp-treatment.webp"
-                    alt="PRP Hair Treatment in Delhi Patel Nagar at DermaTales" class="img-fluid rounded-4">
+                <div class="position-relative py-3">
+                  <!-- Decorative Background Glow -->
+                  <div class="position-absolute top-50 start-50 translate-middle rounded-circle" style="width: 85%; height: 85%; background: linear-gradient(135deg, var(--dt-champagne), var(--dt-dusty-rose)); filter: blur(40px); opacity: 0.25; z-index: 0;"></div>
+                  
+                  <div class="service-thumb-wrap position-relative z-index-2 border border-2 border-white shadow-lg">
+                    <img src="images/prp-treatment.webp"
+                      alt="PRP Hair Treatment in Delhi Patel Nagar at DermaTales" class="img-fluid rounded-4 w-100">
+                  </div>
+
+                  <!-- Floating Feature Badge -->
+                  <div class="position-absolute bottom-0 start-50 translate-middle-x z-index-3 w-100 px-3" style="margin-bottom: -12px;">
+                    <div class="p-3 rounded-4 shadow-lg border d-flex align-items-center justify-content-between gap-2" style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-color: rgba(232, 223, 224, 0.8) !important;">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 40px; height: 40px; background: var(--dt-ivory); color: var(--dt-champagne-dark);">
+                          <i class="bi bi-graph-up fs-5"></i>
+                        </div>
+                        <div>
+                          <div class="fw-bold text-charcoal" style="font-size: 0.85rem;">Double Centrifugation</div>
+                          <div class="text-muted" style="font-size: 0.75rem;">Maximum Growth Factors</div>
+                        </div>
+                      </div>
+                      <span class="badge bg-gold text-white rounded-pill px-3 py-2 small d-none d-sm-inline-block">High Platelet Count</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -87,43 +132,93 @@
 
           <!-- Benefits -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Benefits of Hair PRP Therapy</h2>
-            <p>PRP is a good fit for people who want a natural, clinically backed approach to hair loss that does not involve surgery or significant downtime.</p>
-            <div class="row g-4 mt-2">
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">100% Natural</h5>
-                  <p class="small text-muted mb-0">PRP uses your own blood, which means no synthetic chemicals and no risk of allergic reaction or rejection from an external substance.</p>
+            <div class="mb-4">
+              <h2 class="lux-section-title mb-2">Benefits of Hair PRP Therapy</h2>
+              <p class="text-muted fs-6 m-0">PRP offers a natural, clinically backed approach to hair loss that does not involve surgery or significant downtime:</p>
+            </div>
+
+            <div class="row g-4">
+              <!-- Item 1 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-shield-check fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">100% Natural</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">PRP uses your own blood, which means no synthetic chemicals and no risk of allergic reaction or rejection from an external substance.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Non-Surgical</h5>
-                  <p class="small text-muted mb-0">No incisions, no stitches, no general anaesthesia. Just a blood draw and precise micro-injections, done in about 45 minutes.</p>
+
+              <!-- Item 2 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-heart-pulse-fill fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Non-Surgical</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">No incisions, no stitches, no general anaesthesia. Just a blood draw and precise micro-injections, done in about 45 minutes.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Revitalises Follicles</h5>
-                  <p class="small text-muted mb-0">Growth factors in PRP signal dormant or miniaturised follicles to re-enter an active growth phase, gradually producing thicker and more resilient hair.</p>
+
+              <!-- Item 3 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-graph-up-arrow fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Revitalises Follicles</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">Growth factors in PRP signal dormant or miniaturised follicles to re-enter an active growth phase, gradually producing thicker and more resilient hair.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Improves Scalp Blood Supply</h5>
-                  <p class="small text-muted mb-0">PRP enhances microcirculation at the scalp level, ensuring hair roots receive the nourishment they need between sessions.</p>
+
+              <!-- Item 4 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-droplet-fill fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Improves Blood Supply</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">PRP enhances microcirculation at the scalp level, ensuring hair roots receive the nourishment they need between sessions.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Reduces Hair Fall</h5>
-                  <p class="small text-muted mb-0">Many patients notice a meaningful reduction in daily shedding within the first few sessions, well before new growth becomes visible.</p>
+
+              <!-- Item 5 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-shield-plus fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Reduces Hair Fall</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">Many patients notice a meaningful reduction in daily shedding within the first few sessions, well before new growth becomes visible.</p>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">Zero Downtime</h5>
-                  <p class="small text-muted mb-0">The session takes around 45 minutes and you can return to your normal routine immediately afterward.</p>
+
+              <!-- Item 6 -->
+              <div class="col-md-6 col-lg-4">
+                <div class="p-4 rounded-4 h-100 bg-white border shadow-sm transition-all position-relative overflow-hidden d-flex flex-column" style="border-color: var(--dt-border) !important;">
+                  <div class="position-absolute top-0 start-0 w-100" style="height: 3px; background: linear-gradient(90deg, var(--dt-champagne), var(--dt-champagne-dark));"></div>
+                  <div class="d-flex align-items-center gap-3 mb-3 mt-1">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center flex-shrink-0" style="width: 44px; height: 44px; background: rgba(183, 110, 121, 0.1); color: var(--dt-champagne-dark);">
+                      <i class="bi bi-clock-history fs-5"></i>
+                    </div>
+                    <h5 class="fw-bold h6 mb-0 text-charcoal">Zero Downtime</h5>
+                  </div>
+                  <p class="small text-muted mb-0 flex-grow-1" style="line-height: 1.7;">The session takes around 45 minutes and you can return to your normal routine immediately afterward.</p>
                 </div>
               </div>
             </div>
