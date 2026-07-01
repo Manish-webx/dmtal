@@ -23,7 +23,7 @@ $page_title = "The Hair Fall Advice on Instagram Is Ruining Indian Scalps | Derm
   <meta property="og:type" content="article">
   <meta property="og:url"
     content="https://www.dermatales.com/blog/the-hair-fall-advice-on-instagram-is-ruining-indian-scalps">
-  <meta property="og:image" content="images/logo.png">
+  <meta property="og:image" content="blog-thumb/the-hair-fall-advice-scalp.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title><?php echo $page_title; ?></title>

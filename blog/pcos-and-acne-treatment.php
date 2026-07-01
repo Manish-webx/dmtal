@@ -22,7 +22,7 @@ $page_title = "PCOS and Acne Treatment: Why Treating One Specialist at a Time Do
     content="PCOS affects your skin, hair, and face. Discover why coordinated treatment from a dermatologist and gynaecologist is essential for PCOS and acne.">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://www.dermatales.com/blog/pcos-and-acne-treatment">
-  <meta property="og:image" content="images/logo.png">
+  <meta property="og:image" content="blog-thumb/how-pcos-affects-skin-and-hair-dermatales.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title><?php echo $page_title; ?></title>

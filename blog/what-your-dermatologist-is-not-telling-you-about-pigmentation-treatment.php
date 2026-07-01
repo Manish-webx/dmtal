@@ -23,7 +23,7 @@ $page_title = "What Your Dermatologist Is Not Telling You About Pigmentation Tre
   <meta property="og:type" content="article">
   <meta property="og:url"
     content="https://www.dermatales.com/blog/what-your-dermatologist-is-not-telling-you-about-pigmentation-treatment">
-  <meta property="og:image" content="images/logo.png">
+  <meta property="og:image" content="blog-thumb/what-your-dermatologist.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title><?php echo $page_title; ?></title>
