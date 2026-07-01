@@ -19,11 +19,12 @@ $exclude_files = [
     'sitemap.php'
 ];
 
-$files = glob(__DIR__ . '/*.php');
+$files = array_merge(glob(__DIR__ . '/*.php'), glob(__DIR__ . '/blog/*.php'));
 $urls = [];
 
 foreach ($files as $filepath) {
     $filename = basename($filepath);
+    $is_blog = (strpos($filepath, 'blog' . DIRECTORY_SEPARATOR) !== false || strpos($filepath, 'blog/') !== false);
     
     // Skip excluded files or hidden/partial files starting with underscore/dot
     if (in_array($filename, $exclude_files) || strpos($filename, '_') === 0 || strpos($filename, '.') === 0) {
@@ -39,10 +40,16 @@ foreach ($files as $filepath) {
         continue; // Skip utility handlers
     }
     
-    $slug = ($filename === 'index.php') ? '' : preg_replace('/\.php$/', '', $filename);
+    if ($is_blog) {
+        $slug = ($filename === 'index.php') ? 'blog/' : 'blog/' . preg_replace('/\.php$/', '', $filename);
+        $priority = ($filename === 'index.php') ? '0.90' : '0.70';
+    } else {
+        $slug = ($filename === 'index.php') ? '' : preg_replace('/\.php$/', '', $filename);
+        $priority = ($filename === 'index.php') ? '1.00' : '0.80';
+    }
+    
     $url = $protocol . $domain . '/' . $slug;
     $lastmod = date('Y-m-d\TH:i:s+00:00', filemtime($filepath));
-    $priority = ($filename === 'index.php') ? '1.00' : '0.80';
     
     $urls[] = [
         'url' => $url,

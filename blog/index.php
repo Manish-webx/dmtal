@@ -179,6 +179,49 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card 5 -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/anti-ageing-treatment-in-your-30s-gurgaon.webp" class="card-img-top"
+                alt="Why Your 30s Are the Most Important Decade for Your Skin" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Jul 01, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/why-your-30s-are-the-most-important-decade-for-your-skin"
+                  class="text-decoration-none text-charcoal">Why Your 30s Are the Most Important Decade for Your Skin and Most Indians Waste Them</a></h3>
+              <p class="card-text text-muted">Discover why Indian skin ages differently, why collagen loss starts silently in your 30s, and the specific preventive treatments that work.</p>
+              <a href="blog/why-your-30s-are-the-most-important-decade-for-your-skin" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog Card 4 -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/acne-scar-treatment-guide-dermatales.webp" class="card-img-top" alt="Acne Is Gone But the Scars Are Not"
+                style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Jun 25, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/acne-is-gone-but-the-scars-are-not"
+                  class="text-decoration-none text-charcoal">Acne Is Gone But the Scars Are Not: What Now?</a></h3>
+              <p class="card-text text-muted">Why acne scars feel permanent, why surface products fail, and what
+                advanced clinical treatments actually rebuild damaged collagen from within.</p>
+              <a href="blog/acne-is-gone-but-the-scars-are-not" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card 3 -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
