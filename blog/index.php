@@ -179,6 +179,27 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card 6 -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/why-botox-goes-wrong-expert-guide-dermatales.webp" class="card-img-top"
+                alt="Botox Horror Stories Are Real: Here Is What Actually Causes Them" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Jul 05, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/botox-horror-stories-are-real-here-is-what-actually-causes-them"
+                  class="text-decoration-none text-charcoal">Botox Horror Stories Are Real: Here Is What Actually Causes Them</a></h3>
+              <p class="card-text text-muted">Discover why frozen faces and drooping eyelids happen, why facial anatomy matters more than standard doses, and how to choose a safe Botox provider.</p>
+              <a href="blog/botox-horror-stories-are-real-here-is-what-actually-causes-them" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card 5 -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
