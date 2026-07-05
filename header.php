@@ -121,7 +121,7 @@
                     <ul class="mega-list">
                       <li><a href="anti-ageing-treatment-in-delhi">Anti-Ageing Treatment</a></li>
                       <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi</a></li>
-                      <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment</a></li>
+                      <li><a href="botox-treatment-in-gurgaon">Botox Treatment</a></li>
                       <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
                       <li><a href="vampire-facial-in-gurgaon">Vampire Facelift</a></li>
                       <li><a href="threads-in-gurgaon">Thread Lift</a></li>

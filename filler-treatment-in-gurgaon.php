@@ -274,7 +274,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
-                <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="botox-treatment-in-gurgaon">Botox Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="lip-nose-enhancement-in-gurgaon">Lip & Nose Enhancement <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="threads-in-gurgaon">Thread Lift <i class="bi bi-chevron-right"></i></a></li>

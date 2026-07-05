@@ -112,7 +112,7 @@ $page_title = "Botox Horror Stories Are Real: Here Is What Actually Causes Them 
               training is based around. Muscle mass, bone structure and skin thickness all influence how Botox behaves
               and how much is needed to achieve a natural result without overcorrection.</p>
             <p>A provider who uses a standard dose for every patient regardless of facial assessment is taking a
-              shortcut that shows up in the result. Good <a href="https://www.dermatales.com/btx-a-treatment-in-gurgaon"
+              shortcut that shows up in the result. Good <a href="https://www.dermatales.com/botox-treatment-in-gurgaon"
                 style="text-decoration: underline;">Botox treatment in Gurugram</a> starts with a detailed assessment of
               muscle movement, facial proportions and what the patient actually wants to achieve before a single unit is
               placed.</p>

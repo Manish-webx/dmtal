@@ -50,7 +50,7 @@
               <li><a href="xanthelasma-milia-in-gurgaon">Xanthelasma & Milia</a></li>
               <li class="mobile-sub-heading">Anti-Aging & Lasers</li>
               <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi</a></li>
-              <li><a href="btx-a-treatment-in-gurgaon">BTX-A Treatment</a></li>
+              <li><a href="botox-treatment-in-gurgaon">Botox Treatment</a></li>
               <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
               <li><a href="mnrf-treatment-in-gurgaon">MNRF Treatment</a></li>
               <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment</a></li>

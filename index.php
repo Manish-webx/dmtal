@@ -309,7 +309,7 @@
                 <li><a href="facial-pigmentation-in-gurgaon">Pigmentation &amp; Melasma</a></li>
                 <li><a href="chemical-peels-in-gurgaon">Chemical Peels</a></li>
                 <li><a href="filler-treatment-in-gurgaon">Dermal Fillers</a></li>
-                <li><a href="btx-a-treatment-in-gurgaon">Botox &amp; Anti-Wrinkle</a></li>
+                <li><a href="botox-treatment-in-gurgaon">Botox &amp; Anti-Wrinkle</a></li>
                 <li><a href="skin-laser-treatment-in-gurgaon">Laser Skin Resurfacing</a></li>
                 <li><a href="threads-in-gurgaon">Threads</a></li>
                 <li><a href="facelift-in-gurgaon">Face Lift</a></li>

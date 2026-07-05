@@ -380,7 +380,7 @@
                 <div class="timeline-lux-content">
                   <h3 class="h5 fw-bold text-charcoal">4. Dermal Fillers &amp; Anti-Ageing Combination Protocols</h3>
                   <p>
-                    In many patients, sagging is partly volume loss, not just loose skin. Dr. Varshney often combines a non-surgical lift with strategic <a href="dermal-fillers-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">dermal filler treatment</a> or <a href="botox-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">BTX-A (Botox) treatment</a> to restore lost volume in the cheeks and smooth dynamic lines — for a more complete, natural-looking rejuvenation. Our broader <a href="anti-ageing-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">anti-ageing treatment page</a> covers how these are layered together.
+                    In many patients, sagging is partly volume loss, not just loose skin. Dr. Varshney often combines a non-surgical lift with strategic <a href="dermal-fillers-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">dermal filler treatment</a> or <a href="botox-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">Botox treatment</a> to restore lost volume in the cheeks and smooth dynamic lines — for a more complete, natural-looking rejuvenation. Our broader <a href="anti-ageing-treatment-in-delhi" class="text-gold fw-bold text-decoration-none">anti-ageing treatment page</a> covers how these are layered together.
                   </p>
                 </div>
               </div>

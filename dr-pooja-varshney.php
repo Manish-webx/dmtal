@@ -241,7 +241,7 @@
               <li>Fractional &amp; <a href="skin-laser-treatment-in-gurgaon">Q-Switch Laser toning</a></li>
               <li><a href="aging-face-treatment-in-gurgaon">Anti-aging</a> &amp; skin rejuvenation</li>
               <li><a href="acne-scar-treatment-in-gurgaon">Acne scars</a> &amp; <a href="facial-pigmentation-in-gurgaon">hard pigmentation</a></li>
-              <li><a href="filler-treatment-in-gurgaon">Dermal fillers</a> &amp; <a href="btx-a-treatment-in-gurgaon">Botox injections</a></li>
+              <li><a href="filler-treatment-in-gurgaon">Dermal fillers</a> &amp; <a href="botox-treatment-in-gurgaon">Botox injections</a></li>
               <li><a href="hifu-in-gurgaon">HIFU</a> &amp; <a href="facelift-in-gurgaon">non-surgical facelifts</a></li>
             </ul>
           </div>

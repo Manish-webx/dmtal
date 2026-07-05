@@ -52,7 +52,7 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Regenerative Injectables</h4>
             <p class="footer-treat-tags">
-              <a href="btx-a-treatment-in-gurgaon">Anti-Wrinkle Injections</a> <span>|</span>
+              <a href="botox-treatment-in-gurgaon">Anti-Wrinkle Injections</a> <span>|</span>
               <a href="filler-treatment-in-gurgaon">Dermal Fillers</a> <span>|</span>
               <a href="iv-glutathione-therapy-in-gurgaon">IV Glutathione</a> <span>|</span>
               <a href="lip-lightening-in-gurgaon">Lip Rejuvenation</a> <span>|</span>
@@ -88,7 +88,7 @@
           <div class="footer-treat-group">
             <h4 class="footer-treat-heading">Anti-Aging</h4>
             <p class="footer-treat-tags">
-              <a href="btx-a-treatment-in-gurgaon">Anti-Wrinkle Injections & Fillers</a> <span>|</span>
+              <a href="botox-treatment-in-gurgaon">Anti-Wrinkle Injections & Fillers</a> <span>|</span>
               <a href="facelift-in-gurgaon">Sagging Skin</a> <span>|</span>
               <a href="filler-treatment-in-gurgaon">Volume Loss</a> <span>|</span>
               <a href="undereye-treatment-in-gurgaon">Under-Eye Rejuvenation</a> <span>|</span>
