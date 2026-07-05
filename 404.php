@@ -54,8 +54,13 @@
     }
 
     @keyframes floatGlow {
-      0% { transform: translate(0, 0) scale(1); }
-      100% { transform: translate(30px, -30px) scale(1.1); }
+      0% {
+        transform: translate(0, 0) scale(1);
+      }
+
+      100% {
+        transform: translate(30px, -30px) scale(1.1);
+      }
     }
 
     .error-container {
@@ -83,8 +88,15 @@
     }
 
     @keyframes floatNumber {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-12px); }
+
+      0%,
+      100% {
+        transform: translateY(0);
+      }
+
+      50% {
+        transform: translateY(-12px);
+      }
     }
 
     .error-badge {
@@ -207,54 +219,13 @@
 
     <div class="container-xl">
       <div class="error-container">
-        
-        <div class="error-badge">
-          <i class="bi bi-compass me-1"></i> Page Not Found
-        </div>
-
         <div class="error-number">404</div>
 
         <h1 class="error-title">We Couldn't Find That Page</h1>
         <p class="error-description">
-          The page or treatment you are looking for might have been moved, renamed, or no longer exists. But don't worry — beginning your journey to flawless, healthy skin is just a click away.
+          The page or treatment you are looking for might have been moved, renamed, or no longer exists. But don't worry
+          — beginning your journey to flawless, healthy skin is just a click away.
         </p>
-
-        <!-- Quick Navigation Cards -->
-        <div class="quick-nav-grid">
-          
-          <a href="index" class="quick-nav-card">
-            <div class="quick-nav-icon"><i class="bi bi-house-door"></i></div>
-            <div class="quick-nav-content">
-              <h4>Return Home</h4>
-              <p>Explore our clinic, philosophy, and complete care offerings.</p>
-            </div>
-          </a>
-
-          <a href="botox-treatment-in-gurgaon" class="quick-nav-card">
-            <div class="quick-nav-icon"><i class="bi bi-sparkles"></i></div>
-            <div class="quick-nav-content">
-              <h4>Botox Treatment</h4>
-              <p>Smooth dynamic lines with micro-precision aesthetic care.</p>
-            </div>
-          </a>
-
-          <a href="filler-treatment-in-gurgaon" class="quick-nav-card">
-            <div class="quick-nav-icon"><i class="bi bi-magic"></i></div>
-            <div class="quick-nav-content">
-              <h4>Dermal Fillers</h4>
-              <p>Restore youthful volume and contour with natural results.</p>
-            </div>
-          </a>
-
-          <a href="book-appointment" class="quick-nav-card">
-            <div class="quick-nav-icon"><i class="bi bi-calendar-check"></i></div>
-            <div class="quick-nav-content">
-              <h4>Book Consultation</h4>
-              <p>Schedule an assessment with Dr. Pooja Varshney.</p>
-            </div>
-          </a>
-
-        </div>
 
         <!-- CTA Buttons using exact DermaTales theme classes -->
         <div class="error-actions">
