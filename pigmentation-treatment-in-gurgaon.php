@@ -157,7 +157,7 @@
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Periorbital Hyperpigmentation (Dark Circles)</h5>
-                  <p class="small text-muted mb-0">Often multi-factorial: vascular, structural, or pigment-based. Correct diagnosis is essential before any treatment is initiated.</p>
+                  <p class="small text-muted mb-0">Often multi-factorial: vascular, structural, or pigment-based. Correct diagnosis is essential before any treatment is initiated. <a href="blog/dark-circles-are-not-going-away-because-you-are-treating-the-wrong-type" class="text-gold">Read our blog on why dark circles treatments often fail.</a></p>
                 </div>
               </div>
 

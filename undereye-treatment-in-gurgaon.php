@@ -92,7 +92,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">What Causes Undereye Concerns?</h2>
             <p>Undereye issues have multiple, distinct causes — accurate diagnosis is the first step to effective
-              treatment:</p>
+              treatment (Read our blog on <a href="blog/dark-circles-are-not-going-away-because-you-are-treating-the-wrong-type" class="text-gold">why treating the wrong type of dark circle makes things worse</a>):</p>
             <div class="row g-4 mt-2">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
