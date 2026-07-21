@@ -311,12 +311,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
             <div class="accordion" id="faqAccordion">
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading1">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1" aria-expanded="false" aria-controls="faqCollapse1" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1" aria-expanded="false" aria-controls="faqCollapse1" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     Can dark circles be permanently removed?
                   </button>
                 </h2>
                 <div id="faqCollapse1" class="accordion-collapse collapse" aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     It depends on the type. Pigmentation type dark circles can be significantly reduced with the right
                     treatment and maintained long term with consistent sun protection. Structural dark circles from volume
                     loss can be treated with fillers that last twelve to eighteen months and repeated as needed. Vascular
@@ -329,12 +329,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading2">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     What deficiency causes dark circles in India?
                   </button>
                 </h2>
                 <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faqHeading2" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     Iron deficiency is the most consistently documented nutritional cause, particularly relevant in Indian
                     women due to dietary patterns and menstrual blood loss. Vitamin B12 deficiency, which is common in
                     vegetarian populations, also contributes. Vitamin C deficiency affects collagen production in the under
@@ -346,12 +346,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading3">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     Why do I have dark circles even after sleeping 8 hours?
                   </button>
                 </h2>
                 <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faqHeading3" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     Sleep addresses the vascular component of dark circles by reducing fluid retention and vessel dilation.
                     If your dark circles are primarily pigmentation based or structural, no amount of sleep changes them
                     because sleep does not address melanin overproduction or volume loss. Most patients who report no
@@ -362,12 +362,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading4">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse4" aria-expanded="false" aria-controls="faqCollapse4" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse4" aria-expanded="false" aria-controls="faqCollapse4" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     Do under eye fillers actually work for dark circles?
                   </button>
                 </h2>
                 <div id="faqCollapse4" class="accordion-collapse collapse" aria-labelledby="faqHeading4" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     Yes, for structural dark circles caused by volume loss and hollowing they are among the most effective
                     treatments available. The result is often immediate and significant. They do not work for pigmentation
                     or vascular dark circles because those are not caused by volume loss. This is why correct diagnosis
@@ -378,12 +378,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading5">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse5" aria-expanded="false" aria-controls="faqCollapse5" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse5" aria-expanded="false" aria-controls="faqCollapse5" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     Can dark circles come back after treatment?
                   </button>
                 </h2>
                 <div id="faqCollapse5" class="accordion-collapse collapse" aria-labelledby="faqHeading5" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     Yes, depending on the type. Pigmentation dark circles can return if sun protection is not maintained
                     consistently. Filler results last twelve to eighteen months before repeat treatment is needed. Vascular
                     dark circles are linked to ongoing lifestyle factors and will persist if those are not addressed.
@@ -394,12 +394,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading6">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse6" aria-expanded="false" aria-controls="faqCollapse6" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse6" aria-expanded="false" aria-controls="faqCollapse6" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     Is laser treatment safe for dark circles in Indian skin?
                   </button>
                 </h2>
                 <div id="faqCollapse6" class="accordion-collapse collapse" aria-labelledby="faqHeading6" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     Laser treatment for pigmentation type dark circles can be very effective and safe in Indian skin when
                     performed with parameters specifically calibrated for higher melanin skin types. The risk is when
                     standard parameters designed for lighter skin are used on Indian skin, which can trigger post
@@ -411,12 +411,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading7">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse7" aria-expanded="false" aria-controls="faqCollapse7" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse7" aria-expanded="false" aria-controls="faqCollapse7" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     What causes dark circles in young people in India?
                   </button>
                 </h2>
                 <div id="faqCollapse7" class="accordion-collapse collapse" aria-labelledby="faqHeading7" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     In young Indians the most common causes are pigmentation from genetics and sun exposure, vascular
                     visibility from dehydration and high screen time, iron and B12 deficiency from dietary patterns, chronic
                     eye rubbing, and disrupted sleep from academic or work related stress. Structural volume loss is less
@@ -428,12 +428,12 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
 
               <div class="accordion-item border-0 mb-3 shadow-sm rounded-4 overflow-hidden">
                 <h2 class="accordion-header" id="faqHeading8">
-                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse8" aria-expanded="false" aria-controls="faqCollapse8" style="font-size: 1.15rem; padding: 1.25rem 1.5rem; background-color: #fff;">
+                  <button class="accordion-button collapsed fw-bold text-charcoal" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse8" aria-expanded="false" aria-controls="faqCollapse8" style="font-size: 1.15rem; padding: 0.85rem 1.25rem; background-color: #fff;">
                     How much does dark circle treatment cost in Gurgaon?
                   </button>
                 </h2>
                 <div id="faqCollapse8" class="accordion-collapse collapse" aria-labelledby="faqHeading8" data-bs-parent="#faqAccordion">
-                  <div class="accordion-body text-muted" style="padding: 0 1.5rem 1.5rem; background-color: #fff;">
+                  <div class="accordion-body text-muted" style="padding: 0 1.25rem 1.25rem; background-color: #fff;">
                     Treatment cost depends on the type of dark circles and the treatment required. Topical prescription
                     treatment is the most accessible starting point. Laser toning sessions for pigmentation type dark
                     circles typically range from a few thousand rupees per session. Under eye fillers for structural type
