@@ -5,44 +5,44 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Non surgical acne scar treatment in Delhi at DermaTales, Patel Nagar. Chemical peels, microneedling and laser resurfacing under Dr. Pooja Varshney.">
+    content="Deep acne scars that resist peels and lasers often need surgical correction. DermaTales, Patel Nagar offers subcision, TCA CROSS and punch grafting under Dr. Pooja Varshney.">
   <meta name="keywords"
-    content="acne scar treatment in Delhi, acne scar treatment Patel Nagar, microneedling for acne scars Delhi, chemical peel acne scars, laser resurfacing acne scars Delhi, acne scar treatment cost Delhi, best acne scar clinic Delhi">
+    content="acne scar surgery in Delhi, acne scar surgery Patel Nagar, subcision for acne scars Delhi, punch excision acne scars, TCA CROSS treatment Delhi, deep acne scar removal, best acne scar surgeon Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/acne-scar-treatment-in-delhi">
+  <link rel="canonical" href="https://www.dermatales.com/acne-scar-surgeries-in-delhi">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Acne Scar Treatment in Delhi, Patel Nagar | DermaTales">
+  <meta property="og:title" content="Acne Scar Surgery in Delhi, Patel Nagar | DermaTales">
   <meta property="og:description"
-    content="Non surgical acne scar treatment in Delhi at DermaTales, Patel Nagar. Chemical peels, microneedling and laser resurfacing under Dr. Pooja Varshney.">
+    content="Deep acne scars that resist peels and lasers often need surgical correction. DermaTales, Patel Nagar offers subcision, TCA CROSS and punch grafting under Dr. Pooja Varshney.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.dermatales.com/acne-scar-treatment-in-delhi">
+  <meta property="og:url" content="https://www.dermatales.com/acne-scar-surgeries-in-delhi">
   <meta property="og:image" content="https://www.dermatales.com/images/dr-pooja.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Acne Scar Treatment in Delhi, Patel Nagar | DermaTales</title>
+  <title>Acne Scar Surgery in Delhi, Patel Nagar | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 
-  <!-- Schema 1: Medical Web Page -->
+  <!-- SCHEMA 1: MedicalWebPage -->
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "Acne Scar Treatment in Delhi, Patel Nagar | DermaTales",
-  "url": "https://www.dermatales.com/acne-scar-treatment-in-delhi",
+  "name": "Acne Scar Surgery in Delhi, Patel Nagar | DermaTales",
+  "url": "https://www.dermatales.com/acne-scar-surgeries-in-delhi",
   "specialty": "Dermatology",
   "audience": {
     "@type": "Patient"
   },
   "about": {
     "@type": "MedicalProcedure",
-    "name": "Acne Scar Treatment",
-    "alternateName": ["Chemical Peel", "Microneedling", "Laser Resurfacing"],
-    "procedureType": "https://schema.org/NoninvasiveProcedure",
+    "name": "Acne Scar Surgery",
+    "alternateName": ["Subcision", "TCA CROSS", "Punch Excision"],
+    "procedureType": "https://schema.org/PercutaneousProcedure",
     "bodyLocation": "Face",
-    "howPerformed": "Non surgical treatment combining chemical peels, microneedling, and fractional laser resurfacing, selected based on scar type, depth, and skin tone."
+    "howPerformed": "Combination surgical techniques including subcision, TCA CROSS, and punch excision or grafting, tailored to individual scar type and depth, followed by resurfacing where needed."
   },
   "mainContentOfPage": {
     "@type": "WebPageElement",
@@ -69,7 +69,7 @@
 }
   </script>
 
-  <!-- Schema 2: Bread Crumb -->
+  <!-- Schema 2: Breadcrumb -->
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -90,14 +90,14 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Acne Scar Treatment in Delhi",
-      "item": "https://www.dermatales.com/acne-scar-treatment-in-delhi"
+      "name": "Acne Scar Surgery in Delhi",
+      "item": "https://www.dermatales.com/acne-scar-surgeries-in-delhi"
     }
   ]
 }
   </script>
 
-  <!-- Schema 3: FAQ -->
+  <!-- SCHEMA 3: FAQs -->
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -105,50 +105,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How do I know if I have acne scars or just pigmentation?",
+      "name": "Is acne scar surgery painful?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pigmentation is flat and usually fades over several months on its own, while true scars involve a physical dent, pit, or texture change you can feel with a fingertip. An in person assessment is the most reliable way to tell the two apart, since they need different treatments entirely."
+        "text": "Local anaesthesia is used for subcision, TCA CROSS, and punch excision, so the procedures themselves are not painful. Swelling and mild bruising in the treated area for around seven to ten days afterward is normal and usually settles with simple aftercare, and most patients return to daily activities almost immediately."
       }
     },
     {
       "@type": "Question",
-      "name": "How many sessions of microneedling or peels will I need?",
+      "name": "How many sessions will I need?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most patients need four to six sessions spaced two to four weeks apart. Some improvement is often visible after two to three sessions, with continued improvement building over the following months as new collagen forms."
+        "text": "This depends on scar type and number, though most patients need three to six sessions spaced four to six weeks apart. A few isolated ice pick scars may need three to four TCA CROSS sessions, while widespread tethered scarring often needs a combination of subcision, grafting, and later resurfacing across several months."
       }
     },
     {
       "@type": "Question",
-      "name": "Does microneedling actually work for acne scars, or is it overhyped?",
+      "name": "Can subcision make my scars look worse before they improve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Clinical studies support microneedling as an effective treatment for atrophic acne scars, with results building progressively rather than instantly. It works particularly well when combined with a chemical peel rather than used alone, and results are typically moderate to good rather than a complete erasure of deep scarring."
+        "text": "Mild swelling and bruising in the first week can temporarily make treated areas look more prominent, which is expected and not a sign of a poor outcome. Genuine worsening is rare when the technique is matched correctly to your scar type, which is exactly why scar mapping and technique selection happen before treatment rather than being decided on the spot."
       }
     },
     {
       "@type": "Question",
-      "name": "Is microneedling or peeling safe for Indian skin tones?",
+      "name": "Will surgical scar treatment leave marks of its own?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, both are considered safe for Indian skin when performed at the correct depth and strength, though the risk of post inflammatory pigmentation is higher than in lighter skin tones if a treatment is too aggressive. This is specifically factored into technique and strength selection during your assessment."
+        "text": "When performed correctly on well selected candidates, subcision and TCA CROSS do not leave visible marks. Punch excision sites are small and are closed or grafted specifically to heal flat, which is discussed in detail during your consultation."
       }
     },
     {
       "@type": "Question",
-      "name": "Will non surgical treatment fully remove deep scars?",
+      "name": "Can acne scar surgery be combined with laser treatment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Non surgical options work well for shallow to moderate scarring and can meaningfully improve deeper scars as part of a combination plan, but very deep or tethered scars often need a surgical step first for the best result. This is assessed honestly during your consultation rather than treated the same regardless of depth."
+        "text": "Yes, and for many patients this combination gives a meaningfully better result than either approach alone. Surgical techniques address depth and tethering, while a later laser session refines surface texture once the skin has healed from the surgical stage."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I combine chemical peels with microneedling in the same course?",
+      "name": "Is this treatment safe for darker skin tones?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, and for many patients this combination outperforms either treatment alone, particularly for scarring that involves both surface pigmentation and textural depth. The sequencing between the two is planned based on your specific skin during your assessment."
+        "text": "Yes, but technique selection matters more for darker skin tones due to a higher risk of post-inflammatory pigmentation. This is specifically assessed during your scar mapping consultation before any technique is chosen."
       }
     }
   ]
@@ -171,13 +171,13 @@
         <span>/</span>
         <a href="#">Skin Treatments</a>
         <span>/</span>
-        <span class="text-white">Acne Scar Treatment</span>
+        <span class="text-white">Acne Scar Surgery</span>
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Acne Scar Treatment <span class="text-charcoal-deep italic">in Delhi</span></h1>
+          <h1 class="hero-title-lux">Acne Scar Surgeries <span class="text-charcoal-deep italic">in Delhi</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-            Non surgical acne scar treatment in Delhi at DermaTales, Patel Nagar. Chemical peels, microneedling and laser resurfacing under Dr. Pooja Varshney.
+            Some acne scars sit too deep for a peel or a laser session to touch. Discover advanced surgical correction for deep scars at DermaTales.
           </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -194,9 +194,9 @@
         <div class="col-lg-9 order-lg-1 content-area">
 
           <div class="fade-up">
-            <h2 class="lux-section-title">Acne Scar Treatment in Delhi, Patel Nagar</h2>
+            <h2 class="lux-section-title">Acne Scar Surgeries in Delhi, Patel Nagar</h2>
             <p>
-              Not everything left behind after a breakout is actually a scar. A lot of what patients bring in as acne scarring is really post inflammatory pigmentation, flat marks that fade with time and the right topical routine. True acne scars are structural, a physical dent or pit where collagen was damaged during healing, and that difference changes everything about how it should be treated. At DermaTales in Patel Nagar, Delhi, every acne scar consultation starts by figuring out which one you actually have, under the supervision of Dr. Pooja Varshney, MD Dermatology.
+              Some acne scars sit too deep for a peel or a laser session to touch. Ice pick scars, boxcar scars, and tethered rolling scars are held down by fibrous bands under the skin, and no amount of resurfacing on the surface will release what is pulling the skin down from underneath. These scars need a surgical release first, and resurfacing after. At DermaTales in Patel Nagar, Delhi, acne scar surgery is planned around that exact principle under the supervision of Dr. Pooja Varshney, MD Dermatology.
             </p>
 
             <div class="mt-3">
@@ -208,82 +208,78 @@
           </div>
 
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Scar or Mark? Why the Difference Matters</h2>
+            <h2 class="lux-section-title">Why Some Acne Scars Need Surgery, Not Just Resurfacing</h2>
             <p>
-              Pigmentation left behind by acne is flat and usually brown, red, or purple, and it sits on the surface of the skin. It responds well to chemical peels, topical actives, and consistent sunscreen use, and in many cases it fades on its own over several months even without treatment.
+              Acne scars form differently depending on how the original inflammation damaged the skin. A boxcar scar has vertical, sharply defined edges because collagen was destroyed evenly across a wide area. An ice pick scar is narrow and deep because the inflammation tunnelled straight down. A rolling scar looks shallow on the surface but is actually being pulled downward by a fibrous band anchored to the tissue beneath it.
             </p>
             <p>
-              A true scar is different. Icepick, boxcar, and rolling scars all involve a physical loss of tissue or a change in the skin's texture, which means no cream or serum reaches deep enough to correct them. These need a procedure that works at the level where the damage actually happened, whether that is microneedling stimulating new collagen, a resurfacing laser, or a deeper peel.
-            </p>
-            <p>
-              Getting this distinction wrong is one of the most common reasons patients feel like they have "tried everything" without results. Treating a structural scar with only topical products was never going to work, and treating simple pigmentation with an aggressive procedure is usually more than it needs.
+              This is exactly why patients who have already tried multiple courses of chemical peels or microneedling with limited results are often not failing to respond to treatment. They are being treated with the wrong category of treatment. Surface level procedures cannot release a tethered band or rebuild a missing pit of tissue. Surgery can.
             </p>
             
-            <h3 class="h4 mt-4 text-charcoal-deep fw-bold">When to Come In for a Proper Assessment</h3>
+            <h3 class="h4 mt-4 text-charcoal-deep fw-bold">When Surgical Correction Is the Right Next Step</h3>
             <p>
-              If marks from old breakouts have not faded after six months of consistent skincare and sun protection, it is worth having them properly assessed rather than continuing to wait. Textural changes you can feel with a fingertip, a slight dip, a rough patch, a shadow that shows up under makeup or in photographs, are signs of a true scar rather than surface pigmentation. Scarring that has been present for years and has plateaued, showing no further change either way, is also a good reason to seek a treatment plan rather than continued observation.
+              If scars have been present for over a year and have not visibly softened despite consistent peels, microneedling, or laser sessions, that is a signal worth acting on rather than repeating the same protocol. Patients who can feel a scar tug or pucker when they smile or move their face are usually dealing with tethering, which needs release before anything else works. Deep ice pick or boxcar scars that create visible shadowing under normal light, especially in photographs, are also strong candidates for surgical correction rather than continued resurfacing alone.
             </p>
           </div>
 
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Our Treatment Approach</h2>
             <p>
-              Every acne scar treatment plan at DermaTales starts with a skin assessment under proper lighting to identify scar type, depth, and whether what you are seeing is scarring at all or residual pigmentation. Skin tone is factored in from the start, since Indian skin carries a higher risk of post inflammatory pigmentation if a treatment is too aggressive for the scar it is treating. From there, a session plan is built around your specific combination of concerns rather than a single fixed package applied to everyone.
+              Every acne scar surgery at DermaTales begins with a scar mapping consultation, not a standard package. Under magnified lighting, each scar is individually assessed for depth, type, and whether tethering is present. Skin type and healing history are also factored in, since darker skin tones carry a higher risk of post-inflammatory pigmentation if the wrong technique is used. Based on this assessment, a combination protocol is designed. 
+            </p>
+            <p>
+              Most patients with mixed scar types need more than one technique to see meaningful improvement. In clinical studies comparing approaches, combination treatment has shown notably higher improvement rates than any single technique used alone, which is why that combination is decided in advance rather than adjusted session to session.
             </p>
           </div>
 
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Non Surgical Treatment Options</h2>
+            <h2 class="lux-section-title">Surgical Techniques We Use</h2>
             
             <div class="row g-4 mt-3">
               <div class="col-md-6">
                 <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Chemical Peels</h4>
-                  <p class="text-muted mb-0">A controlled acid solution is applied to exfoliate the outer layer of skin, fading surface pigmentation and gently improving mild textural irregularities. Peels work well as a standalone treatment for shallow marks and are frequently combined with microneedling for deeper concerns.</p>
+                  <h4 class="h5 fw-bold text-charcoal mb-3">Subcision</h4>
+                  <p class="text-muted mb-0">A fine needle is used to release the fibrous bands tethering rolling scars to the tissue below. Once released, the skin can sit at its natural level again instead of being pulled down, and the treated area is often followed with volume replacement to support the released tissue.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Microneedling</h4>
-                  <p class="text-muted mb-0">Fine needles create controlled micro injuries in the skin, triggering the body's own collagen production to gradually fill in shallow to moderate rolling and boxcar scars. This is one of the better studied options for Indian skin specifically, with combination protocols using microneedling alongside a peel showing stronger results than microneedling alone.</p>
+                  <h4 class="h5 fw-bold text-charcoal mb-3">TCA CROSS</h4>
+                  <p class="text-muted mb-0">A focused, high concentration trichloroacetic acid application is placed directly into the base of ice pick and narrow boxcar scars using a fine applicator. This stimulates collagen at the exact site of the scar without affecting the surrounding skin, and typically needs to be repeated across several sessions spaced weeks apart.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Laser Resurfacing</h4>
-                  <p class="text-muted mb-0">Fractional laser treatment targets deeper texture and tone irregularities layer by layer, encouraging new collagen formation without damaging the surrounding skin. This tends to suit patients with more established textural scarring who need a stronger stimulus than peels or microneedling alone can provide.</p>
+                  <h4 class="h5 fw-bold text-charcoal mb-3">Punch Excision and Punch Grafting</h4>
+                  <p class="text-muted mb-0">Deep, narrow scars that are unlikely to respond to resurfacing are surgically removed using a small circular punch tool. Depending on the scar, the site is either closed directly or grafted with skin from another area, allowing it to heal flat instead of pitted.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Combination Protocols</h4>
-                  <p class="text-muted mb-0">Many patients see the best outcome from a planned combination, a peel to manage pigmentation alongside microneedling or laser to address texture, sequenced across sessions rather than performed all at once. This is decided during your assessment based on what your skin actually needs.</p>
+                  <h4 class="h5 fw-bold text-charcoal mb-3">Combination Laser Resurfacing</h4>
+                  <p class="text-muted mb-0">Once surgical correction has addressed the depth and tethering, pico laser or fractional resurfacing is often used in a later session to refine surface texture and even out tone across the treated area.</p>
                 </div>
               </div>
             </div>
-            
-            <p class="text-muted small mt-4">
-              For scars with deep tethering or true pitting that these approaches cannot fully resolve, our <a href="acne-scar-surgeries-in-delhi" class="text-gold text-decoration-none fw-medium">Acne Scar Surgery</a> page covers subcision, TCA CROSS, and punch excision, which are usually the next step once non surgical options have been assessed as insufficient.
-            </p>
           </div>
 
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Cost & Timeline</h2>
-            <h3 class="h5 mt-3 fw-bold text-charcoal">Cost of Acne Scar Treatment in Delhi</h3>
+            <h3 class="h5 mt-3 fw-bold text-charcoal">Cost of Acne Scar Surgery in Delhi</h3>
             <p>
-              Non surgical acne scar treatment is priced per session and depends on which technique or combination is used, how many areas need treatment, and how many sessions your scar type typically requires. A course of chemical peels costs differently than a microneedling and peel combination, and laser resurfacing sits in a different bracket again. At DermaTales, exact costing is only shared after your assessment, once your actual treatment plan is known, rather than quoting a generic package price upfront.
+              Acne scar surgery is priced per session and depends on the number of scars being treated, the specific techniques combined for your scar pattern, and how many sessions your case requires overall. A single ice pick scar treated with TCA CROSS costs differently than a full cheek of tethered rolling scars needing subcision and grafting. At DermaTales, cost is only discussed after your scar mapping consultation, once your exact treatment plan is known, so you are working with real numbers rather than a generic package price.
             </p>
             
             <h3 class="h5 mt-4 fw-bold text-charcoal">Results and Timeline</h3>
             <p>
-              Chemical peels show visible improvement in pigmentation gradually across a course of sessions, typically spaced two to four weeks apart. Microneedling needs a similar interval between sessions, with noticeable texture improvement usually appearing after two to three sessions and continued improvement building for several months afterward as new collagen forms. Laser resurfacing results also build progressively, with full benefit typically visible some months after a completed course rather than immediately. Most patients need four to six sessions of their chosen technique or combination, and this is discussed clearly during your consultation.
+              Subcision results build gradually as the released skin settles and any added volume integrates, usually visible over 4 to 6 weeks. TCA CROSS needs multiple sessions spaced roughly a month apart, with visible softening typically after the second or third session. Punch excision and grafting sites take a few weeks to heal before their final texture is evident. Most patients need three to six sessions spaced four to six weeks apart to see their full result, and this timeline is discussed clearly during the consultation so expectations are set before you begin.
             </p>
           </div>
 
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Why Choose DermaTales for Acne Scar Treatment in Delhi</h2>
+            <h2 class="lux-section-title">Why Choose DermaTales for Acne Scar Surgery in Delhi</h2>
             <p>
-              Acne scarring responds very differently depending on what is actually causing it, and a plan that does not start with that distinction is starting in the wrong place.
+              Acne scars do not respond to a one size fits all approach, and treating them like they do is usually why previous treatments have not worked. DermaTales builds a scar specific plan for every patient before any procedure begins.
             </p>
             
             <div class="row mt-4 g-4">
@@ -293,8 +289,8 @@
                     <i class="bi bi-search fs-4"></i>
                   </div>
                   <div>
-                    <h4 class="h6 fw-bold">Thorough Assessment</h4>
-                    <p class="text-muted small">Assessment distinguishes true scarring from residual pigmentation before any treatment is chosen.</p>
+                    <h4 class="h6 fw-bold">Scar Type Mapping</h4>
+                    <p class="text-muted small">Scar type mapping under magnification before any technique is chosen.</p>
                   </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
@@ -303,7 +299,7 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">Combination Protocols</h4>
-                    <p class="text-muted small">Combination protocols planned in advance rather than adjusted session to session.</p>
+                    <p class="text-muted small">Combination protocols designed for mixed scar patterns, not single treatment packages.</p>
                   </div>
                 </div>
               </div>
@@ -314,7 +310,7 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">Skin Tone Focused</h4>
-                    <p class="text-muted small">Techniques selected with Indian skin tone in mind to reduce pigmentation risk.</p>
+                    <p class="text-muted small">Techniques selected with skin tone in mind to reduce pigmentation risk.</p>
                   </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
@@ -323,7 +319,7 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">MD Dermatology Supervised</h4>
-                    <p class="text-muted small">Care supervised by Dr. Pooja Varshney, MD Dermatology.</p>
+                    <p class="text-muted small">Surgical correction performed under Dr. Pooja Varshney, MD Dermatology.</p>
                   </div>
                 </div>
               </div>
@@ -340,7 +336,7 @@
             </div>
             
             <p class="text-muted small border-top pt-3 mt-3">
-              If active breakouts are still occurring alongside old scarring, our <a href="acne-treatment-in-delhi" class="text-gold text-decoration-none fw-medium">Acne Treatment</a> page addresses the underlying acne itself, since new scarring can continue to form until active acne is under control. For overall resurfacing needs beyond scarring alone, see our Pico Laser Treatment page.
+              For non-surgical options or milder scarring, our <a href="acne-scar-treatment-in-delhi" class="text-gold text-decoration-none fw-medium">Acne Scar Treatment</a> page covers peels and microneedling based approaches, and our <a href="acne-treatment-in-delhi" class="text-gold text-decoration-none fw-medium">Acne Treatment</a> page addresses active breakouts before scarring occurs.
             </p>
           </div>
 
@@ -353,12 +349,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq1">
-                    Q1. How do I know if I have acne scars or just pigmentation?
+                    Q1. Is acne scar surgery painful?
                   </button>
                 </h3>
                 <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Pigmentation is flat and usually fades over several months on its own, while true scars involve a physical dent, pit, or texture change you can feel with a fingertip. An in person assessment is the most reliable way to tell the two apart, since they need different treatments entirely.
+                    Local anaesthesia is used for subcision, TCA CROSS, and punch excision, so the procedures themselves are not painful. Swelling and mild bruising in the treated area for around seven to ten days afterward is normal and usually settles with simple aftercare, and most patients return to daily activities almost immediately.
                   </div>
                 </div>
               </div>
@@ -367,12 +363,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq2">
-                    Q2. How many sessions of microneedling or peels will I need?
+                    Q2. How many sessions will I need?
                   </button>
                 </h3>
                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients need four to six sessions spaced two to four weeks apart. Some improvement is often visible after two to three sessions, with continued improvement building over the following months as new collagen forms.
+                    This depends on scar type and number, though most patients need three to six sessions spaced four to six weeks apart. A few isolated ice pick scars may need three to four TCA CROSS sessions, while widespread tethered scarring often needs a combination of subcision, grafting, and later resurfacing across several months.
                   </div>
                 </div>
               </div>
@@ -381,12 +377,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq3">
-                    Q3. Does microneedling actually work for acne scars, or is it overhyped?
+                    Q3. Can subcision make my scars look worse before they improve?
                   </button>
                 </h3>
                 <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Clinical studies support microneedling as an effective treatment for atrophic acne scars, with results building progressively rather than instantly. It works particularly well when combined with a chemical peel rather than used alone, and results are typically moderate to good rather than a complete erasure of deep scarring.
+                    Mild swelling and bruising in the first week can temporarily make treated areas look more prominent, which is expected and not a sign of a poor outcome. Genuine worsening is rare when the technique is matched correctly to your scar type, which is exactly why scar mapping and technique selection happen before treatment rather than being decided on the spot.
                   </div>
                 </div>
               </div>
@@ -395,12 +391,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq4">
-                    Q4. Is microneedling or peeling safe for Indian skin tones?
+                    Q4. Will surgical scar treatment leave marks of its own?
                   </button>
                 </h3>
                 <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Yes, both are considered safe for Indian skin when performed at the correct depth and strength, though the risk of post inflammatory pigmentation is higher than in lighter skin tones if a treatment is too aggressive. This is specifically factored into technique and strength selection during your assessment.
+                    When performed correctly on well selected candidates, subcision and TCA CROSS do not leave visible marks. Punch excision sites are small and are closed or grafted specifically to heal flat, which is discussed in detail during your consultation.
                   </div>
                 </div>
               </div>
@@ -409,12 +405,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq5">
-                    Q5. Will non surgical treatment fully remove deep scars?
+                    Q5. Can acne scar surgery be combined with laser treatment?
                   </button>
                 </h3>
                 <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Non surgical options work well for shallow to moderate scarring and can meaningfully improve deeper scars as part of a combination plan, but very deep or tethered scars often need a surgical step first for the best result. This is assessed honestly during your consultation rather than treated the same regardless of depth.
+                    Yes, and for many patients this combination gives a meaningfully better result than either approach alone. Surgical techniques address depth and tethering, while a later laser session refines surface texture once the skin has healed from the surgical stage.
                   </div>
                 </div>
               </div>
@@ -423,12 +419,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq6">
-                    Q6. Can I combine chemical peels with microneedling in the same course?
+                    Q6. Is this treatment safe for darker skin tones?
                   </button>
                 </h3>
                 <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Yes, and for many patients this combination outperforms either treatment alone, particularly for scarring that involves both surface pigmentation and textural depth. The sequencing between the two is planned based on your specific skin during your assessment.
+                    Yes, but technique selection matters more for darker skin tones due to a higher risk of post-inflammatory pigmentation. This is specifically assessed during your scar mapping consultation before any technique is chosen.
                   </div>
                 </div>
               </div>
@@ -446,10 +442,10 @@
                 <div class="col-lg-7 mb-4 mb-lg-0 text-center text-lg-start">
                   <span class="badge mb-3 px-3 py-2 rounded-pill fw-semibold text-charcoal-deep"
                     style="background: var(--dt-champagne-light); letter-spacing: 1px;">TAKE THE NEXT STEP</span>
-                  <h4 class="h3 fw-bold text-white mb-3">Book Your Acne Scar Assessment <br><span
+                  <h4 class="h3 fw-bold text-white mb-3">Book Your Acne Scar Consultation <br><span
                       class="text-gold fs-4" style="font-family: var(--dt-font-display); font-style: italic;">DermaTales, Patel Nagar</span></h4>
                   <p class="mb-4" style="color: rgba(255,255,255,0.85); font-size: 1.05rem; line-height: 1.6;">
-                    If old acne marks have not faded, or you are unsure whether what you are seeing is true scarring or residual pigmentation, an in person assessment is the fastest way to find out what your skin actually needs. Book an appointment with Dr. Pooja Varshney for a proper evaluation and a treatment plan built around your specific scars.
+                    If peels and lasers alone have not moved your acne scars, a surgical assessment can tell you whether tethering or depth is the reason why. Book an appointment with Dr. Pooja Varshney for a scar mapping consultation and a treatment plan built for your specific scars, not a generic one.
                   </p>
                   <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-3">
                     <div class="d-flex align-items-center">
@@ -495,7 +491,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Treatments</h3>
               <ul class="related-list">
-                <li><a href="acne-scar-surgeries-in-delhi">Acne Scar Surgeries <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-delhi">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="acne-treatment-in-delhi">Acne Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
