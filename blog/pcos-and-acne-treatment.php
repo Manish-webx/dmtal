@@ -172,8 +172,11 @@ $page_title = "PCOS and Acne Treatment: Why Treating One Specialist at a Time Do
                 style="font-size: 1.1rem; letter-spacing: 0.5px;">
                 Book Your Consultation
               </a>
-              <p class="text-muted mt-2"><small>Note: Treatment suitability and results vary from patient to
-                  patient.</small></p>
+              
+            </div>
+
+                        <div class="mt-4 p-3 rounded-3" style="background-color: #F9EDF1;">
+              <p class="mb-0 fw-bold fst-italic text-charcoal" style="font-size: 0.95rem;">Note: Treatment suitability and results vary from patient to patient. This article is for informational purposes and does not substitute a clinical consultation.</p>
             </div>
 
             <div class="mt-5 p-4 bg-light rounded-4 border-start border-gold border-4">

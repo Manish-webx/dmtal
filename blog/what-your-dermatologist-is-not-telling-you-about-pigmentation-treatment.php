@@ -177,6 +177,10 @@ $page_title = "What Your Dermatologist Is Not Telling You About Pigmentation Tre
               </a>
             </div>
 
+                        <div class="mt-4 p-3 rounded-3" style="background-color: #F9EDF1;">
+              <p class="mb-0 fw-bold fst-italic text-charcoal" style="font-size: 0.95rem;">Note: Treatment suitability and results vary from patient to patient. This article is for informational purposes and does not substitute a clinical consultation.</p>
+            </div>
+
             <div class="mt-5 p-4 bg-light rounded-4 border-start border-gold border-4">
               <div class="d-flex align-items-center gap-4 flex-wrap">
                 <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney" class="rounded-circle shadow-sm"

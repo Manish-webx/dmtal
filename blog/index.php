@@ -179,6 +179,27 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card 8 -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/chemical-peel-risks-and-safety-dermatales.webp" class="card-img-top"
+                alt="Chemical Peel Treatment" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Aug 12, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/the-chemical-peel-that-burnt-someones-face"
+                  class="text-decoration-none text-charcoal">The Chemical Peel That Burnt Someone's Face Was Not the Peel: It Was the Person Who Did It</a></h3>
+              <p class="card-text text-muted">Why chemical peels are one of the most effective treatments in dermatology for Indian skin and why they go wrong more often than they should.</p>
+              <a href="blog/the-chemical-peel-that-burnt-someones-face" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card 7 -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">

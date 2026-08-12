@@ -199,8 +199,11 @@ $page_title = "Acne Is Gone But the Scars Are Not: What Now? | DermaTales";
             <p class="fw-bold mt-4"><a href="book-appointment" style="text-decoration: underline;">Book a consultation
                 at DermaTales</a> and let us find out exactly what your skin needs.</p>
 
-            <p class="small text-muted fst-italic mt-3">Note: Treatment suitability and results vary from patient to
-              patient.</p>
+            
+
+                        <div class="mt-4 p-3 rounded-3" style="background-color: #F9EDF1;">
+              <p class="mb-0 fw-bold fst-italic text-charcoal" style="font-size: 0.95rem;">Note: Treatment suitability and results vary from patient to patient. This article is for informational purposes and does not substitute a clinical consultation.</p>
+            </div>
 
             <div class="mt-5 p-4 bg-light rounded-4 border-start border-gold border-4">
               <div class="d-flex align-items-center gap-4 flex-wrap">

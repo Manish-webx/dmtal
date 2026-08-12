@@ -186,9 +186,9 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               </div>
             </div>
 
-            <h2 class="lux-section-title mt-3">Why Dark Circles Are So Common in Indian Skin</h2>
+            <h2 class="lux-section-title mt-3"><i class="bi bi-stars me-2" style="color: var(--dt-champagne);"></i>Why Dark Circles Are So Common in Indian Skin</h2>
 
-            <h3 class="h5 fw-bold mt-4">How Melanin Makes Dark Circles Worse in Indian Skin</h3>
+            <h3 class="h5 fw-bold mt-4"><i class="bi bi-brightness-high me-2 text-muted"></i>How Melanin Makes Dark Circles Worse in Indian Skin</h3>
             <p>Indian skin sits between Type 3 and Type 5 on the Fitzpatrick scale, meaning it has significantly higher
               baseline melanin than lighter skin types. This is protective in many ways. But it also means the under eye
               area, which has some of the thinnest skin on the entire body, is more prone to post inflammatory
@@ -197,14 +197,14 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               triggers melanin production directly in the under eye skin. Over months and years this accumulates into a
               brownish discolouration that no amount of sleep will reverse.</p>
 
-            <h3 class="h5 fw-bold mt-4">Why Indian Skin Loses Under Eye Volume Earlier Than Expected</h3>
+            <h3 class="h5 fw-bold mt-4"><i class="bi bi-clock-history me-2 text-muted"></i>Why Indian Skin Loses Under Eye Volume Earlier Than Expected</h3>
             <p>The under eye area loses collagen and fat volume earlier than most people expect. Research suggests
               periorbital fat loss can begin in the late 20s, well before most patients associate it with ageing.
               Combined with the melanin factor, this means Indian patients frequently present with a compound problem,
               <a href="pigmentation-treatment-in-gurgaon">pigmentation</a> and hollowing simultaneously, which is why a
               single product or treatment almost never gives satisfying results.</p>
 
-            <h2 class="lux-section-title mt-5">The Three Types of Dark Circles and Why Each Needs a Completely Different
+            <h2 class="lux-section-title mt-5"><i class="bi bi-search me-2" style="color: var(--dt-champagne);"></i>The Three Types of Dark Circles and Why Each Needs a Completely Different
               Treatment</h2>
 
             <div class="row justify-content-center my-5">
@@ -216,7 +216,10 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               </div>
             </div>
 
-            <h3 class="h5 fw-bold mt-4">Type 1: Pigmentation Dark Circles: The Most Common in India</h3>
+            <h3 class="h5 fw-bold mt-5"><i class="bi bi-1-circle-fill me-2" style="color: var(--dt-champagne);"></i>Type 1: Pigmentation Dark Circles: The Most Common in India</h3>
+            <div class="text-center my-4">
+              <img src="blog-thumb/dark_circles_type_pigmentation.png" alt="Pigmentation Dark Circles" class="img-fluid rounded-4 shadow-sm border border-light" style="max-width: 350px;">
+            </div>
             <p>These appear brownish or greyish brown and are directly caused by excess melanin in the under eye skin.
               They are the most common type in Indian patients and are driven by a combination of genetics, UV exposure,
               habitual eye rubbing, and in some cases post inflammatory hyperpigmentation from eczema or contact
@@ -226,7 +229,10 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               specifically. Sunscreen applied around the eye area every single morning is non negotiable for this type.
               Without it, any treatment is actively fighting against continued UV triggered pigmentation.</p>
 
-            <h3 class="h5 fw-bold mt-4">Type 2: Vascular Dark Circles: The Bluish Purple Shadows</h3>
+            <h3 class="h5 fw-bold mt-5"><i class="bi bi-2-circle-fill me-2" style="color: var(--dt-champagne);"></i>Type 2: Vascular Dark Circles: The Bluish Purple Shadows</h3>
+            <div class="text-center my-4">
+              <img src="blog-thumb/dark_circles_type_vascular.png" alt="Vascular Dark Circles" class="img-fluid rounded-4 shadow-sm border border-light" style="max-width: 350px;">
+            </div>
             <p>These appear more bluish, purple or reddish in tone and are caused by the visibility of blood vessels
               through thin under eye skin. They are typically worse in the morning, after poor sleep, after dehydration,
               after prolonged screen exposure, and during allergy seasons when the body releases histamine that dilates
@@ -237,7 +243,10 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               meaningful difference. For patients with significant vascular contribution, specific LED therapy protocols
               and certain laser wavelengths targeting vascular structures are the clinical options.</p>
 
-            <h3 class="h5 fw-bold mt-4">Type 3: Structural Dark Circles: When Volume Loss Creates Shadows</h3>
+            <h3 class="h5 fw-bold mt-5"><i class="bi bi-3-circle-fill me-2" style="color: var(--dt-champagne);"></i>Type 3: Structural Dark Circles: When Volume Loss Creates Shadows</h3>
+            <div class="text-center my-4">
+              <img src="blog-thumb/dark_circles_type_structural.png" alt="Structural Dark Circles" class="img-fluid rounded-4 shadow-sm border border-light" style="max-width: 350px;">
+            </div>
             <p>These are shadows, not pigmentation and not visible blood vessels. The fat pads under the eye thin with
               age, the skin loses collagen and volume, and the resulting hollow between the lower eyelid and the cheek
               casts a shadow that photographs and appears as a dark circle. No cream addresses this because it is an
@@ -252,9 +261,9 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               the patient has before any treatment is recommended. Skipping this step is why so many patients have
               already spent money on treatments that did not help by the time they reach us.</p>
 
-            <h2 class="lux-section-title mt-5">Why Most Dark Circle Treatments in India Fail</h2>
+            <h2 class="lux-section-title mt-5"><i class="bi bi-x-circle me-2" style="color: var(--dt-champagne);"></i>Why Most Dark Circle Treatments in India Fail</h2>
 
-            <h3 class="h5 fw-bold mt-4">What Eye Creams for Dark Circles Can and Cannot Actually Do</h3>
+            <h3 class="h5 fw-bold mt-4"><i class="bi bi-droplet-half me-2 text-muted"></i>What Eye Creams for Dark Circles Can and Cannot Actually Do</h3>
             <p>Eye creams are not ineffective across the board. A well formulated product with retinol, caffeine,
               peptides and vitamin K can make a meaningful difference for mild vascular dark circles and can support the
               maintenance of results after clinical treatment. What eye creams cannot do is reverse significant
@@ -262,7 +271,7 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               creams consistently overclaims. Managing expectations before spending is the most useful advice I give
               patients who come in with a shelf full of products that did not deliver what was promised.</p>
 
-            <h3 class="h5 fw-bold mt-4">Home Remedies for Dark Circles That Are Making Things Worse</h3>
+            <h3 class="h5 fw-bold mt-4"><i class="bi bi-house-x me-2 text-muted"></i>Home Remedies for Dark Circles That Are Making Things Worse</h3>
             <p>Cold cucumber slices reduce puffiness temporarily through cold constriction. They do not treat
               pigmentation or volume loss. Raw potato juice is mildly acidic and can cause irritation in the already
               sensitive under eye skin with regular use. Almond oil, coconut oil and castor oil applied under the eyes
@@ -270,7 +279,7 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               products. And habitual rubbing while applying anything to the under eye area, a very common habit, keeps
               triggering the melanin response that creates the pigmentation in the first place.</p>
 
-            <h3 class="h5 fw-bold mt-4">The Wrong Clinical Dark Circle Treatment for the Wrong Type</h3>
+            <h3 class="h5 fw-bold mt-4"><i class="bi bi-bandaid me-2 text-muted"></i>The Wrong Clinical Dark Circle Treatment for the Wrong Type</h3>
             <p>Laser treatment for structural dark circles where the primary cause is volume loss produces minimal
               results and wastes both time and money. Fillers for purely pigmentation dark circles address the wrong
               problem. Aggressive laser treatment on thin, vascular under eye skin in Indian patients without proper
@@ -280,7 +289,7 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
                 href="blog/what-your-dermatologist-is-not-telling-you-about-pigmentation-treatment">how we approach
                 pigmentation diagnosis at DermaTales and why diagnosis always comes before treatment</a>.</p>
 
-            <h2 class="lux-section-title mt-5">Dark Circle Treatment That Actually Works</h2>
+            <h2 class="lux-section-title mt-5"><i class="bi bi-check-circle me-2" style="color: var(--dt-champagne);"></i>Dark Circle Treatment That Actually Works</h2>
             <ul class="mb-4">
               <li class="mb-2"><strong>Pigmentation Dark Circle Treatment:</strong> Laser toning with parameters
                 calibrated for Indian skin, chemical peels, prescription topical actives including retinoids and
@@ -297,7 +306,7 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
             <p><strong>For combination type, which is the majority of patients:</strong> A sequenced plan addressing
               each component, usually starting with the most visually dominant issue and building from there.</p>
 
-            <h3 class="h5 fw-bold mt-4">When to See a Dermatologist for Dark Circles</h3>
+            <h3 class="h5 fw-bold mt-4"><i class="bi bi-calendar-heart me-2 text-muted"></i>When to See a Dermatologist for Dark Circles</h3>
             <p>If you have had dark circles for more than six months, tried multiple products without meaningful
               improvement, or notice that the darkness is accompanied by hollowing or a change in under eye texture,
               that is worth a proper clinical assessment. Identifying which type you have takes one consultation.
@@ -452,6 +461,10 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
               </a>
             </div>
 
+                        <div class="mt-4 p-3 rounded-3" style="background-color: #F9EDF1;">
+              <p class="mb-0 fw-bold fst-italic text-charcoal" style="font-size: 0.95rem;">Note: Treatment suitability and results vary from patient to patient. This article is for informational purposes and does not substitute a clinical consultation.</p>
+            </div>
+
             <div class="mt-5 p-4 rounded-4 author-box">
               <div class="d-flex align-items-center gap-4 flex-wrap">
                 <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney" class="rounded-circle shadow-md border border-white border-3"
@@ -464,8 +477,7 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
                     and hair dermatology and currently leads DermaTales Clinic across Gurugram and Delhi.
                   </p>
                   <p class="mb-0 text-muted small mt-3">
-                    <em>Note: Treatment suitability and results vary from patient to patient. This article is for
-                      informational purposes and does not substitute a clinical consultation.</em>
+                    
                   </p>
                 </div>
               </div>
