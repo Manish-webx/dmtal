@@ -179,8 +179,13 @@
           <p class="section-lead text-white-50" style="max-width: 600px;">
             Non surgical acne scar treatment in Delhi at DermaTales, Patel Nagar. Chemical peels, microneedling and laser resurfacing under Dr. Pooja Varshney.
           </p>
+          <div class="mt-4 mt-lg-5">
+            <?php include 'hero-stats.php'; ?>
+          </div>
         </div>
-        <?php include 'hero-stats.php'; ?>
+        <div class="hero-image-showcase" style="flex-shrink: 0; width: 550px; max-width: 100%;">
+          <img src="images/Acne-scar-treatment.webp" alt="Acne Scar Treatment" class="hero-img img-fluid rounded-4 shadow-lg" style="border: 1px solid rgba(255, 255, 255, 0.1); width: 100%; height: auto; object-fit: cover; aspect-ratio: 4/3;">
+        </div>
       </div>
     </div>
   </section>
@@ -193,17 +198,15 @@
         <!-- Main Content Column -->
         <div class="col-lg-9 order-lg-1 content-area">
 
-          <div class="fade-up">
-            <h2 class="lux-section-title">Acne Scar Treatment in Delhi, Patel Nagar</h2>
-            <p>
-              Not everything left behind after a breakout is actually a scar. A lot of what patients bring in as acne scarring is really post inflammatory pigmentation, flat marks that fade with time and the right topical routine. True acne scars are structural, a physical dent or pit where collagen was damaged during healing, and that difference changes everything about how it should be treated. At DermaTales in Patel Nagar, Delhi, every acne scar consultation starts by figuring out which one you actually have, under the supervision of Dr. Pooja Varshney, MD Dermatology.
-            </p>
-
-            <div class="mt-3">
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">10+ Years Experience</span>
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">15,000+ Patients Treated</span>
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">50+ Treatments</span>
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">Patel Nagar, Central Delhi</span>
+          <div class="row align-items-center g-5 fade-up mb-5">
+            <div class="col-lg-7">
+              <h2 class="lux-section-title">Acne Scar Treatment in Delhi, Patel Nagar</h2>
+              <p>
+                Not everything left behind after a breakout is actually a scar. A lot of what patients bring in as acne scarring is really post inflammatory pigmentation, flat marks that fade with time and the right topical routine. True acne scars are structural, a physical dent or pit where collagen was damaged during healing, and that difference changes everything about how it should be treated. At DermaTales in Patel Nagar, Delhi, every acne scar consultation starts by figuring out which one you actually have, under the supervision of Dr. Pooja Varshney, MD Dermatology.
+              </p>
+            </div>
+            <div class="col-lg-5">
+              <img src="images/acne.webp" alt="Acne Scar Consult" class="img-fluid rounded-4 shadow-sm" style="width:100%; height:auto; object-fit:cover; aspect-ratio:4/5;">
             </div>
           </div>
 
@@ -225,11 +228,16 @@
             </p>
           </div>
 
-          <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Our Treatment Approach</h2>
-            <p>
-              Every acne scar treatment plan at DermaTales starts with a skin assessment under proper lighting to identify scar type, depth, and whether what you are seeing is scarring at all or residual pigmentation. Skin tone is factored in from the start, since Indian skin carries a higher risk of post inflammatory pigmentation if a treatment is too aggressive for the scar it is treating. From there, a session plan is built around your specific combination of concerns rather than a single fixed package applied to everyone.
-            </p>
+          <div class="row align-items-center g-5 mt-5 fade-up">
+            <div class="col-lg-5 order-lg-2">
+              <img src="images/acne-treatment.webp" alt="Treatment Approach" class="img-fluid rounded-4 shadow-sm" style="width:100%; height:auto; object-fit:cover; aspect-ratio:4/5;">
+            </div>
+            <div class="col-lg-7 order-lg-1">
+              <h2 class="lux-section-title">Our Treatment Approach</h2>
+              <p>
+                Every acne scar treatment plan at DermaTales starts with a skin assessment under proper lighting to identify scar type, depth, and whether what you are seeing is scarring at all or residual pigmentation. Skin tone is factored in from the start, since Indian skin carries a higher risk of post inflammatory pigmentation if a treatment is too aggressive for the scar it is treating. From there, a session plan is built around your specific combination of concerns rather than a single fixed package applied to everyone.
+              </p>
+            </div>
           </div>
 
           <div class="mt-5 fade-up">
@@ -237,27 +245,39 @@
             
             <div class="row g-4 mt-3">
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Chemical Peels</h4>
-                  <p class="text-muted mb-0">A controlled acid solution is applied to exfoliate the outer layer of skin, fading surface pigmentation and gently improving mild textural irregularities. Peels work well as a standalone treatment for shallow marks and are frequently combined with microneedling for deeper concerns.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-droplet-fill fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i class="bi bi-check-circle-fill text-gold me-2"></i> Chemical Peels</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">A controlled acid solution is applied to exfoliate the outer layer of skin, fading surface pigmentation and gently improving mild textural irregularities. Peels work well as a standalone treatment for shallow marks and are frequently combined with microneedling for deeper concerns.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Microneedling</h4>
-                  <p class="text-muted mb-0">Fine needles create controlled micro injuries in the skin, triggering the body's own collagen production to gradually fill in shallow to moderate rolling and boxcar scars. This is one of the better studied options for Indian skin specifically, with combination protocols using microneedling alongside a peel showing stronger results than microneedling alone.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-magic fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i class="bi bi-check-circle-fill text-gold me-2"></i> Microneedling</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">Fine needles create controlled micro injuries in the skin, triggering the body's own collagen production to gradually fill in shallow to moderate rolling and boxcar scars. This is one of the better studied options for Indian skin specifically, with combination protocols using microneedling alongside a peel showing stronger results than microneedling alone.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Laser Resurfacing</h4>
-                  <p class="text-muted mb-0">Fractional laser treatment targets deeper texture and tone irregularities layer by layer, encouraging new collagen formation without damaging the surrounding skin. This tends to suit patients with more established textural scarring who need a stronger stimulus than peels or microneedling alone can provide.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-stars fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i class="bi bi-check-circle-fill text-gold me-2"></i> Laser Resurfacing</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">Fractional laser treatment targets deeper texture and tone irregularities layer by layer, encouraging new collagen formation without damaging the surrounding skin. This tends to suit patients with more established textural scarring who need a stronger stimulus than peels or microneedling alone can provide.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Combination Protocols</h4>
-                  <p class="text-muted mb-0">Many patients see the best outcome from a planned combination, a peel to manage pigmentation alongside microneedling or laser to address texture, sequenced across sessions rather than performed all at once. This is decided during your assessment based on what your skin actually needs.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-arrow-repeat fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i class="bi bi-check-circle-fill text-gold me-2"></i> Combination Protocols</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">Many patients see the best outcome from a planned combination, a peel to manage pigmentation alongside microneedling or laser to address texture, sequenced across sessions rather than performed all at once. This is decided during your assessment based on what your skin actually needs.</p>
                 </div>
               </div>
             </div>
@@ -267,17 +287,45 @@
             </p>
           </div>
 
-          <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Cost & Timeline</h2>
-            <h3 class="h5 mt-3 fw-bold text-charcoal">Cost of Acne Scar Treatment in Delhi</h3>
-            <p>
-              Non surgical acne scar treatment is priced per session and depends on which technique or combination is used, how many areas need treatment, and how many sessions your scar type typically requires. A course of chemical peels costs differently than a microneedling and peel combination, and laser resurfacing sits in a different bracket again. At DermaTales, exact costing is only shared after your assessment, once your actual treatment plan is known, rather than quoting a generic package price upfront.
-            </p>
+          <div class="row align-items-stretch g-5 mt-5 fade-up">
+            <div class="col-lg-7">
+              <div class="d-flex align-items-center mb-4">
+                <span style="width: 30px; height: 2px; background: var(--dt-gold); display: inline-block; margin-right: 12px;"></span>
+                <span class="text-uppercase fw-bold text-muted" style="letter-spacing: 0.15em; font-size: 0.75rem;">TRANSPARENT & STRUCTURED</span>
+              </div>
+              <h2 class="lux-section-title mb-4">Cost & Timeline</h2>
+              
+              <div class="p-4 rounded-4 shadow-sm mb-4 bg-white border" style="border-color: rgba(0,0,0,0.05) !important;">
+                <div class="d-flex align-items-center mb-3">
+                  <div class="icon-box bg-gold-light text-gold p-2 rounded-circle me-3">
+                    <i class="bi bi-tag-fill fs-5"></i>
+                  </div>
+                  <h3 class="h5 fw-bold text-charcoal mb-0">Cost of Acne Scar Treatment in Delhi</h3>
+                </div>
+                <p class="text-muted mb-0" style="font-size: 0.95rem; line-height: 1.6;">
+                  Non surgical acne scar treatment is priced per session and depends on which technique or combination is used, how many areas need treatment, and how many sessions your scar type typically requires. A course of chemical peels costs differently than a microneedling and peel combination, and laser resurfacing sits in a different bracket again. At DermaTales, exact costing is only shared after your assessment, once your actual treatment plan is known, rather than quoting a generic package price upfront.
+                </p>
+              </div>
+              
+              <div class="p-4 rounded-4 shadow-sm bg-white border" style="border-color: rgba(0,0,0,0.05) !important;">
+                <div class="d-flex align-items-center mb-3">
+                  <div class="icon-box bg-gold-light text-gold p-2 rounded-circle me-3">
+                    <i class="bi bi-calendar-check-fill fs-5"></i>
+                  </div>
+                  <h3 class="h5 fw-bold text-charcoal mb-0">Results and Timeline</h3>
+                </div>
+                <p class="text-muted mb-0" style="font-size: 0.95rem; line-height: 1.6;">
+                  Chemical peels show visible improvement in pigmentation gradually across a course of sessions, typically spaced two to four weeks apart. Microneedling needs a similar interval between sessions, with noticeable texture improvement usually appearing after two to three sessions and continued improvement building for several months afterward as new collagen forms. Laser resurfacing results also build progressively, with full benefit typically visible some months after a completed course rather than immediately. Most patients need four to six sessions of their chosen technique or combination, and this is discussed clearly during your consultation.
+                </p>
+              </div>
+            </div>
             
-            <h3 class="h5 mt-4 fw-bold text-charcoal">Results and Timeline</h3>
-            <p>
-              Chemical peels show visible improvement in pigmentation gradually across a course of sessions, typically spaced two to four weeks apart. Microneedling needs a similar interval between sessions, with noticeable texture improvement usually appearing after two to three sessions and continued improvement building for several months afterward as new collagen forms. Laser resurfacing results also build progressively, with full benefit typically visible some months after a completed course rather than immediately. Most patients need four to six sessions of their chosen technique or combination, and this is discussed clearly during your consultation.
-            </p>
+            <div class="col-lg-5 d-flex align-items-center">
+              <div class="position-relative w-100 h-100">
+                <div class="position-absolute bg-gold-light rounded-4" style="inset: 15px -15px -15px 15px; z-index: 0;"></div>
+                <img src="images/Acne-scar-treatment.webp" alt="Timeline and Cost" class="position-relative img-fluid rounded-4 shadow-sm w-100" style="z-index: 1; height: 100%; min-height: 400px; object-fit: cover;">
+              </div>
+            </div>
           </div>
 
           <div class="mt-5 fade-up">
@@ -437,50 +485,36 @@
           </div>
           
           <div class="mt-5 fade-up">
-            <div class="p-5 rounded-4 shadow-lg position-relative overflow-hidden mt-4 bg-charcoal">
-              <!-- Decorative Background Element -->
-              <i class="bi bi-calendar-check position-absolute opacity-10"
-                style="color: var(--dt-champagne); font-size: 14rem; top: -20px; right: -20px; transform: rotate(-10deg); pointer-events: none;"></i>
-
-              <div class="row align-items-center position-relative z-index-2">
-                <div class="col-lg-7 mb-4 mb-lg-0 text-center text-lg-start">
-                  <span class="badge mb-3 px-3 py-2 rounded-pill fw-semibold text-charcoal-deep"
-                    style="background: var(--dt-champagne-light); letter-spacing: 1px;">TAKE THE NEXT STEP</span>
-                  <h4 class="h3 fw-bold text-white mb-3">Book Your Acne Scar Assessment <br><span
-                      class="text-gold fs-4" style="font-family: var(--dt-font-display); font-style: italic;">DermaTales, Patel Nagar</span></h4>
-                  <p class="mb-4" style="color: rgba(255,255,255,0.85); font-size: 1.05rem; line-height: 1.6;">
-                    If old acne marks have not faded, or you are unsure whether what you are seeing is true scarring or residual pigmentation, an in person assessment is the fastest way to find out what your skin actually needs. Book an appointment with Dr. Pooja Varshney for a proper evaluation and a treatment plan built around your specific scars.
-                  </p>
-                  <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-3">
-                    <div class="d-flex align-items-center">
-                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
-                      <span class="text-white fw-medium">Medical Grade Hygiene</span>
-                    </div>
-                    <div class="d-flex align-items-center">
-                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
-                      <span class="text-white fw-medium">Transparent Pricing</span>
-                    </div>
-                    <div class="d-flex align-items-center">
-                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
-                      <span class="text-white fw-medium">Doctor Supervised</span>
-                    </div>
-                  </div>
+            <div class="position-relative overflow-hidden rounded-4 shadow-lg mt-4" style="min-height: 470px;">
+              <!-- Background Image -->
+              <img src="images/acne.webp" alt="Consultation" class="position-absolute w-100 h-100" style="object-fit: cover; filter: brightness(0.65); top:0; left:0; z-index:0;">
+              
+              <!-- Content Overlay -->
+              <div class="position-relative z-index-2 d-flex flex-column justify-content-center h-100 p-5" style="max-width: 800px; min-height: 470px;">
+                
+                <div class="d-flex align-items-center mb-3">
+                  <span style="width: 35px; height: 2px; background: var(--dt-gold); display: inline-block; margin-right: 15px;"></span>
+                  <span class="text-uppercase fw-bold text-white" style="letter-spacing: 0.15em; font-size: 0.8rem;">TAKE THE NEXT STEP</span>
                 </div>
-                <div class="col-lg-5 text-center">
-                  <div class="p-4 rounded-4 shadow-sm"
-                    style="background-color: var(--dt-white); border: 1px solid var(--dt-border);">
-                    <p class="mb-2 text-charcoal fw-bold fs-5">📞 Book Your Consultation</p>
-                    <p class="text-muted small mb-4">Call or Visit DermaTales, Patel Nagar, Delhi</p>
-                    <a href="https://wa.me/919560015155"
-                      class="btn btn-whatsapp btn-lg rounded-pill w-100 py-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
-                      <i class="bi bi-whatsapp me-2 fs-5"></i> Chat on WhatsApp
-                    </a>
-                    <a href="tel:+919560015155"
-                      class="btn btn-outline-gold btn-lg rounded-pill w-100 py-3 mt-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
-                      <i class="bi bi-telephone-fill me-2"></i> +91 95600 15155
-                    </a>
-                  </div>
+                
+                <h4 class="fw-bold text-white mb-4" style="font-family: var(--dt-font-display); font-size: clamp(2.5rem, 4vw, 3.5rem); line-height: 1.15;">
+                  Book Your Acne Scar Assessment<br>
+                  <span style="font-style: italic; font-weight: 500;">DermaTales, Patel Nagar</span>
+                </h4>
+                
+                <p class="mb-4" style="color: rgba(255,255,255,0.95); font-size: 1.1rem; line-height: 1.6; text-shadow: 0 2px 10px rgba(0,0,0,0.2);">
+                  If old acne marks have not faded, or you are unsure whether what you are seeing is true scarring or residual pigmentation, an in person assessment is the fastest way to find out what your skin actually needs. Book an appointment with Dr. Pooja Varshney for a proper evaluation and a treatment plan built around your specific scars.
+                </p>
+                
+                <div class="d-flex flex-wrap gap-3 mt-2">
+                  <a href="https://wa.me/919560015155" class="btn text-white rounded-pill px-4 py-3 fw-semibold border-0 transition-all shadow-sm" style="background-color: #9C3352; font-size: 1rem;">
+                    Chat on WhatsApp
+                  </a>
+                  <a href="tel:+919560015155" class="btn text-white rounded-pill px-4 py-3 fw-semibold transition-all shadow-sm" style="border: 1.5px solid rgba(255,255,255,0.7); background: rgba(0,0,0,0.2); font-size: 1rem;">
+                    Call +91 95600 15155
+                  </a>
                 </div>
+                
               </div>
             </div>
           </div>

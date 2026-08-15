@@ -177,10 +177,18 @@
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">Acne Scar Surgeries <span class="text-charcoal-deep italic">in Delhi</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-            Some acne scars sit too deep for a peel or a laser session to touch. Discover advanced surgical correction for deep scars at DermaTales.
+            Some acne scars sit too deep for a peel or a laser session to touch. Discover advanced surgical correction
+            for deep scars at DermaTales.
           </p>
+          <div class="mt-4 mt-lg-5">
+            <?php include 'hero-stats.php'; ?>
+          </div>
         </div>
-        <?php include 'hero-stats.php'; ?>
+        <div class="hero-image-showcase" style="flex-shrink: 0; width: 550px; max-width: 100%;">
+          <img src="images/acne-scar-surgery.webp" alt="Acne Scar Surgery"
+            class="hero-img img-fluid rounded-4 shadow-lg"
+            style="border: 1px solid rgba(255, 255, 255, 0.1); width: 100%; height: auto; object-fit: cover; aspect-ratio: 4/3;">
+        </div>
       </div>
     </div>
   </section>
@@ -193,95 +201,190 @@
         <!-- Main Content Column -->
         <div class="col-lg-9 order-lg-1 content-area">
 
-          <div class="fade-up">
-            <h2 class="lux-section-title">Acne Scar Surgeries in Delhi, Patel Nagar</h2>
-            <p>
-              Some acne scars sit too deep for a peel or a laser session to touch. Ice pick scars, boxcar scars, and tethered rolling scars are held down by fibrous bands under the skin, and no amount of resurfacing on the surface will release what is pulling the skin down from underneath. These scars need a surgical release first, and resurfacing after. At DermaTales in Patel Nagar, Delhi, acne scar surgery is planned around that exact principle under the supervision of Dr. Pooja Varshney, MD Dermatology.
-            </p>
-
-            <div class="mt-3">
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">10+ Years Experience</span>
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">15,000+ Patients Treated</span>
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">50+ Treatments</span>
-              <span class="badge bg-gold text-dark me-2 mb-2 p-2 px-3 rounded-pill">Patel Nagar, Central Delhi</span>
+          <div class="row align-items-center g-5 fade-up mb-5">
+            <div class="col-lg-7">
+              <h2 class="lux-section-title">Acne Scar Surgeries in Delhi, Patel Nagar</h2>
+              <p>
+                Some acne scars sit too deep for a peel or a laser session to touch. Ice pick scars, boxcar scars, and
+                tethered rolling scars are held down by fibrous bands under the skin, and no amount of resurfacing on
+                the surface will release what is pulling the skin down from underneath. These scars need a surgical
+                release first, and resurfacing after. At DermaTales in Patel Nagar, Delhi, acne scar surgery is planned
+                around that exact principle under the supervision of Dr. Pooja Varshney, MD Dermatology.
+              </p>
+            </div>
+            <div class="col-lg-5">
+              <img src="images/Acne-scar-treatment.webp" alt="Acne Scar Treatment" class="img-fluid rounded-4 shadow-sm"
+                style="width:100%; height:auto; object-fit:cover; aspect-ratio:4/5;">
             </div>
           </div>
 
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Why Some Acne Scars Need Surgery, Not Just Resurfacing</h2>
             <p>
-              Acne scars form differently depending on how the original inflammation damaged the skin. A boxcar scar has vertical, sharply defined edges because collagen was destroyed evenly across a wide area. An ice pick scar is narrow and deep because the inflammation tunnelled straight down. A rolling scar looks shallow on the surface but is actually being pulled downward by a fibrous band anchored to the tissue beneath it.
+              Acne scars form differently depending on how the original inflammation damaged the skin. A boxcar scar has
+              vertical, sharply defined edges because collagen was destroyed evenly across a wide area. An ice pick scar
+              is narrow and deep because the inflammation tunnelled straight down. A rolling scar looks shallow on the
+              surface but is actually being pulled downward by a fibrous band anchored to the tissue beneath it.
             </p>
             <p>
-              This is exactly why patients who have already tried multiple courses of chemical peels or microneedling with limited results are often not failing to respond to treatment. They are being treated with the wrong category of treatment. Surface level procedures cannot release a tethered band or rebuild a missing pit of tissue. Surgery can.
+              This is exactly why patients who have already tried multiple courses of chemical peels or microneedling
+              with limited results are often not failing to respond to treatment. They are being treated with the wrong
+              category of treatment. Surface level procedures cannot release a tethered band or rebuild a missing pit of
+              tissue. Surgery can.
             </p>
-            
+
             <h3 class="h4 mt-4 text-charcoal-deep fw-bold">When Surgical Correction Is the Right Next Step</h3>
             <p>
-              If scars have been present for over a year and have not visibly softened despite consistent peels, microneedling, or laser sessions, that is a signal worth acting on rather than repeating the same protocol. Patients who can feel a scar tug or pucker when they smile or move their face are usually dealing with tethering, which needs release before anything else works. Deep ice pick or boxcar scars that create visible shadowing under normal light, especially in photographs, are also strong candidates for surgical correction rather than continued resurfacing alone.
+              If scars have been present for over a year and have not visibly softened despite consistent peels,
+              microneedling, or laser sessions, that is a signal worth acting on rather than repeating the same
+              protocol. Patients who can feel a scar tug or pucker when they smile or move their face are usually
+              dealing with tethering, which needs release before anything else works. Deep ice pick or boxcar scars that
+              create visible shadowing under normal light, especially in photographs, are also strong candidates for
+              surgical correction rather than continued resurfacing alone.
             </p>
           </div>
 
-          <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Our Treatment Approach</h2>
-            <p>
-              Every acne scar surgery at DermaTales begins with a scar mapping consultation, not a standard package. Under magnified lighting, each scar is individually assessed for depth, type, and whether tethering is present. Skin type and healing history are also factored in, since darker skin tones carry a higher risk of post-inflammatory pigmentation if the wrong technique is used. Based on this assessment, a combination protocol is designed. 
-            </p>
-            <p>
-              Most patients with mixed scar types need more than one technique to see meaningful improvement. In clinical studies comparing approaches, combination treatment has shown notably higher improvement rates than any single technique used alone, which is why that combination is decided in advance rather than adjusted session to session.
-            </p>
+          <div class="row align-items-center g-5 mt-5 fade-up">
+            <div class="col-lg-5 order-lg-2">
+              <img src="images/acne-treatment.webp" alt="Treatment Approach" class="img-fluid rounded-4 shadow-sm"
+                style="width:100%; height:auto; object-fit:cover; aspect-ratio:4/5;">
+            </div>
+            <div class="col-lg-7 order-lg-1">
+              <h2 class="lux-section-title">Our Treatment Approach</h2>
+              <p>
+                Every acne scar surgery at DermaTales begins with a scar mapping consultation, not a standard package.
+                Under magnified lighting, each scar is individually assessed for depth, type, and whether tethering is
+                present. Skin type and healing history are also factored in, since darker skin tones carry a higher risk
+                of post-inflammatory pigmentation if the wrong technique is used. Based on this assessment, a
+                combination protocol is designed.
+              </p>
+              <p>
+                Most patients with mixed scar types need more than one technique to see meaningful improvement. In
+                clinical studies comparing approaches, combination treatment has shown notably higher improvement rates
+                than any single technique used alone, which is why that combination is decided in advance rather than
+                adjusted session to session.
+              </p>
+            </div>
           </div>
 
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Surgical Techniques We Use</h2>
-            
+
             <div class="row g-4 mt-3">
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Subcision</h4>
-                  <p class="text-muted mb-0">A fine needle is used to release the fibrous bands tethering rolling scars to the tissue below. Once released, the skin can sit at its natural level again instead of being pulled down, and the treated area is often followed with volume replacement to support the released tissue.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-magic fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
+                      class="bi bi-check-circle-fill text-gold me-2"></i> Subcision</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">A fine needle is used to release the fibrous
+                    bands tethering rolling scars to the tissue below. Once released, the skin can sit at its natural
+                    level again instead of being pulled down, and the treated area is often followed with volume
+                    replacement to support the released tissue.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">TCA CROSS</h4>
-                  <p class="text-muted mb-0">A focused, high concentration trichloroacetic acid application is placed directly into the base of ice pick and narrow boxcar scars using a fine applicator. This stimulates collagen at the exact site of the scar without affecting the surrounding skin, and typically needs to be repeated across several sessions spaced weeks apart.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-droplet-fill fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
+                      class="bi bi-check-circle-fill text-gold me-2"></i> TCA CROSS</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">A focused, high concentration trichloroacetic
+                    acid application is placed directly into the base of ice pick and narrow boxcar scars using a fine
+                    applicator. This stimulates collagen at the exact site of the scar without affecting the surrounding
+                    skin, and typically needs to be repeated across several sessions spaced weeks apart.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Punch Excision and Punch Grafting</h4>
-                  <p class="text-muted mb-0">Deep, narrow scars that are unlikely to respond to resurfacing are surgically removed using a small circular punch tool. Depending on the scar, the site is either closed directly or grafted with skin from another area, allowing it to heal flat instead of pitted.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-scissors fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
+                      class="bi bi-check-circle-fill text-gold me-2"></i> Punch Excision and Punch Grafting</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">Deep, narrow scars that are unlikely to respond
+                    to resurfacing are surgically removed using a small circular punch tool. Depending on the scar, the
+                    site is either closed directly or grafted with skin from another area, allowing it to heal flat
+                    instead of pitted.</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">Combination Laser Resurfacing</h4>
-                  <p class="text-muted mb-0">Once surgical correction has addressed the depth and tethering, pico laser or fractional resurfacing is often used in a later session to refine surface texture and even out tone across the treated area.</p>
+                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
+                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
+                    <i class="bi bi-stars fs-1 text-gold"></i>
+                  </div>
+                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
+                      class="bi bi-check-circle-fill text-gold me-2"></i> Combination Laser Resurfacing</h4>
+                  <p class="text-muted mb-0 position-relative z-index-2">Once surgical correction has addressed the
+                    depth and tethering, pico laser or fractional resurfacing is often used in a later session to refine
+                    surface texture and even out tone across the treated area.</p>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Cost & Timeline</h2>
-            <h3 class="h5 mt-3 fw-bold text-charcoal">Cost of Acne Scar Surgery in Delhi</h3>
-            <p>
-              Acne scar surgery is priced per session and depends on the number of scars being treated, the specific techniques combined for your scar pattern, and how many sessions your case requires overall. A single ice pick scar treated with TCA CROSS costs differently than a full cheek of tethered rolling scars needing subcision and grafting. At DermaTales, cost is only discussed after your scar mapping consultation, once your exact treatment plan is known, so you are working with real numbers rather than a generic package price.
-            </p>
-            
-            <h3 class="h5 mt-4 fw-bold text-charcoal">Results and Timeline</h3>
-            <p>
-              Subcision results build gradually as the released skin settles and any added volume integrates, usually visible over 4 to 6 weeks. TCA CROSS needs multiple sessions spaced roughly a month apart, with visible softening typically after the second or third session. Punch excision and grafting sites take a few weeks to heal before their final texture is evident. Most patients need three to six sessions spaced four to six weeks apart to see their full result, and this timeline is discussed clearly during the consultation so expectations are set before you begin.
-            </p>
+          <div class="row align-items-stretch g-5 mt-5 fade-up">
+            <div class="col-lg-7">
+
+              <h2 class="lux-section-title mb-4">Cost & Timeline</h2>
+
+              <div class="p-4 rounded-4 shadow-sm mb-4 bg-white border"
+                style="border-color: rgba(0,0,0,0.05) !important;">
+                <div class="d-flex align-items-center mb-3">
+                  <div class="icon-box bg-gold-light text-gold p-2 rounded-circle me-3">
+                    <i class="bi bi-tag-fill fs-5"></i>
+                  </div>
+                  <h3 class="h5 fw-bold text-charcoal mb-0">Cost of Acne Scar Surgery in Delhi</h3>
+                </div>
+                <p class="text-muted mb-0" style="font-size: 0.95rem; line-height: 1.6;">
+                  Acne scar surgery is priced per session and depends on the number of scars being treated, the specific
+                  techniques combined for your scar pattern, and how many sessions your case requires overall. A single
+                  ice pick scar treated with TCA CROSS costs differently than a full cheek of tethered rolling scars
+                  needing subcision and grafting. At DermaTales, cost is only discussed after your scar mapping
+                  consultation, once your exact treatment plan is known, so you are working with real numbers rather
+                  than a generic package price.
+                </p>
+              </div>
+
+              <div class="p-4 rounded-4 shadow-sm bg-white border" style="border-color: rgba(0,0,0,0.05) !important;">
+                <div class="d-flex align-items-center mb-3">
+                  <div class="icon-box bg-gold-light text-gold p-2 rounded-circle me-3">
+                    <i class="bi bi-calendar-check-fill fs-5"></i>
+                  </div>
+                  <h3 class="h5 fw-bold text-charcoal mb-0">Results and Timeline</h3>
+                </div>
+                <p class="text-muted mb-0" style="font-size: 0.95rem; line-height: 1.6;">
+                  Subcision results build gradually as the released skin settles and any added volume integrates,
+                  usually visible over 4 to 6 weeks. TCA CROSS needs multiple sessions spaced roughly a month apart,
+                  with visible softening typically after the second or third session. Punch excision and grafting sites
+                  take a few weeks to heal before their final texture is evident. Most patients need three to six
+                  sessions spaced four to six weeks apart to see their full result, and this timeline is discussed
+                  clearly during the consultation so expectations are set before you begin.
+                </p>
+              </div>
+            </div>
+
+            <div class="col-lg-5 d-flex align-items-center">
+              <div class="position-relative w-100 h-100">
+                <div class="position-absolute bg-gold-light rounded-4"
+                  style="inset: 15px -15px -15px 15px; z-index: 0;"></div>
+                <img src="images/acne.webp" alt="Timeline and Cost"
+                  class="position-relative img-fluid rounded-4 shadow-sm w-100"
+                  style="z-index: 1; height: 100%; min-height: 400px; object-fit: cover;">
+              </div>
+            </div>
           </div>
 
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Why Choose DermaTales for Acne Scar Surgery in Delhi</h2>
             <p>
-              Acne scars do not respond to a one size fits all approach, and treating them like they do is usually why previous treatments have not worked. DermaTales builds a scar specific plan for every patient before any procedure begins.
+              Acne scars do not respond to a one size fits all approach, and treating them like they do is usually why
+              previous treatments have not worked. DermaTales builds a scar specific plan for every patient before any
+              procedure begins.
             </p>
-            
+
             <div class="row mt-4 g-4">
               <div class="col-md-6">
                 <div class="d-flex align-items-start mb-4">
@@ -290,7 +393,8 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">Scar Type Mapping</h4>
-                    <p class="text-muted small">Scar type mapping under magnification before any technique is chosen.</p>
+                    <p class="text-muted small">Scar type mapping under magnification before any technique is chosen.
+                    </p>
                   </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
@@ -299,7 +403,8 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">Combination Protocols</h4>
-                    <p class="text-muted small">Combination protocols designed for mixed scar patterns, not single treatment packages.</p>
+                    <p class="text-muted small">Combination protocols designed for mixed scar patterns, not single
+                      treatment packages.</p>
                   </div>
                 </div>
               </div>
@@ -310,7 +415,8 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">Skin Tone Focused</h4>
-                    <p class="text-muted small">Techniques selected with skin tone in mind to reduce pigmentation risk.</p>
+                    <p class="text-muted small">Techniques selected with skin tone in mind to reduce pigmentation risk.
+                    </p>
                   </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
@@ -319,24 +425,30 @@
                   </div>
                   <div>
                     <h4 class="h6 fw-bold">MD Dermatology Supervised</h4>
-                    <p class="text-muted small">Surgical correction performed under Dr. Pooja Varshney, MD Dermatology.</p>
+                    <p class="text-muted small">Surgical correction performed under Dr. Pooja Varshney, MD Dermatology.
+                    </p>
                   </div>
                 </div>
               </div>
             </div>
-            
+
             <div class="d-flex align-items-start mt-2 mb-4">
               <div class="icon-box bg-gold-light text-gold p-3 rounded-circle me-3">
                 <i class="bi bi-geo-alt fs-4"></i>
               </div>
               <div>
                 <h4 class="h6 fw-bold">Conveniently Located in Patel Nagar</h4>
-                <p class="text-muted small">Located in Patel Nagar, accessible for patients across Central Delhi including Karol Bagh, Rajinder Nagar, and Punjabi Bagh.</p>
+                <p class="text-muted small">Located in Patel Nagar, accessible for patients across Central Delhi
+                  including Karol Bagh, Rajinder Nagar, and Punjabi Bagh.</p>
               </div>
             </div>
-            
+
             <p class="text-muted small border-top pt-3 mt-3">
-              For non-surgical options or milder scarring, our <a href="acne-scar-treatment-in-delhi" class="text-gold text-decoration-none fw-medium">Acne Scar Treatment</a> page covers peels and microneedling based approaches, and our <a href="acne-treatment-in-delhi" class="text-gold text-decoration-none fw-medium">Acne Treatment</a> page addresses active breakouts before scarring occurs.
+              For non-surgical options or milder scarring, our <a href="acne-scar-treatment-in-delhi"
+                class="text-gold text-decoration-none fw-medium">Acne Scar Treatment</a> page covers peels and
+              microneedling based approaches, and our <a href="acne-treatment-in-delhi"
+                class="text-gold text-decoration-none fw-medium">Acne Treatment</a> page addresses active breakouts
+              before scarring occurs.
             </p>
           </div>
 
@@ -354,7 +466,10 @@
                 </h3>
                 <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Local anaesthesia is used for subcision, TCA CROSS, and punch excision, so the procedures themselves are not painful. Swelling and mild bruising in the treated area for around seven to ten days afterward is normal and usually settles with simple aftercare, and most patients return to daily activities almost immediately.
+                    Local anaesthesia is used for subcision, TCA CROSS, and punch excision, so the procedures themselves
+                    are not painful. Swelling and mild bruising in the treated area for around seven to ten days
+                    afterward is normal and usually settles with simple aftercare, and most patients return to daily
+                    activities almost immediately.
                   </div>
                 </div>
               </div>
@@ -368,7 +483,10 @@
                 </h3>
                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    This depends on scar type and number, though most patients need three to six sessions spaced four to six weeks apart. A few isolated ice pick scars may need three to four TCA CROSS sessions, while widespread tethered scarring often needs a combination of subcision, grafting, and later resurfacing across several months.
+                    This depends on scar type and number, though most patients need three to six sessions spaced four to
+                    six weeks apart. A few isolated ice pick scars may need three to four TCA CROSS sessions, while
+                    widespread tethered scarring often needs a combination of subcision, grafting, and later resurfacing
+                    across several months.
                   </div>
                 </div>
               </div>
@@ -382,7 +500,10 @@
                 </h3>
                 <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Mild swelling and bruising in the first week can temporarily make treated areas look more prominent, which is expected and not a sign of a poor outcome. Genuine worsening is rare when the technique is matched correctly to your scar type, which is exactly why scar mapping and technique selection happen before treatment rather than being decided on the spot.
+                    Mild swelling and bruising in the first week can temporarily make treated areas look more prominent,
+                    which is expected and not a sign of a poor outcome. Genuine worsening is rare when the technique is
+                    matched correctly to your scar type, which is exactly why scar mapping and technique selection
+                    happen before treatment rather than being decided on the spot.
                   </div>
                 </div>
               </div>
@@ -396,7 +517,9 @@
                 </h3>
                 <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    When performed correctly on well selected candidates, subcision and TCA CROSS do not leave visible marks. Punch excision sites are small and are closed or grafted specifically to heal flat, which is discussed in detail during your consultation.
+                    When performed correctly on well selected candidates, subcision and TCA CROSS do not leave visible
+                    marks. Punch excision sites are small and are closed or grafted specifically to heal flat, which is
+                    discussed in detail during your consultation.
                   </div>
                 </div>
               </div>
@@ -410,11 +533,13 @@
                 </h3>
                 <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Yes, and for many patients this combination gives a meaningfully better result than either approach alone. Surgical techniques address depth and tethering, while a later laser session refines surface texture once the skin has healed from the surgical stage.
+                    Yes, and for many patients this combination gives a meaningfully better result than either approach
+                    alone. Surgical techniques address depth and tethering, while a later laser session refines surface
+                    texture once the skin has healed from the surgical stage.
                   </div>
                 </div>
               </div>
-              
+
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
@@ -424,59 +549,59 @@
                 </h3>
                 <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Yes, but technique selection matters more for darker skin tones due to a higher risk of post-inflammatory pigmentation. This is specifically assessed during your scar mapping consultation before any technique is chosen.
+                    Yes, but technique selection matters more for darker skin tones due to a higher risk of
+                    post-inflammatory pigmentation. This is specifically assessed during your scar mapping consultation
+                    before any technique is chosen.
                   </div>
                 </div>
               </div>
 
             </div>
           </div>
-          
-          <div class="mt-5 fade-up">
-            <div class="p-5 rounded-4 shadow-lg position-relative overflow-hidden mt-4 bg-charcoal">
-              <!-- Decorative Background Element -->
-              <i class="bi bi-calendar-check position-absolute opacity-10"
-                style="color: var(--dt-champagne); font-size: 14rem; top: -20px; right: -20px; transform: rotate(-10deg); pointer-events: none;"></i>
 
-              <div class="row align-items-center position-relative z-index-2">
-                <div class="col-lg-7 mb-4 mb-lg-0 text-center text-lg-start">
-                  <span class="badge mb-3 px-3 py-2 rounded-pill fw-semibold text-charcoal-deep"
-                    style="background: var(--dt-champagne-light); letter-spacing: 1px;">TAKE THE NEXT STEP</span>
-                  <h4 class="h3 fw-bold text-white mb-3">Book Your Acne Scar Consultation <br><span
-                      class="text-gold fs-4" style="font-family: var(--dt-font-display); font-style: italic;">DermaTales, Patel Nagar</span></h4>
-                  <p class="mb-4" style="color: rgba(255,255,255,0.85); font-size: 1.05rem; line-height: 1.6;">
-                    If peels and lasers alone have not moved your acne scars, a surgical assessment can tell you whether tethering or depth is the reason why. Book an appointment with Dr. Pooja Varshney for a scar mapping consultation and a treatment plan built for your specific scars, not a generic one.
-                  </p>
-                  <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-3">
-                    <div class="d-flex align-items-center">
-                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
-                      <span class="text-white fw-medium">Medical Grade Hygiene</span>
-                    </div>
-                    <div class="d-flex align-items-center">
-                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
-                      <span class="text-white fw-medium">Transparent Pricing</span>
-                    </div>
-                    <div class="d-flex align-items-center">
-                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
-                      <span class="text-white fw-medium">Doctor Supervised</span>
-                    </div>
-                  </div>
+          <div class="mt-5 fade-up">
+            <div class="position-relative overflow-hidden rounded-4 shadow-lg mt-4" style="min-height: 470px;">
+              <!-- Background Image -->
+              <img src="images/Acne-scar-treatment.webp" alt="Consultation" class="position-absolute w-100 h-100"
+                style="object-fit: cover; filter: brightness(0.65); top:0; left:0; z-index:0;">
+
+              <!-- Content Overlay -->
+              <div class="position-relative z-index-2 d-flex flex-column justify-content-center h-100 p-5"
+                style="max-width: 800px; min-height: 470px;">
+
+                <div class="d-flex align-items-center mb-3">
+                  <span
+                    style="width: 35px; height: 2px; background: var(--dt-gold); display: inline-block; margin-right: 15px;"></span>
+                  <span class="text-uppercase fw-bold text-white"
+                    style="letter-spacing: 0.15em; font-size: 0.8rem;">TAKE THE NEXT STEP</span>
                 </div>
-                <div class="col-lg-5 text-center">
-                  <div class="p-4 rounded-4 shadow-sm"
-                    style="background-color: var(--dt-white); border: 1px solid var(--dt-border);">
-                    <p class="mb-2 text-charcoal fw-bold fs-5">📞 Book Your Consultation</p>
-                    <p class="text-muted small mb-4">Call or Visit DermaTales, Patel Nagar, Delhi</p>
-                    <a href="https://wa.me/919560015155"
-                      class="btn btn-whatsapp btn-lg rounded-pill w-100 py-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
-                      <i class="bi bi-whatsapp me-2 fs-5"></i> Chat on WhatsApp
-                    </a>
-                    <a href="tel:+919560015155"
-                      class="btn btn-outline-gold btn-lg rounded-pill w-100 py-3 mt-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
-                      <i class="bi bi-telephone-fill me-2"></i> +91 95600 15155
-                    </a>
-                  </div>
+
+                <h4 class="fw-bold text-white mb-4"
+                  style="font-family: var(--dt-font-display); font-size: clamp(2.5rem, 4vw, 3.5rem); line-height: 1.15;">
+                  Book Your Acne Scar Consultation<br>
+                  <span style="font-style: italic; font-weight: 500;">DermaTales, Patel Nagar</span>
+                </h4>
+
+                <p class="mb-4"
+                  style="color: rgba(255,255,255,0.95); font-size: 1.1rem; line-height: 1.6; text-shadow: 0 2px 10px rgba(0,0,0,0.2);">
+                  If peels and lasers alone have not moved your acne scars, a surgical assessment can tell you whether
+                  tethering or depth is the reason why. Book an appointment with Dr. Pooja Varshney for a scar mapping
+                  consultation and a treatment plan built for your specific scars, not a generic one.
+                </p>
+
+                <div class="d-flex flex-wrap gap-3 mt-2">
+                  <a href="https://wa.me/919560015155"
+                    class="btn text-white rounded-pill px-4 py-3 fw-semibold border-0 transition-all shadow-sm"
+                    style="background-color: #9C3352; font-size: 1rem;">
+                    Chat on WhatsApp
+                  </a>
+                  <a href="tel:+919560015155"
+                    class="btn text-white rounded-pill px-4 py-3 fw-semibold transition-all shadow-sm"
+                    style="border: 1.5px solid rgba(255,255,255,0.7); background: rgba(0,0,0,0.2); font-size: 1rem;">
+                    Call +91 95600 15155
+                  </a>
                 </div>
+
               </div>
             </div>
           </div>
@@ -491,10 +616,13 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Treatments</h3>
               <ul class="related-list">
-                <li><a href="acne-scar-treatment-in-delhi">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="acne-scar-treatment-in-delhi">Acne Scar Treatment <i class="bi bi-chevron-right"></i></a>
+                </li>
                 <li><a href="acne-treatment-in-delhi">Acne Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a>
+                </li>
+                <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i
+                      class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 
