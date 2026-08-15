@@ -287,43 +287,42 @@
             </p>
           </div>
 
-          <div class="row align-items-stretch g-5 mt-5 fade-up">
-            <div class="col-lg-7">
-              <div class="d-flex align-items-center mb-4">
-                <span style="width: 30px; height: 2px; background: var(--dt-gold); display: inline-block; margin-right: 12px;"></span>
-                <span class="text-uppercase fw-bold text-muted" style="letter-spacing: 0.15em; font-size: 0.75rem;">TRANSPARENT & STRUCTURED</span>
-              </div>
-              <h2 class="lux-section-title mb-4">Cost & Timeline</h2>
-              
-              <div class="p-4 rounded-4 shadow-sm mb-4 bg-white border" style="border-color: rgba(0,0,0,0.05) !important;">
-                <div class="d-flex align-items-center mb-3">
-                  <div class="icon-box bg-gold-light text-gold p-2 rounded-circle me-3">
-                    <i class="bi bi-tag-fill fs-5"></i>
-                  </div>
-                  <h3 class="h5 fw-bold text-charcoal mb-0">Cost of Acne Scar Treatment in Delhi</h3>
-                </div>
-                <p class="text-muted mb-0" style="font-size: 0.95rem; line-height: 1.6;">
-                  Non surgical acne scar treatment is priced per session and depends on which technique or combination is used, how many areas need treatment, and how many sessions your scar type typically requires. A course of chemical peels costs differently than a microneedling and peel combination, and laser resurfacing sits in a different bracket again. At DermaTales, exact costing is only shared after your assessment, once your actual treatment plan is known, rather than quoting a generic package price upfront.
-                </p>
-              </div>
-              
-              <div class="p-4 rounded-4 shadow-sm bg-white border" style="border-color: rgba(0,0,0,0.05) !important;">
-                <div class="d-flex align-items-center mb-3">
-                  <div class="icon-box bg-gold-light text-gold p-2 rounded-circle me-3">
-                    <i class="bi bi-calendar-check-fill fs-5"></i>
-                  </div>
-                  <h3 class="h5 fw-bold text-charcoal mb-0">Results and Timeline</h3>
-                </div>
-                <p class="text-muted mb-0" style="font-size: 0.95rem; line-height: 1.6;">
-                  Chemical peels show visible improvement in pigmentation gradually across a course of sessions, typically spaced two to four weeks apart. Microneedling needs a similar interval between sessions, with noticeable texture improvement usually appearing after two to three sessions and continued improvement building for several months afterward as new collagen forms. Laser resurfacing results also build progressively, with full benefit typically visible some months after a completed course rather than immediately. Most patients need four to six sessions of their chosen technique or combination, and this is discussed clearly during your consultation.
-                </p>
-              </div>
+          <div class="mt-2 pt-2 fade-up">
+            <div class="mb-2 pb-3">
+              <h2 class="lux-section-title">Cost & Timeline</h2>
             </div>
-            
-            <div class="col-lg-5 d-flex align-items-center">
-              <div class="position-relative w-100 h-100">
-                <div class="position-absolute bg-gold-light rounded-4" style="inset: 15px -15px -15px 15px; z-index: 0;"></div>
-                <img src="images/Acne-scar-treatment.webp" alt="Timeline and Cost" class="position-relative img-fluid rounded-4 shadow-sm w-100" style="z-index: 1; height: 100%; min-height: 400px; object-fit: cover;">
+
+            <div class="row g-5">
+              <!-- Cost -->
+              <div class="col-md-6">
+                <div class="pe-lg-4 d-flex flex-column h-100">
+                  <div class="d-flex align-items-end mb-4 border-bottom pb-3"
+                    style="border-color: rgba(196, 155, 102, 0.3) !important;">
+                    <span class="fw-bold opacity-25 me-3"
+                      style="font-family: var(--dt-font-display, serif); font-size: 4.5rem; line-height: 0.8; color: var(--dt-gold, #C49B66);">01</span>
+                    <h3 class="h5 fw-bold text-charcoal text-uppercase mb-1" style="letter-spacing: 2px;">Cost Structure
+                    </h3>
+                  </div>
+                  <p class="text-muted flex-grow-1" style="font-size: 1.05rem; line-height: 1.8;">
+                    Non surgical acne scar treatment is priced per session and depends on which technique or combination is used, how many areas need treatment, and how many sessions your scar type typically requires. A course of chemical peels costs differently than a microneedling and peel combination, and laser resurfacing sits in a different bracket again. At DermaTales, exact costing is only shared after your assessment, once your actual treatment plan is known, rather than quoting a generic package price upfront.
+                  </p>
+                </div>
+              </div>
+
+              <!-- Timeline -->
+              <div class="col-md-6">
+                <div class="ps-lg-4 d-flex flex-column h-100">
+                  <div class="d-flex align-items-end mb-4 border-bottom pb-3"
+                    style="border-color: rgba(196, 155, 102, 0.3) !important;">
+                    <span class="fw-bold opacity-25 me-3"
+                      style="font-family: var(--dt-font-display, serif); font-size: 4.5rem; line-height: 0.8; color: var(--dt-gold, #C49B66);">02</span>
+                    <h3 class="h5 fw-bold text-charcoal text-uppercase mb-1" style="letter-spacing: 2px;">Expected
+                      Results</h3>
+                  </div>
+                  <p class="text-muted flex-grow-1" style="font-size: 1.05rem; line-height: 1.8;">
+                    Chemical peels show visible improvement in pigmentation gradually across a course of sessions, typically spaced two to four weeks apart. Microneedling needs a similar interval between sessions, with noticeable texture improvement usually appearing after two to three sessions and continued improvement building for several months afterward as new collagen forms. Laser resurfacing results also build progressively, with full benefit typically visible some months after a completed course rather than immediately. Most patients need four to six sessions of their chosen technique or combination, and this is discussed clearly during your consultation.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
