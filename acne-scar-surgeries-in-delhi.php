@@ -184,7 +184,7 @@
             <?php include 'hero-stats.php'; ?>
           </div>
         </div>
-        <div class="hero-image-showcase" style="flex-shrink: 0; width: 550px; max-width: 100%;">
+        <div class="hero-image-showcase" style="flex-shrink: 0; width: 650px; max-width: 100%;">
           <img src="images/acne-scar-surgery.webp" alt="Acne Scar Surgery"
             class="hero-img img-fluid rounded-4 shadow-lg"
             style="border: 1px solid rgba(255, 255, 255, 0.1); width: 100%; height: auto; object-fit: cover; aspect-ratio: 4/3;">
@@ -202,7 +202,7 @@
         <div class="col-lg-9 order-lg-1 content-area">
 
           <div class="row align-items-center g-5 fade-up mb-5">
-            <div class="col-lg-7">
+            <div class="col-12">
               <h2 class="lux-section-title">Acne Scar Surgeries in Delhi, Patel Nagar</h2>
               <p>
                 Some acne scars sit too deep for a peel or a laser session to touch. Ice pick scars, boxcar scars, and
@@ -212,36 +212,85 @@
                 around that exact principle under the supervision of Dr. Pooja Varshney, MD Dermatology.
               </p>
             </div>
-            <div class="col-lg-5">
-              <img src="images/Acne-scar-treatment.webp" alt="Acne Scar Treatment" class="img-fluid rounded-4 shadow-sm"
-                style="width:100%; height:auto; object-fit:cover; aspect-ratio:4/5;">
-            </div>
           </div>
 
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Why Some Acne Scars Need Surgery, Not Just Resurfacing</h2>
-            <p>
-              Acne scars form differently depending on how the original inflammation damaged the skin. A boxcar scar has
-              vertical, sharply defined edges because collagen was destroyed evenly across a wide area. An ice pick scar
-              is narrow and deep because the inflammation tunnelled straight down. A rolling scar looks shallow on the
-              surface but is actually being pulled downward by a fibrous band anchored to the tissue beneath it.
-            </p>
-            <p>
-              This is exactly why patients who have already tried multiple courses of chemical peels or microneedling
-              with limited results are often not failing to respond to treatment. They are being treated with the wrong
-              category of treatment. Surface level procedures cannot release a tethered band or rebuild a missing pit of
-              tissue. Surgery can.
+            <h2 class="lux-section-title mb-2">Why Some Acne Scars Need Surgery, Not Just Resurfacing</h2>
+            <p class="text-muted mb-5" style="font-size: 1.05rem; line-height: 1.8;">
+              Acne scars form differently depending on how the original inflammation damaged the skin.
             </p>
 
-            <h3 class="h4 mt-4 text-charcoal-deep fw-bold">When Surgical Correction Is the Right Next Step</h3>
-            <p>
-              If scars have been present for over a year and have not visibly softened despite consistent peels,
-              microneedling, or laser sessions, that is a signal worth acting on rather than repeating the same
-              protocol. Patients who can feel a scar tug or pucker when they smile or move their face are usually
-              dealing with tethering, which needs release before anything else works. Deep ice pick or boxcar scars that
-              create visible shadowing under normal light, especially in photographs, are also strong candidates for
-              surgical correction rather than continued resurfacing alone.
-            </p>
+            <!-- Editorial numbered scar types -->
+            <div class="mb-2">
+
+              <div class="d-flex align-items-start gap-4 py-4" style="border-top: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">01</span>
+                <div>
+                  <h4 class="fw-bold mb-1" style="color: var(--dt-charcoal, #1C273B); font-size: 1.1rem;">Boxcar Scars
+                  </h4>
+                  <p class="text-muted mb-0" style="line-height: 1.75;">Have vertical, sharply defined edges because
+                    collagen was destroyed evenly across a wide area. No amount of surface resurfacing can rebuild what
+                    was lost beneath the skin.</p>
+                </div>
+              </div>
+
+              <div class="d-flex align-items-start gap-4 py-4" style="border-top: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">02</span>
+                <div>
+                  <h4 class="fw-bold mb-1" style="color: var(--dt-charcoal, #1C273B); font-size: 1.1rem;">Ice Pick Scars
+                  </h4>
+                  <p class="text-muted mb-0" style="line-height: 1.75;">Are narrow and deep because the inflammation
+                    tunnelled straight down into the dermis. The narrow opening means peels cannot reach the depth where
+                    the damage actually sits.</p>
+                </div>
+              </div>
+
+              <div class="d-flex align-items-start gap-4 py-4"
+                style="border-top: 1px solid rgba(196,155,102,0.2); border-bottom: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">03</span>
+                <div>
+                  <h4 class="fw-bold mb-1" style="color: var(--dt-charcoal, #1C273B); font-size: 1.1rem;">Rolling Scars
+                  </h4>
+                  <p class="text-muted mb-0" style="line-height: 1.75;">Look shallow on the surface but are actually
+                    being pulled downward by a fibrous band anchored to the tissue beneath. Only a surgical release can
+                    free what is pulling the skin down.</p>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="mt-5 p-4 rounded-4 shadow-sm"
+              style="background-color: var(--dt-charcoal-deep, #1C273B); color: white; border-left: 4px solid var(--dt-gold, #C49B66);">
+              <p class="mb-0 text-white" style="font-size: 1.05rem; line-height: 1.8;">
+                This is exactly why patients who have already tried multiple courses of chemical peels or microneedling
+                with limited results are often not failing to respond to treatment. <strong
+                  style="color: var(--dt-gold, #C49B66); font-weight: 600;">They are being treated with the wrong
+                  category of treatment.</strong> Surface level procedures cannot release a tethered band or rebuild a
+                missing pit of
+                tissue. Surgery can.
+              </p>
+            </div>
+
+            <div class="d-flex align-items-center mb-3 mt-5">
+              <span
+                style="width: 40px; height: 2px; background: var(--dt-gold, #C49B66); display: inline-block; margin-right: 15px;"></span>
+              <h3 class="h4 fw-bold mb-0" style="color: #9C3352;">When Surgical Correction Is the Right Next Step</h3>
+            </div>
+
+            <div class="ps-4 ms-2" style="border-left: 2px solid rgba(196, 155, 102, 0.3);">
+              <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                If scars have been present for over a year and have not visibly softened despite consistent peels,
+                microneedling, or laser sessions, that is a signal worth acting on rather than repeating the same
+                protocol. Patients who can feel a scar tug or pucker when they smile or move their face are usually
+                dealing with tethering, which needs release before anything else works. Deep ice pick or boxcar scars
+                that
+                create visible shadowing under normal light, especially in photographs, are also strong candidates for
+                surgical correction rather than continued resurfacing alone.
+              </p>
+            </div>
           </div>
 
           <div class="row align-items-center g-5 mt-5 fade-up">
@@ -268,59 +317,65 @@
           </div>
 
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Surgical Techniques We Use</h2>
+            <!-- Full-width background section -->
+            <div class="position-relative rounded-4 overflow-hidden"
+              style="background-image: url('images/acne-scar-surgery.webp'); background-size: cover; background-position: center;">
+              <!-- Dark overlay -->
+              <div class="position-absolute top-0 start-0 w-100 h-100"
+                style="background: linear-gradient(135deg, rgba(15,22,40,0.94) 0%, rgba(15,22,40,0.80) 100%); z-index: 1;">
+              </div>
 
-            <div class="row g-4 mt-3">
-              <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
-                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
-                    <i class="bi bi-magic fs-1 text-gold"></i>
-                  </div>
-                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
-                      class="bi bi-check-circle-fill text-gold me-2"></i> Subcision</h4>
-                  <p class="text-muted mb-0 position-relative z-index-2">A fine needle is used to release the fibrous
-                    bands tethering rolling scars to the tissue below. Once released, the skin can sit at its natural
-                    level again instead of being pulled down, and the treated area is often followed with volume
-                    replacement to support the released tissue.</p>
+              <div class="position-relative p-4 p-lg-5" style="z-index: 2;">
+
+                <!-- Section heading -->
+                <div class="mb-5">
+                  <span class="text-uppercase fw-semibold"
+                    style="color: var(--dt-gold, #C49B66); letter-spacing: 0.15em; font-size: 0.8rem;">Procedures</span>
+                  <h2 class="fw-bold text-white mt-1 mb-0"
+                    style="font-family: var(--dt-font-display, serif); font-size: clamp(1.6rem, 3vw, 2.2rem);">Surgical
+                    Techniques We Use</h2>
                 </div>
-              </div>
-              <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
-                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
-                    <i class="bi bi-droplet-fill fs-1 text-gold"></i>
+
+                <!-- Technique rows -->
+                <div class="d-flex flex-column gap-0">
+
+                  <div class="py-4" style="border-top: 1px solid rgba(255,255,255,0.1);">
+                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">Subcision</h4>
+                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">A fine
+                      needle is used to release the fibrous bands tethering rolling scars to the tissue below. Once
+                      released, the skin can sit at its natural level again instead of being pulled down, and the
+                      treated area is often followed with volume replacement to support the released tissue.</p>
                   </div>
-                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
-                      class="bi bi-check-circle-fill text-gold me-2"></i> TCA CROSS</h4>
-                  <p class="text-muted mb-0 position-relative z-index-2">A focused, high concentration trichloroacetic
-                    acid application is placed directly into the base of ice pick and narrow boxcar scars using a fine
-                    applicator. This stimulates collagen at the exact site of the scar without affecting the surrounding
-                    skin, and typically needs to be repeated across several sessions spaced weeks apart.</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
-                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
-                    <i class="bi bi-scissors fs-1 text-gold"></i>
+
+                  <div class="py-4" style="border-top: 1px solid rgba(255,255,255,0.1);">
+                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">TCA CROSS</h4>
+                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">A
+                      focused, high concentration trichloroacetic acid application is placed directly into the base of
+                      ice pick and narrow boxcar scars using a fine applicator. This stimulates collagen at the exact
+                      site of the scar without affecting the surrounding skin, and typically needs to be repeated across
+                      several sessions spaced weeks apart.</p>
                   </div>
-                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
-                      class="bi bi-check-circle-fill text-gold me-2"></i> Punch Excision and Punch Grafting</h4>
-                  <p class="text-muted mb-0 position-relative z-index-2">Deep, narrow scars that are unlikely to respond
-                    to resurfacing are surgically removed using a small circular punch tool. Depending on the scar, the
-                    site is either closed directly or grafted with skin from another area, allowing it to heal flat
-                    instead of pitted.</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="p-4 bg-light rounded-4 h-100 border border-gold-light position-relative overflow-hidden">
-                  <div class="position-absolute top-0 end-0 p-3 opacity-25">
-                    <i class="bi bi-stars fs-1 text-gold"></i>
+
+                  <div class="py-4" style="border-top: 1px solid rgba(255,255,255,0.1);">
+                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">Punch Excision &amp; Punch Grafting
+                    </h4>
+                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">Deep,
+                      narrow scars that are unlikely to respond to resurfacing are surgically removed using a small
+                      circular punch tool. Depending on the scar, the site is either closed directly or grafted with
+                      skin from another area, allowing it to heal flat instead of pitted.</p>
                   </div>
-                  <h4 class="h5 fw-bold text-charcoal mb-3 d-flex align-items-center"><i
-                      class="bi bi-check-circle-fill text-gold me-2"></i> Combination Laser Resurfacing</h4>
-                  <p class="text-muted mb-0 position-relative z-index-2">Once surgical correction has addressed the
-                    depth and tethering, pico laser or fractional resurfacing is often used in a later session to refine
-                    surface texture and even out tone across the treated area.</p>
+
+                  <div class="py-4"
+                    style="border-top: 1px solid rgba(255,255,255,0.1); border-bottom: 1px solid rgba(255,255,255,0.1);">
+                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">Combination Laser Resurfacing</h4>
+                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">Once
+                      surgical correction has addressed the depth and tethering, pico laser or fractional resurfacing is
+                      often used in a later session to refine surface texture and even out tone across the treated area.
+                    </p>
+                  </div>
+
                 </div>
+
               </div>
             </div>
           </div>
