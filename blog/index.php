@@ -183,43 +183,26 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/strawberry-legs-causes-treatments-dermatales-skin-clinic-gurugram-delhi.webp" class="card-img-top"
-                alt="Strawberry Legs Treatment" style="height: 280px; object-fit: cover;">
+              <img src="blog-thumb/strawberry-legs-causes-treatments-dermatales-skin-clinic-gurugram-delhi.webp"
+                class="card-img-top" alt="Strawberry Legs Treatment" style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
-                <span><i class="bi bi-calendar3"></i> Aug 11, 2026</span>
+                <span><i class="bi bi-calendar3"></i> Aug 16, 2026</span>
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
               <h3 class="blog-card-title"><a href="blog/strawberry-legs-treatment"
-                  class="text-decoration-none text-charcoal">Strawberry Legs Will Not Go Away With a Scrub. Here Is What Actually Fixes Them.</a></h3>
-              <p class="card-text text-muted">Strawberry legs have four distinct causes. Most treatments fail because they target the wrong one. Dr. Pooja Varshney explains what actually works for Indian skin.</p>
+                  class="text-decoration-none text-charcoal">Strawberry Legs Will Not Go Away With a Scrub. Here Is What
+                  Actually Fixes Them.</a></h3>
+              <p class="card-text text-muted">Strawberry legs have four distinct causes. Most treatments fail because
+                they target the wrong one. Dr. Pooja Varshney explains what actually works for Indian skin.</p>
               <a href="blog/strawberry-legs-treatment" class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
           </div>
         </div>
 
-        <!-- Blog Card 9 -->
-        <div class="col-lg-4 col-md-6 fade-up">
-          <div class="card h-100 blog-card-premium">
-            <div class="blog-card-img-wrap">
-              <img src="blog-thumb/pigmentation-treatment.png" class="card-img-top"
-                alt="Why Does Pigmentation Come Back After You Stop The Cream?" style="height: 280px; object-fit: cover;">
-            </div>
-            <div class="card-body p-4 pb-2">
-              <div class="blog-card-meta">
-                <span><i class="bi bi-calendar3"></i> Aug 21, 2026</span>
-                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
-              </div>
-              <h3 class="blog-card-title"><a href="blog/why-does-pigmentation-come-back-after-you-stop-the-cream"
-                  class="text-decoration-none text-charcoal">Why Does Pigmentation Come Back After You Stop The Cream?</a></h3>
-              <p class="card-text text-muted">Discover why pigmentation and melasma often return after stopping creams, and learn how a proper maintenance plan keeps your skin clear long-term.</p>
-              <a href="blog/why-does-pigmentation-come-back-after-you-stop-the-cream" class="btn-read-more">Read
-                Article <i class="bi bi-arrow-right-short"></i></a>
-            </div>
-          </div>
-        </div>
+
 
         <!-- Blog Card 8 -->
         <div class="col-lg-4 col-md-6 fade-up">
@@ -234,8 +217,10 @@ $page_title = "Blog | DermaTales";
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
               <h3 class="blog-card-title"><a href="blog/the-chemical-peel-that-burnt-someones-face"
-                  class="text-decoration-none text-charcoal">The Chemical Peel That Burnt Someone's Face Was Not the Peel: It Was the Person Who Did It</a></h3>
-              <p class="card-text text-muted">Why chemical peels are one of the most effective treatments in dermatology for Indian skin and why they go wrong more often than they should.</p>
+                  class="text-decoration-none text-charcoal">The Chemical Peel That Burnt Someone's Face Was Not the
+                  Peel: It Was the Person Who Did It</a></h3>
+              <p class="card-text text-muted">Why chemical peels are one of the most effective treatments in dermatology
+                for Indian skin and why they go wrong more often than they should.</p>
               <a href="blog/the-chemical-peel-that-burnt-someones-face" class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
@@ -254,10 +239,14 @@ $page_title = "Blog | DermaTales";
                 <span><i class="bi bi-calendar3"></i> Jul 22, 2026</span>
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
-              <h3 class="blog-card-title"><a href="blog/dark-circles-are-not-going-away-because-you-are-treating-the-wrong-type"
-                  class="text-decoration-none text-charcoal">Dark Circles Are Not Going Away Because You Are Treating the Wrong Type</a></h3>
-              <p class="card-text text-muted">Why the most common under eye concern in India has three completely different causes and one wrong treatment makes all of them worse.</p>
-              <a href="blog/dark-circles-are-not-going-away-because-you-are-treating-the-wrong-type" class="btn-read-more">Read
+              <h3 class="blog-card-title"><a
+                  href="blog/dark-circles-are-not-going-away-because-you-are-treating-the-wrong-type"
+                  class="text-decoration-none text-charcoal">Dark Circles Are Not Going Away Because You Are Treating
+                  the Wrong Type</a></h3>
+              <p class="card-text text-muted">Why the most common under eye concern in India has three completely
+                different causes and one wrong treatment makes all of them worse.</p>
+              <a href="blog/dark-circles-are-not-going-away-because-you-are-treating-the-wrong-type"
+                class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
           </div>
@@ -268,7 +257,8 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/why-botox-goes-wrong-expert-guide-dermatales.webp" class="card-img-top"
-                alt="Botox Horror Stories Are Real: Here Is What Actually Causes Them" style="height: 280px; object-fit: cover;">
+                alt="Botox Horror Stories Are Real: Here Is What Actually Causes Them"
+                style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -276,8 +266,10 @@ $page_title = "Blog | DermaTales";
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
               <h3 class="blog-card-title"><a href="blog/botox-horror-stories-are-real-here-is-what-actually-causes-them"
-                  class="text-decoration-none text-charcoal">Botox Horror Stories Are Real: Here Is What Actually Causes Them</a></h3>
-              <p class="card-text text-muted">Discover why frozen faces and drooping eyelids happen, why facial anatomy matters more than standard doses, and how to choose a safe Botox provider.</p>
+                  class="text-decoration-none text-charcoal">Botox Horror Stories Are Real: Here Is What Actually Causes
+                  Them</a></h3>
+              <p class="card-text text-muted">Discover why frozen faces and drooping eyelids happen, why facial anatomy
+                matters more than standard doses, and how to choose a safe Botox provider.</p>
               <a href="blog/botox-horror-stories-are-real-here-is-what-actually-causes-them" class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
@@ -289,7 +281,8 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/anti-ageing-treatment-in-your-30s-gurgaon.webp" class="card-img-top"
-                alt="Why Your 30s Are the Most Important Decade for Your Skin" style="height: 280px; object-fit: cover;">
+                alt="Why Your 30s Are the Most Important Decade for Your Skin"
+                style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -297,8 +290,10 @@ $page_title = "Blog | DermaTales";
                 <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
               </div>
               <h3 class="blog-card-title"><a href="blog/why-your-30s-are-the-most-important-decade-for-your-skin"
-                  class="text-decoration-none text-charcoal">Why Your 30s Are the Most Important Decade for Your Skin and Most Indians Waste Them</a></h3>
-              <p class="card-text text-muted">Discover why Indian skin ages differently, why collagen loss starts silently in your 30s, and the specific preventive treatments that work.</p>
+                  class="text-decoration-none text-charcoal">Why Your 30s Are the Most Important Decade for Your Skin
+                  and Most Indians Waste Them</a></h3>
+              <p class="card-text text-muted">Discover why Indian skin ages differently, why collagen loss starts
+                silently in your 30s, and the specific preventive treatments that work.</p>
               <a href="blog/why-your-30s-are-the-most-important-decade-for-your-skin" class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
@@ -309,8 +304,8 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/acne-scar-treatment-guide-dermatales.webp" class="card-img-top" alt="Acne Is Gone But the Scars Are Not"
-                style="height: 280px; object-fit: cover;">
+              <img src="blog-thumb/acne-scar-treatment-guide-dermatales.webp" class="card-img-top"
+                alt="Acne Is Gone But the Scars Are Not" style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
