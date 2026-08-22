@@ -100,7 +100,7 @@ $page_title = "What Your Dermatologist Is Not Telling You About Pigmentation Tre
               hormonal, sun related, post inflammatory, genetic, or in many cases a combination of several things
               happening at once.</p>
             <p>If you treat the skin pigmentation without identifying and addressing the cause, it will come back. Every
-              time. Because the trigger is still active.</p>
+              time. Because the trigger is still active. (Read more about <a href="blog/why-does-pigmentation-come-back-after-you-stop-the-cream" style="text-decoration: underline;">why pigmentation comes back after you stop the cream</a>).</p>
             <p>This is why two patients with patches that look identical on the surface can need completely different
               treatments. Melasma treatment for hormonal pigmentation looks nothing like treatment for post inflammatory
               hyperpigmentation left behind by acne. Treating them the same way is one of the most common reasons
