@@ -34,6 +34,10 @@
           rel="noopener"><i class="bi bi-instagram"></i></a>
         <a href="https://www.facebook.com/profile?id=61572154471704" class="top-bar-social" aria-label="Facebook"
           target="_blank" rel="noopener"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.youtube.com/@Dermatales" class="top-bar-social" aria-label="YouTube" target="_blank"
+          rel="noopener"><i class="bi bi-youtube"></i></a>
+        <a href="https://www.linkedin.com/company/dermatales/" class="top-bar-social" aria-label="LinkedIn"
+          target="_blank" rel="noopener"><i class="bi bi-linkedin"></i></a>
       </div>
     </div>
   </div>

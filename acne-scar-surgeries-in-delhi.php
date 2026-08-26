@@ -317,118 +317,84 @@
           </div>
 
           <div class="mt-5 fade-up">
-            <!-- Full-width background section -->
-            <div class="position-relative rounded-4 overflow-hidden"
-              style="background-image: url('images/acne-scar-surgery.webp'); background-size: cover; background-position: center;">
-              <!-- Dark overlay -->
-              <div class="position-absolute top-0 start-0 w-100 h-100"
-                style="background: linear-gradient(135deg, rgba(15,22,40,0.94) 0%, rgba(15,22,40,0.80) 100%); z-index: 1;">
+            <h2 class="lux-section-title mt-1 mb-4">Surgical Techniques We Use</h2>
+
+            <div class="mb-2">
+              <div class="d-flex align-items-start gap-4 py-4" style="border-top: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">01</span>
+                <div>
+                  <h4 class="fw-bold mb-3" style="color: var(--dt-charcoal, #1C273B); font-size: 1.25rem;">Subcision</h4>
+                  <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                    A fine needle is used to release the fibrous bands tethering rolling scars to the tissue below. Once released, the skin can sit at its natural level again instead of being pulled down, and the treated area is often followed with volume replacement to support the released tissue.
+                  </p>
+                </div>
               </div>
 
-              <div class="position-relative p-4 p-lg-5" style="z-index: 2;">
-
-                <!-- Section heading -->
-                <div class="mb-5">
-                  <span class="text-uppercase fw-semibold"
-                    style="color: var(--dt-gold, #C49B66); letter-spacing: 0.15em; font-size: 0.8rem;">Procedures</span>
-                  <h2 class="fw-bold text-white mt-1 mb-0"
-                    style="font-family: var(--dt-font-display, serif); font-size: clamp(1.6rem, 3vw, 2.2rem);">Surgical
-                    Techniques We Use</h2>
+              <div class="d-flex align-items-start gap-4 py-4" style="border-top: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">02</span>
+                <div>
+                  <h4 class="fw-bold mb-3" style="color: var(--dt-charcoal, #1C273B); font-size: 1.25rem;">TCA CROSS</h4>
+                  <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                    A focused, high concentration trichloroacetic acid application is placed directly into the base of ice pick and narrow boxcar scars using a fine applicator. This stimulates collagen at the exact site of the scar without affecting the surrounding skin, and typically needs to be repeated across several sessions spaced weeks apart.
+                  </p>
                 </div>
+              </div>
 
-                <!-- Technique rows -->
-                <div class="d-flex flex-column gap-0">
-
-                  <div class="py-4" style="border-top: 1px solid rgba(255,255,255,0.1);">
-                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">Subcision</h4>
-                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">A fine
-                      needle is used to release the fibrous bands tethering rolling scars to the tissue below. Once
-                      released, the skin can sit at its natural level again instead of being pulled down, and the
-                      treated area is often followed with volume replacement to support the released tissue.</p>
-                  </div>
-
-                  <div class="py-4" style="border-top: 1px solid rgba(255,255,255,0.1);">
-                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">TCA CROSS</h4>
-                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">A
-                      focused, high concentration trichloroacetic acid application is placed directly into the base of
-                      ice pick and narrow boxcar scars using a fine applicator. This stimulates collagen at the exact
-                      site of the scar without affecting the surrounding skin, and typically needs to be repeated across
-                      several sessions spaced weeks apart.</p>
-                  </div>
-
-                  <div class="py-4" style="border-top: 1px solid rgba(255,255,255,0.1);">
-                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">Punch Excision &amp; Punch Grafting
-                    </h4>
-                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">Deep,
-                      narrow scars that are unlikely to respond to resurfacing are surgically removed using a small
-                      circular punch tool. Depending on the scar, the site is either closed directly or grafted with
-                      skin from another area, allowing it to heal flat instead of pitted.</p>
-                  </div>
-
-                  <div class="py-4"
-                    style="border-top: 1px solid rgba(255,255,255,0.1); border-bottom: 1px solid rgba(255,255,255,0.1);">
-                    <h4 class="fw-bold text-white mb-1" style="font-size: 1.05rem;">Combination Laser Resurfacing</h4>
-                    <p class="mb-0" style="color: rgba(255,255,255,0.65); line-height: 1.8; font-size: 0.95rem;">Once
-                      surgical correction has addressed the depth and tethering, pico laser or fractional resurfacing is
-                      often used in a later session to refine surface texture and even out tone across the treated area.
-                    </p>
-                  </div>
-
+              <div class="d-flex align-items-start gap-4 py-4" style="border-top: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">03</span>
+                <div>
+                  <h4 class="fw-bold mb-3" style="color: var(--dt-charcoal, #1C273B); font-size: 1.25rem;">Punch Excision &amp; Punch Grafting</h4>
+                  <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                    Deep, narrow scars that are unlikely to respond to resurfacing are surgically removed using a small circular punch tool. Depending on the scar, the site is either closed directly or grafted with skin from another area, allowing it to heal flat instead of pitted.
+                  </p>
                 </div>
+              </div>
 
+              <div class="d-flex align-items-start gap-4 py-4"
+                style="border-top: 1px solid rgba(196,155,102,0.2); border-bottom: 1px solid rgba(196,155,102,0.2);">
+                <span class="flex-shrink-0 fw-bold"
+                  style="font-family: var(--dt-font-display, serif); font-size: 3.5rem; line-height: 1; color: rgba(196,155,102,0.18); letter-spacing: -2px; min-width: 60px;">04</span>
+                <div>
+                  <h4 class="fw-bold mb-3" style="color: var(--dt-charcoal, #1C273B); font-size: 1.25rem;">Combination Laser Resurfacing</h4>
+                  <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                    Once surgical correction has addressed the depth and tethering, pico laser or fractional resurfacing is often used in a later session to refine surface texture and even out tone across the treated area.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
 
-          <div class="mt-2 pt-2 fade-up">
-            <div class="mb-2 pb-3">
-              <h2 class="lux-section-title">Cost & Timeline</h2>
+          <div class="row g-5 mt-5 pt-3 fade-up">
+            <!-- Cost Structure -->
+            <div class="col-md-6">
+              <div class="pe-lg-4">
+                <div class="d-flex align-items-center gap-3 mb-4">
+                  <div style="width: 50px; height: 50px; border-radius: 50%; background: rgba(196,155,102,0.1); display: flex; align-items: center; justify-content: center; color: var(--dt-gold);">
+                    <i class="bi bi-tag fs-4"></i>
+                  </div>
+                  <h3 class="h5 fw-bold text-charcoal text-uppercase mb-0" style="letter-spacing: 2px;">Cost Structure</h3>
+                </div>
+                <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                  Acne scar surgery is priced per session and depends on the number of scars being treated, the specific techniques combined for your scar pattern, and how many sessions your case requires overall. A single ice pick scar treated with TCA CROSS costs differently than a full cheek of tethered rolling scars needing subcision and grafting. At DermaTales, cost is only discussed after your scar mapping consultation, once your exact treatment plan is known, so you are working with real numbers rather than a generic package price.
+                </p>
+              </div>
             </div>
 
-            <div class="row g-5">
-              <!-- Cost -->
-              <div class="col-md-6">
-                <div class="pe-lg-4 d-flex flex-column h-100">
-                  <div class="d-flex align-items-end mb-4 border-bottom pb-3"
-                    style="border-color: rgba(196, 155, 102, 0.3) !important;">
-                    <span class="fw-bold opacity-25 me-3"
-                      style="font-family: var(--dt-font-display, serif); font-size: 4.5rem; line-height: 0.8; color: var(--dt-gold, #C49B66);">01</span>
-                    <h3 class="h5 fw-bold text-charcoal text-uppercase mb-1" style="letter-spacing: 2px;">Cost Structure
-                    </h3>
+            <!-- Timeline -->
+            <div class="col-md-6">
+              <div class="ps-lg-4 border-start" style="border-color: rgba(196,155,102,0.15) !important; border-width: 2px !important;">
+                <div class="d-flex align-items-center gap-3 mb-4">
+                  <div style="width: 50px; height: 50px; border-radius: 50%; background: rgba(196,155,102,0.1); display: flex; align-items: center; justify-content: center; color: var(--dt-gold);">
+                    <i class="bi bi-clock-history fs-4"></i>
                   </div>
-                  <p class="text-muted flex-grow-1" style="font-size: 1.05rem; line-height: 1.8;">
-                    Acne scar surgery is priced per session and depends on the number of scars being treated, the
-                    specific
-                    techniques combined for your scar pattern, and how many sessions your case requires overall. A
-                    single
-                    ice pick scar treated with TCA CROSS costs differently than a full cheek of tethered rolling scars
-                    needing subcision and grafting. At DermaTales, cost is only discussed after your scar mapping
-                    consultation, once your exact treatment plan is known, so you are working with real numbers rather
-                    than a generic package price.
-                  </p>
+                  <h3 class="h5 fw-bold text-charcoal text-uppercase mb-0" style="letter-spacing: 2px;">Expected Results</h3>
                 </div>
-              </div>
-
-              <!-- Timeline -->
-              <div class="col-md-6">
-                <div class="ps-lg-4 d-flex flex-column h-100">
-                  <div class="d-flex align-items-end mb-4 border-bottom pb-3"
-                    style="border-color: rgba(196, 155, 102, 0.3) !important;">
-                    <span class="fw-bold opacity-25 me-3"
-                      style="font-family: var(--dt-font-display, serif); font-size: 4.5rem; line-height: 0.8; color: var(--dt-gold, #C49B66);">02</span>
-                    <h3 class="h5 fw-bold text-charcoal text-uppercase mb-1" style="letter-spacing: 2px;">Expected
-                      Results</h3>
-                  </div>
-                  <p class="text-muted flex-grow-1" style="font-size: 1.05rem; line-height: 1.8;">
-                    Subcision results build gradually as the released skin settles and any added volume integrates,
-                    usually visible over 4 to 6 weeks. TCA CROSS needs multiple sessions spaced roughly a month apart,
-                    with visible softening typically after the second or third session. Punch excision and grafting
-                    sites
-                    take a few weeks to heal before their final texture is evident. Most patients need three to six
-                    sessions spaced four to six weeks apart to see their full result, and this timeline is discussed
-                    clearly during the consultation so expectations are set before you begin.
-                  </p>
-                </div>
+                <p class="text-muted mb-0" style="font-size: 1.05rem; line-height: 1.8;">
+                  Subcision results build gradually as the released skin settles and any added volume integrates, usually visible over 4 to 6 weeks. TCA CROSS needs multiple sessions spaced roughly a month apart, with visible softening typically after the second or third session. Punch excision and grafting sites take a few weeks to heal before their final texture is evident. Most patients need three to six sessions spaced four to six weeks apart to see their full result, and this timeline is discussed clearly during the consultation so expectations are set before you begin.
+                </p>
               </div>
             </div>
           </div>
@@ -441,63 +407,13 @@
               procedure begins.
             </p>
 
-            <div class="row mt-4 g-4">
-              <div class="col-md-6">
-                <div class="d-flex align-items-start mb-4">
-                  <div class="icon-box bg-gold-light text-gold p-3 rounded-circle me-3">
-                    <i class="bi bi-search fs-4"></i>
-                  </div>
-                  <div>
-                    <h4 class="h6 fw-bold">Scar Type Mapping</h4>
-                    <p class="text-muted small">Scar type mapping under magnification before any technique is chosen.
-                    </p>
-                  </div>
-                </div>
-                <div class="d-flex align-items-start mb-4">
-                  <div class="icon-box bg-gold-light text-gold p-3 rounded-circle me-3">
-                    <i class="bi bi-gear fs-4"></i>
-                  </div>
-                  <div>
-                    <h4 class="h6 fw-bold">Combination Protocols</h4>
-                    <p class="text-muted small">Combination protocols designed for mixed scar patterns, not single
-                      treatment packages.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="d-flex align-items-start mb-4">
-                  <div class="icon-box bg-gold-light text-gold p-3 rounded-circle me-3">
-                    <i class="bi bi-shield-check fs-4"></i>
-                  </div>
-                  <div>
-                    <h4 class="h6 fw-bold">Skin Tone Focused</h4>
-                    <p class="text-muted small">Techniques selected with skin tone in mind to reduce pigmentation risk.
-                    </p>
-                  </div>
-                </div>
-                <div class="d-flex align-items-start mb-4">
-                  <div class="icon-box bg-gold-light text-gold p-3 rounded-circle me-3">
-                    <i class="bi bi-person-check fs-4"></i>
-                  </div>
-                  <div>
-                    <h4 class="h6 fw-bold">MD Dermatology Supervised</h4>
-                    <p class="text-muted small">Surgical correction performed under Dr. Pooja Varshney, MD Dermatology.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="d-flex align-items-start mt-2 mb-4">
-              <div class="icon-box bg-gold-light text-gold p-3 rounded-circle me-3">
-                <i class="bi bi-geo-alt fs-4"></i>
-              </div>
-              <div>
-                <h4 class="h6 fw-bold">Conveniently Located in Patel Nagar</h4>
-                <p class="text-muted small">Located in Patel Nagar, accessible for patients across Central Delhi
-                  including Karol Bagh, Rajinder Nagar, and Punjabi Bagh.</p>
-              </div>
-            </div>
+            <ul class="list-unstyled mt-4 mb-0" style="line-height: 1.7; font-size: 1.05rem;">
+              <li class="mb-3 d-flex align-items-start"><i class="bi bi-check-circle-fill me-3 mt-1" style="color: var(--dt-gold);"></i> <span>Scar type mapping under magnification before any technique is chosen.</span></li>
+              <li class="mb-3 d-flex align-items-start"><i class="bi bi-check-circle-fill me-3 mt-1" style="color: var(--dt-gold);"></i> <span>Combination protocols designed for mixed scar patterns, not single treatment packages.</span></li>
+              <li class="mb-3 d-flex align-items-start"><i class="bi bi-check-circle-fill me-3 mt-1" style="color: var(--dt-gold);"></i> <span>Techniques selected with skin tone in mind to reduce pigmentation risk.</span></li>
+              <li class="mb-3 d-flex align-items-start"><i class="bi bi-check-circle-fill me-3 mt-1" style="color: var(--dt-gold);"></i> <span>Surgical correction performed under Dr. Pooja Varshney, MD Dermatology.</span></li>
+              <li class="d-flex align-items-start"><i class="bi bi-check-circle-fill me-3 mt-1" style="color: var(--dt-gold);"></i> <span>Located in <a href="https://www.dermatales.com/skin-clinic-in-patel-nagar" class="text-decoration-underline" style="color: var(--dt-charcoal); font-weight: 500;" target="_blank" rel="noopener">Patel Nagar</a>, accessible for patients across Central Delhi including Karol Bagh, Rajinder Nagar, and Punjabi Bagh.</span></li>
+            </ul>
 
             <p class="text-muted small border-top pt-3 mt-3">
               For non-surgical options or milder scarring, our <a href="acne-scar-treatment-in-delhi"
@@ -615,49 +531,52 @@
             </div>
           </div>
 
+          <!-- CTA Section -->
           <div class="mt-5 fade-up">
-            <div class="position-relative overflow-hidden rounded-4 shadow-lg mt-4" style="min-height: 470px;">
-              <!-- Background Image -->
-              <img src="images/Acne-scar-treatment.webp" alt="Consultation" class="position-absolute w-100 h-100"
-                style="object-fit: cover; filter: brightness(0.65); top:0; left:0; z-index:0;">
+            <div class="p-5 rounded-4 shadow-lg position-relative overflow-hidden mt-4 bg-charcoal">
+              <!-- Decorative Background Element -->
+              <i class="bi bi-calendar-check position-absolute opacity-10"
+                style="color: var(--dt-champagne); font-size: 14rem; top: -20px; right: -20px; transform: rotate(-10deg); pointer-events: none;"></i>
 
-              <!-- Content Overlay -->
-              <div class="position-relative z-index-2 d-flex flex-column justify-content-center h-100 p-5"
-                style="max-width: 800px; min-height: 470px;">
-
-                <div class="d-flex align-items-center mb-3">
-                  <span
-                    style="width: 35px; height: 2px; background: var(--dt-gold); display: inline-block; margin-right: 15px;"></span>
-                  <span class="text-uppercase fw-bold text-white"
-                    style="letter-spacing: 0.15em; font-size: 0.8rem;">TAKE THE NEXT STEP</span>
+              <div class="row align-items-center position-relative z-index-2">
+                <div class="col-lg-7 mb-4 mb-lg-0 text-center text-lg-start">
+                  <span class="badge mb-3 px-3 py-2 rounded-pill fw-semibold text-charcoal-deep"
+                    style="background: var(--dt-champagne-light); letter-spacing: 1px;">TAKE THE NEXT STEP</span>
+                  <h4 class="h3 fw-bold text-white mb-3">Book Your Acne Scar Consultation <br><span
+                      class="text-gold fs-4" style="font-family: var(--dt-font-display); font-style: italic;">DermaTales, Patel Nagar</span></h4>
+                  <p class="mb-4" style="color: rgba(255,255,255,0.85); font-size: 1.05rem; line-height: 1.6;">
+                    If peels and lasers alone have not moved your acne scars, a surgical assessment can tell you whether tethering or depth is the reason why. <a href="https://www.dermatales.com/book-appointment" style="color: var(--dt-gold); text-decoration: underline;">Book an appointment</a> with Dr. Pooja Varshney for a scar mapping consultation and a treatment plan built for your specific scars, not a generic one.
+                  </p>
+                  <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-3">
+                    <div class="d-flex align-items-center">
+                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
+                      <span class="text-white fw-medium">Medical Grade Hygiene</span>
+                    </div>
+                    <div class="d-flex align-items-center">
+                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
+                      <span class="text-white fw-medium">Transparent Pricing</span>
+                    </div>
+                    <div class="d-flex align-items-center">
+                      <i class="bi bi-check-circle-fill text-gold me-2"></i>
+                      <span class="text-white fw-medium">Doctor Supervised</span>
+                    </div>
+                  </div>
                 </div>
-
-                <h4 class="fw-bold text-white mb-4"
-                  style="font-family: var(--dt-font-display); font-size: clamp(2.5rem, 4vw, 3.5rem); line-height: 1.15;">
-                  Book Your Acne Scar Consultation<br>
-                  <span style="font-style: italic; font-weight: 500;">DermaTales, Patel Nagar</span>
-                </h4>
-
-                <p class="mb-4"
-                  style="color: rgba(255,255,255,0.95); font-size: 1.1rem; line-height: 1.6; text-shadow: 0 2px 10px rgba(0,0,0,0.2);">
-                  If peels and lasers alone have not moved your acne scars, a surgical assessment can tell you whether
-                  tethering or depth is the reason why. Book an appointment with Dr. Pooja Varshney for a scar mapping
-                  consultation and a treatment plan built for your specific scars, not a generic one.
-                </p>
-
-                <div class="d-flex flex-wrap gap-3 mt-2">
-                  <a href="https://wa.me/919560015155"
-                    class="btn text-white rounded-pill px-4 py-3 fw-semibold border-0 transition-all shadow-sm"
-                    style="background-color: #9C3352; font-size: 1rem;">
-                    Chat on WhatsApp
-                  </a>
-                  <a href="tel:+919560015155"
-                    class="btn text-white rounded-pill px-4 py-3 fw-semibold transition-all shadow-sm"
-                    style="border: 1.5px solid rgba(255,255,255,0.7); background: rgba(0,0,0,0.2); font-size: 1rem;">
-                    Call +91 95600 15155
-                  </a>
+                <div class="col-lg-5 text-center">
+                  <div class="p-4 rounded-4 shadow-sm"
+                    style="background-color: var(--dt-white); border: 1px solid var(--dt-border);">
+                    <p class="mb-2 text-charcoal fw-bold fs-5">📞 Book Your Consultation</p>
+                    <p class="text-muted small mb-4">Call or Visit DermaTales, Patel Nagar, Delhi</p>
+                    <a href="https://wa.me/919560015155"
+                      class="btn btn-whatsapp btn-lg rounded-pill w-100 py-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
+                      <i class="bi bi-whatsapp me-2 fs-5"></i> Chat on WhatsApp
+                    </a>
+                    <a href="tel:+919560015155"
+                      class="btn btn-outline-gold btn-lg rounded-pill w-100 py-3 mt-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
+                      <i class="bi bi-telephone-fill me-2"></i> +91 95600 15155
+                    </a>
+                  </div>
                 </div>
-
               </div>
             </div>
           </div>

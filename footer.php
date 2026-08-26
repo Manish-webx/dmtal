@@ -18,6 +18,12 @@
         <a href="https://www.facebook.com/profile?id=61572154471704" aria-label="Facebook"
           class="footer-social-icon footer-social-facebook" target="_blank" rel="noopener"><i
             class="bi bi-facebook"></i></a>
+        <a href="https://www.youtube.com/@Dermatales" aria-label="YouTube"
+          class="footer-social-icon footer-social-youtube" target="_blank" rel="noopener"><i
+            class="bi bi-youtube"></i></a>
+        <a href="https://www.linkedin.com/company/dermatales/" aria-label="LinkedIn"
+          class="footer-social-icon footer-social-linkedin" target="_blank" rel="noopener"><i
+            class="bi bi-linkedin"></i></a>
         <a href="https://wa.me/919560015155" aria-label="WhatsApp" class="footer-social-icon footer-social-whatsapp"><i
             class="bi bi-whatsapp"></i></a>
       </div>
