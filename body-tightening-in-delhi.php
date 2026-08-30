@@ -239,6 +239,10 @@
                 When therapeutic RF energy gently heats the reticular dermis to between 40°C and 42°C, it causes immediate triple-helix collagen shortening, followed by a secondary neo-collagenesis cascade over 90–180 days. This restores tensile strength and dermal thickness without compromising the epidermal barrier.
               </p>
             </div>
+
+            <div class="mt-2">
+              <img src="images/how-bodytighening-works.webp" class="img-fluid w-100 rounded-4">
+            </div>
           </div>
 
           <!-- Section: Where This Treatment Works Well, and Where It Does Not -->
@@ -472,6 +476,10 @@
                   <p class="small text-muted mb-0">Located in <a href="https://www.dermatales.com/skin-clinic-in-patel-nagar" class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">Patel Nagar</a>, accessible for patients across Central Delhi including Karol Bagh, Rajinder Nagar, and Punjabi Bagh.</p>
                 </div>
               </div>
+            </div>
+
+            <div class="mt-2">
+              <img src="images/why-choose-dermatales-for-bodytightening.webp" class="img-fluid w-100 rounded-4">
             </div>
           </div>
 
