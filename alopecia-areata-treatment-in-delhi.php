@@ -382,86 +382,171 @@
             <p class="text-muted">
               Because alopecia areata varies in severity from mild solitary spots to widespread shedding, treatments are customized to the stage and speed of disease progression:
             </p>
-
             <div class="row g-4 mt-2">
+              <!-- Card 1: Corticosteroid Injections -->
               <div class="col-md-6">
-                <div class="treatment-card h-100 shadow-sm rounded-4 overflow-hidden border border-gold-light">
-                  <div class="treatment-card-header bg-charcoal text-white p-3">
-                    <h4 class="h6 fw-bold mb-0 text-white d-flex align-items-center">
-                      <i class="bi bi-eyedropper text-gold me-2 fs-5"></i> Intralesional Corticosteroid Injections
-                    </h4>
+                <div class="card h-100 border-0 rounded-4 shadow-sm bg-white overflow-hidden d-flex flex-column"
+                  style="border: 1px solid rgba(196,155,102,0.3) !important; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                  
+                  <div class="p-4 pb-3" style="background: linear-gradient(135deg, #FFFDF8 0%, #FBF6EB 100%); border-bottom: 1px solid rgba(196,155,102,0.2);">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                      <div class="d-inline-flex align-items-center justify-content-center rounded-circle shadow-xs"
+                        style="width: 44px; height: 44px; background: #C49B66; color: #FFF;">
+                        <i class="bi bi-eyedropper fs-5"></i>
+                      </div>
+                      <span class="badge rounded-pill px-3 py-1"
+                        style="background: rgba(196,155,102,0.15); color: #8A642E; border: 1px solid rgba(196,155,102,0.3); font-size: 0.72rem; font-weight: 600;">
+                        FIRST-LINE
+                      </span>
+                    </div>
+                    <h3 class="h5 fw-bold mb-0" style="color: #1B2A4A;">Intralesional Corticosteroid Injections</h3>
                   </div>
-                  <div class="treatment-card-body p-4 bg-white">
-                    <p class="text-muted mb-3" style="font-size: 0.95rem; line-height: 1.65;">
-                      For localized patches, small injections of corticosteroid directly into the affected area are typically the first line treatment, usually repeated every four to six weeks. Early regrowth is often visible within a matter of weeks, with more substantial regrowth generally building over a few months of repeated sessions.
+
+                  <div class="p-4 d-flex flex-column justify-content-between flex-grow-1">
+                    <p class="text-muted mb-4" style="font-size: 0.92rem; line-height: 1.65;">
+                      Small micro-injections of targeted anti-inflammatory corticosteroid directly into patches to halt immune attack and reactivate dormant follicle bulbs.
                     </p>
-                    <ul class="candidate-list list-unstyled mb-0 small">
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>First-Line Standard:</strong> Delivers anti-inflammatory agent directly to follicle bulbs</li>
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>Interval:</strong> Administered every 4 to 6 weeks</li>
-                      <li><i class="bi bi-check2 text-gold me-2"></i> <strong>Outcome:</strong> Fast-tracks reactivation of dormant follicles</li>
-                    </ul>
+
+                    <div class="p-3 rounded-3" style="background-color: #FBFBFC; border: 1px solid #EDEDF0;">
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Protocol</span>
+                        <span class="fw-semibold text-charcoal small text-end">Direct follicular delivery</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Interval</span>
+                        <span class="fw-semibold text-charcoal small text-end">Every 4 to 6 weeks</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center pt-1">
+                        <span class="text-muted small fw-medium">Early Regrowth</span>
+                        <span class="fw-semibold text-success small text-end">Visible in 4–8 weeks</span>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
 
+              <!-- Card 2: Topical and Oral Medication -->
               <div class="col-md-6">
-                <div class="treatment-card h-100 shadow-sm rounded-4 overflow-hidden border border-gold-light">
-                  <div class="treatment-card-header bg-charcoal text-white p-3">
-                    <h4 class="h6 fw-bold mb-0 text-white d-flex align-items-center">
-                      <i class="bi bi-capsule text-gold me-2 fs-5"></i> Topical and Oral Medication
-                    </h4>
+                <div class="card h-100 border-0 rounded-4 shadow-sm bg-white overflow-hidden d-flex flex-column"
+                  style="border: 1px solid rgba(183,110,121,0.25) !important; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                  
+                  <div class="p-4 pb-3" style="background: linear-gradient(135deg, #FFF5F6 0%, #FAEDEF 100%); border-bottom: 1px solid rgba(183,110,121,0.15);">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                      <div class="d-inline-flex align-items-center justify-content-center rounded-circle shadow-xs"
+                        style="width: 44px; height: 44px; background: #9E5563; color: #FFF;">
+                        <i class="bi bi-capsule fs-5"></i>
+                      </div>
+                      <span class="badge rounded-pill px-3 py-1"
+                        style="background: rgba(158,85,99,0.12); color: #9E5563; border: 1px solid rgba(158,85,99,0.25); font-size: 0.72rem; font-weight: 600;">
+                        SYNERGISTIC
+                      </span>
+                    </div>
+                    <h3 class="h5 fw-bold mb-0" style="color: #1B2A4A;">Topical and Oral Medication</h3>
                   </div>
-                  <div class="treatment-card-body p-4 bg-white">
-                    <p class="text-muted mb-3" style="font-size: 0.95rem; line-height: 1.65;">
-                      Topical corticosteroids or minoxidil are commonly used alongside injections, particularly to help sustain regrowth after an initial response. For more extensive disease, a short course of oral corticosteroids or other systemic medication may be considered under close supervision.
+
+                  <div class="p-4 d-flex flex-column justify-content-between flex-grow-1">
+                    <p class="text-muted mb-4" style="font-size: 0.92rem; line-height: 1.65;">
+                      Prescription topicals or Minoxidil used alongside injections to sustain growth, with supervised short systemic courses for rapid active patch expansion.
                     </p>
-                    <ul class="candidate-list list-unstyled mb-0 small">
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>Synergistic Topicals:</strong> High-potency topical solutions and Minoxidil</li>
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>Systemic Control:</strong> Short supervised courses for active, rapid shedding</li>
-                      <li><i class="bi bi-check2 text-gold me-2"></i> <strong>Maintenance:</strong> Shields against patch recurrence</li>
-                    </ul>
+
+                    <div class="p-3 rounded-3" style="background-color: #FBFBFC; border: 1px solid #EDEDF0;">
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Topicals</span>
+                        <span class="fw-semibold text-charcoal small text-end">Potent solutions + Minoxidil</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Systemic Control</span>
+                        <span class="fw-semibold text-charcoal small text-end">Supervised short courses</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center pt-1">
+                        <span class="text-muted small fw-medium">Role</span>
+                        <span class="fw-semibold text-charcoal small text-end">Sustained barrier &amp; density</span>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
 
+              <!-- Card 3: PRP Therapy -->
               <div class="col-md-6">
-                <div class="treatment-card h-100 shadow-sm rounded-4 overflow-hidden border border-gold-light">
-                  <div class="treatment-card-header bg-charcoal text-white p-3">
-                    <h4 class="h6 fw-bold mb-0 text-white d-flex align-items-center">
-                      <i class="bi bi-activity text-gold me-2 fs-5"></i> PRP Therapy (Platelet-Rich Plasma)
-                    </h4>
+                <div class="card h-100 border-0 rounded-4 shadow-sm bg-white overflow-hidden d-flex flex-column"
+                  style="border: 1px solid rgba(27,42,74,0.18) !important; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                  
+                  <div class="p-4 pb-3" style="background: linear-gradient(135deg, #F5F7FA 0%, #EBF0F5 100%); border-bottom: 1px solid rgba(27,42,74,0.1);">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                      <div class="d-inline-flex align-items-center justify-content-center rounded-circle shadow-xs"
+                        style="width: 44px; height: 44px; background: #1B2A4A; color: #FFF;">
+                        <i class="bi bi-activity fs-5"></i>
+                      </div>
+                      <span class="badge rounded-pill px-3 py-1"
+                        style="background: rgba(27,42,74,0.08); color: #1B2A4A; border: 1px solid rgba(27,42,74,0.2); font-size: 0.72rem; font-weight: 600;">
+                        AUTOLOGOUS
+                      </span>
+                    </div>
+                    <h3 class="h5 fw-bold mb-0" style="color: #1B2A4A;">PRP Therapy (Platelet-Rich Plasma)</h3>
                   </div>
-                  <div class="treatment-card-body p-4 bg-white">
-                    <p class="text-muted mb-3" style="font-size: 0.95rem; line-height: 1.65;">
-                      Platelet rich plasma injections are a supportive option that some studies have shown to work comparably to steroid injections for certain patients, and this is discussed as part of your plan where appropriate. Our <a
-                        href="https://www.dermatales.com/hair-prp-treatment-in-delhi" class="text-decoration-underline fw-medium"
-                        style="color: var(--dt-charcoal);" target="_blank" rel="noopener">PRP Hair Treatment</a> page covers this in more detail.
+
+                  <div class="p-4 d-flex flex-column justify-content-between flex-grow-1">
+                    <p class="text-muted mb-4" style="font-size: 0.92rem; line-height: 1.65;">
+                      Enriched autologous growth factors injected into thinning borders to improve microvascular nourishment and accelerate follicular recovery naturally.
                     </p>
-                    <ul class="candidate-list list-unstyled mb-0 small">
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>Autologous Factors:</strong> Uses your own concentrated platelets</li>
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>Non-Steroidal:</strong> Excellent adjunct or alternative therapy</li>
-                      <li><i class="bi bi-check2 text-gold me-2"></i> <strong>Follicular Nourishment:</strong> Improves microvascular perfusion around patches</li>
-                    </ul>
+
+                    <div class="p-3 rounded-3" style="background-color: #FBFBFC; border: 1px solid #EDEDF0;">
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Mechanism</span>
+                        <span class="fw-semibold text-charcoal small text-end">Concentrated growth factors</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Nature</span>
+                        <span class="fw-semibold text-charcoal small text-end">100% natural &amp; non-steroidal</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center pt-1">
+                        <span class="text-muted small fw-medium">Benefit</span>
+                        <span class="fw-semibold text-charcoal small text-end">Vascular follicular support</span>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
 
+              <!-- Card 4: Advanced Systemic Options -->
               <div class="col-md-6">
-                <div class="treatment-card h-100 shadow-sm rounded-4 overflow-hidden border border-gold-light">
-                  <div class="treatment-card-header bg-charcoal text-white p-3">
-                    <h4 class="h6 fw-bold mb-0 text-white d-flex align-items-center">
-                      <i class="bi bi-shield-plus text-gold me-2 fs-5"></i> Advanced Systemic Options
-                    </h4>
+                <div class="card h-100 border-0 rounded-4 shadow-sm bg-white overflow-hidden d-flex flex-column"
+                  style="border: 1px solid rgba(196,155,102,0.3) !important; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                  
+                  <div class="p-4 pb-3" style="background: linear-gradient(135deg, #FFFDF8 0%, #FBF6EB 100%); border-bottom: 1px solid rgba(196,155,102,0.2);">
+                    <div class="d-flex align-items-center justify-content-between mb-2">
+                      <div class="d-inline-flex align-items-center justify-content-center rounded-circle shadow-xs"
+                        style="width: 44px; height: 44px; background: #C49B66; color: #FFF;">
+                        <i class="bi bi-shield-plus fs-5"></i>
+                      </div>
+                      <span class="badge rounded-pill px-3 py-1"
+                        style="background: rgba(196,155,102,0.15); color: #8A642E; border: 1px solid rgba(196,155,102,0.3); font-size: 0.72rem; font-weight: 600;">
+                        IMMUNOTHERAPY
+                      </span>
+                    </div>
+                    <h3 class="h5 fw-bold mb-0" style="color: #1B2A4A;">Advanced Systemic &amp; JAK Options</h3>
                   </div>
-                  <div class="treatment-card-body p-4 bg-white">
-                    <p class="text-muted mb-3" style="font-size: 0.95rem; line-height: 1.65;">
-                      For alopecia totalis, universalis, or disease that has not responded to standard treatment, newer oral medications targeting the immune pathway involved in alopecia areata are now available and are considered on a case by case basis after a detailed specialist review.
+
+                  <div class="p-4 d-flex flex-column justify-content-between flex-grow-1">
+                    <p class="text-muted mb-4" style="font-size: 0.92rem; line-height: 1.65;">
+                      For alopecia totalis, universalis, or treatment-resistant cases, newer targeted oral pathways (including JAK inhibitors) are evaluated by our specialist.
                     </p>
-                    <ul class="candidate-list list-unstyled mb-0 small">
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>Severe Disease Protocol:</strong> For total scalp or body hair involvement</li>
-                      <li class="mb-1"><i class="bi bi-check2 text-gold me-2"></i> <strong>JAK Pathway Targets:</strong> Cutting-edge immunomodulation treatments</li>
-                      <li><i class="bi bi-check2 text-gold me-2"></i> <strong>Strict Monitoring:</strong> Monitored closely with regular blood profiles</li>
-                    </ul>
+
+                    <div class="p-3 rounded-3" style="background-color: #FBFBFC; border: 1px solid #EDEDF0;">
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Indication</span>
+                        <span class="fw-semibold text-charcoal small text-end">Totalis / Universalis / Resistant</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center py-1 border-bottom" style="border-color: #ECECF0 !important;">
+                        <span class="text-muted small fw-medium">Therapy</span>
+                        <span class="fw-semibold text-charcoal small text-end">Targeted pathway modulation</span>
+                      </div>
+                      <div class="d-flex justify-content-between align-items-center pt-1">
+                        <span class="text-muted small fw-medium">Supervision</span>
+                        <span class="fw-semibold text-charcoal small text-end">Close clinical monitoring</span>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
