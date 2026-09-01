@@ -179,6 +179,27 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Dark Lip Treatment -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/causes-of-dark-lips-explained-by-dermatales.webp"
+                class="card-img-top" alt="Causes of Dark Lips Explained by DermaTales" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Aug 11, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/dark-lip-treatment"
+                  class="text-decoration-none text-charcoal">Dark Lips Have Four Different Causes and Treating the Wrong One Makes Them Darker</a></h3>
+              <p class="card-text text-muted">Why most lip lightening treatments fail, what is actually causing your lip pigmentation, and what dermatologist recommended treatment genuinely works for Indian skin.</p>
+              <a href="blog/dark-lip-treatment" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card 10 -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
