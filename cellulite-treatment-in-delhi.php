@@ -177,8 +177,7 @@
 
           <!-- Section: Why Diet & Exercise Don't Change It -->
           <div class="fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">WHY DIET AND EXERCISE OFTEN DON'T CHANGE IT</span>
-            <h2 class="lux-section-title mt-1">Cellulite is a Structural Issue, Not a Fat Issue</h2>
+            <h2 class="lux-section-title">Cellulite is a Structural Issue, Not a Fat Issue</h2>
             <p class="lead text-muted" style="font-size: 1.08rem; line-height: 1.8;">
               Underneath the skin, fat sits in compartments separated by fibrous bands called septae. In most women, these bands run vertically, so as fat pushes upward against them, the skin gets pulled down at fixed points, creating the dimpled or orange peel look. In men, these same bands typically run in a crisscross pattern, which is a structural reason cellulite is far less visible in men even at a similar body fat level.
             </p>
@@ -210,8 +209,7 @@
 
           <!-- Section: The Science -->
           <div class="mt-5 fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">THE SCIENCE</span>
-            <h2 class="lux-section-title mt-1">How Treatment Addresses the Actual Structure</h2>
+            <h2 class="lux-section-title">How Treatment Addresses the Actual Structure</h2>
             <p class="text-muted">
               Four steps target the fibrous bands and skin quality driving the dimpled appearance.
             </p>
@@ -258,8 +256,7 @@
 
           <!-- Section: What This Approach Delivers -->
           <div class="mt-5 fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">WHAT THIS APPROACH DELIVERS</span>
-            <h2 class="lux-section-title mt-1">Why This Treatment Matters</h2>
+            <h2 class="lux-section-title">Why This Treatment Matters</h2>
             
             <div class="row g-3 mt-2">
               <div class="col-md-6">
@@ -297,8 +294,7 @@
 
           <!-- Section: Is This Right For You -->
           <div class="mt-5 fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">IS THIS RIGHT FOR YOU</span>
-            <h2 class="lux-section-title mt-1">Ideal Candidates and Considerations</h2>
+            <h2 class="lux-section-title">Ideal Candidates and Considerations</h2>
 
             <div class="row g-4 mt-2">
               <div class="col-md-6">
@@ -332,8 +328,7 @@
 
           <!-- Section: What to Expect -->
           <div class="mt-5 fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">WHAT TO EXPECT</span>
-            <h2 class="lux-section-title mt-1">Your Cellulite Treatment Course</h2>
+            <h2 class="lux-section-title">Your Cellulite Treatment Course</h2>
 
             <div class="timeline-lux mt-4">
               <div class="timeline-lux-item" data-step="1">
@@ -357,8 +352,7 @@
 
           <!-- Section: The DermaTales Difference -->
           <div class="mt-5 fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">THE DERMATALES DIFFERENCE</span>
-            <h2 class="lux-section-title mt-1">Why Choose DermaTales for Cellulite Treatment in Delhi</h2>
+            <h2 class="lux-section-title">Why Choose DermaTales for Cellulite Treatment in Delhi</h2>
             
             <div class="row g-3 mt-2">
               <div class="col-md-6">
@@ -458,8 +452,7 @@
 
           <!-- Section: FAQ -->
           <div class="mt-5 fade-up">
-            <span class="text-gold fw-bold text-uppercase small" style="letter-spacing: 1px;">COMMON QUESTIONS</span>
-            <h2 class="lux-section-title mt-1">Frequently Asked Questions</h2>
+            <h2 class="lux-section-title">Frequently Asked Questions</h2>
             
             <div class="accordion accordion-flush mt-4" id="celluliteFAQ">
 
