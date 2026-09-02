@@ -233,12 +233,13 @@
 
             <!-- Related Services Widget -->
             <div class="sidebar-widget">
-              <h3 class="widget-title">Other Services</h3>
+              <h3 class="widget-title">Related Body Treatments</h3>
               <ul class="related-list">
-                <li><a href="#">Stretch Marks Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Full Body Polishing <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Laser Hair Reduction <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Skin Tightening <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="cellulite-treatment-in-delhi">Cellulite Treatment Delhi <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="body-tightening-in-gurgaon">Body Tightening Gurgaon <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="coolsculpting-in-gurgaon">CoolSculpting <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="lipolysis-injections-in-gurgaon">Lipolysis Injections <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="stretch-marks-treatment-in-gurgaon">Stretch Marks Treatment <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 
@@ -263,5 +264,3 @@
 </body>
 
 </html>
-
-

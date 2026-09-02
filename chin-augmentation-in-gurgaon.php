@@ -269,13 +269,13 @@
 
             <!-- Related Services Widget -->
             <div class="sidebar-widget">
-              <h3 class="widget-title">Other Services</h3>
+              <h3 class="widget-title">Related Facial Services</h3>
               <ul class="related-list">
-                <li><a href="#">Rhinoplasty <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Facelift <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Jawline Definition <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Lip Enhancement <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="#">Dermal Fillers <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="chin-augmentation-in-delhi">Chin Augmentation Delhi <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="lip-nose-enhancement-in-gurgaon">Lip & Nose Enhancement <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="filler-treatment-in-gurgaon">Dermal Fillers Gurgaon <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="facelift-in-gurgaon">Facelift Surgery <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

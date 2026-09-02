@@ -556,7 +556,7 @@
               </div>
               <div class="col-md-4">
                 <div class="p-3 bg-light rounded-4 border border-gold-light h-100">
-                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-diagram-3-fill text-gold me-2"></i> Cheek, Chin & Jaw Harmony</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-diagram-3-fill text-gold me-2"></i> Cheek, Chin &amp; Jaw Harmony</h4>
                   <p class="small text-muted mb-0">Frequently planned together to anchor the lower third, contour the jaw angle, and elevate the mid-face framework in one visit.</p>
                 </div>
               </div>
@@ -572,7 +572,7 @@
 
             <div class="timeline-lux mt-4">
               <div class="timeline-lux-item" data-step="1">
-                <h4 class="h6 fw-bold mb-1 text-charcoal">Step 1: Consultation & Profile Mapping</h4>
+                <h4 class="h6 fw-bold mb-1 text-charcoal">Step 1: Consultation &amp; Profile Mapping</h4>
                 <p class="small text-muted mb-0">Dr. Varshney examines chin projection relative to lips and nose, reviews clinical angles, and captures baseline photographs.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
@@ -588,11 +588,11 @@
                 <p class="small text-muted mb-0">Micro-cannula placement delivers controlled aliquots while protecting the mental nerve and blood vessels.</p>
               </div>
               <div class="timeline-lux-item" data-step="5">
-                <h4 class="h6 fw-bold mb-1 text-charcoal">Step 5: Hand Shaping & Contour Review</h4>
+                <h4 class="h6 fw-bold mb-1 text-charcoal">Step 5: Hand Shaping &amp; Contour Review</h4>
                 <p class="small text-muted mb-0">Dr. Varshney moulds the filler immediately after injection, checking the contour in real-time with you looking in the mirror.</p>
               </div>
               <div class="timeline-lux-item" data-step="6">
-                <h4 class="h6 fw-bold mb-1 text-charcoal">Step 6: Written Aftercare & Comfort</h4>
+                <h4 class="h6 fw-bold mb-1 text-charcoal">Step 6: Written Aftercare &amp; Comfort</h4>
                 <p class="small text-muted mb-0">You receive comprehensive aftercare guidance, an ice pack if needed, and a scheduled 2–4 week review.</p>
               </div>
             </div>
@@ -751,6 +751,9 @@
               <li class="mb-2"><i class="bi bi-dot text-gold fs-4 align-middle"></i> <strong>Rare but serious:</strong> Vascular occlusion (filler compressing or entering a blood vessel), which is why cannula technique, correct depth, and an injector who understands chin and jawline anatomy are non-negotiable. Dr. Varshney's dermatology training and cosmetology fellowship specifically cover facial vascular anatomy and emergency protocol for this reason.</li>
               <li><i class="bi bi-dot text-gold fs-4 align-middle"></i> <strong>Overcorrection or "witch's chin" look:</strong> Almost always a technique or judgement issue rather than a product issue, avoided by conservative volume with review visits rather than maximal filler in a single sitting.</li>
             </ul>
+            <p class="small text-muted">
+              If you ever want the result reversed, HA-based chin filler can be dissolved with hyaluronidase, a genuine safety net that non-HA options like Radiesse don't offer, which is worth discussing at consultation if reversibility matters to you.
+            </p>
           </div>
 
           <!-- Section: Chin Filler vs Chin Implant in Delhi -->
@@ -826,6 +829,13 @@
                 </div>
               </div>
             </div>
+
+            <div class="p-3 bg-light rounded-4 border border-gold-light mt-3">
+              <h5 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-chat-quote-fill text-gold me-2"></i> Our Honest Recommendation</h5>
+              <p class="small text-muted mb-0">
+                Most patients who search for "chin augmentation" actually have a mild-to-moderate concern that filler resolves completely, without any of the cost, recovery, or permanence of surgery. Filler is also a genuinely useful way to preview a stronger chin before deciding whether you ever want a permanent implant. If, after assessment, Dr. Varshney feels your case needs surgical correction rather than filler, she will tell you plainly and guide you toward the right specialist rather than injecting filler that won't give you the result you're looking for.
+              </p>
+            </div>
           </div>
 
           <!-- Section: Why Choose DermaTales for Chin Augmentation in Delhi -->
@@ -840,7 +850,7 @@
               </div>
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 bg-light rounded-end-3 h-100">
-                  <h5 class="fw-bold h6 mb-1 text-charcoal"><i class="bi bi-people-fill text-gold me-2"></i> 11+ Years & 15,000+ Patients</h5>
+                  <h5 class="fw-bold h6 mb-1 text-charcoal"><i class="bi bi-people-fill text-gold me-2"></i> 11+ Years &amp; 15,000+ Patients</h5>
                   <p class="small text-muted mb-0">Over a decade of trusted practice across Delhi NCR with a 98% patient satisfaction rating.</p>
                 </div>
               </div>
@@ -893,7 +903,7 @@
               <div class="d-flex flex-wrap align-items-center justify-content-between mb-4 pb-2 border-bottom">
                 <div>
                   <span class="badge bg-gold text-dark rounded-pill px-3 py-1 small mb-1">Google Verified</span>
-                  <h3 class="h5 fw-bold text-charcoal mb-0">Patient Reviews & Experiences</h3>
+                  <h3 class="h5 fw-bold text-charcoal mb-0">Patient Reviews &amp; Experiences</h3>
                 </div>
                 <div class="d-flex align-items-center gap-2">
                   <div class="text-warning fs-5">
@@ -915,7 +925,7 @@
                       <span class="fw-bold small text-charcoal">Rohan M.</span>
                       <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
                     </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Chin & Jaw Filler</span>
+                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Chin &amp; Jaw Filler</span>
                     <p class="small text-muted mb-0" style="line-height: 1.55;">
                       "Dr. Pooja Varshney did my chin filler in Patel Nagar. My side profile looks so natural and structured now. Zero pain and absolutely no downtime!"
                     </p>
@@ -972,10 +982,24 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#faq2">
-                    Is 1ml of chin filler enough?
+                    How Soon Can I Return to Work After Lip Fillers?
                   </button>
                 </h3>
                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                  <div class="accordion-body faq-body">
+                    Most patients return to work the same day or the next morning, since there's no real downtime involved. Some mild swelling is normal for 24-48 hours, so many people prefer scheduling their appointment before a weekend or a lighter workday just to feel fully camera-ready.
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq3">
+                    Is 1ml of chin filler enough?
+                  </button>
+                </h3>
+                <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     For many patients with a mild-to-moderate recessed chin, 1ml of HA filler is enough to create a visible, natural improvement in profile. Patients wanting more significant projection, or combining chin with jawline filler, usually need 1.5–2.5ml, sometimes staged across two visits.
                   </div>
@@ -985,11 +1009,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq3">
+                    data-bs-target="#faq4">
                     Does chin filler hurt?
                   </button>
                 </h3>
-                <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Topical numbing cream is applied before injection, so most patients describe pressure or mild discomfort rather than significant pain. A dental nerve block can be added for patients who want extra numbing.
                   </div>
@@ -999,11 +1023,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq4">
+                    data-bs-target="#faq5">
                     How long does chin filler last?
                   </button>
                 </h3>
-                <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     HA-based chin filler typically lasts 12–18 months before it's fully metabolised by the body. Radiesse can last somewhat longer due to its collagen-stimulating effect. A top-up session maintains the result.
                   </div>
@@ -1013,11 +1037,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq5">
+                    data-bs-target="#faq6">
                     Can chin filler be reversed if I don't like the result?
                   </button>
                 </h3>
-                <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Yes, if HA filler is used. It can be dissolved at any time using hyaluronidase, which is one of the main reasons dermatologists recommend it as a starting point over non-reversible options.
                   </div>
@@ -1027,11 +1051,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq6">
+                    data-bs-target="#faq7">
                     Will chin filler make my square jaw look wider?
                   </button>
                 </h3>
-                <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Not when placed correctly. For square or angular faces, filler is placed centrally on the chin to add length and soften the profile, rather than along the jaw angles where it could add width. This is discussed and planned at your consultation.
                   </div>
@@ -1041,11 +1065,53 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq7">
+                    data-bs-target="#faq8">
+                    Lip Fillers for Asymmetrical Lips: Does It Work?
+                  </button>
+                </h3>
+                <div id="faq8" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                  <div class="accordion-body faq-body">
+                    Yes, filler is one of the most effective ways to correct lip asymmetry, since volume can be placed precisely on the smaller or flatter side to balance both lips. Results are visible immediately, and any fine-tuning can be done at a short follow-up once initial swelling settles.
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq9">
+                    Age Limit for Lip Fillers: Am I Too Young or Too Old?
+                  </button>
+                </h3>
+                <div id="faq9" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                  <div class="accordion-body faq-body">
+                    Lip fillers are generally recommended for adults 18 and above, with no real upper age limit as long as you're in good health. Older patients often see equally natural results, sometimes needing filler for volume loss rather than just enhancement.
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq10">
+                    Lip Fillers for Men: What You Should Know
+                  </button>
+                </h3>
+                <div id="faq10" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                  <div class="accordion-body faq-body">
+                    Lip filler for men is planned differently, focused on subtle, natural definition and structure rather than obvious plumpness, so results still look masculine. The technique, product choice, and volume are adjusted specifically for male lip anatomy and facial proportions.
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item faq-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq11">
                     Can chin filler help with a double chin?
                   </button>
                 </h3>
-                <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq11" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Chin filler improves projection and can visually reduce the appearance of a double chin by creating a cleaner jaw-to-neck transition. It does not remove submental fat directly; if fat reduction is the primary concern, that's assessed and treated separately.
                   </div>
@@ -1055,11 +1121,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq8">
+                    data-bs-target="#faq12">
                     Is there any downtime after chin filler?
                   </button>
                 </h3>
-                <div id="faq8" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq12" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Practically none. Mild swelling or bruising for 24–48 hours is normal; most patients return to work or normal activities the same day.
                   </div>
@@ -1069,11 +1135,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq9">
+                    data-bs-target="#faq13">
                     Can chin filler be combined with jaw or cheek filler?
                   </button>
                 </h3>
-                <div id="faq9" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq13" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Yes, and it often is. Chin, jaw and cheek filler are frequently planned together for complete lower- and mid-face contouring in a single visit, based on what your profile actually needs.
                   </div>
@@ -1083,11 +1149,11 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq10">
+                    data-bs-target="#faq14">
                     Who should not get chin filler?
                   </button>
                 </h3>
-                <div id="faq10" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq14" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
                     Patients with an active skin infection or breakout at the injection site, those who are pregnant or breastfeeding, and anyone with a known allergy to the filler components should avoid or postpone treatment. Significant structural or bite-related concerns are better assessed for surgical correction.
                   </div>
@@ -1097,13 +1163,13 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#faq11">
+                    data-bs-target="#faq15">
                     Where can I get chin filler near me in Delhi?
                   </button>
                 </h3>
-                <div id="faq11" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
+                <div id="faq15" class="accordion-collapse collapse" data-bs-parent="#chinFAQ">
                   <div class="accordion-body faq-body">
-                    DermaTales' Delhi clinic in Patel Nagar offers chin filler consultations and treatment with Dr. Pooja Varshney. Book a consultation or call +91 87005 30623.
+                    DermaTales' Delhi clinic in Patel Nagar offers chin filler consultations and treatment with Dr. Pooja Varshney. <a href="https://www.dermatales.com/book-appointment" class="text-decoration-underline fw-bold">Book a consultation</a> or call +91 87005 30623.
                   </div>
                 </div>
               </div>
@@ -1192,9 +1258,13 @@
                       <p class="mb-1 fw-bold fs-6" style="color: var(--dt-charcoal);">Book Your Consultation</p>
                       <p class="text-muted mb-3" style="font-size: 0.82rem; line-height: 1.5;">Call or Visit DermaTales,
                         Patel Nagar, Delhi</p>
+                      <a href="https://www.dermatales.com/book-appointment"
+                        class="btn btn-gold btn-lg rounded-pill w-100 py-3 shadow-sm d-flex align-items-center justify-content-center transition-all mb-2 fw-semibold">
+                        <i class="bi bi-calendar-check me-2 fs-5"></i> Book Consultation
+                      </a>
                       <a href="https://wa.me/919560015155"
                         class="btn btn-whatsapp btn-lg rounded-pill w-100 py-3 shadow-sm d-flex align-items-center justify-content-center transition-all mb-2">
-                        <i class="bi bi-whatsapp me-2 fs-5"></i> Chat on WhatsApp
+                        <i class="bi bi-whatsapp me-2 fs-5"></i> WhatsApp Us
                       </a>
                       <a href="tel:+918700530623"
                         class="btn btn-outline-gold btn-lg rounded-pill w-100 py-3 shadow-sm d-flex align-items-center justify-content-center transition-all">
