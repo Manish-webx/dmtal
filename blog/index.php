@@ -179,6 +179,27 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Pigmentation Rebound -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/why-does-pigmentation-come-back-after-stopping-the-cream.webp"
+                class="card-img-top" alt="Why Does Pigmentation Come Back After You Stop the Cream" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Sep 07, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/why-does-pigmentation-come-back-after-you-stop-the-cream"
+                  class="text-decoration-none text-charcoal">Why Does Pigmentation Come Back After You Stop the Cream</a></h3>
+              <p class="card-text text-muted">Why melasma and pigmentation keep returning, what melanocyte memory actually means, and how to build a maintenance plan that holds results.</p>
+              <a href="blog/why-does-pigmentation-come-back-after-you-stop-the-cream" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Dark Lip Treatment -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
