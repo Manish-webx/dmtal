@@ -179,6 +179,27 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Korean Glass Skin -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/korean-glass-skin-treatment-for-indian-skin.jpg"
+                class="card-img-top" alt="Your Skin Will Never Look Like a Korean Glass Skin Tutorial" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Sep 22, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/korean-glass-skin-treatment"
+                  class="text-decoration-none text-charcoal">Your Skin Will Never Look Like a Korean Glass Skin Tutorial and Here Is Why</a></h3>
+              <p class="card-text text-muted">What Korean glass skin actually requires, why Indian skin needs a completely different approach, and what the treatment delivers.</p>
+              <a href="blog/korean-glass-skin-treatment" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Pigmentation Rebound -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
