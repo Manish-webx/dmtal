@@ -183,7 +183,7 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/korean-glass-skin-treatment-for-indian-skin.jpg"
+              <img src="blog-thumb/what-if-hifu-goes-wrong-by-dermatales-dr-pooja.webp"
                 class="card-img-top" alt="Your Skin Will Never Look Like a Korean Glass Skin Tutorial" style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">

@@ -21,7 +21,7 @@ $page_title = "Your Skin Will Never Look Like a Korean Glass Skin Tutorial and H
     content="What Korean glass skin actually requires, why Indian skin needs a completely different approach, and what the treatment can genuinely deliver when done correctly.">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://www.dermatales.com/blog/korean-glass-skin-treatment">
-  <meta property="og:image" content="blog-thumb/korean-glass-skin-treatment-for-indian-skin.jpg">
+  <meta property="og:image" content="blog-thumb/what-if-hifu-goes-wrong-by-dermatales-dr-pooja.webp">
   <meta property="og:site_name" content="DermaTales">
 
   <title><?php echo $page_title; ?></title>
@@ -580,7 +580,7 @@ $page_title = "Your Skin Will Never Look Like a Korean Glass Skin Tutorial and H
             <div class="row justify-content-center">
               <div class="col-lg-12">
                 <div class="position-relative overflow-hidden rounded-3 mb-4 shadow-sm">
-                  <img src="blog-thumb/korean-glass-skin-treatment-for-indian-skin.jpg"
+                  <img src="blog-thumb/what-if-hifu-goes-wrong-by-dermatales-dr-pooja.webp"
                     class="img-fluid w-100 rounded-3" alt="Korean Glass Skin Treatment for Indian Skin at DermaTales"
                     style="object-fit: cover; max-height: 520px;">
                 </div>
