@@ -179,11 +179,32 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
-        <!-- Blog Card: Korean Glass Skin -->
+        <!-- Blog Card: HIFU Treatment -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/what-if-hifu-goes-wrong-by-dermatales-dr-pooja.webp"
+                class="card-img-top" alt="HIFU Destroyed My Patient's Skin and the Clinic That Did It Had No Idea Why" style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Sep 23, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a href="blog/hifu-destroyed-my-patients-skin-and-the-clinic-that-did-it-had-no-idea-why"
+                  class="text-decoration-none text-charcoal">HIFU Destroyed My Patient's Skin and the Clinic That Did It Had No Idea Why</a></h3>
+              <p class="card-text text-muted">Why HIFU is one of the most effective non-surgical face lifting treatments available and why it goes wrong more often than it should for Indian skin.</p>
+              <a href="blog/hifu-destroyed-my-patients-skin-and-the-clinic-that-did-it-had-no-idea-why" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog Card: Korean Glass Skin -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/korean-glass-skin-treatment-for-indian-skin.jpg"
                 class="card-img-top" alt="Your Skin Will Never Look Like a Korean Glass Skin Tutorial" style="height: 280px; object-fit: cover;">
             </div>
             <div class="card-body p-4 pb-2">
