@@ -241,9 +241,9 @@
         <span class="text-white">Patel Nagar</span>
       </nav>
       <div class="hero-layout">
-        <div class="hero-layout-text">
+        <div class="hero-layout-text" style="max-width: 850px;">
           <h1 class="hero-title-lux">Best Skin Clinic in <span class="italic">East Patel Nagar</span></h1>
-          <p class="section-lead text-white-50" style="max-width: 680px;">
+          <p class="section-lead text-white-50" style="max-width: 780px;">
             Expert dermatology, laser & aesthetic care — now serving East Patel Nagar, Rajendra Place, Old Rajendra
             Nagar & surrounding areas with the same world-class standard as our flagship Delhi & Gurgaon clinics.
           </p>
@@ -256,7 +256,6 @@
             </a>
           </div>
         </div>
-        <?php include 'hero-stats.php'; ?>
       </div>
     </div>
   </section>
