@@ -480,7 +480,7 @@ $page_title = "CoolSculpting Was Just Discontinued Globally — Here Is What Eve
               Most patients have no idea. That is the problem I am here to address.
             </p>
 
-            <hr class="my-5" style="border-color: #ebdcd5;">
+            <hr class="my-1" style="border-color: #ebdcd5;">
 
             <!-- ===================== SECTION 1 ===================== -->
             <h2 class="lux-section-title mt-4 mb-3">What CoolSculpting Was and Why It Was Discontinued</h2>
@@ -519,7 +519,7 @@ $page_title = "CoolSculpting Was Just Discontinued Globally — Here Is What Eve
               that should accompany an active medical device programme.
             </p>
 
-            <hr class="my-5" style="border-color: #ebdcd5;">
+            <hr class="my-1" style="border-color: #ebdcd5;">
 
             <!-- ===================== SECTION 2 ===================== -->
             <h2 class="lux-section-title mt-4 mb-3">What Indian Clinics Are Still Not Telling Patients About
@@ -562,7 +562,7 @@ $page_title = "CoolSculpting Was Just Discontinued Globally — Here Is What Eve
               this complication exists, what it looks like, and what the plan is if it occurs. Most are never told.
             </p>
 
-            <hr class="my-5" style="border-color: #ebdcd5;">
+            <hr class="my-1" style="border-color: #ebdcd5;">
 
             <!-- ===================== SECTION 3 ===================== -->
             <h2 class="lux-section-title mt-4 mb-3">What Actually Works for Non-Surgical Fat Reduction in 2026</h2>
