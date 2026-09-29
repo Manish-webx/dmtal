@@ -8,13 +8,13 @@ require 'PHPMailer/SMTP.php';
 require 'PHPMailer/Exception.php';
 
 // Form Data
-$name     = $_POST['name'] ?? '';
-$phone    = $_POST['phone'] ?? '';
-$email    = $_POST['email'] ?? '';
+$name = $_POST['name'] ?? '';
+$phone = $_POST['phone'] ?? '';
+$email = $_POST['email'] ?? '';
 $location = $_POST['location'] ?? '';
-$date     = $_POST['date'] ?? '';
-$url      = $_POST['url'] ?? '';
-$message  = $_POST['message'] ?? '';
+$date = $_POST['date'] ?? '';
+$url = $_POST['url'] ?? '';
+$message = $_POST['message'] ?? '';
 
 // Build message with date/page info if provided
 $fullMessage = $message;
@@ -32,11 +32,11 @@ if (!empty($extra)) {
 // ================= CRM API =================
 
 $crmData = [
-    'name'     => $name,
-    'phone'    => $phone,
-    'email'    => $email,
+    'name' => $name,
+    'phone' => $phone,
+    'email' => $email,
     'location' => $location,
-    'message'  => $fullMessage,
+    'message' => $fullMessage,
 ];
 
 try {
@@ -84,12 +84,12 @@ try {
     $mail->isSMTP();
     $mail->Host = 'smtp.hostinger.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'contact@retrofusion.in';
-    $mail->Password = '#tORTx2j30';
+    $mail->Username = 'info@cognivicdigital.com';
+    $mail->Password = 'Info@987--';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port = 465;
     // Email Settings
-    $mail->setFrom('contact@retrofusion.in', $name ?: 'Website Lead');
+    $mail->setFrom('info@cognivicdigital.com', $name ?: 'Website Lead');
     $mail->addAddress('manishkushwahaf7@gmail.com', $name ?: 'Website Lead'); // Add a recipient
     $mail->addAddress('dermatales@gmail.com', $name ?: 'Website Lead'); // Add a recipient
     $mail->Subject = 'New Lead DermaTales Website';
