@@ -425,7 +425,7 @@ $page_title = "PRP for Hair Loss Was the Gold Standard — Then GFC Came Along a
               outcomes for Indian patients.
             </p>
 
-            <hr class="my-5" style="border-color: #ebdcd5;">
+            <hr class="my-1" style="border-color: #ebdcd5;">
 
             <!-- ===================== SECTION 1 ===================== -->
             <h2 class="lux-section-title mt-4 mb-3">PRP for Hair Loss: What It Actually Does and Why It Worked</h2>
@@ -462,7 +462,7 @@ $page_title = "PRP for Hair Loss Was the Gold Standard — Then GFC Came Along a
               GFC was developed as an evolution of the PRP concept.
             </p>
 
-            <hr class="my-5" style="border-color: #ebdcd5;">
+            <hr class="my-1" style="border-color: #ebdcd5;">
 
             <!-- ===================== SECTION 2 ===================== -->
             <h2 class="lux-section-title mt-4 mb-3">What GFC Is and Why It Represents a Clinical Advancement Over PRP
@@ -618,7 +618,7 @@ $page_title = "PRP for Hair Loss Was the Gold Standard — Then GFC Came Along a
               without this assessment is the clinical equivalent of prescribing medication without a diagnosis.
             </p>
 
-            <hr class="my-5" style="border-color: #ebdcd5;">
+            <hr class="my-1" style="border-color: #ebdcd5;">
 
             <!-- ===================== SECTION 5: TIMELINE ===================== -->
             <h2 class="lux-section-title mt-4 mb-3">What Realistic Results Look Like and When to Expect Them</h2>
