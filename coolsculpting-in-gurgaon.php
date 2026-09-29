@@ -55,6 +55,9 @@
                 <h2 class="lux-section-title">Freeze Fat Away Naturally</h2>
                 <p>CoolSculpting utilizes advanced cryolipolysis technology to safely target and freeze fat cells under the skin. Once crystallized, these fat cells are naturally metabolized and eliminated by your body over the following weeks, leaving a more sculpted physique.</p>
                 <p>Our experts at DermaTales design personalized CoolSculpting treatment plans to target specific problem areas, ensuring smooth, natural-looking body contouring results without surgery or anaesthesia.</p>
+                <div class="p-3 my-3 rounded-3" style="background-color: #FAF6F2; border-left: 4px solid #B89965;">
+                  <p class="mb-0 text-charcoal small"><strong>Clinical Advisory:</strong> Wondering about global manufacturer updates regarding CoolSculpting? Read our comprehensive medical guide: <a href="blog/coolsculpting-discontinued-india" class="text-gold fw-bold text-decoration-underline">CoolSculpting Was Discontinued Globally: What Every Indian Patient Needs to Know</a>.</p>
+                </div>
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">

@@ -179,6 +179,30 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: PRP vs GFC Hair Loss -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/shift-from-prp-to-gfc-explained-by-dermatales.webp" class="card-img-top"
+                alt="PRP for Hair Loss Was the Gold Standard — Then GFC Came Along and Changed Everything"
+                style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Sep 25, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/prp-for-hair-loss-was-the-gold-standard-then-gfc-came-along-and-changed-everything"
+                  class="text-decoration-none text-charcoal">PRP for Hair Loss Was the Gold Standard — Then GFC Came Along and Changed Everything</a></h3>
+              <p class="card-text text-muted">Why PRP remains an effective hair loss treatment, what GFC does differently, and how to know which one your specific hair loss actually needs.</p>
+              <a href="blog/prp-for-hair-loss-was-the-gold-standard-then-gfc-came-along-and-changed-everything"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: HIFU Treatment -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
@@ -224,6 +248,30 @@ $page_title = "Blog | DermaTales";
               <p class="card-text text-muted">What Korean glass skin actually requires, why Indian skin needs a
                 completely different approach, and what the treatment delivers.</p>
               <a href="blog/korean-glass-skin-treatment" class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog Card: CoolSculpting Discontinued India -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/why-cool-sculpting-got-discontinued-explained-by-dermatales.webp" class="card-img-top"
+                alt="CoolSculpting Was Just Discontinued Globally: Here Is What Every Indian Patient Needs to Know"
+                style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Sep 15, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/coolsculpting-discontinued-india"
+                  class="text-decoration-none text-charcoal">CoolSculpting Was Just Discontinued Globally: Here Is What Every Indian Patient Needs to Know</a></h3>
+              <p class="card-text text-muted">Why CoolSculpting was pulled from the global market, what Indian clinics are still not telling patients, and what body contouring options actually work.</p>
+              <a href="blog/coolsculpting-discontinued-india"
+                class="btn-read-more">Read
                 Article <i class="bi bi-arrow-right-short"></i></a>
             </div>
           </div>

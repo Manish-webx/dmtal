@@ -72,7 +72,7 @@
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
                   <h5 class="fw-bold h6 mb-2">Precise Targeting</h5>
-                  <p class="small text-muted mb-0">Fat dissolving compounds are injected exactly into the problem area, eliminating fat from small zones that surgery or CoolSculpting cannot address.</p>
+                  <p class="small text-muted mb-0">Fat dissolving compounds are injected exactly into the problem area, eliminating fat from small zones that surgery or <a href="blog/coolsculpting-discontinued-india" class="text-gold fw-semibold">CoolSculpting</a> cannot address.</p>
                 </div>
               </div>
               <div class="col-md-4">
