@@ -450,8 +450,10 @@
       <div class="hero-layout">
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">Botox Treatment <span class="text-charcoal-deep italic">in Gurgaon</span></h1>
-          <p class="section-lead text-white-50" style="max-width: 650px;">
-            Trusted anti-wrinkle treatment led by Dr. Pooja Varshney, MD Dermatology. Precision Botulinum Toxin injections that smooth forehead lines, frown lines and crow's feet while keeping your expressions natural, all in under 15 minutes.
+          <p class="section-lead text-white-50">
+            Trusted anti-wrinkle treatment led by Dr. Pooja Varshney, MD Dermatology. Precision Botulinum Toxin
+            injections that smooth forehead lines, frown lines and crow's feet while keeping your expressions natural,
+            all in under 15 minutes.
           </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -462,45 +464,74 @@
   <!-- ===================== MAIN CONTENT & SIDEBAR ===================== -->
   <section class="section-padding pt-4">
     <div class="container-xl">
-      <div class="row g-5">
-        
+      <div class="row g-3">
+
         <!-- Main Content Column -->
         <div class="col-lg-9 order-lg-1 content-area">
-          
+
           <!-- SECTION 3: WHAT IS BOTOX TREATMENT? (EXPANDED) -->
           <div class="fade-up">
             <div class="row align-items-center g-5">
               <div class="col-md-7">
                 <h2 class="lux-section-title">What Is Botox Treatment?</h2>
                 <p>
-                  Botox treatment is a non-surgical procedure that uses a purified form of Botulinum Toxin Type A to relax the specific facial muscles responsible for expression lines. It is the most performed cosmetic treatment in the world, and at DermaTales in Gurgaon, it is one of the most requested treatments in our clinic every single month.
+                  Botox treatment is a non-surgical procedure that uses a purified form of Botulinum Toxin Type A to
+                  relax the specific facial muscles responsible for expression lines. It is the most performed cosmetic
+                  treatment in the world, and at DermaTales in Gurgaon, it is one of the most requested treatments in
+                  our clinic every single month.
                 </p>
                 <p>
-                  When you search for Botox treatment in Gurgaon, you will find dozens of clinics offering it. What actually decides your result is not the product name, it is the hands administering it. <a href="dr-pooja-varshney" style="text-decoration: underline; color: inherit; font-weight: 600;">Dr. Pooja Varshney, MD Dermatology</a>, plans every Botox treatment around your own facial anatomy rather than injecting a standard pattern into every patient. The muscles that create a frown line on one face are not positioned identically on another, so the dose and depth of every injection is customized during your consultation.
+                  When you search for Botox treatment in Gurgaon, you will find dozens of clinics offering it. What
+                  actually decides your result is not the product name, it is the hands administering it. <a
+                    href="dr-pooja-varshney" style="text-decoration: underline; color: inherit; font-weight: 600;">Dr.
+                    Pooja Varshney, MD Dermatology</a>, plans every Botox treatment around your own facial anatomy
+                  rather than injecting a standard pattern into every patient. The muscles that create a frown line on
+                  one face are not positioned identically on another, so the dose and depth of every injection is
+                  customized during your consultation.
                 </p>
-                <p>
-                  At DermaTales, every Botox treatment uses internationally sourced, FDA approved Botulinum Toxin that is stored at controlled temperatures and opened fresh for your session. Our approach is built around micro precision dosing. The goal of a good Botox treatment is never to freeze your face, it is to soften overactive muscles while your natural expressions, like a genuine smile or a raised eyebrow, still move the way they always have.
-                </p>
+
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
-                  <img src="images/BTX-treatment.webp" alt="Botox Treatment in Gurgaon by Dr. Pooja Varshney" class="img-fluid rounded-4 shadow-sm">
+                  <img src="images/BTX-treatment.webp" alt="Botox Treatment in Gurgaon by Dr. Pooja Varshney"
+                    class="img-fluid rounded-4 shadow-sm">
                 </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <p>
+                  At DermaTales, every Botox treatment uses internationally sourced, FDA approved Botulinum Toxin that
+                  is stored at controlled temperatures and opened fresh for your session. Our approach is built around
+                  micro precision dosing. The goal of a good Botox treatment is never to freeze your face, it is to
+                  soften overactive muscles while your natural expressions, like a genuine smile or a raised eyebrow,
+                  still move the way they always have.
+                </p>
               </div>
             </div>
           </div>
 
           <!-- SECTION 4: HOW BOTOX TREATMENT WORKS -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">How Botox Works</h2>
             <p>
-              When injected in tiny, precise doses, Botox blocks the release of <strong>acetylcholine</strong> — the neurotransmitter that signals muscles to contract. By temporarily inhibiting this signal at the neuromuscular junction, the targeted muscles relax, and the overlying skin smooths out. The effect is specific to the treated muscles; surrounding muscles continue to function normally, ensuring natural facial movement.
+              When injected in tiny, precise doses, Botox blocks the release of <strong>acetylcholine</strong> — the
+              neurotransmitter that signals muscles to contract. By temporarily inhibiting this signal at the
+              neuromuscular junction, the targeted muscles relax, and the overlying skin smooths out. The effect is
+              specific to the treated muscles; surrounding muscles continue to function normally, ensuring natural
+              facial movement.
             </p>
             <p>
-              Results typically begin to appear within <strong>3-5 days</strong>, with the full effect visible at 10-14 days. The relaxation effect lasts approximately 4-6 months. With regular treatments, many patients find that their muscles "learn" to relax, often requiring lower doses over time — a phenomenon known as the <strong>preventive effect</strong> of Botox.
+              Results typically begin to appear within <strong>3-5 days</strong>, with the full effect visible at 10-14
+              days. The relaxation effect lasts approximately 4-6 months. With regular treatments, many patients find
+              that their muscles "learn" to relax, often requiring lower doses over time — a phenomenon known as the
+              <strong>preventive effect</strong> of Botox.
             </p>
             <p class="p-3 rounded-3" style="background: #faf6f2; border-left: 4px solid #c97a63;">
-              This is why a Botox treatment feels almost immediate in how comfortable it is, yet takes a few days to visibly unfold. The muscle relaxation happens gradually as the protein takes effect, which is also why your two week review appointment at DermaTales matters. It lets Dr. Varshney fine tune the result while the effect is still settling.
+              This is why a Botox treatment feels almost immediate in how comfortable it is, yet takes a few days to
+              visibly unfold. The muscle relaxation happens gradually as the protein takes effect, which is also why
+              your two week review appointment at DermaTales matters. It lets Dr. Varshney fine tune the result while
+              the effect is still settling.
             </p>
           </div>
 
@@ -508,38 +539,63 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Botox for Face: One Treatment, Many Concerns</h2>
             <p>
-              Botox for face rejuvenation is not a single fixed procedure, it is a family of targeted injections that are chosen based on where your lines actually form. A good Botox for face plan at DermaTales usually combines two or three treatment zones rather than treating the whole face identically, because your forehead, your eye area and your mouth all age at different speeds and for different muscular reasons.
+              Botox for face rejuvenation is not a single fixed procedure, it is a family of targeted injections that
+              are chosen based on where your lines actually form. A good Botox for face plan at DermaTales usually
+              combines two or three treatment zones rather than treating the whole face identically, because your
+              forehead, your eye area and your mouth all age at different speeds and for different muscular reasons.
             </p>
 
             <!-- Forehead Lines -->
             <div class="concern-card">
-              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-dash-lg text-gold me-2"></i>Botox for Forehead Lines</h3>
+              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-dash-lg text-gold me-2"></i>Botox for Forehead
+                Lines</h3>
               <p class="mb-0 text-muted">
-                Forehead lines are usually the first sign patients notice, especially the horizontal creases that deepen every time you raise your eyebrows or look surprised. Botox for forehead lines works by relaxing the frontalis muscle, the broad muscle that runs across your forehead. Dr. Varshney doses this area conservatively and asymmetrically where needed, because full strength dosing here is one of the most common reasons people end up with a heavy, immobile looking brow. Results from Botox for forehead lines usually last three to four months in first time patients and slightly longer with repeated treatment.
+                Forehead lines are usually the first sign patients notice, especially the horizontal creases that deepen
+                every time you raise your eyebrows or look surprised. Botox for forehead lines works by relaxing the
+                frontalis muscle, the broad muscle that runs across your forehead. Dr. Varshney doses this area
+                conservatively and asymmetrically where needed, because full strength dosing here is one of the most
+                common reasons people end up with a heavy, immobile looking brow. Results from Botox for forehead lines
+                usually last three to four months in first time patients and slightly longer with repeated treatment.
               </p>
             </div>
 
             <!-- Frown Lines -->
             <div class="concern-card">
-              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-pause text-gold me-2"></i>Botox for Frown Lines</h3>
+              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-pause text-gold me-2"></i>Botox for Frown Lines
+              </h3>
               <p class="mb-0 text-muted">
-                The vertical lines between your eyebrows, often called the elevens or glabellar lines, form from the corrugator and procerus muscles. Botox for frown lines is one of the most requested treatments at DermaTales because these lines can make a rested face look angry or tired even when you feel neither. A well planned Botox for frown lines session softens the furrow without pulling your brows into an unnatural arch, which is a common mistake in less experienced hands.
+                The vertical lines between your eyebrows, often called the elevens or glabellar lines, form from the
+                corrugator and procerus muscles. Botox for frown lines is one of the most requested treatments at
+                DermaTales because these lines can make a rested face look angry or tired even when you feel neither. A
+                well planned Botox for frown lines session softens the furrow without pulling your brows into an
+                unnatural arch, which is a common mistake in less experienced hands.
               </p>
             </div>
 
             <!-- Crow's Feet -->
             <div class="concern-card">
-              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-eye text-gold me-2"></i>Botox for Crow's Feet</h3>
+              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-eye text-gold me-2"></i>Botox for Crow's Feet
+              </h3>
               <p class="mb-0 text-muted">
-                The fine lines that fan out from the outer corner of your eyes when you smile or squint are treated with Botox for crow's feet. This area needs a particularly light, superficial injection technique because the skin here is thin and the underlying muscle sits close to the surface. Dr. Varshney keeps the dosing conservative around the lower lash line so that your smile still reaches your eyes naturally, a detail that matters more here than in any other treatment zone.
+                The fine lines that fan out from the outer corner of your eyes when you smile or squint are treated with
+                Botox for crow's feet. This area needs a particularly light, superficial injection technique because the
+                skin here is thin and the underlying muscle sits close to the surface. Dr. Varshney keeps the dosing
+                conservative around the lower lash line so that your smile still reaches your eyes naturally, a detail
+                that matters more here than in any other treatment zone.
               </p>
             </div>
 
             <!-- Lip Lines -->
             <div class="concern-card">
-              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-chat-quote text-gold me-2"></i>Botox for Lip Lines</h3>
+              <h3 class="h5 fw-bold text-charcoal mb-2"><i class="bi bi-chat-quote text-gold me-2"></i>Botox for Lip
+                Lines</h3>
               <p class="mb-0 text-muted">
-                Fine vertical lines above the upper lip, sometimes called lipstick lines or smoker's lines, respond well to Botox for lip lines when it is dosed carefully. Because the muscles around the mouth also control speech and eating, this is one of the more technique sensitive uses of Botox and should only be done by a dermatologist who treats this area regularly. Botox for lip lines at DermaTales is done in very small, precise units to soften the lines without affecting your ability to purse your lips or pronounce words clearly.
+                Fine vertical lines above the upper lip, sometimes called lipstick lines or smoker's lines, respond well
+                to Botox for lip lines when it is dosed carefully. Because the muscles around the mouth also control
+                speech and eating, this is one of the more technique sensitive uses of Botox and should only be done by
+                a dermatologist who treats this area regularly. Botox for lip lines at DermaTales is done in very small,
+                precise units to soften the lines without affecting your ability to purse your lips or pronounce words
+                clearly.
               </p>
             </div>
           </div>
@@ -548,25 +604,30 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Treatment Areas</h2>
             <p class="text-muted">
-              Beyond individual concerns, Botox treatment in Gurgaon at DermaTales is organised into three broad zones so you can see the full range of what a single session can address.
+              Beyond individual concerns, Botox treatment in Gurgaon at DermaTales is organised into three broad zones
+              so you can see the full range of what a single session can address.
             </p>
             <div class="row g-4 mt-1">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-2">Upper Face</h5>
-                  <p class="small text-muted mb-0">Forehead lines, glabellar frown lines (11s), crow's feet, and brow lifting for a refreshed, lifted look.</p>
+                  <p class="small text-muted mb-0">Forehead lines, glabellar frown lines (11s), crow's feet, and brow
+                    lifting for a refreshed, lifted look.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-2">Mid &amp; Lower Face</h5>
-                  <p class="small text-muted mb-0">Bunny lines, gummy smile correction, lip flip, chin dimpling, and <a href="threads-in-gurgaon" style="text-decoration: underline; color: inherit;">jawline slimming</a> (masseter Botox).</p>
+                  <p class="small text-muted mb-0">Bunny lines, gummy smile correction, lip flip, chin dimpling, and <a
+                      href="threads-in-gurgaon" style="text-decoration: underline; color: inherit;">jawline slimming</a>
+                    (masseter Botox).</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3 h-100">
                   <h5 class="fw-bold h6 mb-2">Neck &amp; Beyond</h5>
-                  <p class="small text-muted mb-0">Nefertiti neck lift, platysmal bands, and hyperhidrosis (excessive sweating) in palms and underarms.</p>
+                  <p class="small text-muted mb-0">Nefertiti neck lift, platysmal bands, and hyperhidrosis (excessive
+                    sweating) in palms and underarms.</p>
                 </div>
               </div>
             </div>
@@ -577,24 +638,34 @@
             <div class="row g-4">
               <div class="col-md-6">
                 <div class="candidate-card candidate-card-ideal h-100">
-                  <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal Candidates</h3>
+                  <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-person-check-fill text-gold me-2"></i>Ideal
+                    Candidates</h3>
                   <ul class="candidate-list">
-                    <li><i class="bi bi-check2 text-gold"></i>Individuals with visible forehead lines, frown lines, or crow's feet.</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Young adults seeking preventive anti-aging treatment (late 20s-30s).</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Patients wanting jawline slimming or gummy smile correction.</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Those seeking treatment for excessive sweating (hyperhidrosis).</li>
-                    <li><i class="bi bi-check2 text-gold"></i>Anyone comparing wrinkles treatment in Gurgaon options and looking for a conservative, natural result rather than a dramatic change.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Individuals with visible forehead lines, frown lines, or
+                      crow's feet.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Young adults seeking preventive anti-aging treatment (late
+                      20s-30s).</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Patients wanting jawline slimming or gummy smile
+                      correction.</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Those seeking treatment for excessive sweating
+                      (hyperhidrosis).</li>
+                    <li><i class="bi bi-check2 text-gold"></i>Anyone comparing wrinkles treatment in Gurgaon options and
+                      looking for a conservative, natural result rather than a dramatic change.</li>
                   </ul>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="candidate-card candidate-card-avoid h-100">
-                  <h3 class="h5 fw-bold mb-4 text-charcoal"><i class="bi bi-exclamation-triangle-fill text-muted me-2"></i>Who Should Avoid</h3>
+                  <h3 class="h5 fw-bold mb-4 text-charcoal"><i
+                      class="bi bi-exclamation-triangle-fill text-muted me-2"></i>Who Should Avoid</h3>
                   <ul class="candidate-list">
                     <li><i class="bi bi-x-lg text-danger small pt-1"></i>Pregnant or breastfeeding women.</li>
-                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Individuals with neuromuscular disorders (e.g., myasthenia gravis).</li>
-                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Those with known allergy to botulinum toxin or albumin.</li>
-                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Patients with active skin infections at the injection site.</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Individuals with neuromuscular disorders (e.g.,
+                      myasthenia gravis).</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Those with known allergy to botulinum toxin or
+                      albumin.</li>
+                    <li><i class="bi bi-x-lg text-danger small pt-1"></i>Patients with active skin infections at the
+                      injection site.</li>
                   </ul>
                 </div>
               </div>
@@ -607,19 +678,23 @@
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">Dynamic Muscle Assessment</h4>
-                <p class="small text-muted">You'll be asked to make a series of facial expressions — frown, smile, raise eyebrows — so the doctor can map the exact muscles causing your wrinkles.</p>
+                <p class="small text-muted">You'll be asked to make a series of facial expressions — frown, smile, raise
+                  eyebrows — so the doctor can map the exact muscles causing your wrinkles.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Injection Point Marking</h4>
-                <p class="small text-muted">Precise injection points are marked on the skin based on your unique muscle anatomy and aesthetic goals.</p>
+                <p class="small text-muted">Precise injection points are marked on the skin based on your unique muscle
+                  anatomy and aesthetic goals.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Micro-Dose Injection</h4>
-                <p class="small text-muted">Using ultra-fine needles (30-32 gauge), tiny doses of Botox are injected at each marked point. The entire process takes 10-15 minutes.</p>
+                <p class="small text-muted">Using ultra-fine needles (30-32 gauge), tiny doses of Botox are injected at
+                  each marked point. The entire process takes 10-15 minutes.</p>
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Results &amp; Follow-Up</h4>
-                <p class="small text-muted">Effects begin at 3-5 days and peak at 10-14 days. A complimentary review at 2 weeks allows fine-tuning if needed.</p>
+                <p class="small text-muted">Effects begin at 3-5 days and peak at 10-14 days. A complimentary review at
+                  2 weeks allows fine-tuning if needed.</p>
               </div>
             </div>
           </div>
@@ -628,7 +703,8 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Botox Results Timeline: What to Expect and When</h2>
             <p>
-              One of the most common questions patients ask before their Botox treatment is simple: when will I actually see it working? Here is the realistic timeline Dr. Varshney shares with every patient at DermaTales.
+              One of the most common questions patients ask before their Botox treatment is simple: when will I actually
+              see it working? Here is the realistic timeline Dr. Varshney shares with every patient at DermaTales.
             </p>
 
             <div class="mt-4">
@@ -636,7 +712,8 @@
                 <div class="timeline-step-badge">Day 1 to 3</div>
                 <div>
                   <h4 class="h6 fw-bold text-charcoal mb-1">Cellular Binding &amp; Settling</h4>
-                  <p class="small text-muted mb-0">No visible change yet. The toxin is binding to the nerve endings, and any redness or tiny bump at the injection site settles within a few hours.</p>
+                  <p class="small text-muted mb-0">No visible change yet. The toxin is binding to the nerve endings, and
+                    any redness or tiny bump at the injection site settles within a few hours.</p>
                 </div>
               </div>
 
@@ -644,7 +721,8 @@
                 <div class="timeline-step-badge">Day 3 to 5</div>
                 <div>
                   <h4 class="h6 fw-bold text-charcoal mb-1">Initial Muscle Softening</h4>
-                  <p class="small text-muted mb-0">The earliest signs of muscle relaxation appear. You may notice you can no longer scrunch your forehead as hard as before.</p>
+                  <p class="small text-muted mb-0">The earliest signs of muscle relaxation appear. You may notice you
+                    can no longer scrunch your forehead as hard as before.</p>
                 </div>
               </div>
 
@@ -652,7 +730,8 @@
                 <div class="timeline-step-badge">Day 7 to 10</div>
                 <div>
                   <h4 class="h6 fw-bold text-charcoal mb-1">Visible Line Smoothing</h4>
-                  <p class="small text-muted mb-0">Most patients see a clear, visible improvement in their treated lines at this stage.</p>
+                  <p class="small text-muted mb-0">Most patients see a clear, visible improvement in their treated lines
+                    at this stage.</p>
                 </div>
               </div>
 
@@ -660,7 +739,9 @@
                 <div class="timeline-step-badge" style="background: #c97a63;">Day 14</div>
                 <div>
                   <h4 class="h6 fw-bold text-charcoal mb-1">Full Peak Effect &amp; Complimentary Review</h4>
-                  <p class="small text-muted mb-0">This is when the effect is fully settled, which is exactly why DermaTales books a complimentary two week review. If any area needs a small touch up for symmetry, it is done at this visit at no extra cost.</p>
+                  <p class="small text-muted mb-0">This is when the effect is fully settled, which is exactly why
+                    DermaTales books a complimentary two week review. If any area needs a small touch up for symmetry,
+                    it is done at this visit at no extra cost.</p>
                 </div>
               </div>
 
@@ -668,7 +749,8 @@
                 <div class="timeline-step-badge">Month 3 to 4</div>
                 <div>
                   <h4 class="h6 fw-bold text-charcoal mb-1">Gradual Wear Off</h4>
-                  <p class="small text-muted mb-0">The relaxation effect gradually starts to wear off as muscle activity slowly returns.</p>
+                  <p class="small text-muted mb-0">The relaxation effect gradually starts to wear off as muscle activity
+                    slowly returns.</p>
                 </div>
               </div>
 
@@ -676,13 +758,16 @@
                 <div class="timeline-step-badge">Month 4 to 6</div>
                 <div>
                   <h4 class="h6 fw-bold text-charcoal mb-1">Preventive Muscle Training</h4>
-                  <p class="small text-muted mb-0">With repeated Botox treatment over time, many patients find the muscles "learn" to relax, and the gap between sessions gets longer.</p>
+                  <p class="small text-muted mb-0">With repeated Botox treatment over time, many patients find the
+                    muscles "learn" to relax, and the gap between sessions gets longer.</p>
                 </div>
               </div>
             </div>
 
             <p class="small text-muted mt-2">
-              <em>If you are two weeks past your Botox treatment and still see very little change, this is worth mentioning at your review rather than waiting it out, since it may need a small top up rather than a full new session.</em>
+              <em>If you are two weeks past your Botox treatment and still see very little change, this is worth
+                mentioning at your review rather than waiting it out, since it may need a small top up rather than a
+                full new session.</em>
             </p>
           </div>
 
@@ -690,7 +775,10 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Much Does Botox Treatment Cost in Gurgaon?</h2>
             <p>
-              Botox treatment cost in Gurgaon is calculated per unit, not as a flat fee per area, and this is where a lot of confusion comes from when patients compare clinics. The number of units needed depends on the muscle strength being treated, your gender (men typically need more units for the forehead due to stronger muscle mass), and how many zones you are treating together.
+              Botox treatment cost in Gurgaon is calculated per unit, not as a flat fee per area, and this is where a
+              lot of confusion comes from when patients compare clinics. The number of units needed depends on the
+              muscle strength being treated, your gender (men typically need more units for the forehead due to stronger
+              muscle mass), and how many zones you are treating together.
             </p>
 
             <p class="fw-bold text-charcoal mb-2">Typical Units Guide Across Gurgaon Clinics:</p>
@@ -728,13 +816,20 @@
             </div>
 
             <p class="mt-3">
-              Per unit pricing in Gurgaon typically ranges based on the clinic, the brand of Botulinum Toxin used, and the treating doctor's experience. At your consultation, Dr. Varshney will examine your muscle strength in person and give you an exact unit count and quote before any injection is done. There is no advance payment required just to know your price.
+              Per unit pricing in Gurgaon typically ranges based on the clinic, the brand of Botulinum Toxin used, and
+              the treating doctor's experience. At your consultation, Dr. Varshney will examine your muscle strength in
+              person and give you an exact unit count and quote before any injection is done. There is no advance
+              payment required just to know your price.
             </p>
 
-            <div class="p-3 rounded-3 mt-3" style="background: rgba(220, 53, 69, 0.05); border-left: 4px solid #dc3545;">
-              <h5 class="h6 fw-bold text-danger mb-1"><i class="bi bi-shield-exclamation me-1"></i> A Word of Caution on Cheap Botox</h5>
+            <div class="p-3 rounded-3 mt-3"
+              style="background: rgba(220, 53, 69, 0.05); border-left: 4px solid #dc3545;">
+              <h5 class="h6 fw-bold text-danger mb-1"><i class="bi bi-shield-exclamation me-1"></i> A Word of Caution on
+                Cheap Botox</h5>
               <p class="small text-muted mb-0">
-                An unusually cheap Botox treatment cost in Gurgaon is a red flag, not a bargain. It often means diluted product, an unlicensed source, or a provider who is not a qualified dermatologist. Genuine, FDA approved Botulinum Toxin has a real cost, and a price that seems too good to be true usually is.
+                An unusually cheap Botox treatment cost in Gurgaon is a red flag, not a bargain. It often means diluted
+                product, an unlicensed source, or a provider who is not a qualified dermatologist. Genuine, FDA approved
+                Botulinum Toxin has a real cost, and a price that seems too good to be true usually is.
               </p>
             </div>
           </div>
@@ -743,13 +838,15 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Botox Aftercare Tips</h2>
             <p>
-              Aftercare is simple, but it does matter for how evenly your Botox treatment settles. Here is what Dr. Varshney recommends to every patient before they leave the clinic:
+              Aftercare is simple, but it does matter for how evenly your Botox treatment settles. Here is what Dr.
+              Varshney recommends to every patient before they leave the clinic:
             </p>
 
             <div class="row g-4 mt-1">
               <div class="col-md-4">
                 <div class="p-3 rounded-3 h-100" style="background: #faf8f5; border: 1px solid #ebdcd5;">
-                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-clock-history text-gold me-2"></i>First 4 Hours</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-clock-history text-gold me-2"></i>First 4
+                    Hours</h4>
                   <ul class="small text-muted ps-3 mb-0" style="line-height: 1.6;">
                     <li>Stay upright. Do not lie down flat, take a nap, or bend forward for extended periods.</li>
                     <li>Do not rub, massage, or apply pressure to the treated area.</li>
@@ -760,7 +857,8 @@
 
               <div class="col-md-4">
                 <div class="p-3 rounded-3 h-100" style="background: #fff8f5; border: 1px solid #ebd4cb;">
-                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-calendar2-day text-gold me-2"></i>Rest of Day One</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-calendar2-day text-gold me-2"></i>Rest of
+                    Day One</h4>
                   <ul class="small text-muted ps-3 mb-0" style="line-height: 1.6;">
                     <li>Skip the gym, yoga, and any strenuous exercise.</li>
                     <li>Avoid alcohol, since it can slightly increase bruising risk.</li>
@@ -772,9 +870,11 @@
 
               <div class="col-md-4">
                 <div class="p-3 rounded-3 h-100" style="background: #f4f8fb; border: 1px solid #d0e1ee;">
-                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-check2-circle text-primary me-2"></i>Following Days</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-2"><i
+                      class="bi bi-check2-circle text-primary me-2"></i>Following Days</h4>
                   <ul class="small text-muted ps-3 mb-0" style="line-height: 1.6;">
-                    <li>Mild redness or a small bump at injection sites usually settles within a few hours to a day.</li>
+                    <li>Mild redness or a small bump at injection sites usually settles within a few hours to a day.
+                    </li>
                     <li>Makeup can be applied gently after 4 hours without pressing or rubbing.</li>
                     <li>Keep your 2-week review appointment to ensure perfect symmetry and results.</li>
                   </ul>
@@ -783,7 +883,8 @@
             </div>
 
             <p class="small text-muted mt-3 mb-0">
-              Following these simple steps is one of the easiest ways to protect the result of your Botox treatment and reduce the small risks of bruising or uneven settling.
+              Following these simple steps is one of the easiest ways to protect the result of your Botox treatment and
+              reduce the small risks of bruising or uneven settling.
             </p>
           </div>
 
@@ -791,7 +892,9 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Is Botox Safe? Common Fears and Real Facts</h2>
             <p>
-              Botox has one of the longest safety track records of any cosmetic treatment, with decades of clinical use for both medical and aesthetic purposes. Still, it carries a reputation built more on myths than facts. Here is what Dr. Varshney tells patients who come in nervous about their first Botox treatment.
+              Botox has one of the longest safety track records of any cosmetic treatment, with decades of clinical use
+              for both medical and aesthetic purposes. Still, it carries a reputation built more on myths than facts.
+              Here is what Dr. Varshney tells patients who come in nervous about their first Botox treatment.
             </p>
 
             <div class="fear-fact-grid">
@@ -799,40 +902,55 @@
               <div class="fear-fact-card">
                 <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "My face will look frozen."</div>
                 <div class="fact-pill"><i class="bi bi-check-circle-fill"></i> Fact: Natural Movement Preserved</div>
-                <p class="small text-muted mb-0">A frozen look is almost always the result of overdosing, not a property of Botox itself. Conservative, muscle specific dosing is what allows your expressions to move naturally while the deep lines soften.</p>
+                <p class="small text-muted mb-0">A frozen look is almost always the result of overdosing, not a property
+                  of Botox itself. Conservative, muscle specific dosing is what allows your expressions to move
+                  naturally while the deep lines soften.</p>
               </div>
 
               <!-- Fear 2 -->
               <div class="fear-fact-card">
-                <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "It's toxic, so it must be dangerous."</div>
+                <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "It's toxic, so it must be dangerous."
+                </div>
                 <div class="fact-pill"><i class="bi bi-check-circle-fill"></i> Fact: Highly Purified Micro-Doses</div>
-                <p class="small text-muted mb-0">Botulinum Toxin is used in tiny, medically calculated micro doses that stay localised to the injected muscle. It has been approved by regulatory bodies worldwide for both cosmetic and medical use, including for migraines and excessive sweating.</p>
+                <p class="small text-muted mb-0">Botulinum Toxin is used in tiny, medically calculated micro doses that
+                  stay localised to the injected muscle. It has been approved by regulatory bodies worldwide for both
+                  cosmetic and medical use, including for migraines and excessive sweating.</p>
               </div>
 
               <!-- Fear 3 -->
               <div class="fear-fact-card">
                 <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "Once you start, you can't stop."</div>
-                <div class="fact-pill"><i class="bi bi-check-circle-fill"></i> Fact: Completely Optional &amp; Reversible</div>
-                <p class="small text-muted mb-0">Botox treatment is entirely optional at every stage. If you stop future sessions, your muscles simply return to their natural movement over three to six months. There is no dependency or rebound effect.</p>
+                <div class="fact-pill"><i class="bi bi-check-circle-fill"></i> Fact: Completely Optional &amp;
+                  Reversible</div>
+                <p class="small text-muted mb-0">Botox treatment is entirely optional at every stage. If you stop future
+                  sessions, your muscles simply return to their natural movement over three to six months. There is no
+                  dependency or rebound effect.</p>
               </div>
 
               <!-- Fear 4 -->
               <div class="fear-fact-card">
-                <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "It will spread to other parts of my face."</div>
+                <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "It will spread to other parts of my
+                  face."</div>
                 <div class="fact-pill"><i class="bi bi-check-circle-fill"></i> Fact: Localized Muscle Action</div>
-                <p class="small text-muted mb-0">When injected correctly by a trained dermatologist at the right depth and location, Botox stays within the targeted muscle. This is exactly why choosing an experienced, qualified doctor for your Botox treatment matters more than the brand of product used.</p>
+                <p class="small text-muted mb-0">When injected correctly by a trained dermatologist at the right depth
+                  and location, Botox stays within the targeted muscle. This is exactly why choosing an experienced,
+                  qualified doctor for your Botox treatment matters more than the brand of product used.</p>
               </div>
 
               <!-- Fear 5 -->
               <div class="fear-fact-card">
                 <div class="fear-pill"><i class="bi bi-x-circle-fill"></i> Fear: "The needle will hurt a lot."</div>
                 <div class="fact-pill"><i class="bi bi-check-circle-fill"></i> Fact: Minimal Quick Pinch</div>
-                <p class="small text-muted mb-0">The needles used are extremely fine, and most patients describe the sensation as a quick pinch rather than pain. Numbing cream is available for patients with lower pain tolerance.</p>
+                <p class="small text-muted mb-0">The needles used are extremely fine, and most patients describe the
+                  sensation as a quick pinch rather than pain. Numbing cream is available for patients with lower pain
+                  tolerance.</p>
               </div>
             </div>
 
             <p class="small text-muted mt-3">
-              If you are considering Botox treatment in Gurgaon and have a specific fear that is not listed here, bring it up directly at your consultation. A good dermatologist would rather spend ten extra minutes answering your questions than have you walk in anxious.
+              If you are considering Botox treatment in Gurgaon and have a specific fear that is not listed here, bring
+              it up directly at your consultation. A good dermatologist would rather spend ten extra minutes answering
+              your questions than have you walk in anxious.
             </p>
           </div>
 
@@ -840,21 +958,36 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How to Find the Best Botox Doctor in Gurgaon</h2>
             <p>
-              With so many clinics offering Botox treatment in Gurgaon, choosing the right doctor matters far more than choosing the right clinic name. Botox is a prescription medical procedure, and the person holding the needle should be a qualified dermatologist or a doctor with dedicated aesthetic training, not a beautician or a technician working under a doctor's name on paper.
+              With so many clinics offering Botox treatment in Gurgaon, choosing the right doctor matters far more than
+              choosing the right clinic name. Botox is a prescription medical procedure, and the person holding the
+              needle should be a qualified dermatologist or a doctor with dedicated aesthetic training, not a beautician
+              or a technician working under a doctor's name on paper.
             </p>
 
             <h3 class="h5 fw-bold text-charcoal mt-3 mb-3">Here is what to actually check before you book:</h3>
             <ul class="ps-3 text-muted small" style="line-height: 1.75;">
-              <li><strong>Medical qualification:</strong> Look for a doctor with an MD in Dermatology, or an equivalent medical degree with documented aesthetic training. Dr. Pooja Varshney at DermaTales holds an MD in Dermatology along with a Fellowship in Cosmetology, and has over 10 years of clinical experience.</li>
-              <li><strong>Experience with your specific concern:</strong> A doctor who has treated thousands of patients for forehead lines may still be less experienced with lip lines or jawline slimming. Ask directly how many patients they have treated for your specific concern.</li>
-              <li><strong>Product transparency:</strong> The best Botox doctor in Gurgaon will tell you exactly which brand of Botulinum Toxin they are using, show you the sealed vial before injecting, and never hesitate to answer questions about sourcing.</li>
-              <li><strong>A real consultation, not a sales pitch:</strong> A genuine consultation involves the doctor examining your muscle strength, asking about your medical history, and setting realistic expectations, even if that means recommending fewer units than you expected.</li>
-              <li><strong>Before and after transparency:</strong> Ask to see real results from patients with a similar concern to yours, not just generic stock photography.</li>
+              <li><strong>Medical qualification:</strong> Look for a doctor with an MD in Dermatology, or an equivalent
+                medical degree with documented aesthetic training. Dr. Pooja Varshney at DermaTales holds an MD in
+                Dermatology along with a Fellowship in Cosmetology, and has over 10 years of clinical experience.</li>
+              <li><strong>Experience with your specific concern:</strong> A doctor who has treated thousands of patients
+                for forehead lines may still be less experienced with lip lines or jawline slimming. Ask directly how
+                many patients they have treated for your specific concern.</li>
+              <li><strong>Product transparency:</strong> The best Botox doctor in Gurgaon will tell you exactly which
+                brand of Botulinum Toxin they are using, show you the sealed vial before injecting, and never hesitate
+                to answer questions about sourcing.</li>
+              <li><strong>A real consultation, not a sales pitch:</strong> A genuine consultation involves the doctor
+                examining your muscle strength, asking about your medical history, and setting realistic expectations,
+                even if that means recommending fewer units than you expected.</li>
+              <li><strong>Before and after transparency:</strong> Ask to see real results from patients with a similar
+                concern to yours, not just generic stock photography.</li>
             </ul>
 
             <div class="botox-section-card mt-4" style="background: #faf8f5;">
-              <h3 class="h5 fw-bold text-charcoal mb-3">What Questions Should You Ask Your Botox Doctor Before Treatment?</h3>
-              <p class="small text-muted mb-3">Walking into a Botox treatment session without asking questions is one of the most common regrets patients share after a bad experience elsewhere. Before your appointment, ask:</p>
+              <h3 class="h5 fw-bold text-charcoal mb-3">What Questions Should You Ask Your Botox Doctor Before
+                Treatment?</h3>
+              <p class="small text-muted mb-3">Walking into a Botox treatment session without asking questions is one of
+                the most common regrets patients share after a bad experience elsewhere. Before your appointment, ask:
+              </p>
               <ul class="ps-3 small text-muted mb-3" style="line-height: 1.7;">
                 <li>What is your medical qualification and how many years have you been performing Botox treatment?</li>
                 <li>Which brand of Botulinum Toxin do you use, and is it FDA approved?</li>
@@ -865,7 +998,8 @@
                 <li>What happens if I experience an unexpected reaction?</li>
               </ul>
               <p class="small text-muted mb-0">
-                At DermaTales, every one of these questions is welcomed and answered clearly during your consultation with Dr. Varshney, before a single injection is planned.
+                At DermaTales, every one of these questions is welcomed and answered clearly during your consultation
+                with Dr. Varshney, before a single injection is planned.
               </p>
             </div>
           </div>
@@ -874,14 +1008,24 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Can You Get Botox If You Have Sensitive Skin?</h2>
             <p>
-              Yes, in most cases. Botox treatment works at the level of the muscle, not the surface of the skin, so it behaves differently from topical products or chemical peels that sensitive skin often reacts to. Patients with rosacea, eczema prone skin, or general sensitivity can usually undergo Botox treatment safely, since the injection bypasses the skin barrier entirely rather than sitting on it.
+              Yes, in most cases. Botox treatment works at the level of the muscle, not the surface of the skin, so it
+              behaves differently from topical products or chemical peels that sensitive skin often reacts to. Patients
+              with rosacea, eczema prone skin, or general sensitivity can usually undergo Botox treatment safely, since
+              the injection bypasses the skin barrier entirely rather than sitting on it.
             </p>
             <p class="fw-bold text-charcoal mb-2">Important Precautions for Sensitive Skin:</p>
             <ul class="ps-3 text-muted small" style="line-height: 1.7;">
-              <li>Tell Dr. Varshney about any active flare up, such as an eczema patch or active rosacea redness, at the injection site itself. Treatment may be delayed on actively inflamed skin until it calms down.</li>
-              <li>Mention any known allergies, particularly to lidocaine if numbing cream is used, or to any component of the Botulinum Toxin formulation.</li>
-              <li>Sensitive skin may show slightly more visible redness at the injection points immediately after treatment. This is cosmetic and settles within a few hours; it does not affect how well the Botox treatment works.</li>
-              <li>If you have a diagnosed skin condition, bring your dermatology history to your consultation so Dr. Varshney can plan around it rather than working it out afterward. (For broader firmness concerns, non-invasive modalities like <a href="hifu-in-gurgaon" style="text-decoration: underline; color: inherit;">HIFU Tightening</a> can also be evaluated).</li>
+              <li>Tell Dr. Varshney about any active flare up, such as an eczema patch or active rosacea redness, at the
+                injection site itself. Treatment may be delayed on actively inflamed skin until it calms down.</li>
+              <li>Mention any known allergies, particularly to lidocaine if numbing cream is used, or to any component
+                of the Botulinum Toxin formulation.</li>
+              <li>Sensitive skin may show slightly more visible redness at the injection points immediately after
+                treatment. This is cosmetic and settles within a few hours; it does not affect how well the Botox
+                treatment works.</li>
+              <li>If you have a diagnosed skin condition, bring your dermatology history to your consultation so Dr.
+                Varshney can plan around it rather than working it out afterward. (For broader firmness concerns,
+                non-invasive modalities like <a href="hifu-in-gurgaon"
+                  style="text-decoration: underline; color: inherit;">HIFU Tightening</a> can also be evaluated).</li>
             </ul>
           </div>
 
@@ -889,7 +1033,8 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Botox vs Filler: Which One Do You Actually Need?</h2>
             <p>
-              This is one of the most common points of confusion we see at DermaTales, and getting it wrong means paying for a treatment that will not fix your actual concern.
+              This is one of the most common points of confusion we see at DermaTales, and getting it wrong means paying
+              for a treatment that will not fix your actual concern.
             </p>
 
             <div class="table-responsive">
@@ -932,7 +1077,14 @@
             </div>
 
             <p class="mt-3">
-              A simple way to check which one you need: look in the mirror with a completely relaxed, still face. If your lines disappear, Botox treatment is likely your answer. If the lines or hollows are still visible even when your face is at rest, filler is what you are looking for. Many patients at DermaTales actually need a combination of both, which is exactly why this is a conversation to have at your consultation rather than deciding for yourself before you walk in. You can read more on our <a href="filler-treatment-in-gurgaon" style="text-decoration: underline; color: #c97a63; font-weight: 600;">Dermal Filler Treatment</a> page if volume loss sounds closer to your concern.
+              A simple way to check which one you need: look in the mirror with a completely relaxed, still face. If
+              your lines disappear, Botox treatment is likely your answer. If the lines or hollows are still visible
+              even when your face is at rest, filler is what you are looking for. Many patients at DermaTales actually
+              need a combination of both, which is exactly why this is a conversation to have at your consultation
+              rather than deciding for yourself before you walk in. You can read more on our <a
+                href="filler-treatment-in-gurgaon"
+                style="text-decoration: underline; color: #c97a63; font-weight: 600;">Dermal Filler Treatment</a> page
+              if volume loss sounds closer to your concern.
             </p>
           </div>
 
@@ -940,7 +1092,9 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Why Choose DermaTales for Botox Treatment?</h2>
             <p class="text-muted">
-              Whether you are addressing early expression lines or exploring comprehensive <a href="aging-face-treatment-in-gurgaon" style="text-decoration: underline; color: inherit;">aging face treatment</a>, our clinic provides dermatologist-supervised care designed for safety and elegance.
+              Whether you are addressing early expression lines or exploring comprehensive <a
+                href="aging-face-treatment-in-gurgaon" style="text-decoration: underline; color: inherit;">aging face
+                treatment</a>, our clinic provides dermatologist-supervised care designed for safety and elegance.
             </p>
             <div class="feature-list-lux">
               <!-- Feature 1 -->
@@ -948,34 +1102,38 @@
                 <div class="feature-list-icon"><i class="bi bi-shield-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Genuine Products Only</h4>
-                  <p>We exclusively use internationally sourced, FDA-approved Botox products. Every vial is stored at controlled temperatures and opened fresh for your session.</p>
+                  <p>We exclusively use internationally sourced, FDA-approved Botox products. Every vial is stored at
+                    controlled temperatures and opened fresh for your session.</p>
                 </div>
               </div>
-              
+
               <!-- Feature 2 -->
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-compass"></i></div>
                 <div class="feature-list-content">
                   <h4>Micro-Precision Technique</h4>
-                  <p>Dr. Varshney's approach focuses on targeted, conservative dosing — smoothing wrinkles while preserving the natural muscle dynamics of your face.</p>
+                  <p>Dr. Varshney's approach focuses on targeted, conservative dosing — smoothing wrinkles while
+                    preserving the natural muscle dynamics of your face.</p>
                 </div>
               </div>
-              
+
               <!-- Feature 3 -->
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Expression-Preserving Results</h4>
-                  <p>Our goal is a refreshed, rested appearance — never a "frozen" look. We modulate muscle activity rather than eliminating it entirely.</p>
+                  <p>Our goal is a refreshed, rested appearance — never a "frozen" look. We modulate muscle activity
+                    rather than eliminating it entirely.</p>
                 </div>
               </div>
-              
+
               <!-- Feature 4 -->
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-gem"></i></div>
                 <div class="feature-list-content">
                   <h4>Complimentary Follow-Up</h4>
-                  <p>Every Botox session includes a complimentary 2-week review to assess results and perform any touch-ups for perfect symmetry.</p>
+                  <p>Every Botox session includes a complimentary 2-week review to assess results and perform any
+                    touch-ups for perfect symmetry.</p>
                 </div>
               </div>
 
@@ -984,7 +1142,13 @@
                 <div class="feature-list-icon"><i class="bi bi-geo-alt"></i></div>
                 <div class="feature-list-content">
                   <h4>Two Clinic Locations for Your Convenience</h4>
-                  <p>DermaTales operates from <a href="skin-clinic-in-gurgaon" style="text-decoration: underline; color: inherit;">Gurgaon</a> and <a href="skin-clinic-in-patel-nagar" style="text-decoration: underline; color: inherit;">Patel Nagar, Delhi</a>, so whichever side of the city you are on, expert Botox treatment from Dr. Pooja Varshney is never far away. Both clinics follow the same protocol, use the same sourced products, and are led by the same doctor, so your treatment quality does not change based on which clinic you visit.</p>
+                  <p>DermaTales operates from <a href="skin-clinic-in-gurgaon"
+                      style="text-decoration: underline; color: inherit;">Gurgaon</a> and <a
+                      href="skin-clinic-in-patel-nagar" style="text-decoration: underline; color: inherit;">Patel Nagar,
+                      Delhi</a>, so whichever side of the city you are on, expert Botox treatment from Dr. Pooja
+                    Varshney is never far away. Both clinics follow the same protocol, use the same sourced products,
+                    and are led by the same doctor, so your treatment quality does not change based on which clinic you
+                    visit.</p>
                 </div>
               </div>
             </div>
@@ -993,13 +1157,19 @@
           <!-- SECTION 17: DOCTOR PROFILE (EXPANDED FOR EEAT) -->
           <div class="mt-5 fade-up p-4 bg-light rounded-4 border-start border-gold border-4">
             <div class="d-flex align-items-center gap-4 flex-wrap">
-              <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney - Botox Specialist in Gurgaon" class="rounded-circle shadow-sm"
-                style="width: 90px; height: 90px; object-fit: cover;">
+              <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney - Botox Specialist in Gurgaon"
+                class="rounded-circle shadow-sm" style="width: 90px; height: 90px; object-fit: cover;">
               <div style="flex: 1;">
                 <h3 class="h5 mb-1 text-charcoal fw-bold">Dr. Pooja Varshney (MBBS, MD Dermatology)</h3>
-                <p class="text-gold small mb-2 fw-semibold">Consultant Dermatologist &amp; Cosmetic Physician | Fellowship in Cosmetology</p>
+                <p class="text-gold small mb-2 fw-semibold">Consultant Dermatologist &amp; Cosmetic Physician |
+                  Fellowship in Cosmetology</p>
                 <p class="mb-0 text-muted small" style="line-height: 1.65;">
-                  Dr. Pooja Varshney is an MD in Dermatology with an additional Fellowship in Cosmetology, and has spent over 10 years treating skin, hair, and aesthetic concerns. She has personally performed Botox treatment for more than 15,000 patients across her career, with a specific focus on natural, expression-preserving results rather than the overdone, frozen look that gives Botox a bad name in the wrong hands. Her approach to every Botox treatment is rooted in a simple principle: the best result is one nobody notices as "work," they just notice that you look rested.
+                  Dr. Pooja Varshney is an MD in Dermatology with an additional Fellowship in Cosmetology, and has spent
+                  over 10 years treating skin, hair, and aesthetic concerns. She has personally performed Botox
+                  treatment for more than 15,000 patients across her career, with a specific focus on natural,
+                  expression-preserving results rather than the overdone, frozen look that gives Botox a bad name in the
+                  wrong hands. Her approach to every Botox treatment is rooted in a simple principle: the best result is
+                  one nobody notices as "work," they just notice that you look rested.
                 </p>
               </div>
             </div>
@@ -1011,18 +1181,24 @@
             <div class="row g-4 mt-1">
               <div class="col-md-6">
                 <div class="location-box h-100">
-                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-geo-alt-fill text-gold me-2"></i>Gurgaon Clinic</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-geo-alt-fill text-gold me-2"></i>Gurgaon
+                    Clinic</h4>
                   <p class="small text-muted mb-2">694, Sector 31, Gurugram, Haryana 122001</p>
-                  <p class="small text-muted mb-3">Your primary destination for Botox treatment in Gurgaon, led in person by Dr. Pooja Varshney.</p>
-                  <a href="tel:+919560015155" class="btn btn-outline-dark btn-sm rounded-pill px-3"><i class="bi bi-telephone me-1"></i> Call Clinic</a>
+                  <p class="small text-muted mb-3">Your primary destination for Botox treatment in Gurgaon, led in
+                    person by Dr. Pooja Varshney.</p>
+                  <a href="tel:+919560015155" class="btn btn-outline-dark btn-sm rounded-pill px-3"><i
+                      class="bi bi-telephone me-1"></i> Call Clinic</a>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="location-box h-100">
-                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-geo-alt-fill text-gold me-2"></i>Delhi (Patel Nagar) Clinic</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-geo-alt-fill text-gold me-2"></i>Delhi
+                    (Patel Nagar) Clinic</h4>
                   <p class="small text-muted mb-2">Patel Nagar, New Delhi</p>
-                  <p class="small text-muted mb-3">DermaTales also runs a clinic in Patel Nagar, Delhi, offering the same Botox treatment protocol, products, and doctor-led care for patients based in Delhi.</p>
-                  <a href="https://wa.me/919560015155" class="btn btn-whatsapp btn-sm rounded-pill px-3"><i class="bi bi-whatsapp me-1"></i> WhatsApp</a>
+                  <p class="small text-muted mb-3">DermaTales also runs a clinic in Patel Nagar, Delhi, offering the
+                    same Botox treatment protocol, products, and doctor-led care for patients based in Delhi.</p>
+                  <a href="https://wa.me/919560015155" class="btn btn-whatsapp btn-sm rounded-pill px-3"><i
+                      class="bi bi-whatsapp me-1"></i> WhatsApp</a>
                 </div>
               </div>
             </div>
@@ -1032,17 +1208,20 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Frequently Asked Questions About Botox Treatment</h2>
             <div class="accordion accordion-flush mt-4" id="btxFAQ">
-              
+
               <!-- FAQ 1 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf1">
+                  <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf1">
                     Is Botox treatment painful?
                   </button>
                 </h3>
                 <div id="bf1" class="accordion-collapse collapse show" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Botox injections are performed with ultra-fine needles and feel like a quick pinch. The entire procedure takes 10 to 15 minutes, and most patients describe the discomfort as minimal, comparable to an ant bite. Numbing cream can be applied for sensitive patients, though it is rarely needed.
+                    Botox injections are performed with ultra-fine needles and feel like a quick pinch. The entire
+                    procedure takes 10 to 15 minutes, and most patients describe the discomfort as minimal, comparable
+                    to an ant bite. Numbing cream can be applied for sensitive patients, though it is rarely needed.
                   </div>
                 </div>
               </div>
@@ -1050,13 +1229,16 @@
               <!-- FAQ 2 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf2">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf2">
                     Will Botox make my face look frozen or expressionless?
                   </button>
                 </h3>
                 <div id="bf2" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Not when it is dosed correctly. A frozen look happens from overdosing or poor technique, not from Botox itself. At DermaTales, Dr. Varshney uses conservative, muscle-specific dosing so your expressions stay natural while your lines soften.
+                    Not when it is dosed correctly. A frozen look happens from overdosing or poor technique, not from
+                    Botox itself. At DermaTales, Dr. Varshney uses conservative, muscle-specific dosing so your
+                    expressions stay natural while your lines soften.
                   </div>
                 </div>
               </div>
@@ -1064,13 +1246,15 @@
               <!-- FAQ 3 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf3">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf3">
                     How often should I repeat Botox treatment?
                   </button>
                 </h3>
                 <div id="bf3" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Most patients return every 3 to 4 months initially. With regular treatment over time, many patients find their muscles relax more easily, allowing the gap between sessions to extend to 5 or 6 months.
+                    Most patients return every 3 to 4 months initially. With regular treatment over time, many patients
+                    find their muscles relax more easily, allowing the gap between sessions to extend to 5 or 6 months.
                   </div>
                 </div>
               </div>
@@ -1078,13 +1262,19 @@
               <!-- FAQ 4 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf4">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf4">
                     What's the difference between Botox and Dysport?
                   </button>
                 </h3>
                 <div id="bf4" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Both are Botulinum Toxin Type A products and work the same way, by relaxing targeted facial muscles. The main differences are in dosing units, how quickly they take effect, and how they diffuse in the tissue. Dysport tends to work slightly faster and can spread a little further from the injection point, which suits larger areas like the forehead, while Botox is often preferred for more precise, smaller zones like crow's feet. Your doctor will recommend the one better suited to your treatment area.
+                    Both are Botulinum Toxin Type A products and work the same way, by relaxing targeted facial muscles.
+                    The main differences are in dosing units, how quickly they take effect, and how they diffuse in the
+                    tissue. Dysport tends to work slightly faster and can spread a little further from the injection
+                    point, which suits larger areas like the forehead, while Botox is often preferred for more precise,
+                    smaller zones like crow's feet. Your doctor will recommend the one better suited to your treatment
+                    area.
                   </div>
                 </div>
               </div>
@@ -1092,13 +1282,17 @@
               <!-- FAQ 5 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf5">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf5">
                     Can I get Botox at 25?
                   </button>
                 </h3>
                 <div id="bf5" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Yes. Many patients in their mid to late twenties start Botox treatment as a preventive measure, using low doses to stop early expression lines from becoming permanently etched before they even fully form. This is different from treating deep, established wrinkles later, and typically needs fewer units and less frequent sessions.
+                    Yes. Many patients in their mid to late twenties start Botox treatment as a preventive measure,
+                    using low doses to stop early expression lines from becoming permanently etched before they even
+                    fully form. This is different from treating deep, established wrinkles later, and typically needs
+                    fewer units and less frequent sessions.
                   </div>
                 </div>
               </div>
@@ -1106,13 +1300,17 @@
               <!-- FAQ 6 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf6">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf6">
                     The 4-hour rule after Botox, what can and can't I do?
                   </button>
                 </h3>
                 <div id="bf6" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    For the first 4 hours after your Botox treatment, avoid lying down flat, exercising, consuming alcohol, and touching or massaging the treated area. You can gently apply makeup after this window. This period matters because it allows the product to settle precisely where it was injected before you introduce movement, heat, or pressure.
+                    For the first 4 hours after your Botox treatment, avoid lying down flat, exercising, consuming
+                    alcohol, and touching or massaging the treated area. You can gently apply makeup after this window.
+                    This period matters because it allows the product to settle precisely where it was injected before
+                    you introduce movement, heat, or pressure.
                   </div>
                 </div>
               </div>
@@ -1120,13 +1318,15 @@
               <!-- FAQ 7 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf7">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf7">
                     How much does Botox treatment cost in Gurgaon?
                   </button>
                 </h3>
                 <div id="bf7" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Cost depends on the number of units needed for your specific concern, which is assessed during your consultation. See our full cost breakdown above for a general guide by treatment area.
+                    Cost depends on the number of units needed for your specific concern, which is assessed during your
+                    consultation. See our full cost breakdown above for a general guide by treatment area.
                   </div>
                 </div>
               </div>
@@ -1134,13 +1334,16 @@
               <!-- FAQ 8 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf8">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf8">
                     Is Botox treatment safe?
                   </button>
                 </h3>
                 <div id="bf8" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Yes, when performed by a qualified dermatologist using genuine, FDA approved product. Botox has decades of clinical safety data for both medical and cosmetic use. The real risk in most bad outcomes is an inexperienced injector or diluted, unlicensed product, not the treatment itself.
+                    Yes, when performed by a qualified dermatologist using genuine, FDA approved product. Botox has
+                    decades of clinical safety data for both medical and cosmetic use. The real risk in most bad
+                    outcomes is an inexperienced injector or diluted, unlicensed product, not the treatment itself.
                   </div>
                 </div>
               </div>
@@ -1148,13 +1351,16 @@
               <!-- FAQ 9 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#bf9">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#bf9">
                     How do I choose the best Botox doctor in Gurgaon?
                   </button>
                 </h3>
                 <div id="bf9" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">
                   <div class="accordion-body faq-body">
-                    Look for a medical qualification such as MD Dermatology, documented years of experience, transparency about the product being used, and a real consultation rather than a rushed sales pitch. See our full guide above on how to find a good Botox doctor in Gurgaon.
+                    Look for a medical qualification such as MD Dermatology, documented years of experience,
+                    transparency about the product being used, and a real consultation rather than a rushed sales pitch.
+                    See our full guide above on how to find a good Botox doctor in Gurgaon.
                   </div>
                 </div>
               </div>
@@ -1176,10 +1382,12 @@
               <h3 class="widget-title">Other Services</h3>
               <ul class="related-list">
                 <li><a href="filler-treatment-in-gurgaon">Filler Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment <i
+                      class="bi bi-chevron-right"></i></a></li>
                 <li><a href="threads-in-gurgaon">Thread Lift <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="hifu-in-gurgaon">HIFU Tightening <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="fine-lines-under-eyes-treatment-in-gurgaon">Fine Lines &amp; Under Eyes <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="fine-lines-under-eyes-treatment-in-gurgaon">Fine Lines &amp; Under Eyes <i
+                      class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

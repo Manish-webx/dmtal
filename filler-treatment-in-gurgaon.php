@@ -544,7 +544,7 @@
 
           <!-- SECTION 3: WHAT ARE DERMAL FILLERS? -->
           <div class="fade-up">
-            <div class="row align-items-center g-5">
+            <div class="row align-items-center g-2">
               <div class="col-md-7">
                 <h2 class="lux-section-title">What Are Dermal Fillers?</h2>
                 <p>
@@ -587,7 +587,7 @@
           </div>
 
           <!-- SECTION 4: TYPES OF DERMAL FILLERS -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3">
             <h2 class="lux-section-title">Types of Dermal Fillers</h2>
             <p class="text-muted">
               Not all fillers are the same, and using the wrong type for the wrong area is one of the most common
@@ -661,7 +661,7 @@
           </div>
 
           <!-- SECTION 5: COMMON TREATMENT AREAS -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Common Treatment Areas</h2>
             <p>
               Fillers in Gurgaon are used across a wide range of facial zones, and at DermaTales the treatment plan is
@@ -733,7 +733,7 @@
           </div>
 
           <!-- SECTION 6: DERMAL FILLERS FOR TEAR TROUGHS -->
-          <div class="filler-section-card mt-5 fade-up">
+          <div class="filler-section-card mt-3 fade-up">
             <h2 class="lux-section-title">Dermal Fillers for Tear Troughs</h2>
             <p>
               The under-eye hollow, medically called the tear trough, is one of the most requested and most technically
@@ -834,7 +834,7 @@
           </div>
 
           <!-- SECTION 10: HOW MUCH DO DERMAL FILLERS COST IN GURGAON? -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">How Much Do Dermal Fillers Cost in Gurgaon?</h2>
             <p>
               Dermal fillers cost in Gurgaon is calculated per syringe (per ml), and prices vary by filler brand,
@@ -898,7 +898,7 @@
           </div>
 
           <!-- SECTION 11: ARE DERMAL FILLERS SAFE? -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Are Dermal Fillers Safe?</h2>
             <p>
               Yes, when performed by a qualified doctor using genuine, approved hyaluronic acid product, dermal fillers
@@ -964,7 +964,7 @@
           </div>
 
           <!-- SECTION 12: DERMAL FILLERS AFTERCARE -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Dermal Fillers Aftercare</h2>
             <p>
               Aftercare for dermal fillers is simple, but skipping it increases your chances of bruising and uneven
@@ -1023,7 +1023,7 @@
           </div>
 
           <!-- SECTION 13: DERMAL FILLERS VS SURGERY -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Dermal Fillers vs Surgery: Which Is Right for You?</h2>
             <p>
               This is a genuinely important decision point for a lot of patients in their late thirties and forties, so
@@ -1098,7 +1098,7 @@
           </div>
 
           <!-- SECTION 14: HOW TO CHOOSE THE RIGHT DERMATOLOGIST -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">How to Choose the Right Dermatologist for Fillers in Gurgaon</h2>
             <p>
               With so many clinics now offering dermal fillers in Gurgaon, choosing the right doctor matters far more
@@ -1176,7 +1176,7 @@
           </div>
 
           <!-- SECTION 15: IDEAL CANDIDATES / WHO SHOULD AVOID -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <div class="row g-4">
               <div class="col-md-6">
                 <div
@@ -1219,7 +1219,7 @@
           </div>
 
           <!-- SECTION 16: THE DERMATALES PROTOCOL -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">The DermaTales Dermal Fillers Protocol</h2>
             <div class="timeline-lux mt-4">
               <div class="timeline-lux-item" data-step="1">
@@ -1251,7 +1251,7 @@
           </div>
 
           <!-- SECTION 17: WHY CHOOSE DERMATALES -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Why Choose DermaTales for Dermal Fillers?</h2>
             <div class="feature-list-lux mt-4">
               <!-- Feature 1 -->
@@ -1342,7 +1342,7 @@
           </div>
 
           <!-- SECTION 19: LOCATIONS -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Our Clinic Locations</h2>
             <div class="row g-4 mt-2">
               <div class="col-md-6">
@@ -1380,7 +1380,7 @@
           </div>
 
           <!-- SECTION 20: FREQUENTLY ASKED QUESTIONS -->
-          <div class="mt-5 fade-up">
+          <div class="mt-3 fade-up">
             <h2 class="lux-section-title">Frequently Asked Questions</h2>
             <div class="accordion accordion-flush mt-4" id="fillerFAQ">
 

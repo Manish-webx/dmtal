@@ -4418,18 +4418,24 @@ h6 {
   pointer-events: none;
 }
 
-/* Hero two-column layout when cred box is present */
+/* Hero full-width content layout with stats below */
 .hero-layout {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 40px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
 }
 
 .hero-layout-text {
-  flex: 1;
-  min-width: 0;
+  width: 100%;
+  max-width: 100%;
 }
+
+.hero-layout-text .section-lead,
+.hero-layout-text p {
+  max-width: 100% !important;
+}
+
 
 /* ---- Hero Credentials Box ---- */
 .hero-cred-box {
@@ -4661,7 +4667,7 @@ h6 {
 /* Main Content Typography */
 .content-area h2 {
   font-size: 2rem;
-  margin: 25px 0 25px;
+  margin: 0px 0 25px;
   position: relative;
 }
 
@@ -5177,7 +5183,7 @@ h6 {
 /* Main Content Typography */
 .content-area h2 {
   font-size: 2rem;
-  margin: 25px 0 25px;
+  margin: 0px 0 25px;
   position: relative;
 }
 
@@ -6527,4 +6533,4 @@ h6 {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-}
+}
