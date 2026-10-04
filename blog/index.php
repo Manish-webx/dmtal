@@ -179,6 +179,30 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Male Pattern Baldness Arriving A Decade Early -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/all-about-male-pattern-baldness-explained-by-dermatales.webp" class="card-img-top"
+                alt="Male Pattern Baldness Is Arriving a Decade Early and Most Men Have No Idea Until It Is Too Late to Stop It"
+                style="height: 280px; object-fit: cover;">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Sep 27, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/male-pattern-baldness-arriving-a-decade-early"
+                  class="text-decoration-none text-charcoal">Male Pattern Baldness Is Arriving a Decade Early and Most Men Have No Idea Until It Is Too Late to Stop It</a></h3>
+              <p class="card-text text-muted">Why male pattern baldness is being noticed earlier than ever, what the research actually shows about age of onset, and what genuinely works to slow it down when caught early.</p>
+              <a href="blog/male-pattern-baldness-arriving-a-decade-early"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Dermal Filler Complications & Facial Overfilled Syndrome -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
