@@ -82,6 +82,9 @@ $page_title = "Blog | DermaTales";
     }
 
     .blog-card-img-wrap img {
+      width: 100%;
+      height: auto;
+      display: block;
       transition: transform 0.7s cubic-bezier(0.165, 0.84, 0.44, 1);
     }
 
@@ -184,8 +187,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/all-about-male-pattern-baldness-explained-by-dermatales.webp" class="card-img-top"
-                alt="Male Pattern Baldness Is Arriving a Decade Early and Most Men Have No Idea Until It Is Too Late to Stop It"
-                style="height: 280px; object-fit: cover;">
+                alt="Male Pattern Baldness Is Arriving a Decade Early and Most Men Have No Idea Until It Is Too Late to Stop It">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -208,8 +210,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/botched-fillers-natural-results-dermatologist-dermatales.webp" class="card-img-top"
-                alt="I Have Corrected More Botched Fillers Than I Have Done From Scratch This Year"
-                style="height: 280px; object-fit: cover;">
+                alt="I Have Corrected More Botched Fillers Than I Have Done From Scratch This Year">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -232,8 +233,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/shift-from-prp-to-gfc-explained-by-dermatales.webp" class="card-img-top"
-                alt="PRP for Hair Loss Was the Gold Standard — Then GFC Came Along and Changed Everything"
-                style="height: 280px; object-fit: cover;">
+                alt="PRP for Hair Loss Was the Gold Standard — Then GFC Came Along and Changed Everything">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -256,8 +256,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/why-cool-sculpting-got-discontinued-explained-by-dermatales.webp" class="card-img-top"
-                alt="CoolSculpting Was Just Discontinued Globally: Here Is What Every Indian Patient Needs to Know"
-                style="height: 280px; object-fit: cover;">
+                alt="CoolSculpting Was Just Discontinued Globally: Here Is What Every Indian Patient Needs to Know">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -280,8 +279,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/what-if-hifu-goes-wrong-by-dermatales-dr-pooja.webp" class="card-img-top"
-                alt="HIFU Destroyed My Patient's Skin and the Clinic That Did It Had No Idea Why"
-                style="height: 280px; object-fit: cover;">
+                alt="HIFU Destroyed My Patient's Skin and the Clinic That Did It Had No Idea Why">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -306,8 +304,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/korean-glass-skin-treatment-for-indian-skin.webp" class="card-img-top"
-                alt="Your Skin Will Never Look Like a Korean Glass Skin Tutorial"
-                style="height: 280px; object-fit: cover;">
+                alt="Your Skin Will Never Look Like a Korean Glass Skin Tutorial">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -330,8 +327,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/why-does-pigmentation-come-back-after-stopping-the-cream.webp" class="card-img-top"
-                alt="Why Does Pigmentation Come Back After You Stop the Cream"
-                style="height: 280px; object-fit: cover;">
+                alt="Why Does Pigmentation Come Back After You Stop the Cream">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -354,7 +350,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/causes-of-dark-lips-explained-by-dermatales.webp" class="card-img-top"
-                alt="Causes of Dark Lips Explained by DermaTales" style="height: 280px; object-fit: cover;">
+                alt="Causes of Dark Lips Explained by DermaTales">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -377,7 +373,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/strawberry-legs-causes-treatments-dermatales-skin-clinic-gurugram-delhi.webp"
-                class="card-img-top" alt="Strawberry Legs Treatment" style="height: 280px; object-fit: cover;">
+                class="card-img-top" alt="Strawberry Legs Treatment">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -402,7 +398,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/chemical-peel-risks-and-safety-dermatales.webp" class="card-img-top"
-                alt="Chemical Peel Treatment" style="height: 280px; object-fit: cover;">
+                alt="Chemical Peel Treatment">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -425,7 +421,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/dark-circles-treatment-by-dermatales-dr-pooja-varshney.webp" class="card-img-top"
-                alt="Dark Circles Treatment by DermaTales" style="height: 280px; object-fit: cover;">
+                alt="Dark Circles Treatment by DermaTales">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -450,8 +446,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/why-botox-goes-wrong-expert-guide-dermatales.webp" class="card-img-top"
-                alt="Botox Horror Stories Are Real: Here Is What Actually Causes Them"
-                style="height: 280px; object-fit: cover;">
+                alt="Botox Horror Stories Are Real: Here Is What Actually Causes Them">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -474,8 +469,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/anti-ageing-treatment-in-your-30s-gurgaon.webp" class="card-img-top"
-                alt="Why Your 30s Are the Most Important Decade for Your Skin"
-                style="height: 280px; object-fit: cover;">
+                alt="Why Your 30s Are the Most Important Decade for Your Skin">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -498,7 +492,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/acne-scar-treatment-guide-dermatales.webp" class="card-img-top"
-                alt="Acne Is Gone But the Scars Are Not" style="height: 280px; object-fit: cover;">
+                alt="Acne Is Gone But the Scars Are Not">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -520,7 +514,7 @@ $page_title = "Blog | DermaTales";
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
               <img src="blog-thumb/how-pcos-affects-skin-and-hair-dermatales.webp" class="card-img-top"
-                alt="PCOS and Acne Treatment" style="height: 280px; object-fit: cover;">
+                alt="PCOS and Acne Treatment">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -542,8 +536,7 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/what-your-dermatologist.webp" class="card-img-top" alt="Pigmentation Treatment"
-                style="height: 280px; object-fit: cover;">
+              <img src="blog-thumb/what-your-dermatologist.webp" class="card-img-top" alt="Pigmentation Treatment">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
@@ -567,8 +560,7 @@ $page_title = "Blog | DermaTales";
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
             <div class="blog-card-img-wrap">
-              <img src="blog-thumb/the-hair-fall-advice-scalp.webp" class="card-img-top" alt="Hair Fall Advice"
-                style="height: 280px; object-fit: cover;">
+              <img src="blog-thumb/the-hair-fall-advice-scalp.webp" class="card-img-top" alt="Hair Fall Advice">
             </div>
             <div class="card-body p-4 pb-2">
               <div class="blog-card-meta">
