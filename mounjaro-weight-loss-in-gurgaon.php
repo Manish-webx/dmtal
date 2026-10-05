@@ -56,9 +56,7 @@
           "credentialCategory": "MD Dermatology, MBBS"
         },
         "worksFor": {
-          "@type": "MedicalClinic",
-          "name": "DermaTales Skin Clinic",
-          "url": "https://www.dermatales.com/skin-clinic-in-gurgaon"
+          "@id": "https://www.dermatales.com/skin-clinic-in-gurgaon#clinic"
         },
         "url": "https://www.dermatales.com/dr-pooja-varshney"
       },
@@ -640,9 +638,9 @@
                 <li class="badge bg-light text-charcoal border p-2"><i class="bi bi-award-fill text-gold me-1"></i>
                   Fellowship in Aesthetic & Cosmetic Dermatology</li>
                 <li class="badge bg-light text-charcoal border p-2"><i class="bi bi-clock-history text-gold me-1"></i>
-                  10+ Years of Clinical Practice</li>
+                  10+ years of clinical practice</li>
                 <li class="badge bg-light text-charcoal border p-2"><i class="bi bi-shield-check text-gold me-1"></i>
-                  State Medical Council Reg. No. 70868</li>
+                  Uttar Pradesh Medical Council Registration No. 70868</li>
               </ul>
             </div>
           </div>
