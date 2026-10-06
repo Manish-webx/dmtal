@@ -52,6 +52,7 @@
               <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi</a></li>
               <li><a href="botox-treatment-in-gurgaon">Botox Treatment</a></li>
               <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
+              <li><a href="profhilo-skin-booster-in-gurgaon">Profhilo Skin Booster</a></li>
               <li><a href="mnrf-treatment-in-gurgaon">MNRF Treatment</a></li>
               <li><a href="aging-face-treatment-in-gurgaon">Aging Face Treatment</a></li>
               <li><a href="laser-hair-reduction-gurgaon">Laser Hair Reduction</a></li>

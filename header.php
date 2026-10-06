@@ -127,6 +127,7 @@
                       <li><a href="face-lifting-treatment-in-delhi">Non-Surgical Face Lift Delhi</a></li>
                       <li><a href="botox-treatment-in-gurgaon">Botox Treatment</a></li>
                       <li><a href="filler-treatment-in-gurgaon">Filler Treatment</a></li>
+                      <li><a href="profhilo-skin-booster-in-gurgaon">Profhilo Skin Booster</a></li>
                       <li><a href="vampire-facial-in-gurgaon">Vampire Facelift</a></li>
                       <li><a href="threads-in-gurgaon">Thread Lift</a></li>
                       <li><a href="mnrf-treatment-in-gurgaon">MNRF Treatments</a></li>
