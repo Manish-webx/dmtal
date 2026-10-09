@@ -1095,12 +1095,12 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Scalp &amp; Hair Care</h3>
               <ul class="related-list">
+                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="dandruff-scalp-psoriasis-treatment-in-gurgaon">Dandruff (Gurgaon) <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="hair-doctor-in-gurgaon">Hair Doctor Gurgaon <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="female-hair-loss-in-gurgaon">Female Hair Loss <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="scarring-alopecia-lpp-treatment-in-gurgaon">Scarring Alopecia <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="psoriasis-vitiligo-in-gurgaon">Psoriasis &amp; Vitiligo <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 

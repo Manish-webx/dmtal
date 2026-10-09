@@ -885,7 +885,7 @@
               <ul class="related-list">
                 <li><a href="hair-transplant-in-delhi">Hair Transplant <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Best Hair Fall Doctor <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>

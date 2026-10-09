@@ -596,7 +596,7 @@
                 <li><a href="acne-treatment-in-delhi">Acne Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a>
                 </li>
-                <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i
+                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment <i
                       class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>

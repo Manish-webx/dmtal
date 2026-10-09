@@ -34,18 +34,6 @@
 
   <!-- Custom Page Styles for Clean Typography & Structured Components -->
   <style>
-    .benefit-item-lux {
-      background: #fdfbf9;
-      border-radius: 10px;
-      height: 100%;
-      transition: all 0.3s ease;
-    }
-
-    .benefit-item-lux:hover {
-      background: #ffffff;
-      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
-    }
-
     .comparison-table-lux {
       width: 100%;
       border-collapse: collapse;
@@ -56,7 +44,7 @@
     .comparison-table-lux th {
       background: #1B2A4A;
       color: #ffffff;
-      padding: 14px 16px;
+      padding: 12px 16px;
       font-size: 0.92rem;
       font-weight: 600;
       border: 1px solid #1B2A4A;
@@ -64,7 +52,7 @@
 
     .comparison-table-lux td {
       background: #ffffff;
-      padding: 13px 16px;
+      padding: 12px 16px;
       border: 1px solid #ebdcd5;
       font-size: 0.95rem;
       color: #444;
@@ -77,8 +65,8 @@
 
     .timeline-lux-item {
       position: relative;
-      padding-left: 50px;
-      margin-bottom: 1.75rem;
+      padding-left: 46px;
+      margin-bottom: 1.5rem;
     }
 
     .timeline-lux-item::before {
@@ -86,13 +74,13 @@
       position: absolute;
       left: 0;
       top: 0;
-      width: 34px;
-      height: 34px;
+      width: 30px;
+      height: 30px;
       border-radius: 50%;
       background: #1B2A4A;
       color: #ffffff;
       font-weight: 700;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -101,9 +89,9 @@
     .timeline-lux-item::after {
       content: '';
       position: absolute;
-      left: 16px;
-      top: 38px;
-      bottom: -18px;
+      left: 14px;
+      top: 34px;
+      bottom: -16px;
       width: 2px;
       background: #ebdcd5;
     }
@@ -115,9 +103,9 @@
     .doctor-feature-box {
       background: linear-gradient(135deg, #fdfbf9 0%, #f7f1eb 100%);
       border: 1px solid #ebdcd5;
-      border-left: 5px solid #b89965;
-      border-radius: 16px;
-      padding: 1.75rem;
+      border-left: 4px solid #b89965;
+      border-radius: 14px;
+      padding: 1.5rem;
       margin: 2rem 0;
     }
 
@@ -129,9 +117,9 @@
 
     .check-list-clean li {
       position: relative;
-      padding-left: 26px;
-      margin-bottom: 0.75rem;
-      font-size: 0.96rem;
+      padding-left: 24px;
+      margin-bottom: 0.65rem;
+      font-size: 0.95rem;
       line-height: 1.55;
       color: #444;
     }
@@ -139,9 +127,9 @@
     .check-list-clean li i {
       position: absolute;
       left: 0;
-      top: 3px;
+      top: 2px;
       color: #b89965;
-      font-size: 1.05rem;
+      font-size: 1rem;
     }
 
     .faq-accordion .accordion-item {
@@ -171,6 +159,91 @@
       color: #555;
       line-height: 1.65;
       font-size: 0.95rem;
+    }
+
+    /* Timeline & Duration Metric Cards */
+    .timeline-card-lux {
+      background: #ffffff;
+      border: 1px solid #ebdcd5;
+      border-radius: 12px;
+      padding: 1.5rem 1.25rem;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      transition: all 0.25s ease;
+      position: relative;
+    }
+
+    .timeline-card-lux:hover {
+      border-color: #b89965;
+      box-shadow: 0 6px 20px rgba(184, 153, 101, 0.08);
+      transform: translateY(-2px);
+    }
+
+    .timeline-card-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 10px;
+      background: #fbf8f5;
+      color: #b89965;
+      border: 1px solid #ebdcd5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.25rem;
+      margin-bottom: 0.85rem;
+    }
+
+    .timeline-card-tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: #b89965;
+      background: #fbf8f5;
+      padding: 3px 10px;
+      border-radius: 20px;
+      margin-bottom: 0.65rem;
+      align-self: flex-start;
+      border: 1px solid #ebdcd5;
+    }
+
+    /* Treatment Comparison Luxury Cards */
+    .compare-lux-card {
+      background: #ffffff;
+      border: 1px solid #ebdcd5;
+      border-radius: 12px;
+      padding: 1.35rem 1.25rem;
+      height: 100%;
+      transition: all 0.25s ease;
+    }
+
+    .compare-lux-card:hover {
+      border-color: #b89965;
+      box-shadow: 0 6px 18px rgba(27, 42, 74, 0.06);
+    }
+
+    .compare-lux-head {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.65rem;
+      border-bottom: 1px solid #f2e9e2;
+    }
+
+    .compare-lux-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 8px;
+      background: #1B2A4A;
+      color: #b89965;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      flex-shrink: 0;
     }
   </style>
 
@@ -481,27 +554,29 @@
               Profhilo is a hyaluronic-acid injectable treatment used for skin-quality improvement and rejuvenation. Unlike a conventional dermal filler, where the primary objective may be to restore or add volume to a particular facial area, a skin booster approach focuses more on the quality, hydration and appearance of the skin.
             </p>
             <p>
-              Injectable hyaluronic acid has been studied for improvements in facial skin quality, including hydration, elasticity, firmness, texture and radiance (<a href="https://pubmed.ncbi.nlm.nih.gov/37038447/" target="_blank" rel="noopener" class="text-gold text-decoration-underline">PubMed Study</a>).
+              Injectable hyaluronic acid has been studied for improvements in facial skin quality, including hydration, elasticity, firmness, texture and radiance (<a href="https://pubmed.ncbi.nlm.nih.gov/37038447/" target="_blank" rel="noopener" class="text-gold text-decoration-underline"><i class="bi bi-box-arrow-up-right me-1"></i>PubMed Study</a>).
             </p>
-            <p class="fw-semibold text-charcoal mb-2">This makes Profhilo particularly relevant for people who want their skin to look:</p>
+
+            <h3 class="h6 fw-bold text-charcoal mt-3 mb-2">This makes Profhilo particularly relevant for people who want their skin to look:</h3>
             <div class="row g-2">
               <div class="col-md-6">
                 <ul class="check-list-clean">
-                  <li><i class="bi bi-check-circle-fill"></i> More hydrated</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Fresher and less tired</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Smoother in texture</li>
+                  <li><i class="bi bi-check2 text-gold"></i> More hydrated</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Fresher and less tired</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Smoother in texture</li>
                 </ul>
               </div>
               <div class="col-md-6">
                 <ul class="check-list-clean">
-                  <li><i class="bi bi-check-circle-fill"></i> More supple</li>
-                  <li><i class="bi bi-check-circle-fill"></i> More radiant</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Better conditioned &amp; naturally rejuvenated</li>
+                  <li><i class="bi bi-check2 text-gold"></i> More supple</li>
+                  <li><i class="bi bi-check2 text-gold"></i> More radiant</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Better conditioned &amp; naturally rejuvenated</li>
                 </ul>
               </div>
             </div>
-            <p class="text-muted mt-3 mb-0">
-              However, Profhilo is not a replacement for every anti-ageing procedure. If your primary concern is significant facial volume loss, deep folds or substantial skin laxity, your dermatologist may recommend another treatment or a combination approach.
+
+            <p class="text-muted small mt-3 mb-0">
+              <i class="bi bi-info-circle text-gold me-1"></i> <em>However, Profhilo is not a replacement for every anti-ageing procedure. If your primary concern is significant facial volume loss, deep folds or substantial skin laxity, your dermatologist may recommend another treatment or a combination approach.</em>
             </p>
           </div>
 
@@ -513,40 +588,58 @@
             </p>
 
             <div class="row g-4 mt-1">
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1">Dehydrated Skin</h3>
-                  <p class="small text-muted mb-0">Skin that feels dry, tight or lacks a healthy-looking glow.</p>
+              <div class="col-md-6 col-lg-4">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-droplet text-gold fs-4 flex-shrink-0 mt-1"></i>
+                  <div>
+                    <h3 class="h6 fw-bold text-charcoal mb-1">Dehydrated Skin</h3>
+                    <p class="small text-muted mb-0">Skin that feels dry, tight or lacks a healthy-looking natural glow.</p>
+                  </div>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1">Dull Complexion</h3>
-                  <p class="small text-muted mb-0">Skin that appears tired or lacks luminosity despite regular skincare.</p>
+              <div class="col-md-6 col-lg-4">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-sun text-gold fs-4 flex-shrink-0 mt-1"></i>
+                  <div>
+                    <h3 class="h6 fw-bold text-charcoal mb-1">Dull Complexion</h3>
+                    <p class="small text-muted mb-0">Skin that appears tired or lacks luminosity despite regular skincare routines.</p>
+                  </div>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1">Fine Lines</h3>
-                  <p class="small text-muted mb-0">Early superficial lines associated with aging, dryness or reduced skin quality.</p>
+              <div class="col-md-6 col-lg-4">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-slash-circle text-gold fs-4 flex-shrink-0 mt-1"></i>
+                  <div>
+                    <h3 class="h6 fw-bold text-charcoal mb-1">Fine Lines</h3>
+                    <p class="small text-muted mb-0">Early superficial lines associated with aging, dryness or reduced skin quality.</p>
+                  </div>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1">Reduced Elasticity</h3>
-                  <p class="small text-muted mb-0">Skin that does not appear as firm or resilient as it previously did.</p>
+              <div class="col-md-6 col-lg-4">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-arrow-clockwise text-gold fs-4 flex-shrink-0 mt-1"></i>
+                  <div>
+                    <h3 class="h6 fw-bold text-charcoal mb-1">Reduced Elasticity</h3>
+                    <p class="small text-muted mb-0">Skin that does not appear as firm, resilient or bouncy as it previously did.</p>
+                  </div>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1">Crepey Texture</h3>
-                  <p class="small text-muted mb-0">Fine, crinkled-looking skin, particularly where skin is thinning.</p>
+              <div class="col-md-6 col-lg-4">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-grid-3x3 text-gold fs-4 flex-shrink-0 mt-1"></i>
+                  <div>
+                    <h3 class="h6 fw-bold text-charcoal mb-1">Crepey Texture</h3>
+                    <p class="small text-muted mb-0">Fine, crinkled-looking skin, particularly where skin is thinning.</p>
+                  </div>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1">Neck Skin Quality</h3>
-                  <p class="small text-muted mb-0">HA skin-quality treatments can also be considered for areas like the neck.</p>
+              <div class="col-md-6 col-lg-4">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-gem text-gold fs-4 flex-shrink-0 mt-1"></i>
+                  <div>
+                    <h3 class="h6 fw-bold text-charcoal mb-1">Neck Skin Quality</h3>
+                    <p class="small text-muted mb-0">HA skin-quality treatments can also be considered for delicate areas like the neck.</p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -650,17 +743,25 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Does Profhilo Hurt?</h2>
             <p>
-              Profhilo involves multiple small injections, so some patients may experience brief stinging, pinching or discomfort during treatment.
+              Profhilo involves multiple small injections, so some patients may experience brief stinging, pinching or mild discomfort during treatment.
             </p>
-            <p class="mb-2">Your experience can vary depending on:</p>
-            <ul class="check-list-clean mb-3">
-              <li><i class="bi bi-dot text-gold fs-4"></i> Individual pain sensitivity</li>
-              <li><i class="bi bi-dot text-gold fs-4"></i> Treatment area</li>
-              <li><i class="bi bi-dot text-gold fs-4"></i> Injection technique</li>
-              <li><i class="bi bi-dot text-gold fs-4"></i> Skin sensitivity &amp; number of injection points</li>
-            </ul>
+            <p class="fw-semibold text-charcoal mb-2">Your experience can vary depending on:</p>
+            <div class="row g-2 mb-3">
+              <div class="col-md-6">
+                <ul class="check-list-clean">
+                  <li><i class="bi bi-check2 text-gold"></i> Individual pain sensitivity</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Target treatment area</li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <ul class="check-list-clean">
+                  <li><i class="bi bi-check2 text-gold"></i> Injection technique and depth</li>
+                  <li><i class="bi bi-check2 text-gold"></i> Skin sensitivity &amp; number of injection points</li>
+                </ul>
+              </div>
+            </div>
             <p class="small text-muted mb-0">
-              If you are concerned about discomfort, discuss it with your dermatologist before treatment.
+              <i class="bi bi-shield-check text-gold me-1"></i> If you are concerned about discomfort, discuss it with your dermatologist before treatment. Comfort measures such as topical numbing cream can be arranged.
             </p>
           </div>
 
@@ -668,61 +769,78 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Profhilo Before and After: What Results Can You Expect?</h2>
             <p>
-              The goal of Profhilo is generally skin-quality improvement, not a dramatic change in facial structure. Depending on your baseline skin condition and response to treatment, improvement may be noticed in areas such as:
+              The goal of Profhilo is generally skin-quality improvement, not a dramatic change in facial structure. Depending on your baseline skin condition and response to treatment, improvement may be noticed in areas such as: <strong>hydration</strong>, <strong>skin smoothness</strong>, <strong>radiance</strong>, <strong>elasticity</strong>, <strong>overall freshness</strong>, and <strong>fine superficial lines</strong>.
             </p>
-            <div class="row g-2 mb-3">
-              <div class="col-md-4 col-6"><div class="p-2 border rounded text-center small">Hydration</div></div>
-              <div class="col-md-4 col-6"><div class="p-2 border rounded text-center small">Skin smoothness</div></div>
-              <div class="col-md-4 col-6"><div class="p-2 border rounded text-center small">Radiance</div></div>
-              <div class="col-md-4 col-6"><div class="p-2 border rounded text-center small">Elasticity</div></div>
-              <div class="col-md-4 col-6"><div class="p-2 border rounded text-center small">Overall skin freshness</div></div>
-              <div class="col-md-4 col-6"><div class="p-2 border rounded text-center small">Fine superficial lines</div></div>
-            </div>
-            <p>
-              Clinical research on injectable HA has reported improvements across several facial skin-quality measures, but individual outcomes are not guaranteed.
+            <p class="text-muted small">
+              Clinical research on injectable HA has reported improvements across several facial skin-quality measures, but individual outcomes are naturally unique.
             </p>
-            <div class="p-3 bg-light rounded-3 my-3">
-              <h4 class="h6 fw-bold text-charcoal mb-1">A Realistic Expectation</h4>
-              <p class="small text-muted mb-0">
-                Think: <em>“My skin looks healthier and more refreshed.”</em> rather than: <em>“My face looks completely different.”</em>
+
+            <blockquote class="blockquote ps-3 border-start border-gold border-3 py-1 my-3">
+              <h3 class="h6 fw-bold text-charcoal mb-1">A Realistic Expectation:</h3>
+              <p class="fst-italic text-charcoal mb-0 small">
+                Think: <em>“My skin looks healthier, hydrated and more refreshed.”</em> rather than: <em>“My face looks completely reshaped or filled.”</em>
               </p>
-            </div>
+            </blockquote>
+
             <p class="small text-muted mb-0">
-              This is especially important if your concern is significant sagging or volume loss, because Profhilo should not be presented as a substitute for structural fillers or surgical lifting procedures.
+              This distinction is especially important if your concern is significant sagging or volume loss, because Profhilo should not be presented as a substitute for structural fillers or surgical lifting procedures.
             </p>
           </div>
 
           <!-- SECTION 9: TIMELINE, SESSIONS, DURATION -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Timeline, Sessions &amp; Duration</h2>
-            
-            <h3 class="h5 fw-bold text-charcoal mt-3 mb-2">When Will You See Profhilo Results?</h3>
-            <p>
-              Results are not necessarily identical from one person to another. Some patients may notice an improvement in hydration or overall skin appearance relatively early, while broader skin-quality changes can develop progressively. Studies of injectable HA skin boosters have reported improvements in hydration and elasticity following treatment, with some effects persisting during follow-up. Your dermatologist can explain the expected timeline after assessing your skin and the treatment plan selected for you.
+            <p class="text-muted mb-4">
+              Understanding the protocol, timing of results, and maintenance requirements ensures realistic and satisfying outcomes:
             </p>
 
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">How Many Profhilo Sessions Are Needed?</h3>
-            <p>
-              There is no single number of sessions that is appropriate for every patient. Your dermatologist may recommend a course of treatment depending on your age, skin quality, degree of dehydration, elasticity, treatment area, previous aesthetic treatments, desired outcome, and response to the initial treatment.
-            </p>
-            <p>
-              Published consensus literature on HA skin boosters has described initial treatment courses followed by maintenance, but protocols vary by product, indication and clinical assessment. Therefore, DermaTales does not recommend choosing the number of sessions simply because someone else received a particular protocol.
-            </p>
+            <div class="row g-3">
+              <div class="col-md-4">
+                <div class="timeline-card-lux">
+                  <div class="timeline-card-icon">
+                    <i class="bi bi-hourglass-split"></i>
+                  </div>
+                  <span class="timeline-card-tag">2–4 Weeks</span>
+                  <h3 class="h6 fw-bold text-charcoal mb-2">When Results Appear</h3>
+                  <p class="small text-muted mb-0">
+                    Hydration and radiance improve within weeks, while deep collagen bio-remodeling and elasticity gains continue to consolidate after completing the recommended sessions.
+                  </p>
+                </div>
+              </div>
 
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">How Long Does Profhilo Last?</h3>
-            <p>
-              The duration of visible improvement varies. Factors that can influence the result include individual skin characteristics, age, degree of photoageing, lifestyle, sun exposure, skincare, treatment protocol, number and spacing of sessions, and overall health and skin condition.
-            </p>
-            <p class="mb-0">
-              Some research on injectable HA skin-quality treatments has reported effects lasting several months, while published protocols also describe maintenance treatments to preserve improvements (<a href="https://pubmed.ncbi.nlm.nih.gov/29320592/" target="_blank" rel="noopener" class="text-gold text-decoration-underline">PubMed Study</a>). Your dermatologist can recommend a maintenance schedule based on your response rather than using a fixed timeline for everyone.
-            </p>
+              <div class="col-md-4">
+                <div class="timeline-card-lux">
+                  <div class="timeline-card-icon">
+                    <i class="bi bi-calendar2-range"></i>
+                  </div>
+                  <span class="timeline-card-tag">2 Initial Sessions</span>
+                  <h3 class="h6 fw-bold text-charcoal mb-2">Recommended Protocol</h3>
+                  <p class="small text-muted mb-0">
+                    Standard protocol entails an initial course of <strong>2 sessions spaced 4 weeks apart</strong>, personalized based on baseline skin laxity, age, and individual response.
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="timeline-card-lux">
+                  <div class="timeline-card-icon">
+                    <i class="bi bi-arrow-repeat"></i>
+                  </div>
+                  <span class="timeline-card-tag">6–9 Months</span>
+                  <h3 class="h6 fw-bold text-charcoal mb-2">Longevity &amp; Maintenance</h3>
+                  <p class="small text-muted mb-0">
+                    Visible improvements typically last 6–9 months. Periodic single maintenance sessions help preserve peak dermal quality and resilience (<a href="https://pubmed.ncbi.nlm.nih.gov/29320592/" target="_blank" rel="noopener" class="text-gold text-decoration-underline"><i class="bi bi-box-arrow-up-right me-1"></i>PubMed</a>).
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
 
           <!-- SECTION 10: IS PROFHILO A DERMAL FILLER? -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Is Profhilo a Dermal Filler?</h2>
             <p>
-              No—not in the conventional sense. Although both Profhilo and many dermal fillers use hyaluronic acid, their intended aesthetic roles can be different.
+              No—not in the conventional sense. Although both Profhilo and dermal fillers use hyaluronic acid, their intended aesthetic roles are fundamentally different:
             </p>
 
             <div class="table-responsive">
@@ -730,29 +848,25 @@
                 <thead>
                   <tr>
                     <th>Profhilo / Skin Booster Approach</th>
-                    <th>Dermal Filler</th>
+                    <th>Conventional Dermal Filler</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Primarily focused on skin quality</td>
-                    <td>Primarily used for structural correction/volume</td>
+                    <td>Primarily focused on skin quality and hydration</td>
+                    <td>Primarily used for structural correction and volume</td>
                   </tr>
                   <tr>
-                    <td>Hydration and skin conditioning</td>
-                    <td>Volume restoration or contouring</td>
+                    <td>Diffuses across tissue for cellular bio-remodeling</td>
+                    <td>Remains localized for targeted projection or contouring</td>
                   </tr>
                   <tr>
-                    <td>More subtle rejuvenation objective</td>
-                    <td>Can create more defined changes</td>
+                    <td>Subtle rejuvenation without altering facial proportions</td>
+                    <td>Can alter contours, jawline definition, or facial shape</td>
                   </tr>
                   <tr>
-                    <td>Not intended to reshape the face like a filler</td>
-                    <td>Can alter contours and facial proportions</td>
-                  </tr>
-                  <tr>
-                    <td>Selected according to skin concerns</td>
-                    <td>Selected according to anatomical/volume concerns</td>
+                    <td>Selected for dehydration, dullness and fine lines</td>
+                    <td>Selected for hollows, deep folds, chin and cheek volume</td>
                   </tr>
                 </tbody>
               </table>
@@ -763,69 +877,108 @@
           <!-- SECTION 11: PROFHILO VS OTHER SKIN TREATMENTS -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Profhilo vs Other Skin Treatments in Gurgaon</h2>
-            <p>There is no universally “best” skin rejuvenation treatment.</p>
+            <p class="text-muted mb-4">There is no universally “best” skin rejuvenation treatment. Each modality addresses different layers and concerns:</p>
 
-            <h3 class="h6 fw-bold text-charcoal mb-1">Profhilo vs Chemical Peel</h3>
-            <p class="small text-muted mb-3">
-              <a href="chemical-peels-in-gurgaon" class="text-gold text-decoration-underline">Chemical peels</a> primarily work through controlled exfoliation and can be useful for selected concerns such as uneven texture, pigmentation and superficial skin changes. Profhilo is an injectable HA-based approach focused more on hydration and skin quality.
-            </p>
+            <div class="row g-3">
+              <div class="col-md-6">
+                <div class="compare-lux-card">
+                  <div class="compare-lux-head">
+                    <div class="compare-lux-icon">
+                      <i class="bi bi-stars"></i>
+                    </div>
+                    <div>
+                      <h3 class="h6 fw-bold text-charcoal mb-0">Profhilo vs Chemical Peels</h3>
+                      <span class="text-gold small fw-semibold">Surface Exfoliation vs Intradermal Hydration</span>
+                    </div>
+                  </div>
+                  <p class="small text-muted mb-0">
+                    <a href="chemical-peels-in-gurgaon" class="text-gold fw-semibold text-decoration-underline">Chemical peels</a> work through controlled surface exfoliation for uneven texture and pigmentation, while Profhilo delivers deep intradermal hydration and bio-remodeling.
+                  </p>
+                </div>
+              </div>
 
-            <h3 class="h6 fw-bold text-charcoal mb-1">Profhilo vs Laser Treatment</h3>
-            <p class="small text-muted mb-3">
-              <a href="skin-laser-treatment-in-gurgaon" class="text-gold text-decoration-underline">Laser treatments</a> can target specific concerns such as pigmentation, vascular issues, textural changes or photoageing depending on the laser and protocol. If your primary concern is skin hydration and early loss of elasticity, your dermatologist may discuss a skin booster instead.
-            </p>
+              <div class="col-md-6">
+                <div class="compare-lux-card">
+                  <div class="compare-lux-head">
+                    <div class="compare-lux-icon">
+                      <i class="bi bi-lightning-charge"></i>
+                    </div>
+                    <div>
+                      <h3 class="h6 fw-bold text-charcoal mb-0">Profhilo vs Laser Treatment</h3>
+                      <span class="text-gold small fw-semibold">Energy Targeting vs Cellular Hydration</span>
+                    </div>
+                  </div>
+                  <p class="small text-muted mb-0">
+                    <a href="skin-laser-treatment-in-gurgaon" class="text-gold fw-semibold text-decoration-underline">Laser treatments</a> target specific pigmentation, redness, or acne scars with light energy. Profhilo focuses specifically on cellular hydration and elasticity.
+                  </p>
+                </div>
+              </div>
 
-            <h3 class="h6 fw-bold text-charcoal mb-1">Profhilo vs Dermal Fillers</h3>
-            <p class="small text-muted mb-3">
-              <a href="filler-treatment-in-gurgaon" class="text-gold text-decoration-underline">Fillers</a> are generally selected when the treatment objective involves volume, contour or structural correction. Profhilo is not designed to replace the facial volume created by conventional fillers.
-            </p>
+              <div class="col-md-6">
+                <div class="compare-lux-card">
+                  <div class="compare-lux-head">
+                    <div class="compare-lux-icon">
+                      <i class="bi bi-gem"></i>
+                    </div>
+                    <div>
+                      <h3 class="h6 fw-bold text-charcoal mb-0">Profhilo vs Dermal Fillers</h3>
+                      <span class="text-gold small fw-semibold">Structural Contouring vs Skin Quality</span>
+                    </div>
+                  </div>
+                  <p class="small text-muted mb-0">
+                    <a href="filler-treatment-in-gurgaon" class="text-gold fw-semibold text-decoration-underline">Fillers</a> restore lost volume and sculpt facial contours. Profhilo does not add volume, focusing purely on tissue quality and skin firmness.
+                  </p>
+                </div>
+              </div>
 
-            <h3 class="h6 fw-bold text-charcoal mb-1">Profhilo vs PRP</h3>
-            <p class="small text-muted mb-0">
-              <a href="vampire-facial-in-gurgaon" class="text-gold text-decoration-underline">PRP</a> uses components derived from your own blood, whereas Profhilo uses an injectable hyaluronic-acid formulation. The choice depends on your concern, medical history and treatment objective.
-            </p>
+              <div class="col-md-6">
+                <div class="compare-lux-card">
+                  <div class="compare-lux-head">
+                    <div class="compare-lux-icon">
+                      <i class="bi bi-heart-pulse"></i>
+                    </div>
+                    <div>
+                      <h3 class="h6 fw-bold text-charcoal mb-0">Profhilo vs PRP Therapy</h3>
+                      <span class="text-gold small fw-semibold">Growth Factors vs High-Purity HA</span>
+                    </div>
+                  </div>
+                  <p class="small text-muted mb-0">
+                    <a href="vampire-facial-in-gurgaon" class="text-gold fw-semibold text-decoration-underline">PRP</a> uses autologous growth factors from your blood, whereas Profhilo injects stabilized high-purity hyaluronic acid.
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
 
           <!-- SECTION 12: CANDIDATES & WHEN NOT SUITABLE -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Who May Be Suitable for Profhilo?</h2>
             <p>
-              Profhilo may be discussed with adults who are concerned about skin quality rather than significant structural facial changes. You may be a potential candidate if you notice:
+              Profhilo is suitable for adults seeking natural improvements in skin quality rather than structural facial changes.
             </p>
-            <div class="row g-2 mb-4">
+
+            <div class="row g-4 mt-1">
               <div class="col-md-6">
+                <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-check-circle-fill text-success me-1"></i> Ideal Candidates</h3>
                 <ul class="check-list-clean">
-                  <li><i class="bi bi-check2 text-gold"></i> Dehydrated-looking skin</li>
-                  <li><i class="bi bi-check2 text-gold"></i> Dull or tired-looking skin</li>
-                  <li><i class="bi bi-check2 text-gold"></i> Early fine lines</li>
-                  <li><i class="bi bi-check2 text-gold"></i> Reduced skin elasticity</li>
+                  <li><i class="bi bi-check2 text-success"></i> Dehydrated, dull, or tired-looking skin</li>
+                  <li><i class="bi bi-check2 text-success"></i> Early fine lines and superficial creases</li>
+                  <li><i class="bi bi-check2 text-success"></i> Reduced skin elasticity and natural firmness</li>
+                  <li><i class="bi bi-check2 text-success"></i> Mild skin laxity &amp; crepey texture</li>
+                  <li><i class="bi bi-check2 text-success"></i> Preventive anti-ageing care</li>
                 </ul>
               </div>
               <div class="col-md-6">
+                <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-x-circle-fill text-gold me-1"></i> When Alternatives Are Recommended</h3>
                 <ul class="check-list-clean">
-                  <li><i class="bi bi-check2 text-gold"></i> Mild skin laxity</li>
-                  <li><i class="bi bi-check2 text-gold"></i> Loss of skin freshness</li>
-                  <li><i class="bi bi-check2 text-gold"></i> Crepey texture</li>
-                  <li><i class="bi bi-check2 text-gold"></i> Early age-related changes</li>
+                  <li><i class="bi bi-x text-gold fs-5"></i> Significant facial volume loss (Fillers recommended)</li>
+                  <li><i class="bi bi-x text-gold fs-5"></i> Severe skin sagging or jowling (Lifting needed)</li>
+                  <li><i class="bi bi-x text-gold fs-5"></i> Deep static wrinkles requiring targeted resurfacing</li>
+                  <li><i class="bi bi-x text-gold fs-5"></i> Active skin infection in proposed treatment area</li>
+                  <li><i class="bi bi-x text-gold fs-5"></i> Severe pigmentation requiring specialized lasers</li>
                 </ul>
               </div>
             </div>
-            <p class="small text-muted mb-4">
-              However, being interested in Profhilo does not automatically mean you are a suitable candidate. A dermatologist should determine whether the treatment is appropriate for you.
-            </p>
-
-            <h3 class="h5 fw-bold text-charcoal mb-2">When Profhilo May Not Be the Right Choice</h3>
-            <p class="text-muted">Profhilo may not be the most suitable option if your primary concern is:</p>
-            <ul class="check-list-clean mb-0">
-              <li><i class="bi bi-x-circle text-danger"></i> Significant facial volume loss</li>
-              <li><i class="bi bi-x-circle text-danger"></i> Deep static wrinkles</li>
-              <li><i class="bi bi-x-circle text-danger"></i> Severe skin laxity or advanced jowling</li>
-              <li><i class="bi bi-x-circle text-danger"></i> Major facial asymmetry</li>
-              <li><i class="bi bi-x-circle text-danger"></i> Severe pigmentation requiring medical treatment</li>
-              <li><i class="bi bi-x-circle text-danger"></i> Active skin infection in the proposed treatment area</li>
-              <li><i class="bi bi-x-circle text-danger"></i> A condition requiring medical treatment rather than cosmetic rejuvenation</li>
-            </ul>
-            <p class="small text-muted mt-3 mb-0">In such cases, another procedure, or a combination of treatments, may provide a more appropriate approach.</p>
           </div>
 
           <!-- SECTION 13: PROFHILO FOR MEN, FACE & NECK -->
@@ -834,15 +987,15 @@
             
             <h3 class="h5 fw-bold text-charcoal mb-2">Profhilo for Men in Gurgaon</h3>
             <p>
-              Skin rejuvenation is not limited to women. Men who experience dehydrated skin, dull complexion, early fine lines, reduced firmness, rough skin texture, or visible signs of fatigue may also discuss Profhilo with a dermatologist. The treatment plan should be based on the individual's skin rather than gender. At DermaTales Gurgaon, the objective is to preserve a natural appearance rather than create an over-treated look.
+              Skin rejuvenation is not limited to women. Men experiencing dehydrated skin, dullness, early fine lines, reduced firmness, or fatigue from urban commuting can discuss Profhilo with a dermatologist. At DermaTales Gurgaon, the objective is preserving a fresh, natural masculine appearance without artificial softness or over-treatment.
             </p>
 
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Profhilo for the Face and Neck</h3>
-            <p>Profhilo may be considered for areas where improving skin quality is the primary objective:</p>
+            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Profhilo for Face and Neck</h3>
+            <p>Profhilo may be considered for multiple anatomical zones:</p>
             <ul class="check-list-clean">
-              <li><i class="bi bi-dot text-gold fs-4"></i> <strong>Face:</strong> For concerns involving hydration, texture, elasticity and early signs of ageing.</li>
-              <li><i class="bi bi-dot text-gold fs-4"></i> <strong>Neck:</strong> The neck can show visible changes in skin quality and elasticity over time. HA-based skin-quality treatments have also been studied in neck applications.</li>
-              <li><i class="bi bi-dot text-gold fs-4"></i> <strong>Other Areas:</strong> Certain HA skin-booster formulations have been studied in areas beyond the face, but the exact indication depends on the product and medical assessment. Do not assume that a facial protocol can simply be transferred to another body area.</li>
+              <li><i class="bi bi-check2 text-gold"></i> <strong>Face:</strong> Improves midface hydration, fine texture, elasticity and natural glow.</li>
+              <li><i class="bi bi-check2 text-gold"></i> <strong>Neck:</strong> Addresses thinning, crepey horizontal neck rings and mild laxity.</li>
+              <li><i class="bi bi-check2 text-gold"></i> <strong>Décolletage &amp; Hands:</strong> Targeted bio-remodeling for areas exposed to sun and photoageing.</li>
             </ul>
           </div>
 
@@ -850,91 +1003,65 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Profhilo Injection in Gurgaon: Why Technique Matters</h2>
             <p>
-              Searches such as “Profhilo skin injection in Gurgaon” often focus on finding the nearest clinic or lowest price. But with injectable treatments, the more important question is: <strong>Who is assessing your skin and performing the treatment?</strong>
+              With injectable treatments, the most important question is: <strong>Who is assessing your anatomy and performing the injection?</strong>
             </p>
             <p>
-              Injection-based aesthetic procedures require knowledge of facial anatomy, product characteristics, injection technique and possible complications. Published expert consensus documents emphasise treatment planning, anatomical considerations, appropriate injection technique and complication avoidance for HA injectables (<a href="https://pubmed.ncbi.nlm.nih.gov/34526796/" target="_blank" rel="noopener" class="text-gold text-decoration-underline">PubMed Citation</a>). For this reason, Profhilo should be approached as a medical aesthetic procedure, not as a routine facial.
+              Injectable procedures require in-depth mastery of vascular anatomy, precise depth placement, and complication prevention (<a href="https://pubmed.ncbi.nlm.nih.gov/34526796/" target="_blank" rel="noopener" class="text-gold text-decoration-underline"><i class="bi bi-box-arrow-up-right me-1"></i>PubMed Citation</a>).
             </p>
 
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Why Choose DermaTales for Profhilo in Gurgaon?</h3>
-            <p>
-              DermaTales Gurgaon is a dermatology and aesthetic clinic in Sector 31, Gurugram, serving patients from nearby Gurgaon neighbourhoods.
-            </p>
-            <p>
-              <strong>Dr. Pooja Varshney</strong>, MBBS, MD (Dermatology), Fellowship in Cosmetology (Practising since 2015), leads the dermatology and aesthetic care at DermaTales. The clinic's Gurgaon profile highlights an approach centred on diagnosis, evidence-based treatment and personalised care.
-            </p>
+            <div class="doctor-feature-box">
+              <div class="d-flex align-items-center gap-3 mb-3">
+                <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney" class="rounded-circle shadow-sm" style="width: 70px; height: 70px; object-fit: cover;">
+                <div>
+                  <h3 class="h5 fw-bold text-charcoal mb-1"><a href="dr-pooja-varshney" class="text-charcoal">Dr. Pooja Varshney</a></h3>
+                  <div class="text-gold fw-semibold small mb-1">MBBS, MD (Dermatology), Fellowship in Cosmetology</div>
+                  <div class="text-muted small">Practising Dermatology &amp; Aesthetic Medicine Since 2015</div>
+                </div>
+              </div>
 
-            <h4 class="h6 fw-bold text-charcoal mt-3 mb-2">The DermaTales approach:</h4>
-            <ul class="check-list-clean">
-              <li><i class="bi bi-check-circle-fill text-gold"></i> <strong>Assessment first:</strong> Understand the concern before selecting a procedure.</li>
-              <li><i class="bi bi-check-circle-fill text-gold"></i> <strong>Personalised treatment planning:</strong> Your skin condition and goals determine the treatment approach.</li>
-              <li><i class="bi bi-check-circle-fill text-gold"></i> <strong>Natural-looking objectives:</strong> The goal is improvement without unnecessarily changing facial character.</li>
-              <li><i class="bi bi-check-circle-fill text-gold"></i> <strong>Dermatology expertise:</strong> Treatment is planned within a broader understanding of skin health and aesthetic concerns.</li>
-              <li><i class="bi bi-check-circle-fill text-gold"></i> <strong>Follow-up and aftercare:</strong> Post-treatment guidance is part of responsible aesthetic care.</li>
-            </ul>
+              <h4 class="h6 fw-bold text-charcoal mb-2">The DermaTales Approach:</h4>
+              <ul class="check-list-clean mb-3">
+                <li><i class="bi bi-check2 text-gold"></i> <strong>Assessment first:</strong> Diagnose root causes before recommending any injection.</li>
+                <li><i class="bi bi-check2 text-gold"></i> <strong>Personalised planning:</strong> Protocols tailored to your facial structure.</li>
+                <li><i class="bi bi-check2 text-gold"></i> <strong>Natural outcomes:</strong> Focused on healthy, refreshed skin rather than altered features.</li>
+                <li><i class="bi bi-check2 text-gold"></i> <strong>Structured aftercare:</strong> Follow-up guidance is an integral part of care.</li>
+              </ul>
 
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Profhilo Treatment in Sector 31 Gurgaon</h3>
-            <p>
-              If you are searching for Profhilo skin booster Gurgaon, DermaTales' Sector 31 clinic offers a convenient location for patients from Sector 31, Sector 29, Sector 40, South City I, and nearby Gurgaon sectors.
-            </p>
-            <p class="small text-muted">
-              The clinic is located at: <strong>DermaTales, 694, Sector 31, Gurugram, Haryana 122001</strong> (<a href="skin-clinic-in-gurgaon" class="text-gold text-decoration-underline">DermaTales Clinic Gurgaon</a>).
-            </p>
-            <div class="mt-3">
-              <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill px-4 py-2">Book Your Consultation</a>
+              <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 pt-2 border-top border-light">
+                <span class="small text-muted"><i class="bi bi-geo-alt text-gold me-1"></i> Sector 31, Gurugram (Serving Sector 31, 29, 40, South City I)</span>
+                <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill px-4 py-2">Book Consultation</a>
+              </div>
             </div>
           </div>
 
           <!-- SECTION 15: QUESTIONS, AFTERCARE & RISKS -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">What Should You Ask Before Getting Profhilo?</h2>
-            <p>Before undergoing treatment, ask:</p>
-            <div class="row g-2">
+            <p>A transparent consultation should give you complete clarity. Key questions to discuss:</p>
+
+            <div class="row g-2 mb-4">
               <div class="col-md-6">
                 <ul class="check-list-clean">
-                  <li><i class="bi bi-question-circle text-gold"></i> Is Profhilo actually appropriate for my concern?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> What improvement should I realistically expect?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> How many sessions might I need?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> Which areas are being treated?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> What product is being used?</li>
+                  <li><i class="bi bi-question-circle text-gold"></i> Is Profhilo appropriate for my primary concern?</li>
+                  <li><i class="bi bi-question-circle text-gold"></i> What realistic improvement should I expect?</li>
+                  <li><i class="bi bi-question-circle text-gold"></i> How many sessions will I need?</li>
                 </ul>
               </div>
               <div class="col-md-6">
                 <ul class="check-list-clean">
-                  <li><i class="bi bi-question-circle text-gold"></i> Who will perform the injections?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> What side effects should I expect?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> What should I avoid after treatment?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> Are there better alternatives for my skin concern?</li>
-                  <li><i class="bi bi-question-circle text-gold"></i> What happens if I do not get the expected result?</li>
+                  <li><i class="bi bi-question-circle text-gold"></i> Who performs the injections?</li>
+                  <li><i class="bi bi-question-circle text-gold"></i> What side effects or downtime should I anticipate?</li>
+                  <li><i class="bi bi-question-circle text-gold"></i> Are there alternative procedures better suited for me?</li>
                 </ul>
               </div>
             </div>
-            <p class="small text-muted mt-2 mb-4">
-              A good consultation should give you enough information to make an informed decision rather than pressure you into treatment.
-            </p>
 
-            <h3 class="h5 fw-bold text-charcoal mb-2">Profhilo Aftercare</h3>
+            <h3 class="h5 fw-bold text-charcoal mb-2">Profhilo Aftercare &amp; Safety</h3>
             <p>
-              Your dermatologist will provide personalised aftercare instructions. General precautions may include avoiding unnecessary touching or pressure on the treated areas immediately after the procedure and following the clinic's instructions regarding skincare, exercise, heat and other activities.
+              Your dermatologist will provide personalised aftercare instructions. General guidelines include avoiding touching or massaging injection points for 24 hours, and avoiding intense heat, saunas, and strenuous exercise for 48 hours.
             </p>
-            <p>
-              You should also contact your treating clinic if you experience symptoms that concern you or appear unusual. Because post-treatment instructions can depend on the injection technique, treatment area and your individual skin, follow the specific advice given by your dermatologist rather than relying only on generic internet instructions.
-            </p>
-
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Possible Side Effects and Risks</h3>
-            <p>
-              Like other injectable treatments, Profhilo can be associated with temporary local reactions. These may include redness, swelling, tenderness, bruising, mild discomfort, and small raised areas at injection sites. These reactions may settle as the treated area recovers.
-            </p>
-            <p>
-              More significant complications are less common but can occur with injectable aesthetic procedures. Appropriate patient selection, anatomical knowledge, sterile technique and trained medical administration are important components of safety. Expert literature on HA injectables emphasises appropriate treatment planning and complication avoidance (<a href="https://pubmed.ncbi.nlm.nih.gov/34526796/" target="_blank" rel="noopener" class="text-gold text-decoration-underline">PubMed Study</a>). If you have a history of allergies, bleeding problems, active skin conditions, previous reactions to injectables or other relevant medical concerns, tell your dermatologist before treatment.
-            </p>
-
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Can Profhilo Go Wrong?</h3>
-            <p>
-              No cosmetic injectable should be described as completely risk-free. Problems can occur when the wrong patient is selected, the treatment objective is misunderstood, injection technique is inappropriate, product handling is inadequate, facial anatomy is not properly considered, treatment is performed by an inadequately trained person, or aftercare instructions are ignored.
-            </p>
-            <p class="mb-0">
-              This is why choosing a qualified medical professional is more important than choosing a clinic based only on a promotional offer.
+            <p class="small text-muted mb-0">
+              Temporary local reactions like slight swelling, small raised bumps, or mild tenderness typically settle within 24–48 hours. Medical administration by a qualified dermatologist ensures strict sterile technique and safety standards (<a href="https://pubmed.ncbi.nlm.nih.gov/34526796/" target="_blank" rel="noopener" class="text-gold text-decoration-underline">PubMed Study</a>).
             </p>
           </div>
 
@@ -942,50 +1069,18 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Profhilo Treatment Cost in Gurgaon</h2>
             <p>
-              The cost of Profhilo in Gurgaon can vary depending on several factors, including the product used, treatment area, number of sessions, treatment plan, individual skin concerns, whether additional procedures are recommended, and clinical assessment and follow-up.
-            </p>
-            <p>
-              Because the correct treatment plan cannot be determined without assessing your skin, DermaTales recommends confirming the current treatment cost during consultation rather than relying on an online estimate.
+              The cost of Profhilo in Gurgaon depends on product specifications, treatment zones, number of sessions, and whether complementary treatments are combined. Because an accurate plan requires assessing your skin, DermaTales recommends confirming pricing during your consultation.
             </p>
             <div class="my-3">
-              <a href="book-appointment" class="btn btn-outline-gold btn-sm rounded-pill px-4 py-2">Ask About Profhilo Cost in Gurgaon</a>
+              <a href="book-appointment" class="btn btn-outline-gold btn-sm rounded-pill px-4 py-2">Inquire About Profhilo Cost</a>
             </div>
 
             <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">Is Profhilo Worth It?</h3>
-            <p>Whether Profhilo is “worth it” depends on what you want from treatment.</p>
-            <div class="row g-3">
-              <div class="col-md-6">
-                <p class="small fw-semibold text-charcoal mb-1">It may be worth discussing if your goal is:</p>
-                <ul class="check-list-clean">
-                  <li><i class="bi bi-check2 text-success"></i> Better hydration &amp; improved skin quality</li>
-                  <li><i class="bi bi-check2 text-success"></i> A fresher appearance &amp; subtle rejuvenation</li>
-                  <li><i class="bi bi-check2 text-success"></i> Improved skin elasticity &amp; natural-looking change</li>
-                </ul>
-              </div>
-              <div class="col-md-6">
-                <p class="small fw-semibold text-charcoal mb-1">It may be less appropriate if you expect:</p>
-                <ul class="check-list-clean">
-                  <li><i class="bi bi-x-circle text-danger"></i> A facelift-like lift</li>
-                  <li><i class="bi bi-x-circle text-danger"></i> Major facial contouring or significant volume restoration</li>
-                  <li><i class="bi bi-x-circle text-danger"></i> Complete removal of deep wrinkles or permanent results</li>
-                </ul>
-              </div>
-            </div>
-            <p class="small text-muted mt-2 mb-0">
-              The best treatment is not necessarily the most popular treatment. It is the one that matches your actual concern.
+            <p class="text-muted small">
+              Profhilo is worth discussing if your goal is deep cellular hydration, natural glow, and subtle skin firmness. It is less appropriate if you expect structural volume augmentation, facelift-like lifting, or permanent removal of deep static folds.
             </p>
-
-            <h3 class="h5 fw-bold text-charcoal mt-4 mb-2">How to Get the Most From Your Profhilo Treatment</h3>
-            <p>Professional treatment is only one part of maintaining skin quality. Your dermatologist may also discuss:</p>
-            <ul class="check-list-clean mb-3">
-              <li><i class="bi bi-sun text-gold"></i> Daily broad-spectrum sunscreen</li>
-              <li><i class="bi bi-droplet text-gold"></i> Appropriate moisturisation &amp; antioxidant skincare where suitable</li>
-              <li><i class="bi bi-shield text-gold"></i> Retinoids or other active ingredients where appropriate</li>
-              <li><i class="bi bi-heart text-gold"></i> Treatment of pigmentation or acne &amp; healthy lifestyle habits</li>
-              <li><i class="bi bi-calendar text-gold"></i> Follow-up appointments</li>
-            </ul>
             <p class="small text-muted mb-0">
-              Sun exposure contributes significantly to photoageing, so ongoing sun protection remains important even after aesthetic treatments (<a href="https://my.clevelandclinic.org/health/diseases/5240-sun-damage-protecting-yourself" target="_blank" rel="noopener" class="text-gold text-decoration-underline">Cleveland Clinic</a>).
+              Ongoing sun protection with broad-spectrum SPF remains essential to protect your investment and maintain skin quality (<a href="https://my.clevelandclinic.org/health/diseases/5240-sun-damage-protecting-yourself" target="_blank" rel="noopener" class="text-gold text-decoration-underline">Cleveland Clinic</a>).
             </p>
           </div>
 
@@ -993,17 +1088,16 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Profhilo Consultation at DermaTales Gurgaon</h2>
             <p>
-              If you are considering a Profhilo skin treatment in Gurgaon, start with an assessment rather than choosing treatment solely from before-and-after photographs.
+              If you are considering Profhilo, start with a comprehensive clinical assessment rather than choosing treatment solely from online photos.
             </p>
-            <p>During your consultation, discuss:</p>
-            <div class="p-3 bg-light rounded-3 my-2">
-              <span class="fw-semibold text-charcoal small">
-                Your concern &rarr; Your skin condition &rarr; Your desired outcome &rarr; Suitable treatment &rarr; Expected results &rarr; Risks &rarr; Maintenance
-              </span>
+            <p class="text-charcoal fw-semibold mb-2">
+              Assessment Flow: Concern &rarr; Skin Examination &rarr; Treatment Plan &rarr; Expected Outcomes &rarr; Aftercare
+            </p>
+            <div class="mt-3">
+              <a href="book-appointment" class="btn btn-gold btn-sm rounded-pill px-4 py-2">
+                <i class="bi bi-calendar-check me-1"></i> Book Your Consultation at Sector 31
+              </a>
             </div>
-            <p class="small text-muted mb-0">
-              This approach helps ensure that your treatment decision is based on realistic expectations.
-            </p>
           </div>
 
           <!-- SECTION 18: FAQ ACCORDION -->

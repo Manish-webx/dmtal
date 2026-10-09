@@ -867,7 +867,7 @@
                 </li>
                 <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a>
                 </li>
-                <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i
+                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment <i
                       class="bi bi-chevron-right"></i></a></li>
                 <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Patel Nagar <i
                       class="bi bi-chevron-right"></i></a></li>

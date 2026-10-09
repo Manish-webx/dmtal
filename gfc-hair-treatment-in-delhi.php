@@ -479,7 +479,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Other Treatments</h3>
               <ul class="related-list">
-                <li><a href="prp-hair-treatment-in-patel-nagar-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="hair-transplant-in-delhi">Hair Transplant <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="fillers-treatment-delhi">Dermal Fillers <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="botox-treatment-in-delhi">Botox Treatment <i class="bi bi-chevron-right"></i></a></li>

@@ -370,11 +370,11 @@
             <div class="timeline-lux mt-4">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">PRP (Platelet-Rich Plasma) Therapy</h4>
-                <p class="small text-muted">Your own blood is processed to concentrate growth factors, which are then injected into the scalp to stimulate dormant follicles and strengthen existing hair. Read more on our <a href="hair-prp-treatment-in-gurgaon">PRP Therapy</a> page.</p>
+                <p class="small text-muted">Your own blood is processed to concentrate growth factors, which are then injected into the scalp to stimulate dormant follicles and strengthen existing hair. Read more on our <a href="prp-hair-treatment-in-delhi">PRP Hair Treatment in Delhi</a> page.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">GFC (Growth Factor Concentrate) Therapy</h4>
-                <p class="small text-muted">A more advanced evolution of PRP using a concentrated growth-factor protocol for patients needing a stronger regenerative push. See our <a href="gfc-therapy-in-gurgaon">GFC Therapy</a> page.</p>
+                <p class="small text-muted">A more advanced evolution of PRP using a concentrated growth-factor protocol for patients needing a stronger regenerative push. See our <a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment in Delhi</a> page.</p>
               </div>
               <div class="timeline-lux-item" data-step="3">
                 <h4 class="h6 fw-bold mb-1">Exosome Therapy</h4>

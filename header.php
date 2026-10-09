@@ -164,8 +164,10 @@
                   <div class="col-lg-3">
                     <h6 class="mega-heading">Hair Treatments</h6>
                     <ul class="mega-list">
-                      <li><a href="hair-prp-treatment-in-gurgaon">PRP Therapy</a></li>
+                      <li><a href="hair-prp-treatment-in-gurgaon">PRP Therapy (Gurgaon)</a></li>
+                      <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment (Delhi)</a></li>
                       <li><a href="gfc-therapy-in-gurgaon">GFC Therapy</a></li>
+                      <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment (Delhi)</a></li>
                       <li><a href="lllt-therapy-in-gurgaon">LLLT (Low Level Laser Therapy)</a></li>
                       <li><a href="mesotherapy-in-gurgaon">Mesotherapy</a></li>
                       <li><a href="exosome-therapy-in-gurgaon">Exosome Therapy</a></li>

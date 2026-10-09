@@ -558,10 +558,13 @@
                 <h3 class="h4 fw-bold mb-0">Hair Loss Treatment (Hair Specialist in Patel Nagar)</h3>
               </div>
               <p class="text-muted" style="line-height: 1.8;">
-                Thinning hair, patchy bald spots, or postpartum shedding — our Patel Nagar clinic offers PRP, GFC therapy, and scalp mesotherapy, starting with a full scalp analysis and blood panel to identify the root cause rather than treating hair fall generically. Most patients see visible regrowth within 3–6 months of starting the protocol.
+                Thinning hair, patchy bald spots, or postpartum shedding — our Patel Nagar clinic offers <a href="prp-hair-treatment-in-delhi" class="text-gold fw-bold text-decoration-underline">PRP hair treatment</a>, <a href="gfc-hair-treatment-in-delhi" class="text-gold fw-bold text-decoration-underline">GFC therapy</a>, and scalp mesotherapy, starting with a full scalp analysis and blood panel to identify the root cause rather than treating hair fall generically. Most patients see visible regrowth within 3–6 months of starting the protocol.
               </p>
             </div>
             <div class="mt-3">
+              <a href="prp-hair-treatment-in-delhi" class="text-gold fw-semibold text-decoration-none me-3">
+                PRP Hair Treatment <i class="bi bi-arrow-right ms-1"></i>
+              </a>
               <a href="book-appointment" class="text-gold fw-semibold text-decoration-none">
                 Consult for Hair Restoration <i class="bi bi-arrow-right ms-1"></i>
               </a>

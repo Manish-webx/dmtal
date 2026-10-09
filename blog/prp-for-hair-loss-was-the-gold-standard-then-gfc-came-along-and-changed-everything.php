@@ -678,10 +678,7 @@ $page_title = "PRP for Hair Loss Was the Gold Standard — Then GFC Came Along a
             <div class="cost-card">
               <h3 class="h4 fw-bold mb-3 text-white">How Much Does GFC and PRP Hair Treatment Cost in Gurgaon?</h3>
               <p class="mb-3 text-white-50">
-                PRP hair treatment in Gurgaon typically ranges from <strong class="text-white">Rs 3,000 to Rs 8,000 per
-                  session</strong>. GFC hair treatment typically ranges from <strong class="text-white">Rs 6,000 to Rs
-                  15,000 per session</strong> due to the more advanced preparation process. An initial course of three
-                to four sessions represents the primary investment with maintenance sessions ongoing.
+                <a href="hair-prp-treatment-in-gurgaon" class="text-gold fw-bold text-decoration-underline">PRP hair treatment in Gurgaon</a> typically ranges from <strong class="text-white">Rs 3,000 to Rs 8,000 per session</strong>, while <a href="prp-hair-treatment-in-delhi" class="text-gold fw-bold text-decoration-underline">PRP hair treatment in Delhi</a> at DermaTales starts from <strong class="text-white">Rs 2,000 per session</strong>. GFC hair treatment typically ranges from <strong class="text-white">Rs 6,000 to Rs 15,000 per session</strong> due to the more advanced preparation process. An initial course of three to four sessions represents the primary investment with maintenance sessions ongoing.
               </p>
               <p class="mb-4 text-white-50">
                 The cost difference between PRP and GFC per session needs to be evaluated against the consistency of
