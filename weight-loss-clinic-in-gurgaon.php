@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Visit DermaTales weight loss clinic in Gurgaon for medically supervised weight management, GLP-1 therapies, and personalised nutrition plans by qualified doctors.">
-  <meta name="keywords"
-    content="weight loss clinic Gurgaon, medical weight loss Gurgaon, doctor supervised weight loss Delhi, obesity treatment Gurgaon, DermaTales">
+  <meta name="keywords" content="weight loss clinic Gurgaon, medical weight loss Gurgaon, doctor supervised weight loss Delhi, obesity treatment Gurgaon, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/weight-loss-clinic-in-gurgaon">

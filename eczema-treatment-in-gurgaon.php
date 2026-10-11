@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Professional eczema treatment in Gurgaon by Dr. Pooja Varshney. Relieve itching, dryness, and inflammation with expert dermatological care at DermaTales.">
-  <meta name="keywords"
-    content="eczema treatment Gurgaon, atopic dermatitis treatment, skin allergy treatment, dermatologist Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="eczema treatment Gurgaon, atopic dermatitis treatment, skin allergy treatment, dermatologist Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/eczema-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Eczema Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Eczema Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Find relief from eczema. Expert diagnosis and personalized care plans by Dr. Pooja Varshney at DermaTales.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Eczema.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Eczema Treatment in Gurgaon | DermaTales</title>
+  <title>Eczema Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>
@@ -180,7 +179,7 @@
                 <div class="feature-list-icon"><i class="bi bi-layers"></i></div>
                 <div class="feature-list-content">
                   <h4>Multi-Modal Protocols</h4>
-                  <p>We combine advanced medical therapy with customized skincare to deliver the best results for chronic eczema.</p>
+                  <p>We combine advanced medical therapy with customized skincare to deliver optimal results for chronic eczema.</p>
                 </div>
               </div>
               <div class="feature-list-item">

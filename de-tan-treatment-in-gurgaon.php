@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Remove stubborn sun tan with advanced De-Tan treatments in Gurgaon at DermaTales. Restore your natural glow and even skin tone safely.">
-  <meta name="keywords"
-    content="De-Tan Treatment Gurgaon, Sun Tan Removal, Chemical Peel for Tanning, Laser Tan Removal, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="De-Tan Treatment Gurgaon, Sun Tan Removal, Chemical Peel for Tanning, Laser Tan Removal, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/de-tan-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best De-Tan Treatment in Gurgaon | Sun Tan Removal | DermaTales">
+  <meta property="og:title" content="De-Tan Treatment in Gurgaon | Sun Tan Removal | DermaTales">
   <meta property="og:description"
     content="Reverse sun damage and remove stubborn tan instantly with clinical De-Tan treatments at DermaTales.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/de-tan.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best De-Tan Treatment in Gurgaon | Sun Tan Removal | DermaTales</title>
+  <title>De-Tan Treatment in Gurgaon | Sun Tan Removal | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

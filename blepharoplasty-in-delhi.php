@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Tired looking eyes are not always fixed the same way. DermaTales, Patel Nagar offers upper and lower blepharoplasty matched to your actual concern. Book a consultation.">
-  <meta name="keywords"
-    content="blepharoplasty in Delhi, eyelid surgery Delhi, upper blepharoplasty Patel Nagar, lower eyelid surgery Delhi, droopy eyelid surgery cost Delhi, blepharoplasty recovery, best blepharoplasty surgeon Delhi">
+  <meta name="keywords" content="blepharoplasty in Delhi, eyelid surgery Delhi, upper blepharoplasty Patel Nagar, lower eyelid surgery Delhi, droopy eyelid surgery cost Delhi, blepharoplasty recovery, blepharoplasty surgeon Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blepharoplasty-in-delhi">

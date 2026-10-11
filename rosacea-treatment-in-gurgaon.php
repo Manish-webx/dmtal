@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Expert rosacea treatment in Gurgaon by Dr. Pooja Varshney. Manage redness, flushing, and skin sensitivity with customized dermatological care at DermaTales.">
-  <meta name="keywords"
-    content="rosacea treatment Gurgaon, skin redness treatment, flushing treatment, dermatologist Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="rosacea treatment Gurgaon, skin redness treatment, flushing treatment, dermatologist Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/rosacea-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Rosacea Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Rosacea Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Manage your rosacea effectively. Expert diagnosis and personalized treatment by Dr. Pooja Varshney at DermaTales.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Rosacea.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Rosacea Treatment in Gurgaon | DermaTales</title>
+  <title>Rosacea Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

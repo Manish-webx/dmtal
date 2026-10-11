@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Patchy beard growth has a permanent fix. DermaTales, Patel Nagar offers FUE beard transplant under Dr. Pooja Varshney, MD Dermatology. Book a consultation today.">
-  <meta name="keywords"
-    content="beard transplant in Delhi, beard transplant Patel Nagar, FUE beard transplant Delhi, beard transplant cost Delhi, patchy beard fix Delhi, beard hair transplant recovery, best beard transplant clinic Delhi">
+  <meta name="keywords" content="beard transplant in Delhi, beard transplant Patel Nagar, FUE beard transplant Delhi, beard transplant cost Delhi, patchy beard fix Delhi, beard hair transplant recovery, beard transplant clinic Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/beard-transplant-in-delhi">

@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Achieve a non-surgical face lift. Advanced HIFU (High-Intensity Focused Ultrasound) in Gurgaon at DermaTales. Tighten sagging skin and define your jawline with zero downtime.">
-  <meta name="keywords"
-    content="HIFU treatment Gurgaon, skin tightening Gurgaon, non-surgical facelift Gurgaon, Ultherapy Gurgaon, neck tightening HIFU, jowl reduction Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="HIFU treatment Gurgaon, skin tightening Gurgaon, non-surgical facelift Gurgaon, Ultherapy Gurgaon, neck tightening HIFU, jowl reduction Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/hifu-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best HIFU in Gurgaon | Non-Surgical Skin Tightening | DermaTales">
+  <meta property="og:title" content="HIFU in Gurgaon | Non-Surgical Skin Tightening | DermaTales">
   <meta property="og:description"
     content="Lift and tighten your skin with the power of ultrasound. Precision HIFU treatment at DermaTales for a naturally youthful appearance without surgery.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/hifu-treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best HIFU in Gurgaon | Non-Surgical Skin Tightening | DermaTales</title>
+  <title>HIFU in Gurgaon | Non-Surgical Skin Tightening | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

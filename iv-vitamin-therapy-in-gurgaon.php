@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Boost your glow and immunity from within. Premium IV Vitamin Therapy at DermaTales Gurgaon. Glutathione, Vitamin C, and hydration infusions by board-certified doctors.">
-  <meta name="keywords"
-    content="IV vitamin therapy Gurgaon, Glutathione injection Gurgaon, Vitamin C IV drip, skin brightening IV, immune boost drip, IV hydration Delhi, DermaTales wellness, Dr Pooja Varshney">
+  <meta name="keywords" content="IV vitamin therapy Gurgaon, Glutathione injection Gurgaon, Vitamin C IV drip, skin brightening IV, immune boost drip, IV hydration Delhi, DermaTales wellness, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/iv-vitamin-therapy-in-gurgaon">
@@ -67,7 +66,7 @@
               <div class="col-md-7">
                 <h2 class="lux-section-title">The Science of Intravenous Wellness</h2>
                 <p>
-                  Oral supplements often struggle with poor absorption due to the digestive process. IV Vitamin Therapy bypasses the gut entirely, ensuring 100% absorption of clinical-grade vitamins, minerals, and antioxidants. At DermaTales, our IV protocols are medically supervised and designed to address skin concerns and overall fatigue.
+                  Oral supplements often struggle with poor absorption due to the digestive process. IV Vitamin Therapy bypasses the gut entirely, ensuring maximal absorption of clinical-grade vitamins, minerals, and antioxidants. At DermaTales, our IV protocols are medically supervised and designed to address skin concerns and overall fatigue.
                 </p>
                 <p>
                   Whether your goal is skin brightening, anti-aging, or a systemic energy boost, our infusion cocktails are precisely calibrated to provide immediate and lasting results.
@@ -117,7 +116,7 @@
           <div class="mt-5 fade-up">
             <h3 class="h5 fw-bold mb-4">Why IV Therapy?</h3>
             <ul class="candidate-list row">
-              <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>100% absorption compared to 10-20% oral intake.</li>
+              <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>maximal absorption compared to 10-20% oral intake.</li>
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Instant hydration and micronutrient replenishment.</li>
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Visible improvement in skin tone and radiance.</li>
               <li class="col-md-6"><i class="bi bi-check2 text-gold"></i>Reduced systemic inflammation and oxidative stress.</li>

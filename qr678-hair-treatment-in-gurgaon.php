@@ -177,7 +177,7 @@
                 <div class="feature-list-icon"><i class="bi bi-star-fill"></i></div>
                 <div class="feature-list-content">
                   <h4>Authentic QR678 Formula</h4>
-                  <p>We use only the original, certified QR678 formulation — not generic alternatives — guaranteeing the clinical efficacy and safety established in published studies.</p>
+                  <p>We use only the original, certified QR678 formulation — not generic alternatives — ensuring the clinical efficacy and safety established in published studies.</p>
                 </div>
               </div>
               <div class="feature-list-item">

@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Restore your hairline with advanced FUE Hair Transplant in Gurgaon at DermaTales. Seamless, natural-looking results with no linear scars by Dr Pooja Varshney.">
-  <meta name="keywords"
-    content="FUE hair transplant Gurgaon, Follicular Unit Extraction, hair restoration Gurgaon, seamless hair transplant, no scar hair transplant, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="FUE hair transplant Gurgaon, Follicular Unit Extraction, hair restoration Gurgaon, seamless hair transplant, no scar hair transplant, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/fue-hair-transplant-in-gurgaon">
@@ -174,7 +173,7 @@
                 <div class="feature-list-icon"><i class="bi bi-scissors"></i></div>
                 <div class="feature-list-content">
                   <h4>Surgical Artistry</h4>
-                  <p>A successful transplant is 50% medical and 50% art. Our surgeons meticulously design hairlines that look 100% natural, not "pluggy" or artificial.</p>
+                  <p>A successful transplant is 50% medical and 50% art. Our surgeons meticulously design hairlines that look completely natural, not "pluggy" or artificial.</p>
                 </div>
               </div>
               <div class="feature-list-item">

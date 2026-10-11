@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience a non-surgical facelift. Professional Thread Lift in Gurgaon at DermaTales. Lift sagging skin, define your jawline, and stimulate collagen with premium PDO/Aptos threads.">
-  <meta name="keywords"
-    content="Thread lift Gurgaon, non-surgical facelift Gurgaon, PDO threads Gurgaon, Aptos threads Delhi, jowl lift threads, fox eye thread lift, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Thread lift Gurgaon, non-surgical facelift Gurgaon, PDO threads Gurgaon, Aptos threads Delhi, jowl lift threads, fox eye thread lift, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/threads-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Thread Lift in Gurgaon | Non-Surgical Face Lift | DermaTales">
+  <meta property="og:title" content="Thread Lift in Gurgaon | Non-Surgical Face Lift | DermaTales">
   <meta property="og:description"
     content="Instant lifting and long-term rejuvenation. Expert Thread Lift at DermaTales using world-class absorbable sutures for natural, surgical-grade results.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/thread-lift.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Thread Lift in Gurgaon | Non-Surgical Face Lift | DermaTales</title>
+  <title>Thread Lift in Gurgaon | Non-Surgical Face Lift | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

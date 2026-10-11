@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Treat your skin as a reflection of your overall health. Holistic skin wellness programs at DermaTales Gurgaon integrating lifestyle, sleep, and medical care by experts.">
-  <meta name="keywords"
-    content="holistic skin care Gurgaon, integrative dermatology, mind-body skin wellness, skin health lifestyle, holistic dermatologist Gurgaon, wellness skin programs, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="holistic skin care Gurgaon, integrative dermatology, mind-body skin wellness, skin health lifestyle, holistic dermatologist Gurgaon, wellness skin programs, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/holistic-skin-wellness-in-gurgaon">
@@ -162,7 +161,7 @@
                 </h3>
                 <div id="hoFaq1" class="accordion-collapse collapse show" data-bs-parent="#holisticFAQ">
                   <div class="accordion-body faq-body">
-                    Not at all. We are medical doctors first. "Holistic" in our context means we use the best of medical science (lasers, pharmacotherapy) AND integrated wellness (nutrition, stress management) to treat the root cause and the symptoms together.
+                    Not at all. We are medical doctors first. "Holistic" in our context means we use evidence-based medical science (lasers, pharmacotherapy) AND integrated wellness (nutrition, stress management) to treat the root cause and the symptoms together.
                   </div>
                 </div>
               </div>

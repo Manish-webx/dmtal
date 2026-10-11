@@ -195,17 +195,8 @@
             </ul>
           </div>
         </li>
-        <li class="mobile-accordion">
-          <button class="mobile-nav-link" data-bs-toggle="collapse" data-bs-target="#mobBlog">
-            Resources <i class="bi bi-chevron-down"></i>
-          </button>
-          <div class="collapse" id="mobBlog">
-            <ul class="mobile-sub-nav">
-              <li><a href="blog/">Blog</a></li>
-              <li><a href="#testimonials">Testimonials</a></li>
-              <li><a href="#results">Before &amp; After</a></li>
-            </ul>
-          </div>
+        <li class="mobile-nav-item">
+          <a class="mobile-nav-link" href="blog/">Blog</a>
         </li>
         <li class="mobile-nav-item">
           <a class="mobile-nav-link" href="book-appointment">Contact</a>

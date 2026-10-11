@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Quick and painless skin tag removal in Gurgaon & Delhi using advanced RF cautery & CO2 laser at DermaTales. Restore your skin's smooth appearance in minutes.">
-  <meta name="keywords"
-    content="skin tag removal Gurgaon, skin tag removal Delhi, RF cautery skin tag, CO2 laser skin tag, dermatosurgery, DermaTales">
+  <meta name="keywords" content="skin tag removal Gurgaon, skin tag removal Delhi, RF cautery skin tag, CO2 laser skin tag, dermatosurgery, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-tag-removal-in-gurgaon">

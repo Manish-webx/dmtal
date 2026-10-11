@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced acne treatment in Gurgaon by Dr Pooja Varshney (MD Dermatology). Evidence-based diagnosis, personalised protocols, and in-clinic procedures to control breakouts and minimise scarring.">
-  <meta name="keywords"
-    content="acne treatment Gurgaon, acne specialist Gurgaon, acne doctor Gurgaon, pimple treatment Gurgaon, Dr Pooja Varshney, DermaTales acne clinic">
+  <meta name="keywords" content="acne treatment Gurgaon, acne specialist Gurgaon, acne doctor Gurgaon, pimple treatment Gurgaon, Dr Pooja Varshney, DermaTales acne clinic">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/acne-treatment-in-gurgaon">
@@ -31,15 +30,15 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Which treatment is best for acne?",
+        "name": "Which treatment is recommended for acne?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Chemical peels are highly effective for many patients as they help control oil production, unclog pores, and reduce active acne. However, the best treatment always depends on individual skin type, acne severity, and underlying causes. A personalized plan prescribed by a dermatologist delivers the most reliable results."
+          "text": "Chemical peels are highly effective for many patients as they help control oil production, unclog pores, and reduce active acne. However, the optimal treatment always depends on individual skin type, acne severity, and underlying causes. A personalized plan prescribed by a dermatologist delivers the most reliable results."
         }
       },
       {
         "@type": "Question",
-        "name": "Who is the best dermatologist in Gurgaon for acne treatment?",
+        "name": "How to choose a qualified dermatologist in Gurgaon for acne treatment?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Dr Pooja Varshney is a certified and experienced dermatologist in Gurgaon with over 10 years of clinical expertise in treating acne and related skin conditions. At Dermatales, treatments are based on medical diagnosis and customised for long-term results."
@@ -272,7 +271,7 @@
 
           <!-- Consult CTA -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Consult the Best Acne Doctor in Gurgaon</h2>
+            <h2 class="lux-section-title">Consult an Experienced Acne Doctor in Gurgaon</h2>
             <p>
               Accurate diagnosis and timely treatment are essential for long-term acne control. Book a consultation with Dr Pooja Varshney at Dermatales for a personalised treatment plan designed to deliver clinically proven results.
             </p>
@@ -294,12 +293,12 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="true" aria-controls="faq1">
-                    Which treatment is best for acne?
+                    Which treatment is recommended for acne?
                   </button>
                 </h3>
                 <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#acneFAQ">
                   <div class="accordion-body faq-body">
-                    Chemical peels are highly effective for many patients as they help control oil production, unclog pores, and reduce active acne. However, the best treatment always depends on individual skin type, acne severity, and underlying causes. A personalized plan prescribed by a dermatologist delivers the most reliable results.
+                    Chemical peels are highly effective for many patients as they help control oil production, unclog pores, and reduce active acne. However, the optimal treatment always depends on individual skin type, acne severity, and underlying causes. A personalized plan prescribed by a dermatologist delivers the most reliable results.
                   </div>
                 </div>
               </div>
@@ -307,7 +306,7 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
-                    Who is the best dermatologist in Gurgaon for acne treatment?
+                    How to choose a qualified dermatologist in Gurgaon for acne treatment?
                   </button>
                 </h3>
                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#acneFAQ">

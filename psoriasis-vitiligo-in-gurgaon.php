@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Specialized clinical management for Psoriasis and Vitiligo in Gurgaon & Delhi at DermaTales. Narrowband UVB phototherapy, Biologics, and advanced melanocyte grafting by expert dermatologists.">
-  <meta name="keywords"
-    content="psoriasis treatment Gurgaon, vitiligo treatment Delhi, NBUVB phototherapy, biologics psoriasis, melanocyte transfer, skin grafting vitiligo, DermaTales">
+  <meta name="keywords" content="psoriasis treatment Gurgaon, vitiligo treatment Delhi, NBUVB phototherapy, biologics psoriasis, melanocyte transfer, skin grafting vitiligo, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/psoriasis-vitiligo-in-gurgaon">
@@ -161,7 +160,7 @@
               </div>
               <div class="timeline-lux-item" data-step="4">
                 <h4 class="h6 fw-bold mb-1">Monitoring &amp; Maintenance</h4>
-                <p class="small text-muted">Regular follow-up sessions to assess treatment response, adjust protocols, and ensure the best long-term outcomes.</p>
+                <p class="small text-muted">Regular follow-up sessions to assess treatment response, adjust protocols, and ensure optimal long-term outcomes.</p>
               </div>
             </div>
           </div>

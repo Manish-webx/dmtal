@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience the restorative power of a Vampire Facial (PRP) in Gurgaon at DermaTales. Stimulate collagen, reduce scars, and achieve a youthful, glowing complexion.">
-  <meta name="keywords"
-    content="Vampire Facial Gurgaon, PRP treatment face Gurgaon, microneedling with PRP, collagen induction therapy, acne scar treatment, anti-aging facial, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Vampire Facial Gurgaon, PRP treatment face Gurgaon, microneedling with PRP, collagen induction therapy, acne scar treatment, anti-aging facial, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/vampire-facial-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Vampire Facial in Gurgaon | PRP Skin Rejuvenation | DermaTales">
+  <meta property="og:title" content="Vampire Facial in Gurgaon | PRP Skin Rejuvenation | DermaTales">
   <meta property="og:description"
     content="Harness your body's natural healing power for flawless skin. Vampire Facial (PRP + Microneedling) at DermaTales for scars, fine lines, and glow.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/vampire-facial.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Vampire Facial in Gurgaon | PRP Skin Rejuvenation | DermaTales</title>
+  <title>Vampire Facial in Gurgaon | PRP Skin Rejuvenation | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Achieve a brighter, even skin tone with our advanced Skin Whitening Treatments in Gurgaon at DermaTales. Safe, effective, and tailored for you.">
-  <meta name="keywords"
-    content="Skin Whitening Treatment Gurgaon, Skin Lightening Gurgaon, Pigmentation Treatment, Glutathione, Laser Toning, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Skin Whitening Treatment Gurgaon, Skin Lightening Gurgaon, Pigmentation Treatment, Glutathione, Laser Toning, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-whitening-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Skin Whitening Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Skin Whitening Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Experience world-class skin whitening and lightening treatments at DermaTales. Reduce pigmentation and get a radiant glow.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/skin-whitening.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Skin Whitening Treatment in Gurgaon | DermaTales</title>
+  <title>Skin Whitening Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

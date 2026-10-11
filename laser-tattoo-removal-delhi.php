@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Safe & effective laser tattoo removal in Delhi at DermaTales. Dermatologist-supervised treatments by Dr. Pooja Varshney for fading unwanted tattoos.">
-  <meta name="keywords"
-    content="Laser tattoo removal in Delhi, Best Laser tattoo removal clinic in Delhi, Laser tattoo removal cost in Delhi, laser tattoo removal before and after">
+  <meta name="keywords" content="Laser tattoo removal in Delhi, Laser tattoo removal clinic in Delhi, Laser tattoo removal cost in Delhi, Q switch laser tattoo removal">
   <meta name="author" content="DermaTales Clinic - Dr. Pooja Varshney">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/laser-tattoo-removal-delhi">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Laser Tattoo Removal in Delhi | Best Tattoo Removal Clinic">
+  <meta property="og:title" content="Laser Tattoo Removal in Delhi | DermaTales Clinic">
   <meta property="og:description"
     content="Safe & effective laser tattoo removal in Delhi at DermaTales. Dermatologist-supervised treatments by Dr. Pooja Varshney for fading unwanted tattoos.">
   <meta property="og:type" content="website">
@@ -22,7 +21,7 @@
   <meta property="og:site_name" content="DermaTales Clinic">
   <meta property="og:locale" content="en_IN">
 
-  <title>Laser Tattoo Removal in Delhi | Best Tattoo Removal Clinic</title>
+  <title>Laser Tattoo Removal in Delhi | DermaTales Clinic</title>
 
   <?php include 'nav-link.php'; ?>
 
@@ -219,27 +218,13 @@
           
           <!-- ===== SECTION 4 ===== -->
           <div class="fade-up mt-5">
-            <h2 class="lux-section-title">Best Laser Tattoo Removal Clinic in Delhi</h2>
+            <h2 class="lux-section-title">Laser Tattoo Removal Clinic in Delhi</h2>
             <p>
-              If you are looking for the best laser tattoo removal clinic in Delhi, Dermatales in Patel Nagar offers advanced dermatologist-supervised laser tattoo removal treatments focused on skin safety, minimal scarring risk, and gradual natural fading of unwanted tattoos.
+              If you are looking for advanced laser tattoo removal in Delhi, Dermatales in Patel Nagar offers dermatologist-supervised laser tattoo removal treatments focused on skin safety, minimal scarring risk, and gradual natural fading of unwanted tattoos.
             </p>
             <p>
               Treatment is performed under the guidance of Dr. Pooja Varshney, an experienced MD Dermatology & Venereology specialist with 10+ years of clinical experience in aesthetic and laser procedures. At Dermatales, every treatment plan is customized according to tattoo size, ink color, skin type, and treatment goals to ensure safer and more effective results.
             </p>
-          </div>
-          
-          <!-- ===== SECTION 5 BEFORE AND AFTER ===== -->
-          <div class="fade-up mt-5">
-            <h2 class="lux-section-title">Laser Tattoo Removal Before and After – What to Expect</h2>
-            
-            <div class="bg-light p-4 rounded-4 mt-3 text-center border">
-              <!-- PLACEHOLDER FOR BEFORE AND AFTER IMAGE -->
-              <div class="d-flex flex-column align-items-center justify-content-center py-5">
-                <i class="bi bi-images text-muted" style="font-size: 3rem;"></i>
-                <h4 class="h5 text-muted mt-3 fw-bold">Before & After Image Placeholder</h4>
-                <p class="small text-muted mb-0">Replace this block with your clinic's actual patient results image.</p>
-              </div>
-            </div>
           </div>
 
           <!-- ===== SECTION 6 SESSIONS ===== -->

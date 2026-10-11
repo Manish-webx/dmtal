@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced acne scar treatment in Gurgaon by Dr Pooja Varshney (MD Dermatology). Laser, MNRF, subcision & chemical peels for smooth, even skin. Acne scar removal clinic in Gurgaon.">
-  <meta name="keywords"
-    content="acne scar treatment in Gurgaon, treatment for acne scars, laser treatment for acne scars, acne scar treatment package, acne scars treatment cost, facial scars treatment, acne scar removal clinic Gurgaon">
+  <meta name="keywords" content="acne scar treatment in Gurgaon, treatment for acne scars, laser treatment for acne scars, acne scar treatment package, acne scars treatment cost, facial scars treatment, acne scar removal clinic Gurgaon">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/acne-scar-treatment-in-gurgaon">
@@ -31,10 +30,10 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Which treatment is best for acne scars?",
+        "name": "Which treatment is most effective for acne scars?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Laser treatment and microneedling are among the most effective options for acne scars, but the best treatment depends on scar type and depth. A combination approach usually delivers better results."
+          "text": "Laser treatment and microneedling are among the most effective options for acne scars, but the optimal treatment depends on scar type and depth. A combination approach usually delivers better results."
         }
       },
       {
@@ -367,12 +366,12 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#sfaq1" aria-expanded="true" aria-controls="sfaq1">
-                    Which treatment is best for acne scars?
+                    Which treatment is most effective for acne scars?
                   </button>
                 </h3>
                 <div id="sfaq1" class="accordion-collapse collapse show" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    Laser treatment and microneedling are among the most effective options for acne scars, but the best treatment depends on scar type and depth. A combination approach usually delivers better results.
+                    Laser treatment and microneedling are among the most effective options for acne scars, but the optimal treatment depends on scar type and depth. A combination approach usually delivers better results.
                   </div>
                 </div>
               </div>

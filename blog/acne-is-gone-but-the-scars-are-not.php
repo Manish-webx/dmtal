@@ -9,8 +9,7 @@ $page_title = "Acne Is Gone But the Scars Are Not: What Now? | DermaTales";
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Dr. Pooja Varshney explains why acne scars require proper scar mapping, how post-inflammatory hyperpigmentation differs from texture scars, and realistic treatments.">
-  <meta name="keywords"
-    content="acne scar treatment gurgaon, post inflammatory hyperpigmentation, rolling scars, boxcar scars, icepick scars, fractional co2 laser, mnrf treatment gurgaon, Dr Pooja Varshney">
+  <meta name="keywords" content="acne scar treatment gurgaon, post inflammatory hyperpigmentation, rolling scars, boxcar scars, icepick scars, fractional co2 laser, mnrf treatment gurgaon, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blog/acne-is-gone-but-the-scars-are-not">

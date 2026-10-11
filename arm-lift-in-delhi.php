@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Sagging upper arm skin does not always need full brachioplasty. DermaTales, Patel Nagar offers arm lift surgery matched to your actual skin laxity. Book a consultation.">
-  <meta name="keywords"
-    content="arm lift surgery in Delhi, brachioplasty in Delhi, arm lift Patel Nagar, bat wing arm surgery Delhi, arm lift cost Delhi, arm liposuction vs arm lift, best arm lift surgeon Delhi">
+  <meta name="keywords" content="arm lift surgery in Delhi, brachioplasty in Delhi, arm lift Patel Nagar, bat wing arm surgery Delhi, arm lift cost Delhi, arm liposuction vs arm lift, arm lift surgeon Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/arm-lift-in-delhi">
@@ -243,7 +242,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">What the Procedure Involves</h2>
             <p>
-              Brachioplasty is typically performed under anaesthesia through an incision running from the underarm toward the elbow, positioned to sit in a natural fold where possible. Excess skin and fat are removed, underlying tissue is tightened, and the incision is closed carefully to support the best possible scar quality. A compression garment is worn afterward to help control swelling and support healing.
+              Brachioplasty is typically performed under anaesthesia through an incision running from the underarm toward the elbow, positioned to sit in a natural fold where possible. Excess skin and fat are removed, underlying tissue is tightened, and the incision is closed carefully to support optimal scar quality. A compression garment is worn afterward to help control swelling and support healing.
             </p>
           </div>
 

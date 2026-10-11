@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Ozempic (semaglutide) weight loss treatment in Gurgaon at DermaTales, Sector 31. Doctor-supervised medical weight management with Dr. Pooja Varshney. Learn suitability, process, cost & safety.">
-  <meta name="keywords"
-    content="Ozempic weight loss treatment in Gurgaon, Ozempic injection Gurgaon, semaglutide weight loss Gurgaon, Ozempic doctor Gurgaon, Ozempic cost Gurgaon, weight loss clinic Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Ozempic weight loss treatment in Gurgaon, Ozempic injection Gurgaon, semaglutide weight loss Gurgaon, Ozempic doctor Gurgaon, Ozempic cost Gurgaon, weight loss clinic Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="Dr. Pooja Varshney | DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/ozempic-weight-loss-treatment-in-gurgaon">
@@ -966,7 +965,7 @@
             <div class="p-4 rounded-4 my-3" style="background: #FAF6F2; border: 1px solid #ebdcd5;">
               <h3 class="h5 fw-bold text-charcoal mb-2">What Is Ozempic Face?</h3>
               <p class="small text-muted mb-0">
-                “Ozempic face” is a popular term used to describe facial changes that may become visible after substantial weight loss. The medicine itself does not selectively remove facial fat. When a person loses significant weight, facial fat and soft tissue volume can decrease, which may make the face appear slimmer or more hollow. This can happen with substantial weight loss from different causes, not only semaglutide. The best approach is controlled weight loss, adequate nutrition, and realistic expectations.
+                “Ozempic face” is a popular term used to describe facial changes that may become visible after substantial weight loss. The medicine itself does not selectively remove facial fat. When a person loses significant weight, facial fat and soft tissue volume can decrease, which may make the face appear slimmer or more hollow. This can happen with substantial weight loss from different causes, not only semaglutide. The optimal approach is controlled weight loss, adequate nutrition, and realistic expectations.
               </p>
             </div>
 

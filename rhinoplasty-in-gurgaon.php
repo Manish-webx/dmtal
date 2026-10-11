@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Advanced Rhinoplasty (Nose Surgery) in Gurgaon at DermaTales. Reshape your nose for improved aesthetics and breathing with Gurgaon's best facial surgeons.">
-  <meta name="keywords"
-    content="Rhinoplasty Gurgaon, nose job Gurgaon, nose surgery cost Gurgaon, best rhinoplasty surgeon, deviated septum surgery, Dr Pooja Varshney, DermaTales">
+    content="Advanced Rhinoplasty (Nose Surgery) in Gurgaon at DermaTales. Reshape your nose for improved aesthetics and breathing with Gurgaon's experienced facial surgeons.">
+  <meta name="keywords" content="Rhinoplasty Gurgaon, nose job Gurgaon, nose surgery cost Gurgaon, rhinoplasty surgeon, deviated septum surgery, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/rhinoplasty-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Rhinoplasty in Gurgaon | Nose Reshaping Surgery | DermaTales">
+  <meta property="og:title" content="Rhinoplasty in Gurgaon | Nose Reshaping Surgery | DermaTales">
   <meta property="og:description"
     content="Transform your facial profile with advanced Rhinoplasty at DermaTales. Precision nose surgery by expert specialists for natural, harmonious results.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/rhinoplasty-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Rhinoplasty in Gurgaon | Nose Reshaping Surgery | DermaTales</title>
+  <title>Rhinoplasty in Gurgaon | Nose Reshaping Surgery | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

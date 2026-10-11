@@ -9,8 +9,7 @@ $page_title = "The Chemical Peel That Burnt Someone's Face Was Not the Peel: It 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Why chemical peels are one of the most effective treatments in dermatology for Indian skin and why they go wrong more often than they should.">
-  <meta name="keywords"
-    content="chemical peels, chemical peel for indian skin, post inflammatory hyperpigmentation, chemical peel gone wrong, dermatologist gurgaon, Dr Pooja Varshney">
+  <meta name="keywords" content="chemical peels, chemical peel for indian skin, post inflammatory hyperpigmentation, chemical peel gone wrong, dermatologist gurgaon, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blog/the-chemical-peel-that-burnt-someones-face">
@@ -242,7 +241,7 @@ $page_title = "The Chemical Peel That Burnt Someone's Face Was Not the Peel: It 
               it almost always are.</p>
 
             <div class="text-center my-4">
-              <img src="blog-thumb/get-best-chemical-peel-treatment-by-dr-pooja-varshney.webp"
+              <img src="blog-thumb/chemical-peel-treatment-by-dr-pooja-varshney.webp"
                 alt="Dr Pooja Varshney Dermatologist" class="img-fluid rounded-3 mb-4 shadow-sm">
             </div>
 

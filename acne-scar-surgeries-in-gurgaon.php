@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced surgical procedures for deep acne scars including subcision and punch grafting at DermaTales. Permanent textural restoration by experts.">
-  <meta name="keywords"
-    content="acne scar surgery Gurgaon, subcision for scars, punch grafting Delhi, scar revision surgery, DermaTales">
+  <meta name="keywords" content="acne scar surgery Gurgaon, subcision for scars, punch grafting Delhi, scar revision surgery, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/acne-scar-surgeries-in-gurgaon">

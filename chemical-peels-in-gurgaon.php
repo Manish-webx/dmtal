@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best chemical peel treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Glycolic, salicylic, TCA & VI peels for acne, pigmentation, glowing skin and anti-ageing.">
-  <meta name="keywords"
-    content="chemical peel Gurgaon, chemical peel Delhi, glycolic acid peel, TCA peel, salicylic peel, skin brightening peel, acne peel Gurgaon, Dr Pooja Varshney, DermaTales">
+    content="Advanced chemical peel treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Glycolic, salicylic, TCA & VI peels for acne, pigmentation, glowing skin and anti-ageing.">
+  <meta name="keywords" content="chemical peel Gurgaon, chemical peel Delhi, glycolic acid peel, TCA peel, salicylic peel, skin brightening peel, acne peel Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/chemical-peels-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Chemical Peel Treatment in Gurgaon & Delhi | DermaTales">
+  <meta property="og:title" content="Chemical Peel Treatment in Gurgaon & Delhi | DermaTales">
   <meta property="og:description"
     content="Transform dull, uneven skin with medical-grade chemical peels at DermaTales. Customised peel protocols for acne, pigmentation, anti-ageing, and radiant skin.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Chemical-Peel.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Chemical Peel Treatment in Gurgaon & Delhi | DermaTales</title>
+  <title>Chemical Peel Treatment in Gurgaon & Delhi | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

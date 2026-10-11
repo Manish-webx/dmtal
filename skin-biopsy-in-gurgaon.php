@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Professional skin biopsy services in Gurgaon by Dr. Pooja Varshney. Accurate diagnosis for complex skin conditions with precise and safe biopsy procedures at DermaTales.">
-  <meta name="keywords"
-    content="skin biopsy Gurgaon, dermatology biopsy, skin cancer screening, skin diagnosis Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="skin biopsy Gurgaon, dermatology biopsy, skin cancer screening, skin diagnosis Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-biopsy-in-gurgaon">

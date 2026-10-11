@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Fade hesitational marks and self-harm scars safely and confidentially at DermaTales Gurgaon. Advanced laser and surgical revision treatments available.">
-  <meta name="keywords"
-    content="Hesitational marks treatment Gurgaon, self harm scar removal, cut marks treatment, laser scar removal Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Hesitational marks treatment Gurgaon, self harm scar removal, cut marks treatment, laser scar removal Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/hesitational-marks-treatment-in-gurgaon">
@@ -201,7 +200,7 @@
                 </h3>
                 <div id="f1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    While scars cannot be erased 100%, our advanced treatments can flatten them, restore natural color, and fade them by 70-80%, making them blend in and become significantly less noticeable.
+                    While scars cannot be erased completely, our advanced treatments can flatten them, restore natural color, and fade them by 70-80%, making them blend in and become significantly less noticeable.
                   </div>
                 </div>
               </div>

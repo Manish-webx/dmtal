@@ -217,7 +217,7 @@ in Gurgaon</h2>
                 </h3>
                 <div id="af2" class="accordion-collapse collapse" data-bs-parent="#allergyFAQ">
                   <div class="accordion-body faq-body">
-                    While genetic predispositions to allergies (like atopic eczema) cannot be "cured", they can be extremely well-managed so you remain symptom-free. In cases of Contact Dermatitis, simply identifying and avoiding the specific chemical trigger effectively cures the problem.
+                    While genetic predispositions to allergies (like atopic eczema) cannot be "cured", they can be extremely well-managed so you remain symptom-free. In cases of Contact Dermatitis, simply identifying and avoiding the specific chemical trigger effectively resolves the symptoms.
                   </div>
                 </div>
               </div>

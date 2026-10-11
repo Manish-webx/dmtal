@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="GFC hair treatment in Delhi at DermaTales, supervised by Dr. Pooja Varshney, MD Dermatology. Advanced growth factor therapy for hair loss. Book a consultation.">
-  <meta name="keywords"
-    content="GFC hair treatment in Delhi, GFC therapy for hair loss, growth factor concentrate hair treatment, GFC vs PRP hair treatment, GFC hair treatment Patel Nagar, best GFC treatment Delhi">
+  <meta name="keywords" content="GFC hair treatment in Delhi, GFC therapy for hair loss, growth factor concentrate hair treatment, GFC vs PRP hair treatment, GFC hair treatment Patel Nagar, GFC treatment Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/gfc-hair-treatment-in-delhi">
@@ -174,7 +173,7 @@
               </div>
               <div class="col-md-6">
                 <div class="p-4 bg-light rounded-4 h-100 border border-gold-light">
-                  <h4 class="h5 fw-bold text-charcoal mb-3">100% Autologous</h4>
+                  <h4 class="h5 fw-bold text-charcoal mb-3">Purely Autologous</h4>
                   <p class="text-muted mb-0">GFC is prepared entirely from your own blood. There are no synthetic additives, no chemicals, and virtually no risk of allergic reaction or rejection from an external substance.</p>
                 </div>
               </div>

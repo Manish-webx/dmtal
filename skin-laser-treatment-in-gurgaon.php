@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced skin laser treatments in Gurgaon & Delhi at DermaTales. We offer medical-grade laser solutions for skin rejuvenation, scar removal, and pigmentation using state-of-the-art technology.">
-  <meta name="keywords"
-    content="skin laser treatment Gurgaon, laser skin rejuvenation Delhi, fractional co2 laser Gurgaon, q-switch laser Delhi, laser for skin tightening, dermatologist Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="skin laser treatment Gurgaon, laser skin rejuvenation Delhi, fractional co2 laser Gurgaon, q-switch laser Delhi, laser for skin tightening, dermatologist Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-laser-treatment-in-gurgaon">

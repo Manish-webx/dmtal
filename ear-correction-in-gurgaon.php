@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Reshape and refine prominent ears. Safe and effective Ear Correction (Otoplasty) at DermaTales Gurgaon by board-certified dermatologists. Correct ear deformity safely.">
-  <meta name="keywords"
-    content="Ear correction Gurgaon, Otoplasty Gurgaon, prominent ear surgery, ear reshaping Delhi, pinning back ears, ear deformity correction, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Ear correction Gurgaon, Otoplasty Gurgaon, prominent ear surgery, ear reshaping Delhi, pinning back ears, ear deformity correction, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/ear-correction-in-gurgaon">

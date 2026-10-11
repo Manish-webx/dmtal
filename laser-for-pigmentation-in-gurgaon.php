@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced laser for pigmentation in Gurgaon at DermaTales. Effectively clear melasma, freckles, and sun spots for a flawless, even skin tone.">
-  <meta name="keywords"
-    content="Laser for pigmentation Gurgaon, melasma treatment laser, freckles removal, laser toning Gurgaon, Q switched laser pigmentation, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Laser for pigmentation Gurgaon, melasma treatment laser, freckles removal, laser toning Gurgaon, Q switched laser pigmentation, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/laser-for-pigmentation-in-gurgaon">

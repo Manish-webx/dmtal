@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience advanced GFC Therapy in Gurgaon at DermaTales. Growth Factor Concentrate promotes natural hair growth and skin rejuvenation under expert care.">
-  <meta name="keywords"
-    content="GFC Therapy Gurgaon, GFC Therapy Delhi, DermaTales, Dr Pooja Varshney, skin clinic, hair clinic">
+  <meta name="keywords" content="GFC Therapy Gurgaon, GFC Therapy Delhi, DermaTales, Dr Pooja Varshney, skin clinic, hair clinic">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/gfc-therapy-in-gurgaon">
@@ -101,7 +100,7 @@
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">100% Autologous</h5>
+                  <h5 class="fw-bold h6 mb-2">Purely Autologous</h5>
                   <p class="small text-muted mb-0">Derived entirely from your own blood, eliminating any risk of
                     allergic reactions or rejection.</p>
                 </div>

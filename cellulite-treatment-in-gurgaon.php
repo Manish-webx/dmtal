@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Reduce cellulite and achieve smoother, firmer skin with advanced Cellulite Treatments in Gurgaon at DermaTales. Non-surgical and highly effective.">
-  <meta name="keywords"
-    content="Cellulite treatment Gurgaon, remove orange peel skin, skin firming Gurgaon, radiofrequency for cellulite, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Cellulite treatment Gurgaon, remove orange peel skin, skin firming Gurgaon, radiofrequency for cellulite, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/cellulite-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Cellulite Treatment in Gurgaon | Skin Smoothing | DermaTales">
+  <meta property="og:title" content="Cellulite Treatment in Gurgaon | Skin Smoothing | DermaTales">
   <meta property="og:description"
     content="Say goodbye to dimpled skin. Experience advanced, non-invasive cellulite reduction treatments at DermaTales.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/CelluliteTreatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Cellulite Treatment in Gurgaon | Skin Smoothing | DermaTales</title>
+  <title>Cellulite Treatment in Gurgaon | Skin Smoothing | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

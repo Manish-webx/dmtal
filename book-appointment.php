@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Contact DermaTales — Premium dermatology and aesthetic clinic in Gurgaon & Delhi. Reach out for appointments, consultations, and skin care enquiries.">
-  <meta name="keywords"
-    content="contact DermaTales, dermatologist Gurgaon contact, skin specialist Delhi contact, book appointment DermaTales, clinic locations">
+  <meta name="keywords" content="contact DermaTales, dermatologist Gurgaon contact, skin specialist Delhi contact, book appointment DermaTales, clinic locations">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/book-appointment">

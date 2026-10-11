@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Permanent relief from ingrown toenails and nail matrix disorders in Gurgaon & Delhi at DermaTales. Expert nail surgery and phenolisation by board-certified dermatologists.">
-  <meta name="keywords"
-    content="nail surgery Gurgaon, ingrown toenail Delhi, nail matrix repair, phenolisation, ingrown nail treatment, DermaTales">
+  <meta name="keywords" content="nail surgery Gurgaon, ingrown toenail Delhi, nail matrix repair, phenolisation, ingrown nail treatment, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/nail-surgery-in-gurgaon">
@@ -86,7 +85,7 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Nail Surgery Works</h2>
             <p>
-              The procedure is a definitive cure for ingrown nails. We perform a Partial Nail Avulsion under a digital block (local anesthesia) to remove the small sliver of nail that is digging into the skin. To prevent recurrence, we apply Phenol to the nail matrix (the root), which permanently stops that specific edge from growing, with a 98% success rate.
+              The procedure provides definitive, long-term relief for recurrent ingrown nails. We perform a Partial Nail Avulsion under a digital block (local anesthesia) to remove the small sliver of nail that is digging into the skin. To prevent recurrence, we apply Phenol to the nail matrix (the root), which stops that specific edge from growing, effectively reducing the chance of recurrence.
             </p>
           </div>
 

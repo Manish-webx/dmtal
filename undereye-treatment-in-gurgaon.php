@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best undereye treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Dark circles, eye bags, fine lines & tear trough correction with PRP, fillers, laser and more.">
-  <meta name="keywords"
-    content="undereye treatment Gurgaon, dark circles treatment Delhi, tear trough filler, eye bag treatment, PRP for dark circles, laser for dark circles, Dr Pooja Varshney, DermaTales">
+    content="Undereye treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Dark circles, eye bags, fine lines & tear trough correction with PRP, fillers, laser and more.">
+  <meta name="keywords" content="undereye treatment Gurgaon, dark circles treatment Delhi, tear trough filler, eye bag treatment, PRP for dark circles, laser for dark circles, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/undereye-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Undereye Treatment in Gurgaon & Delhi | DermaTales">
+  <meta property="og:title" content="Undereye Treatment in Gurgaon & Delhi | DermaTales">
   <meta property="og:description"
     content="Eliminate dark circles, eye bags, and hollow under-eyes with advanced dermatological treatments at DermaTales. PRP, fillers, laser, and customised protocols for bright, youthful eyes.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Undereye-Treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Undereye Treatment in Gurgaon & Delhi | DermaTales</title>
+  <title>Undereye Treatment in Gurgaon & Delhi | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -348,7 +347,7 @@
                 <div class="feature-list-content">
                   <h4>Natural, Rested Results</h4>
                   <p>Our philosophy is subtle enhancement — we restore your natural brightness and vitality without the
-                    "overdone" look. Your results should simply make you look like the best, most rested version of
+                    "overdone" look. Your results should simply make you look like a refreshed, well-rested version of
                     yourself.</p>
                 </div>
               </div>

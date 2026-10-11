@@ -9,8 +9,7 @@ $page_title = "Dark Circles Are Not Going Away Because You Are Treating the Wron
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Why the most common under eye concern in India has three completely different causes and one wrong treatment makes all of them worse.">
-  <meta name="keywords"
-    content="dark circles treatment, under eye dark circles, Dr Pooja Varshney, pigmentation dark circles, vascular dark circles, structural dark circles, dermal fillers for dark circles">
+  <meta name="keywords" content="dark circles treatment, under eye dark circles, Dr Pooja Varshney, pigmentation dark circles, vascular dark circles, structural dark circles, dermal fillers for dark circles">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical"

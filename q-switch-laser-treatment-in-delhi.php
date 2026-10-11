@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Q Switch Laser Treatment in Delhi at Dermatales. Safe, effective skin rejuvenation, pigmentation, melasma, and tattoo removal by Dr. Pooja Varshney.">
-  <meta name="keywords"
-    content="Q Switch Laser Treatment Delhi, Q Switch Laser for pigmentation, Q-switched Nd:YAG laser, melasma treatment Delhi, tattoo removal Delhi, Dermatales, Dr Pooja Varshney">
+  <meta name="keywords" content="Q Switch Laser Treatment Delhi, Q Switch Laser for pigmentation, Q-switched Nd:YAG laser, melasma treatment Delhi, tattoo removal Delhi, Dermatales, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/q-switch-laser-treatment-in-delhi">
@@ -272,7 +271,7 @@
               <p class="mb-3 text-dark">Ready to say goodbye to dark spots, pigmentation, and dull skin? Take the first step towards clearer, brighter skin today.<br>Dr. Pooja Varshney and the team at Dermatales are here to guide you through a personalised treatment plan that is safe, effective, and designed for your skin.</p>
               <p class="mb-3 text-dark">📞 Book Your Free Skin Consultation — Call or Visit Dermatales, Patel Nagar, Delhi</p>
               <a href="https://wa.me/919560015155" class="btn btn-dark rounded-pill px-4 py-2">Call +91 95600 15155</a>
-              <p class="mt-3 text-dark fst-italic">Because you deserve skin that reflects the best version of you.</p>
+              <p class="mt-3 text-dark fst-italic">Because you deserve skin that reflects the healthiest version of you.</p>
             </div>
           </div>
 

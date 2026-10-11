@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Experience the best Hair PRP treatment in Gurgaon & Delhi at DermaTales. Our advanced Platelet-Rich Plasma therapy restores hair density and promotes natural growth under expert care.">
-  <meta name="keywords"
-    content="hair prp treatment Gurgaon, prp therapy for hair loss Delhi, platelet rich plasma hair Gurgaon, hair thinning treatment, non-surgical hair restoration, Dr Pooja Varshney, DermaTales">
+    content="Experience advanced Hair PRP treatment in Gurgaon & Delhi at DermaTales. Platelet-Rich Plasma therapy restores hair density and promotes natural growth under expert care.">
+  <meta name="keywords" content="hair prp treatment Gurgaon, prp therapy for hair loss Delhi, platelet rich plasma hair Gurgaon, hair thinning treatment, non-surgical hair restoration, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/hair-prp-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Hair PRP Treatment in Gurgaon & Delhi | DermaTales">
+  <meta property="og:title" content="Hair PRP Treatment in Gurgaon & Delhi | DermaTales">
   <meta property="og:description"
     content="Restore your hair naturally. Our medical-grade PRP therapy uses your own growth factors to stimulate hair follicles and improve density. Safe, effective, and expertly delivered.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/hair-prp.jpg">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Hair PRP Treatment in Gurgaon & Delhi | DermaTales</title>
+  <title>Hair PRP Treatment in Gurgaon & Delhi | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>
@@ -89,7 +88,7 @@
             <div class="row g-4 mt-2">
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">100% Natural</h5>
+                  <h5 class="fw-bold h6 mb-2">Natural & Biocompatible</h5>
                   <p class="small text-muted mb-0">Uses your own blood, eliminating the risk of allergic reactions or side effects from synthetic chemicals.</p>
                 </div>
               </div>

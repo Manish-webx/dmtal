@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best freckles and blemishes treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Q-switch laser, chemical peels, and advanced protocols for clear, flawless skin.">
-  <meta name="keywords"
-    content="freckles treatment Gurgaon, blemishes treatment Delhi, remove freckles laser, skin blemish removal, skin spots treatment Gurgaon, Q-switch laser for freckles, Dr Pooja Varshney, DermaTales">
+    content="Freckles and blemishes treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Q-switch laser, chemical peels, and advanced protocols for clear, radiant skin.">
+  <meta name="keywords" content="freckles treatment Gurgaon, blemishes treatment Delhi, remove freckles laser, skin blemish removal, skin spots treatment Gurgaon, Q-switch laser for freckles, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/freckles-blemishes-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Freckles & Blemishes Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Freckles & Blemishes Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Achieve clear, flawless skin with advanced freckle and blemish removal treatments at DermaTales Gurgaon. Q-switch laser, peels, and customised protocols by board-certified dermatologists.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Freckles-Blemishes.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Freckles & Blemishes Treatment in Gurgaon | DermaTales</title>
+  <title>Freckles & Blemishes Treatment in Gurgaon | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

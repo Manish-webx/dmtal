@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Restore your eyebrows permanently with an Eyebrow Transplant in Gurgaon at DermaTales. Precision FUE/DHI for dense, natural-looking brows.">
-  <meta name="keywords"
-    content="Eyebrow transplant Gurgaon, permanent eyebrow restoration, DHI eyebrow transplant, eyebrow hair transplant, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Eyebrow transplant Gurgaon, permanent eyebrow restoration, DHI eyebrow transplant, eyebrow hair transplant, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/eyebrow-transplant-in-gurgaon">

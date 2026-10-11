@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced multi-modal treatments for stubborn melasma and pigmentation in Gurgaon & Delhi at DermaTales. Laser toning, peels, and clinical experts.">
-  <meta name="keywords"
-    content="melasma treatment Gurgaon, pigmentation laser Delhi, dark spots treatment, DermaTales clinic">
+  <meta name="keywords" content="melasma treatment Gurgaon, pigmentation laser Delhi, dark spots treatment, DermaTales clinic">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/melasma-pigmentation-in-gurgaon">

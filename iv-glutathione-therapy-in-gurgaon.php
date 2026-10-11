@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Experience the best IV Glutathione therapy in Gurgaon at DermaTales. Boost immunity, detoxify your body, and achieve a radiant, brighter skin tone.">
-  <meta name="keywords"
-    content="IV Glutathione Gurgaon, Skin Brightening Gurgaon, Skin Lightening Treatment, Glutathione Drip Gurgaon, Dr Pooja Varshney, DermaTales">
+    content="Experience IV Glutathione therapy in Gurgaon at DermaTales. Boost wellness, detoxify your body, and achieve a radiant, brighter skin tone.">
+  <meta name="keywords" content="IV Glutathione Gurgaon, Skin Brightening Gurgaon, Skin Lightening Treatment, Glutathione Drip Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/iv-glutathione-therapy-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best IV Glutathione Therapy in Gurgaon | Skin Brightening | DermaTales">
+  <meta property="og:title" content="IV Glutathione Therapy in Gurgaon | Skin Brightening | DermaTales">
   <meta property="og:description"
     content="Boost your skin's radiance from within. Try IV Glutathione therapy at DermaTales for full-body detox and skin brightening.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/iv-gluthon-therapy.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best IV Glutathione Therapy in Gurgaon | Skin Brightening | DermaTales</title>
+  <title>IV Glutathione Therapy in Gurgaon | Skin Brightening | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -71,7 +70,7 @@
                   Glutathione is a powerful naturally occurring antioxidant in our bodies, essential for cellular repair, detoxification, and maintaining healthy skin. As we age, stress, pollution, and lifestyle factors can deplete these levels, leading to dull skin, pigmentation, and fatigue.
                 </p>
                 <p>
-                  At DermaTales, our IV Glutathione Therapy delivers this "master antioxidant" directly into your bloodstream alongside Vitamin C and other essential nutrients for 100% absorption. This treatment not only brightens and evens out your skin tone but also promotes overall wellness, energy, and immune support.
+                  At DermaTales, our IV Glutathione Therapy delivers this "master antioxidant" directly into your bloodstream alongside Vitamin C and other essential nutrients for optimal absorption. This treatment not only brightens and evens out your skin tone but also promotes overall wellness, energy, and immune support.
                 </p>
               </div>
               <div class="col-md-5">

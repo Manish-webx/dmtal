@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Effectively treat dark neck and neck pigmentation in Gurgaon at DermaTales. Safe medical treatments for Acanthosis Nigricans and sun damage.">
-  <meta name="keywords"
-    content="Neck pigmentation treatment Gurgaon, dark neck removal, Acanthosis Nigricans treatment, neck skin lightening, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Neck pigmentation treatment Gurgaon, dark neck removal, Acanthosis Nigricans treatment, neck skin lightening, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/neck-pigmentation-treatment-in-gurgaon">

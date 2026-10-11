@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Looking for a hair transplant in Delhi? DermaTales, Patel Nagar offers FUE, FUT & DHI procedures supervised by Dr. Pooja Varshney, MD Dermatology. Book today.">
-  <meta name="keywords"
-    content="hair transplant in Delhi, hair transplant Patel Nagar, FUE hair transplant Delhi, DHI hair transplant Delhi, best hair transplant clinic Delhi, permanent hair restoration Delhi, hair transplant cost Delhi">
+  <meta name="keywords" content="hair transplant in Delhi, hair transplant Patel Nagar, FUE hair transplant Delhi, DHI hair transplant Delhi, hair transplant clinic Delhi, permanent hair restoration Delhi, hair transplant cost Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/hair-transplant-in-delhi">

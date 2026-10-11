@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Eat your way to glowing skin. Expert nutritional guidance for acne, anti-aging, and skin health at DermaTales Gurgaon. The Gut-Skin axis explored by board-certified dermatologists.">
-  <meta name="keywords"
-    content="nutrition for skin Gurgaon, diet for acne, anti-aging diet, gut-skin axis, skin supplements Gurgaon, food for glowing skin, nutritionist for skin health, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="nutrition for skin Gurgaon, diet for acne, anti-aging diet, gut-skin axis, skin supplements Gurgaon, food for glowing skin, nutritionist for skin health, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/nutrition-skin-health-in-gurgaon">
@@ -147,7 +146,7 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#nuFaq1">
-                    Can diet really cure my acne?
+                    Can diet alone resolve my acne?
                   </button>
                 </h3>
                 <div id="nuFaq1" class="accordion-collapse collapse show" data-bs-parent="#nutritionFAQ">

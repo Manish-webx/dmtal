@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Effective treatment for Alopecia Areata in Gurgaon at DermaTales. Stop patchy hair loss and stimulate regrowth with targeted immunotherapies and injections.">
-  <meta name="keywords"
-    content="Alopecia Areata treatment Gurgaon, patchy hair loss, autoimmune hair loss, intralesional steroid injections, hair loss doctor, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Alopecia Areata treatment Gurgaon, patchy hair loss, autoimmune hair loss, intralesional steroid injections, hair loss doctor, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/alopecia-areata-treatment-in-gurgaon">
@@ -85,7 +84,7 @@
 
           <!-- Section: How it Works -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Best Treatment for Alopecia Areata in Gurgaon</h2>
+            <h2 class="lux-section-title">Effective Treatment for Alopecia Areata in Gurgaon</h2>
             <p>
               The goal of treatment at DermaTales is to suppress the local immune response that is attacking the hair follicle, thereby allowing the hair to resume its normal growth cycle.
             </p>

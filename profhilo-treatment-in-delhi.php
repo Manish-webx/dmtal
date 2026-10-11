@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience advanced Profhilo treatment in Delhi at DermaTales, Patel Nagar by Dr. Pooja Varshney (MD Dermatology). Bio-remodelling hyaluronic acid for deep skin hydration & elasticity.">
-  <meta name="keywords"
-    content="Profhilo treatment in Delhi, Profhilo skin booster Delhi, Profhilo Patel Nagar, Profhilo cost in Delhi, skin bio-remodelling Delhi, hyaluronic acid skin booster, Dr Pooja Varshney, DermaTales Delhi">
+  <meta name="keywords" content="Profhilo treatment in Delhi, Profhilo skin booster Delhi, Profhilo Patel Nagar, Profhilo cost in Delhi, skin bio-remodelling Delhi, hyaluronic acid skin booster, Dr Pooja Varshney, DermaTales Delhi">
   <meta name="author" content="Dr. Pooja Varshney | DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/profhilo-treatment-in-delhi">
@@ -1012,29 +1011,9 @@
             </div>
           </div>
 
-          <!-- SECTION 12: BEFORE AND AFTER & RESULTS TIMELINE -->
+          <!-- SECTION 12: RESULTS & OUTCOMES TIMELINE -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Profhilo Before and After: What Results Should You Expect?</h2>
-            <p>
-              Patients frequently search for Profhilo before and after photographs before booking treatment. Photographs
-              can be useful for understanding the type of improvement that may be possible, but they should not be
-              interpreted as a promise of your own result.
-            </p>
-            <p class="fw-bold text-charcoal mb-2">A meaningful before-and-after comparison should ideally use:</p>
-            <div class="row g-2 mb-3">
-              <div class="col-md-6">
-                <ul class="checklist-lux small text-muted">
-                  <li><i class="bi bi-camera"></i> <span>Similar lighting and camera angle</span></li>
-                  <li><i class="bi bi-person-bounding-box"></i> <span>Similar facial expression &amp; distance</span></li>
-                </ul>
-              </div>
-              <div class="col-md-6">
-                <ul class="checklist-lux small text-muted">
-                  <li><i class="bi bi-clock-history"></i> <span>A suitable time interval</span></li>
-                  <li><i class="bi bi-patch-check"></i> <span>Genuine patient photographs &amp; treatment details</span></li>
-                </ul>
-              </div>
-            </div>
+            <h2 class="lux-section-title">Profhilo Treatment Outcomes: What Results Should You Expect?</h2>
             <p>
               Profhilo generally aims for improvement in skin quality rather than a dramatic change in facial structure.
               Depending on the patient, visible changes may include skin that appears <strong>more hydrated, smoother,
@@ -1611,7 +1590,7 @@
               <div class="feature-list-item">
                 <div class="feature-list-icon"><i class="bi bi-box-seam"></i></div>
                 <div class="feature-list-content">
-                  <h4>100% Authentic Products</h4>
+                  <h4>Authentic, Certified Products</h4>
                   <p>We exclusively use genuine, internationally certified Profhilo products stored under strict
                     temperature-controlled conditions and unboxed in your presence.</p>
                 </div>

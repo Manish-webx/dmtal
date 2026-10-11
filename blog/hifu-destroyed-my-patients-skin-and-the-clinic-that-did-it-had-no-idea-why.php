@@ -9,8 +9,7 @@ $page_title = "HIFU Destroyed My Patient's Skin and the Clinic That Did It Had N
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Why HIFU face lifting goes wrong for Indian skin, depth errors causing fat loss, and what real assessment looks like by Dr. Pooja Varshney at DermaTales.">
-  <meta name="keywords"
-    content="HIFU destroyed skin, HIFU gone wrong, HIFU side effects Indian skin, HIFU treatment in Gurgaon, SMAS layer face lift, HIFU vs thread lift, HIFU vs fillers, Dr Pooja Varshney, DermaTales Clinic">
+  <meta name="keywords" content="HIFU destroyed skin, HIFU gone wrong, HIFU side effects Indian skin, HIFU treatment in Gurgaon, SMAS layer face lift, HIFU vs thread lift, HIFU vs fillers, Dr Pooja Varshney, DermaTales Clinic">
   <meta name="author" content="Dr. Pooja Varshney | DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical"
@@ -484,7 +483,7 @@ $page_title = "HIFU Destroyed My Patient's Skin and the Clinic That Did It Had N
               <span class="badge-clinical"><i class="bi bi-exclamation-triangle-fill text-danger"></i> Clinical Case In Point</span>
               <h3 class="h5 fw-bold text-charcoal mb-3">When "Standard Protocols" Cause Mid-Face Destruction</h3>
               <p>
-                A woman in her mid-forties came to me eight months ago. She had done three HIFU sessions at a clinic in Gurgaon over six months. Not a back-alley setup. A well-presented clinic with professionals looking before and after on their Instagram. She came to me not because her skin looked the same as before. She came because it looked worse. More hollowed under the eyes. Skin that appeared thinner and more aged in the mid-face area. And one side of her face is visibly different from the other.
+                A woman in her mid-forties came to me eight months ago. She had done three HIFU sessions at a clinic in Gurgaon over six months. Not a back-alley setup. A well-presented clinic with polished promotional posts on their Instagram. She came to me not because her skin looked the same as before. She came because it looked worse. More hollowed under the eyes. Skin that appeared thinner and more aged in the mid-face area. And one side of her face is visibly different from the other.
               </p>
               <p class="mb-0">
                 When I looked at what had happened clinically, it was not difficult to understand. The settings used were too aggressive for her skin laxity level. The energy was applied at depths that made sense for someone with significant tissue volume but created a destructive rather than stimulating effect in her mid-face where the fat pads were already thin. The operator had clearly applied a standard protocol without assessing her specific facial anatomy.
@@ -575,7 +574,7 @@ $page_title = "HIFU Destroyed My Patient's Skin and the Clinic That Did It Had N
 
             <h3 class="h5 fw-bold mt-4 text-charcoal">Wrong Candidate : When HIFU Is Not the Right Treatment</h3>
             <p>
-              HIFU works best for patients with mild to moderate skin laxity who still have good tissue volume. It stimulates collagen and lifts tissue that has the structural foundation to respond. Patients with significant volume loss already present in the mid-face, under-eye area or temples, are poor candidates for HIFU alone because the treatment can accentuate hollowing rather than correct it.
+              HIFU is most effective for patients with mild to moderate skin laxity who still have good tissue volume. It stimulates collagen and lifts tissue that has the structural foundation to respond. Patients with significant volume loss already present in the mid-face, under-eye area or temples, are poor candidates for HIFU alone because the treatment can accentuate hollowing rather than correct it.
             </p>
 
             <!-- ===================== INFOGRAPHIC 2: WHEN HIFU GOES WRONG ===================== -->
@@ -631,7 +630,7 @@ $page_title = "HIFU Destroyed My Patient's Skin and the Clinic That Did It Had N
                       <th>Treatment</th>
                       <th>Target Depth</th>
                       <th>Primary Action</th>
-                      <th>Best Candidate</th>
+                      <th>Ideal Candidate</th>
                       <th>Onset & Longevity</th>
                     </tr>
                   </thead>
@@ -737,7 +736,7 @@ $page_title = "HIFU Destroyed My Patient's Skin and the Clinic That Did It Had N
               At the lower end of the price range, the economics do not support the use of a genuine high-quality HIFU device by a trained clinician with adequate session time for proper assessment and treatment. What you are more likely getting is a lower powered device, a shorter session, and an operator rather than a clinician. The consequences of this are the ones I described in the opening of this article.
             </p>
             <p>
-              This does not mean the most expensive option is automatically the best. It means that HIFU priced significantly below what the technology and clinical time actually cost is worth questioning before you book.
+              This does not mean the most expensive option is automatically superior. It means that HIFU priced significantly below what the technology and clinical time actually cost is worth questioning before you book.
             </p>
 
             <!-- ===================== SECTION 6 ===================== -->

@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Get a fuller, dense, and perfectly shaped beard with Beard Transplant in Gurgaon at DermaTales. Advanced DHI and FUE techniques by expert surgeons.">
-  <meta name="keywords"
-    content="Beard transplant Gurgaon, facial hair transplant, patchy beard treatment, mustache transplant, DHI beard transplant, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Beard transplant Gurgaon, facial hair transplant, patchy beard treatment, mustache transplant, DHI beard transplant, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/beard-transplant-in-gurgaon">

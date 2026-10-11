@@ -9,8 +9,7 @@ $page_title = "Blog | DermaTales";
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Read the latest insights and updates on dermatology, skin care, and anti-aging treatments at DermaTales Blog.">
-  <meta name="keywords"
-    content="dermatology blog, skin care tips, DermaTales blog, anti-aging, hair treatments, Dr Pooja Varshney">
+  <meta name="keywords" content="dermatology blog, skin care tips, DermaTales blog, anti-aging, hair treatments, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blog/">

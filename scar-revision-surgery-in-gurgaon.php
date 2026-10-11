@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced solutions for all types of scars. Professional Scar Revision surgery and laser treatments at DermaTales Gurgaon to restore skin texture and minimize visibility.">
-  <meta name="keywords"
-    content="Scar revision Gurgaon, surgical scar removal, laser scar treatment, acne scar surgery, keloid treatment Gurgaon, hypertrophic scar revision, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Scar revision Gurgaon, surgical scar removal, laser scar treatment, acne scar surgery, keloid treatment Gurgaon, hypertrophic scar revision, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/scar-revision-surgery-in-gurgaon">
@@ -196,7 +195,7 @@
                 </h3>
                 <div id="scFaq3" class="accordion-collapse collapse" data-bs-parent="#scarFAQ">
                   <div class="accordion-body faq-body">
-                    For surgical revision, you will have sutures that need to be removed in 5–10 days. You must protect the area from tension and sun exposure for several weeks to ensure the best possible healing.
+                    For surgical revision, you will have sutures that need to be removed in 5–10 days. You must protect the area from tension and sun exposure for several weeks to ensure optimal healing.
                   </div>
                 </div>
               </div>

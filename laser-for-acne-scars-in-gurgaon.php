@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Say goodbye to acne scars with advanced Fractional CO2 Laser treatments in Gurgaon at DermaTales. Resurface your skin and restore a smooth texture safely.">
-  <meta name="keywords"
-    content="Laser for acne scars Gurgaon, fractional CO2 laser Gurgaon, acne scar resurfacing, pitting acne scars treatment, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Laser for acne scars Gurgaon, fractional CO2 laser Gurgaon, acne scar resurfacing, pitting acne scars treatment, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/laser-for-acne-scars-in-gurgaon">

@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Enhance your smile with natural-looking dimples. Professional Dimple Creation (Dimpleplasty) at DermaTales Gurgaon. Quick procedure, rapid recovery, and permanent results.">
-  <meta name="keywords"
-    content="Dimple creation Gurgaon, Dimpleplasty Gurgaon, surgical dimple correction, natural dimples surgery, get dimples Gurgaon, dimple surgery Delhi, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Dimple creation Gurgaon, Dimpleplasty Gurgaon, surgical dimple correction, natural dimples surgery, get dimples Gurgaon, dimple surgery Delhi, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/dimple-creation-in-gurgaon">

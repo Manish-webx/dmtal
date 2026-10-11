@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Safe and discreet Intimate Part Lightening treatments in Gurgaon at DermaTales. Expert dermatologists, clinical privacy, and effective results.">
-  <meta name="keywords"
-    content="Intimate part lightening Gurgaon, bikini line lightening, dark inner thighs treatment, sensitive area pigmentation, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Intimate part lightening Gurgaon, bikini line lightening, dark inner thighs treatment, sensitive area pigmentation, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/intimate-part-lightening-in-gurgaon">

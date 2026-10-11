@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Restore your masculine profile. Professional Gynaecomastia surgery and non-surgical reduction at DermaTales Gurgaon. Safe, effective, and minimally invasive procedures.">
-  <meta name="keywords"
-    content="Gynaecomastia surgery Gurgaon, male breast reduction, rid of man boobs, non-surgical gynaecomastia treatment, male chest liposuction Gurgaon, Gland excision Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Gynaecomastia surgery Gurgaon, male breast reduction, rid of man boobs, non-surgical gynaecomastia treatment, male chest liposuction Gurgaon, Gland excision Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/gynaecomastia-surgery-in-gurgaon">

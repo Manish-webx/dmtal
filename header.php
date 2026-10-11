@@ -383,16 +383,9 @@
             </ul>
           </li>
 
-          <!-- Blog Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Resources
-            </a>
-            <ul class="dropdown-menu dropdown-menu-elegant">
-              <li><a class="dropdown-item" href="blog/">Blog</a></li>
-              <li><a class="dropdown-item" href="#testimonials">Testimonials</a></li>
-              <li><a class="dropdown-item" href="#results">Before &amp; After</a></li>
-            </ul>
+          <!-- Blog Link -->
+          <li class="nav-item">
+            <a class="nav-link" href="blog/">Blog</a>
           </li>
         </ul>
 

@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Meet Dr. Pooja Varshney — MBBS, MD (Dermatology), Fellowship in Cosmetology. Over 10 years of expertise in clinical dermatology, hair disorders, and cosmetic dermatology at DermaTales Clinic.">
-  <meta name="keywords"
-    content="Dr Pooja Varshney, dermatologist Gurugram, skin specialist Delhi, hair transplant expert, cosmetic dermatology, MD dermatology, DermaTales">
+  <meta name="keywords" content="Dr Pooja Varshney, dermatologist Gurugram, skin specialist Delhi, hair transplant expert, cosmetic dermatology, MD dermatology, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/dr-pooja-varshney">

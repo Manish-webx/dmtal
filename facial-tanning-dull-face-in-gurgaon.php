@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Restore your natural glow. Advanced clinical treatments for facial tanning, sun damage, and dull skin at DermaTales Gurgaon. Peels, lasers, and medifacials.">
-  <meta name="keywords"
-    content="facial tanning Gurgaon, dull face treatment, remove sun tan face, skin brightening Gurgaon, laser toning for tanning, chemical peels for dull skin, Medifacial Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="facial tanning Gurgaon, dull face treatment, remove sun tan face, skin brightening Gurgaon, laser toning for tanning, chemical peels for dull skin, Medifacial Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/facial-tanning-dull-face-in-gurgaon">

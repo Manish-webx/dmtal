@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Mild sagging skin does not always need surgery. DermaTales, Patel Nagar offers radiofrequency body tightening under Dr. Pooja Varshney. Book a consultation.">
-  <meta name="keywords"
-    content="body tightening in Delhi, skin tightening Patel Nagar, radiofrequency skin tightening Delhi, non surgical skin tightening cost, loose skin treatment Delhi, RF body tightening Delhi, best skin tightening clinic Delhi">
+  <meta name="keywords" content="body tightening in Delhi, skin tightening Patel Nagar, radiofrequency skin tightening Delhi, non surgical skin tightening cost, loose skin treatment Delhi, RF body tightening Delhi, skin tightening clinic Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/body-tightening-in-delhi">

@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Say goodbye to stretch marks with advanced treatments in Gurgaon at DermaTales. We offer Microneedling, PRP, and Laser therapies for smooth skin.">
-  <meta name="keywords"
-    content="Stretch marks treatment Gurgaon, Laser stretch marks removal, Microneedling stretch marks, post-pregnancy stretch marks, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Stretch marks treatment Gurgaon, Laser stretch marks removal, Microneedling stretch marks, post-pregnancy stretch marks, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/stretch-marks-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Stretch Marks Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Stretch Marks Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Fade stretch marks effectively with advanced clinical treatments at DermaTales. Restore your skin's texture and elasticity.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/stretch-marks.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Stretch Marks Treatment in Gurgaon | DermaTales</title>
+  <title>Stretch Marks Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>
@@ -150,7 +149,7 @@
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">Assessment</h4>
-                <p class="small text-muted">We evaluate the age, color, and depth of the stretch marks to choose the best modality (Laser vs Microneedling).</p>
+                <p class="small text-muted">We evaluate the age, color, and depth of the stretch marks to choose the most suitable modality (Laser vs Microneedling).</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Preparation</h4>
@@ -202,7 +201,7 @@
                 </h3>
                 <div id="f1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    While they cannot be erased 100%, our advanced treatments can fade them by 60% to 80%, making them blend smoothly with the surrounding skin and becoming barely noticeable.
+                    While they cannot be completely erased, our advanced treatments can fade them by 60% to 80%, making them blend smoothly with the surrounding skin and becoming barely noticeable.
                   </div>
                 </div>
               </div>

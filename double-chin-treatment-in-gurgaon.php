@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Get personalised double chin treatment in Gurgaon with Dr. Pooja Varshney. Treatment is selected after assessing submental fat and skin laxity.">
-  <meta name="keywords"
-    content="Double Chin Treatment in Gurgaon, Double Chin Removal in Gurgaon, Double Chin Reduction in Gurgaon, Double Chin Treatment Gurgaon, Submental Fat Treatment, Submental Fullness Treatment, Chin Fat Reduction, Jawline Contouring, Non Surgical Double Chin Treatment, Double Chin Treatment Near Me">
+  <meta name="keywords" content="Double Chin Treatment in Gurgaon, Double Chin Removal in Gurgaon, Double Chin Reduction in Gurgaon, Double Chin Treatment Gurgaon, Submental Fat Treatment, Submental Fullness Treatment, Chin Fat Reduction, Jawline Contouring, Non Surgical Double Chin Treatment, Double Chin Treatment Near Me">
   <meta name="author" content="Dr. Pooja Varshney | DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/double-chin-treatment-in-gurgaon">

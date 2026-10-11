@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Scalp Micropigmentation (SMP) in Gurgaon at DermaTales. Non-surgical hair loss solution mimicking natural hair follicles for a dense buzz-cut look.">
-  <meta name="keywords"
-    content="Scalp micropigmentation Gurgaon, SMP treatment, hair tattoo Gurgaon, non surgical hair restoration, thinning hair concealer, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Scalp micropigmentation Gurgaon, SMP treatment, hair tattoo Gurgaon, non surgical hair restoration, thinning hair concealer, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/scalp-micropigmentation-in-gurgaon">
@@ -71,7 +70,7 @@
                   Not everyone is an ideal candidate for a hair transplant, and many simply prefer a non-surgical approach. <strong>Scalp Micropigmentation (SMP)</strong>, often referred to as a medical hair tattoo, is a highly advanced cosmetic procedure that creates the optical illusion of a full head of shaved hair.
                 </p>
                 <p>
-                  At DermaTales, we use specialized micro-needles to deposit tiny dots of medical-grade pigment into the scalp. These micro-dots perfectly replicate the size, shape, and color of natural hair follicles. Whether you want to recreate a receding hairline for a crisp "buzz-cut" look, or you want to add the illusion of density beneath thinning hair to hide the scalp, SMP delivers immediate, guaranteed results.
+                  At DermaTales, we use specialized micro-needles to deposit tiny dots of medical-grade pigment into the scalp. These micro-dots perfectly replicate the size, shape, and color of natural hair follicles. Whether you want to recreate a receding hairline for a crisp "buzz-cut" look, or you want to add the illusion of density beneath thinning hair to hide the scalp, SMP delivers immediate, visible aesthetic results.
                 </p>
               </div>
               <div class="col-md-5">
@@ -103,8 +102,8 @@
               </div>
               <div class="col-md-4">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">
-                  <h5 class="fw-bold h6 mb-2">100% Guaranteed</h5>
-                  <p class="small text-muted mb-0">Unlike transplants or medications, SMP works for everyone, regardless of the extent of hair loss.</p>
+                  <h5 class="fw-bold h6 mb-2">Consistent Results</h5>
+                  <p class="small text-muted mb-0">SMP provides cosmetic coverage regardless of the extent of hair thinning or follicle dormancy.</p>
                 </div>
               </div>
               <div class="col-md-4">

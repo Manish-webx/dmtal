@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Get expert pigmentation treatment in Gurgaon at Dermatales. Dr. Pooja Varshney (MD Dermatology) offers laser, peels & personalised protocols for melasma, dark spots & uneven skin tone. Book a consultation today.">
-  <meta name="keywords"
-    content="facial pigmentation Gurgaon, sunspots treatment Delhi, laser for face spots, DermaTales clinic">
+  <meta name="keywords" content="facial pigmentation Gurgaon, sunspots treatment Delhi, laser for face spots, DermaTales clinic">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/facial-pigmentation-in-gurgaon">

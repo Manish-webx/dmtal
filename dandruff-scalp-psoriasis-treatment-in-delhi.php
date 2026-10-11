@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Flaky scalp is not always dandruff. DermaTales, Patel Nagar correctly diagnoses dandruff, seborrheic dermatitis, and scalp psoriasis before treating. Book today.">
-  <meta name="keywords"
-    content="dandruff treatment Delhi, scalp psoriasis treatment Delhi, seborrheic dermatitis treatment Delhi, flaky scalp treatment Patel Nagar, best scalp doctor Delhi, itchy scalp treatment Delhi, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="dandruff treatment Delhi, scalp psoriasis treatment Delhi, seborrheic dermatitis treatment Delhi, flaky scalp treatment Patel Nagar, scalp doctor Delhi, itchy scalp treatment Delhi, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/dandruff-scalp-psoriasis-treatment-in-delhi">
@@ -810,67 +809,7 @@
             </div>
           </div>
 
-          <!-- ===================== PATIENT REVIEWS (GMB STRIP) ===================== -->
-          <div class="mt-5 fade-up">
-            <div class="p-4 rounded-4 bg-light border border-gold-light shadow-sm">
-              <div class="d-flex flex-wrap align-items-center justify-content-between mb-4 pb-2 border-bottom">
-                <div>
-                  <span class="badge bg-gold text-dark rounded-pill px-3 py-1 small mb-1">Google Verified</span>
-                  <h3 class="h5 fw-bold text-charcoal mb-0">Patient Reviews &amp; Experiences</h3>
-                </div>
-                <div class="d-flex align-items-center gap-2">
-                  <div class="text-warning fs-5">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                  </div>
-                  <span class="fw-bold text-charcoal">4.9 / 5</span>
-                  <span class="small text-muted">(Google Reviews)</span>
-                </div>
-              </div>
 
-              <div class="row g-3">
-                <div class="col-md-4">
-                  <div class="p-3 bg-white rounded-3 border h-100 shadow-xs">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                      <span class="fw-bold small text-charcoal">Rahul M.</span>
-                      <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                    </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Scalp Psoriasis</span>
-                    <p class="small text-muted mb-0" style="line-height: 1.55;">
-                      "I had severe, thick scaling and itching for years that regular dandruff shampoos never fixed. Dr. Pooja Varshney accurately diagnosed it as scalp psoriasis and started targeted therapy. Within weeks, plaques were finally under control!"
-                    </p>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="p-3 bg-white rounded-3 border h-100 shadow-xs">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                      <span class="fw-bold small text-charcoal">Simran K.</span>
-                      <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                    </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Seborrheic Dermatitis</span>
-                    <p class="small text-muted mb-0" style="line-height: 1.55;">
-                      "Visiting DermaTales Patel Nagar was the best decision. Dr. Pooja explained why my flaky scalp was actually seborrheic dermatitis and prescribed a targeted medical regimen. The relief from persistent itching was immediate."
-                    </p>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="p-3 bg-white rounded-3 border h-100 shadow-xs">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                      <span class="fw-bold small text-charcoal">Amit S.</span>
-                      <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                    </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Dandruff &amp; Scalp Care</span>
-                    <p class="small text-muted mb-0" style="line-height: 1.55;">
-                      "Dr. Pooja Varshney takes time to closely examine your scalp rather than rushing a prescription. She ended my months of guessing with shampoos from Instagram. Highly recommend DermaTales for persistent scalp issues in Delhi!"
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
 
           <!-- Section: FAQ -->
           <div class="mt-5 fade-up">

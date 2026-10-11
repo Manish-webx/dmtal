@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience the original Hydrafacial MD Elite in Gurgaon & Delhi at DermaTales. The patented 4-in-1 technology to cleanse, extract, exfoliate, and hydrate your skin.">
-  <meta name="keywords"
-    content="Hydrafacial MD Gurgaon, genuine hydrafacial Delhi, Hydrafacial Elite, deep pore cleansing, hydra facial near me, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Hydrafacial MD Gurgaon, genuine hydrafacial Delhi, Hydrafacial Elite, deep pore cleansing, hydra facial near me, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/hydrafacial-md-elite-in-gurgaon">
@@ -46,7 +45,7 @@
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">Hydrafacial MD <span class="text-charcoal-deep italic">Elite</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-        The best skin of your life in just 45 minutes. Experience the genuine, patented 4-in-1 technology that cleanses, extracts, exfoliates, and deeply hydrates for an unparalleled glow.
+        Experience refreshed, glowing skin in just 45 minutes. Experience the genuine, patented 4-in-1 technology that cleanses, extracts, exfoliates, and deeply hydrates for an unparalleled glow.
       </p>
         </div>
         <?php include 'hero-stats.php'; ?>

@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Specialized treatment for Scarring Alopecia and LPP in Gurgaon at DermaTales. Early diagnosis and aggressive medical management to halt permanent hair follicle destruction.">
-  <meta name="keywords"
-    content="Scarring Alopecia treatment Gurgaon, Lichen Planopilaris treatment, LPP Gurgaon, cicatricial alopecia, permanent hair loss, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Scarring Alopecia treatment Gurgaon, Lichen Planopilaris treatment, LPP Gurgaon, cicatricial alopecia, permanent hair loss, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/scarring-alopecia-lpp-treatment-in-gurgaon">

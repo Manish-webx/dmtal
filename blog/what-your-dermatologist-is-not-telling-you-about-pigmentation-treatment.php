@@ -9,8 +9,7 @@ $page_title = "What Your Dermatologist Is Not Telling You About Pigmentation Tre
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Pigmentation is a symptom, not a diagnosis. Learn why your dark spots keep coming back and what actually works for long-term pigmentation treatment.">
-  <meta name="keywords"
-    content="pigmentation treatment, dark spots, melasma treatment, post inflammatory hyperpigmentation, Dr Pooja Varshney, dermatology blog">
+  <meta name="keywords" content="pigmentation treatment, dark spots, melasma treatment, post inflammatory hyperpigmentation, Dr Pooja Varshney, dermatology blog">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical"

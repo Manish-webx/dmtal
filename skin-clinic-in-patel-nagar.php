@@ -4,17 +4,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Best Skin Clinic in Patel Nagar – DermaTales</title>
+  <title>Skin Clinic in Patel Nagar – DermaTales</title>
   <meta name="description"
     content="Consult a trusted dermatologist in Patel Nagar at DermaTales — led by Dr. Pooja Varshney, MD Dermatology. Acne, pigmentation, hair fall & anti-ageing care. Book today.">
-  <meta name="keywords"
-    content="Best skin clinic in Patel Nagar, Dermatologist in Patel Nagar, Best skin doctor in Patel Nagar, Skin specialist in Patel Nagar, Female dermatologist Patel Nagar, Hair specialist in Patel Nagar, Dark spots treatment Patel Nagar, Pigmentation doctor Patel Nagar, East Patel Nagar skin clinic, Dermatologist near me">
+  <meta name="keywords" content="skin clinic in Patel Nagar, Dermatologist in Patel Nagar, skin doctor in Patel Nagar, Skin specialist in Patel Nagar, Female dermatologist Patel Nagar, Hair specialist in Patel Nagar, Dark spots treatment Patel Nagar, Pigmentation doctor Patel Nagar, East Patel Nagar skin clinic, Dermatologist near me">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-clinic-in-patel-nagar">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Skin Clinic in Patel Nagar – DermaTales">
+  <meta property="og:title" content="Skin Clinic in Patel Nagar – DermaTales">
   <meta property="og:description"
     content="Consult a trusted dermatologist in Patel Nagar at DermaTales — led by Dr. Pooja Varshney, MD Dermatology. Acne, pigmentation, hair fall & anti-ageing care.">
   <meta property="og:type" content="website">
@@ -242,7 +241,7 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text" style="max-width: 850px;">
-          <h1 class="hero-title-lux">Best Skin Clinic in <span class="italic">East Patel Nagar</span></h1>
+          <h1 class="hero-title-lux">Skin Clinic in <span class="italic">East Patel Nagar</span></h1>
           <p class="section-lead text-white-50" style="max-width: 780px;">
             Expert dermatology, laser & aesthetic care — now serving East Patel Nagar, Rajendra Place, Old Rajendra
             Nagar & surrounding areas with the same world-class standard as our flagship Delhi & Gurgaon clinics.
@@ -280,7 +279,7 @@
               <i class="bi bi-geo-alt-fill text-gold me-1"></i>3 Mins from Metro
             </span>
             <span class="badge bg-white text-dark border px-3 py-2 rounded-pill shadow-xs">
-              <i class="bi bi-shield-check text-gold me-1"></i>100% Doctor-Led Care
+              <i class="bi bi-shield-check text-gold me-1"></i>Doctor-Led Care
             </span>
             <span class="badge bg-white text-dark border px-3 py-2 rounded-pill shadow-xs">
               <i class="bi bi-clock-history text-gold me-1"></i>Unhurried Consultations
@@ -323,7 +322,7 @@
               <h2 class="h2 fw-bold text-dark mb-2">Meet Your Dermatologist in Patel Nagar — Dr. Pooja Varshney</h2>
               <p class="text-gold fw-semibold mb-3">MBBS, MD – Dermatology, Venereology & Leprosy | Fellowship in Cosmetology</p>
               <p class="text-muted mb-4" style="line-height: 1.8;">
-                With MBBS, MD in Dermatology, and a Fellowship in Cosmetology, Dr. Varshney has treated over 15,000 patients over 10+ years of clinical practice. Patients across East and West Patel Nagar consistently describe her as the best skin doctor in Patel Nagar for combining medical rigour with genuine, unhurried consultations — a rare combination in a market crowded with quick-fix skin clinics.
+                With MBBS, MD in Dermatology, and a Fellowship in Cosmetology, Dr. Varshney has treated over 15,000 patients over 10+ years of clinical practice. Patients across East and West Patel Nagar consistently trust her for combining medical rigour with genuine, unhurried consultations — a rare combination in a market crowded with quick-fix skin clinics.
               </p>
               <div class="row g-3 mb-4">
                 <div class="col-sm-6">
@@ -422,7 +421,7 @@
           <div class="d-flex flex-wrap gap-3">
             <div class="d-flex align-items-center gap-2 bg-white px-3 py-2 rounded-pill border">
               <i class="bi bi-lock-fill text-gold"></i>
-              <span class="small fw-semibold">100% Private 1-on-1 Consultation Rooms</span>
+              <span class="small fw-semibold">Private 1-on-1 Consultation Rooms</span>
             </div>
             <div class="d-flex align-items-center gap-2 bg-white px-3 py-2 rounded-pill border">
               <i class="bi bi-heart-pulse-fill text-gold"></i>
@@ -458,7 +457,7 @@
         <span class="section-eyebrow">Why DermaTales</span>
         <h2 class="section-title">Why Choose DermaTales as Your Skin Doctor in Patel Nagar</h2>
         <p class="section-lead" style="max-width: 800px; margin: 0 auto;">
-          When patients ask why we're considered the best skin doctor in Patel Nagar, the answer isn't marketing — it's that every treatment plan is personally reviewed by an MD dermatologist, delivered with FDA-approved technology, transparent upfront pricing, and no pressure to buy bundled packages.
+          When patients ask why patients choose DermaTales in Patel Nagar, the answer isn't marketing — it's that every treatment plan is personally reviewed by an MD dermatologist, delivered with FDA-approved technology, transparent upfront pricing, and no pressure to buy bundled packages.
         </p>
       </div>
       <div class="row g-4">
@@ -497,18 +496,14 @@
             <p class="why-card-v2-text">Conveniently located just 3 minutes' walk from Patel Nagar Metro Station (Blue Line) for seamless access across Central & West Delhi.</p>
           </div>
         </div>
-        <!-- Google Reviews Card -->
+        <!-- Ethical Care Card -->
         <div class="col-md-6 col-lg-4">
           <div class="why-card-v2 h-100 border border-gold" style="background: linear-gradient(145deg, #ffffff, #faf7f2);">
-            <div class="why-card-v2-icon" style="color: #ea4335;"><i class="bi bi-google"></i></div>
-            <div class="d-flex align-items-center gap-1 text-gold mb-2">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              <span class="ms-2 fw-bold text-dark">4.8 / 5</span>
-            </div>
-            <h3 class="why-card-v2-title">Rated by Patients Across Delhi & Gurgaon</h3>
-            <p class="why-card-v2-text mb-3">4.8/5 average from 300+ verified Google reviews — see what patients say about their visit to our Patel Nagar clinic.</p>
-            <a href="https://share.google/G4H4XcaCPN6B3HfKV" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-gold rounded-pill px-3">
-              Read Google Reviews <i class="bi bi-arrow-up-right ms-1"></i>
+            <div class="why-card-v2-icon" style="color: var(--dt-gold, #C49B66);"><i class="bi bi-shield-check"></i></div>
+            <h3 class="why-card-v2-title mt-2">Ethical &amp; Transparent Care</h3>
+            <p class="why-card-v2-text mb-3">Our Patel Nagar clinic follows strict medical protocols, transparent pricing, and thorough root-cause diagnostic assessments.</p>
+            <a href="book-appointment" class="btn btn-sm btn-outline-gold rounded-pill px-3">
+              Book Consultation <i class="bi bi-arrow-right ms-1"></i>
             </a>
           </div>
         </div>

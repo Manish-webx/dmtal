@@ -162,7 +162,7 @@
                 <div class="feature-list-icon"><i class="bi bi-patch-check"></i></div>
                 <div class="feature-list-content">
                   <h4>Clinical Excellence</h4>
-                  <p>Our specialized approach centers around removing the protective capsule wall to guarantee a 0% recurrence rate, performed with expert surgical care.</p>
+                  <p>Our specialized approach centers around removing the protective capsule wall to minimise recurrence risk, performed with expert surgical care.</p>
                 </div>
               </div>
               

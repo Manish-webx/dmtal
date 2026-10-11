@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Restore your abdominal tone and contour. Professional Tummy Tuck (Abdominoplasty) in Gurgaon at DermaTales. Remove excess skin and tighten muscles for a flatter stomach.">
-  <meta name="keywords"
-    content="Tummy tuck Gurgaon, Abdominoplasty Gurgaon, abdominal skin removal, tighten stomach muscles, post-pregnancy belly correction, tummy surgery Delhi, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Tummy tuck Gurgaon, Abdominoplasty Gurgaon, abdominal skin removal, tighten stomach muscles, post-pregnancy belly correction, tummy surgery Delhi, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/tummy-tuck-in-gurgaon">

@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Tighten and contour your upper arms. Professional Arm Lift (Brachioplasty) in Gurgaon at DermaTales. Eliminate 'bat wings' and restore youthful arm definition.">
-  <meta name="keywords"
-    content="Arm lift Gurgaon, Brachioplasty Gurgaon, bat wings surgery, flabby arms treatment, upper arm skin tightening, arm surgery Delhi, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Arm lift Gurgaon, Brachioplasty Gurgaon, bat wings surgery, flabby arms treatment, upper arm skin tightening, arm surgery Delhi, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/arm-lift-in-gurgaon">

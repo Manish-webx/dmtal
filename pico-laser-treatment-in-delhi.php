@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced Pico Laser Treatment in Delhi for pigmentation, melasma, acne scars, and tattoo removal. Safe for Indian skin. Consult Dr. Pooja Varshney.">
-  <meta name="keywords"
-    content="pico laser treatment Delhi, pico laser for pigmentation, pico laser tattoo removal, melasma treatment Delhi, Dermatales, Dr Pooja Varshney">
+  <meta name="keywords" content="pico laser treatment Delhi, pico laser for pigmentation, pico laser tattoo removal, melasma treatment Delhi, Dermatales, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/pico-laser-treatment-in-delhi">
@@ -120,7 +119,7 @@
               <li><i class="bi bi-check2 text-gold me-2"></i><strong>Birthmarks</strong> and certain benign pigmented lesions (evaluated individually)</li>
             </ul>
             <div class="alert alert-warning mt-3 border-0 rounded-4" role="alert">
-              <strong>Important:</strong> Not every skin concern is best treated with Pico laser. At Dermatales, Dr. Varshney always begins with a clinical assessment before recommending any laser procedure. Treating melasma without proper diagnosis can sometimes worsen it — a risk we take very seriously.
+              <strong>Important:</strong> Not every skin concern is ideally treated with Pico laser. At Dermatales, Dr. Varshney always begins with a clinical assessment before recommending any laser procedure. Treating melasma without proper diagnosis can sometimes worsen it — a risk we take very seriously.
             </div>
           </div>
 
@@ -199,8 +198,8 @@
           </div>
 
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Pico Laser Before and After — Honest Expectations</h2>
-            <p>Here is what our patients typically experience at Dermatales, based on Dr. Varshney's clinical practice:</p>
+            <h2 class="lux-section-title">Pico Laser Treatment Timeline — Honest Expectations</h2>
+            <p>Here is what patients typically observe across treatment sessions at Dermatales, based on Dr. Varshney's clinical practice:</p>
             <ul class="candidate-list">
               <li><i class="bi bi-check2 text-gold me-2"></i><strong>After Session 1:</strong> Mild brightening is common. Pigmented spots may temporarily appear slightly darker before they begin to fade — this is a normal part of the process.</li>
               <li><i class="bi bi-check2 text-gold me-2"></i><strong>After Sessions 2 to 3:</strong> Visible lightening of pigmentation and dark spots. Skin texture often starts to improve as collagen remodelling begins.</li>
@@ -208,7 +207,7 @@
               <li><i class="bi bi-check2 text-gold me-2"></i><strong>Acne Scars:</strong> Improvement becomes more apparent 4 to 8 weeks after the final session as new collagen is progressively laid down.</li>
             </ul>
             <div class="p-4 bg-light rounded-4 mt-4 border-start border-gold border-4">
-              <p class="fst-italic mb-0">"Results vary depending on your skin type, the severity of the condition, and your consistency with sun protection. I don't promise perfection — I promise an honest assessment and a plan that gives your skin the best possible chance to improve. That is the commitment we make to every patient at Dermatales."</p>
+              <p class="fst-italic mb-0">"Results vary depending on your skin type, the severity of the condition, and your consistency with sun protection. I don't promise perfection — I promise an honest assessment and a plan that gives your skin an optimal chance to improve. That is the commitment we make to every patient at Dermatales."</p>
               <p class="text-end fw-bold mb-0 mt-2">— Dr. Pooja Varshney</p>
             </div>
           </div>

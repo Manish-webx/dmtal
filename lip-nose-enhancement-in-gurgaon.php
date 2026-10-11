@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Achieve perfectly sculpted lips and a refined nose profile without surgery. Advanced dermal fillers at DermaTales Gurgaon by board-certified dermatologists.">
-  <meta name="keywords"
-    content="lip enhancement Gurgaon, nose filler Gurgaon, non-surgical rhinoplasty, lip fillers Delhi, dermal fillers Gurgaon, lip injections, nose job fillers, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="lip enhancement Gurgaon, nose filler Gurgaon, non-surgical rhinoplasty, lip fillers Delhi, dermal fillers Gurgaon, lip injections, nose job fillers, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/lip-nose-enhancement-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Lip & Nose Enhancement in Gurgaon | Dermal Fillers | DermaTales">
+  <meta property="og:title" content="Lip & Nose Enhancement in Gurgaon | Dermal Fillers | DermaTales">
   <meta property="og:description"
     content="Achieve perfectly sculpted lips and a refined nose profile without surgery. Advanced dermal fillers at DermaTales Gurgaon by board-certified dermatologists.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Lip-Nose-Enhancement.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Lip & Nose Enhancement in Gurgaon | Dermal Fillers | DermaTales</title>
+  <title>Lip & Nose Enhancement in Gurgaon | Dermal Fillers | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

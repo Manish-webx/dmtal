@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Maximize your results and minimize downtime. Comprehensive post-treatment recovery guidelines and products at DermaTales Gurgaon after lasers, peels, and surgery.">
-  <meta name="keywords"
-    content="post-treatment recovery Gurgaon, aftercare for laser, skin recovery after peel, healing after dermatology, post-skin surgery care, reduce downtime Gurgaon, skin healing products, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="post-treatment recovery Gurgaon, aftercare for laser, skin recovery after peel, healing after dermatology, post-skin surgery care, reduce downtime Gurgaon, skin healing products, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/post-treatment-recovery-in-gurgaon">

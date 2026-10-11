@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Fade deep chickenpox scars with advanced laser treatments at DermaTales Gurgaon. Fractional CO2 and MNRF therapies for smooth, even skin.">
-  <meta name="keywords"
-    content="Laser for chickenpox scars Gurgaon, chicken pox scar removal, fractional CO2 laser, scar excision, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Laser for chickenpox scars Gurgaon, chicken pox scar removal, fractional CO2 laser, scar excision, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/laser-for-chickenpox-scars-in-gurgaon">
@@ -201,7 +200,7 @@
                 </h3>
                 <div id="f1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                   <div class="accordion-body faq-body">
-                    Deep scars cannot be erased 100%, but our combination laser treatments can lift and blend them by 60-80%, making them far less noticeable under normal lighting.
+                    Deep scars cannot be erased completely, but our combination laser treatments can lift and blend them by 60-80%, making them far less noticeable under normal lighting.
                   </div>
                 </div>
               </div>

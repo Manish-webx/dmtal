@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Hives, rashes or swelling that will not settle need proper diagnosis. DermaTales, Patel Nagar treats skin allergies under Dr. Pooja Varshney, MD Dermatology. Book today.">
-  <meta name="keywords"
-    content="allergy treatment in Delhi, skin allergy treatment Patel Nagar, urticaria treatment Delhi, hives treatment Delhi, chronic urticaria specialist Delhi, contact dermatitis treatment, skin allergy doctor Delhi">
+  <meta name="keywords" content="allergy treatment in Delhi, skin allergy treatment Patel Nagar, urticaria treatment Delhi, hives treatment Delhi, chronic urticaria specialist Delhi, contact dermatitis treatment, skin allergy doctor Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/allergy-treatment-in-delhi">

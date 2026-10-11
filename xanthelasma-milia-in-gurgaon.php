@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Safe and effective removal of Xanthelasma (cholesterol deposits) and Milia cysts at DermaTales Gurgaon. Advanced RF cautery and laser treatments by board-certified dermatologists.">
-  <meta name="keywords"
-    content="xanthelasma removal Gurgaon, milia extraction Delhi, remove cholesterol deposits eyes, skin cyst removal, eye area milia treatment, Xanthelasma laser treatment, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="xanthelasma removal Gurgaon, milia extraction Delhi, remove cholesterol deposits eyes, skin cyst removal, eye area milia treatment, Xanthelasma laser treatment, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/xanthelasma-milia-in-gurgaon">

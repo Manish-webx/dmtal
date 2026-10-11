@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best open pore treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Laser skin resurfacing, chemical peels, microneedling, and MNRF for refined, smooth skin.">
-  <meta name="keywords"
-    content="open pore treatment Gurgaon, large pores treatment Delhi, minimise pores, laser for open pores, microneedling for pores, MNRF Gurgaon, Dr Pooja Varshney, DermaTales">
+    content="Open pore treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Laser skin resurfacing, chemical peels, microneedling, and MNRF for refined, smooth skin.">
+  <meta name="keywords" content="open pore treatment Gurgaon, large pores treatment Delhi, minimise pores, laser for open pores, microneedling for pores, MNRF Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/open-pore-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Open Pore Treatment in Gurgaon & Delhi | DermaTales">
+  <meta property="og:title" content="Open Pore Treatment in Gurgaon & Delhi | DermaTales">
   <meta property="og:description"
     content="Minimise large, visible pores with advanced dermatological treatments at DermaTales. Laser, MNRF, chemical peels and custom skin care protocols for porcelain-smooth skin.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Open-Pore-Treatment.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Open Pore Treatment in Gurgaon & Delhi | DermaTales</title>
+  <title>Open Pore Treatment in Gurgaon & Delhi | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -129,7 +128,7 @@
           <!-- Section: Treatments We Offer -->
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Our Open Pore Treatment Options</h2>
-            <p>We offer a comprehensive, multi-modal approach to pore minimisation — combining the best of medical technology for lasting results:</p>
+            <p>We offer a comprehensive, multi-modal approach to pore minimisation — combining advanced medical technology for lasting results:</p>
             <div class="row g-4 mt-2">
               <div class="col-md-6">
                 <div class="benefit-item-lux p-3 border-start border-gold border-3">

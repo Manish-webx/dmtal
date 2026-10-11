@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best lip lightening and lip pigmentation treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Laser, chemical peels, and mesotherapy for naturally pink, beautiful lips.">
-  <meta name="keywords"
-    content="lip lightening Gurgaon, lip pigmentation treatment Delhi, dark lips treatment, Q-switch laser for lips, lip peels, pink lips treatment Gurgaon, Dr Pooja Varshney, DermaTales">
+    content="Lip lightening and lip pigmentation treatment in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Laser, chemical peels, and mesotherapy for naturally healthy lips.">
+  <meta name="keywords" content="lip lightening Gurgaon, lip pigmentation treatment Delhi, dark lips treatment, Q-switch laser for lips, lip peels, pink lips treatment Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/lip-lightening-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Lip Lightening & Pigmentation Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Lip Lightening & Pigmentation Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Restore naturally pink, beautiful lips with laser, chemical peels, and mesotherapy at DermaTales. Expert lip depigmentation by board-certified dermatologists.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/lip-lightening.jpg">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Lip Lightening & Pigmentation Treatment in Gurgaon | DermaTales</title>
+  <title>Lip Lightening & Pigmentation Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

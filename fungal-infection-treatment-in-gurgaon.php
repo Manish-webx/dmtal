@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Effective fungal infection treatment in Gurgaon by Dr. Pooja Varshney. Get expert care for ringworm, nail fungus, and other skin infections at DermaTales.">
-  <meta name="keywords"
-    content="fungal infection treatment Gurgaon, ringworm treatment, nail fungus treatment, skin specialist Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="fungal infection treatment Gurgaon, ringworm treatment, nail fungus treatment, skin specialist Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/fungal-infection-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Fungal Infection Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Fungal Infection Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Reliable treatment for all types of fungal infections. Expert diagnosis and care by Dr. Pooja Varshney at DermaTales.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Fungal-infection.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Fungal Infection Treatment in Gurgaon | DermaTales</title>
+  <title>Fungal Infection Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

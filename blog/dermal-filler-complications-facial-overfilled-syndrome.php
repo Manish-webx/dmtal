@@ -9,8 +9,7 @@ $page_title = "I Have Corrected More Botched Fillers Than I Have Done From Scrat
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Why an overfilled or unnatural filler result almost never comes from the product itself, what actually causes Facial Overfilled Syndrome, and how natural results are planned by Dr. Pooja Varshney.">
-  <meta name="keywords"
-    content="botched fillers, facial overfilled syndrome, filler migration, dissolving fillers hyaluronidase, dermal filler complications, dermal filler treatment in Gurgaon, filler correction Delhi, Dr Pooja Varshney">
+  <meta name="keywords" content="botched fillers, facial overfilled syndrome, filler migration, dissolving fillers hyaluronidase, dermal filler complications, dermal filler treatment in Gurgaon, filler correction Delhi, Dr Pooja Varshney">
   <meta name="author" content="Dr. Pooja Varshney | DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical"

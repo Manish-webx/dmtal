@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="DermaTales is Delhi & Gurgaon's trusted skin & hair clinic. Dr. Pooja Varshney offers laser treatments, acne, hair loss, anti-ageing & weight loss (Ozempic, Mounjaro, CoolSculpting). Book consultation.">
-  <meta name="keywords"
-    content="dermatology clinic Gurgaon, skin specialist Delhi, cosmetic dermatology, laser treatment, acne treatment, pigmentation treatment, anti-aging, hair loss treatment, skin rejuvenation, dermatologist Gurgaon, dermatologist Delhi">
+  <meta name="keywords" content="dermatology clinic Gurgaon, skin specialist Delhi, cosmetic dermatology, laser treatment, acne treatment, pigmentation treatment, anti-aging, hair loss treatment, skin rejuvenation, dermatologist Gurgaon, dermatologist Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/">
@@ -28,7 +27,7 @@
     content="Experience world-class dermatology care. Advanced skin treatments, cosmetic procedures, and personalised skin wellness.">
   <meta name="twitter:image" content="https://www.dermatales.com/images/og-image.jpg">
 
-  <title>Best Skin Clinic in Delhi & Gurgaon | DermaTales</title>
+  <title>Skin Clinic in Delhi & Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 
@@ -187,7 +186,7 @@
               Where Science Meets the Art of Beautiful Skin
             </h2>
             <p class="hero-subtitle">
-              Welcome to DermaTales — one of the best skin clinics in Delhi, led by Dr. Pooja Varshney. From acne and
+              Welcome to DermaTales — a premier skin clinic in Delhi, led by Dr. Pooja Varshney. From acne and
               pigmentation to laser resurfacing, hair loss, and anti-ageing treatments — we deliver science-backed,
               personalised skin care that truly works. With clinics in Delhi and Gurgaon, expert skin care is always
               within reach.
@@ -258,7 +257,7 @@
           </p>
           <p class="section-text">
             With over 15,000 patients treated across Delhi NCR and a 98% satisfaction rate, Dr. Varshney is a trusted
-            name for those seeking the best skin treatment clinic in Delhi. Her approach is rooted in science, empathy,
+            name for those seeking comprehensive skin treatments in Delhi. Her approach is rooted in science, empathy,
             and a genuine commitment to transforming skin health.
           </p>
           <div class="doctor-credentials mt-4">
@@ -398,7 +397,7 @@
     </div>
   </section>
 
-  <!-- ===================== BEST TECHNOLOGIES WE USE ===================== -->
+  <!-- ===================== ADVANCED TECHNOLOGIES WE USE ===================== -->
   <section id="technologies" class="section-padding">
     <div class="container-xl">
       <div class="text-center mb-5">
@@ -853,7 +852,7 @@
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                   data-bs-target="#faq7" aria-expanded="false" aria-controls="faq7">
-                  What is the best hair loss treatment available at a skin and hair clinic in Delhi?
+                  What are effective hair loss treatments available at a skin and hair clinic in Delhi?
                 </button>
               </h3>
               <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">

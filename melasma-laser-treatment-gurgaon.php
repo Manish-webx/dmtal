@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Advanced laser treatment for melasma in Gurgaon & Delhi at DermaTales. Our specialized Laser Toning (Q-Switch) safely breaks down deep pigmentation for a clear, even skin tone.">
-  <meta name="keywords"
-    content="melasma laser treatment Gurgaon, laser toning for melasma Delhi, Q-switch laser melasma, pigmentation laser treatment Gurgaon, hormonal pigmentation treatment, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="melasma laser treatment Gurgaon, laser toning for melasma Delhi, Q-switch laser melasma, pigmentation laser treatment Gurgaon, hormonal pigmentation treatment, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/melasma-laser-treatment-gurgaon">
@@ -183,7 +182,7 @@
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">UV Skin Analysis</h4>
                 <p class="small text-muted">We use clinical analysis to determine the depth of pigmentation (dermal vs
-                  epidermal) to decide the best laser parameters.</p>
+                  epidermal) to decide optimal laser parameters.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Skin Priming</h4>

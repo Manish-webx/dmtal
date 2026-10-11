@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience youthful, refreshed eyes. Expert Blepharoplasty (Eyelid Surgery) in Gurgaon at DermaTales. Remove eye bags and drooping lids with precision surgery.">
-  <meta name="keywords"
-    content="Blepharoplasty Gurgaon, eyelid surgery Gurgaon, eye bag removal Gurgaon, drooping eyelid surgery, best eye surgeon Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Blepharoplasty Gurgaon, eyelid surgery Gurgaon, eye bag removal Gurgaon, drooping eyelid surgery, eye surgeon Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blepharoplasty-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Blepharoplasty in Gurgaon | Eyelid Surgery | DermaTales">
+  <meta property="og:title" content="Blepharoplasty in Gurgaon | Eyelid Surgery | DermaTales">
   <meta property="og:description"
     content="Transform your appearance with precision Blepharoplasty at DermaTales. Remove eye bags and drooping lids for a rested, youthful look.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/eyelid-surgery.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Blepharoplasty in Gurgaon | Eyelid Surgery | DermaTales</title>
+  <title>Blepharoplasty in Gurgaon | Eyelid Surgery | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

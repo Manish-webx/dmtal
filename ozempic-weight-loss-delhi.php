@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="Ozempic (semaglutide) weight loss treatment in Delhi at DermaTales. Doctor-supervised GLP-1 therapy for safe, clinically proven weight reduction. Book consultation with Dr. Pooja Varshney.">
-    <meta name="keywords"
-        content="Ozempic Delhi, ozempic weight loss Delhi, Ozempic injection Delhi, Ozempic clinic Delhi, ozempic doctor Delhi, ozempic treatment cost Delhi, semaglutide Delhi">
+    <meta name="keywords" content="Ozempic Delhi, ozempic weight loss Delhi, Ozempic injection Delhi, Ozempic clinic Delhi, ozempic doctor Delhi, ozempic treatment cost Delhi, semaglutide Delhi">
     <meta name="author" content="DermaTales Clinic">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.dermatales.com/ozempic-weight-loss-delhi.php">
@@ -942,8 +941,8 @@
                                                 <span>Board Certified</span>
                                             </div>
                                             <div class="trust-pill">
-                                                <i class="bi bi-star-fill"></i>
-                                                <span>98% Satisfaction</span>
+                                                <i class="bi bi-person-check-fill"></i>
+                                                <span>Doctor Supervised</span>
                                             </div>
                                         </div>
                                         <div class="doctor-cta-row">
@@ -1003,7 +1002,7 @@
                                 <div class="feature-list-content">
                                     <h4>Genuine, Verified Product</h4>
                                     <p>We source only authentic Ozempic from licensed distributors, with proper
-                                        cold-chain management to guarantee medication efficacy and safety.</p>
+                                        cold-chain management to maintain medication efficacy and safety.</p>
                                 </div>
                             </div>
                             <div class="feature-list-item">
@@ -1141,8 +1140,8 @@
                                         DermaTales is a doctor-led skin and aesthetic clinic in Patel Nagar, New Delhi,
                                         offering medically supervised Ozempic weight loss treatment under Dr. Pooja
                                         Varshney (MBBS, MD Dermatology). With <strong>15,000+ patients treated</strong>
-                                        and a <strong>98% satisfaction rate</strong>, it is one of the most trusted
-                                        weight loss clinics near Patel Nagar. Call: <a href="tel:+918700530623">+91
+                                        over 10+ years of clinical practice, our clinic provides comprehensive,
+                                        medically supervised weight loss care near Patel Nagar. Call: <a href="tel:+918700530623">+91
                                             8700530623</a>.
                                     </div>
                                 </div>

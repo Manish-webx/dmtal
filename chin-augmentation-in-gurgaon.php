@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Improve your facial profile and jawline definition. Professional Chin Augmentation in Gurgaon at DermaTales using premium implants or advanced dermal fillers.">
-  <meta name="keywords"
-    content="Chin augmentation Gurgaon, chin implants Gurgaon, weak chin correction, genioplasty Gurgaon, chin filler Gurgaon, jawline definition surgery, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Chin augmentation Gurgaon, chin implants Gurgaon, weak chin correction, genioplasty Gurgaon, chin filler Gurgaon, jawline definition surgery, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/chin-augmentation-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Chin Augmentation in Gurgaon | Profile Enhancement | DermaTales">
+  <meta property="og:title" content="Chin Augmentation in Gurgaon | Profile Enhancement | DermaTales">
   <meta property="og:description"
     content="Experience a balanced and defined facial profile. Precision Chin Augmentation at DermaTales using surgical implants or non-surgical fillers.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/chin-augmentation.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Chin Augmentation in Gurgaon | Profile Enhancement | DermaTales</title>
+  <title>Chin Augmentation in Gurgaon | Profile Enhancement | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>

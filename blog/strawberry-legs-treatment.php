@@ -9,8 +9,7 @@ $page_title = "Strawberry Legs Will Not Go Away With a Scrub. Here Is What Actua
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Strawberry legs have four distinct causes. Most treatments fail because they target the wrong one. Dr. Pooja Varshney explains what actually works for Indian skin.">
-  <meta name="keywords"
-    content="strawberry legs treatment, keratosis pilaris, folliculitis, ingrown hairs, Indian skin, Dr Pooja Varshney, dermatology blog">
+  <meta name="keywords" content="strawberry legs treatment, keratosis pilaris, folliculitis, ingrown hairs, Indian skin, Dr Pooja Varshney, dermatology blog">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blog/strawberry-legs-treatment">
@@ -112,10 +111,10 @@ $page_title = "Strawberry Legs Will Not Go Away With a Scrub. Here Is What Actua
           },
           {
             "@type": "Question",
-            "name": "What is the best treatment for strawberry legs in Indian skin?",
+            "name": "What is the most effective treatment for strawberry legs in Indian skin?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The best treatment depends on the cause. For oxidised sebum type, BHA chemical exfoliation is most effective. For keratosis pilaris, prescription urea and lactic acid creams with retinoids. For folliculitis and ingrown hairs, laser hair removal is the most definitive solution. All treatments need to be calibrated for Indian skin Fitzpatrick III to V."
+              "text": "The most effective treatment depends on the cause. For oxidised sebum type, BHA chemical exfoliation is most effective. For keratosis pilaris, prescription urea and lactic acid creams with retinoids. For folliculitis and ingrown hairs, laser hair removal is the most definitive solution. All treatments need to be calibrated for Indian skin Fitzpatrick III to V."
             }
           },
           {

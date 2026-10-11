@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience precision body sculpting. Advanced Liposuction (VASER/Laser) in Gurgaon at DermaTales. Safe fat removal, contoured results, and expert care.">
-  <meta name="keywords"
-    content="Liposuction Gurgaon, body sculpting Gurgaon, fat removal surgery, VASER liposuction Gurgaon, laser liposuction, abdominal liposuction, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Liposuction Gurgaon, body sculpting Gurgaon, fat removal surgery, VASER liposuction Gurgaon, laser liposuction, abdominal liposuction, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/liposuction-in-gurgaon">

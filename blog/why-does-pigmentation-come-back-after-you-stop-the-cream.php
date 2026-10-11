@@ -9,8 +9,7 @@ $page_title = "Why Does Pigmentation Come Back After You Stop the Cream | DermaT
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Why melasma and pigmentation keep returning, what melanocyte memory actually means, and how to build a maintenance plan that holds results by Dr. Pooja Varshney.">
-  <meta name="keywords"
-    content="why pigmentation comes back, melasma relapse, melanocyte memory, pigmentation treatment in gurgaon, Dr Pooja Varshney, stop pigmentation cream rebound, hyperpigmentation maintenance">
+  <meta name="keywords" content="why pigmentation comes back, melasma relapse, melanocyte memory, pigmentation treatment in gurgaon, Dr Pooja Varshney, stop pigmentation cream rebound, hyperpigmentation maintenance">
   <meta name="author" content="Dr. Pooja Varshney | DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blog/why-does-pigmentation-come-back-after-you-stop-the-cream">

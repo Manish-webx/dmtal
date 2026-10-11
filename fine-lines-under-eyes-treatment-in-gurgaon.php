@@ -5,9 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best treatment for fine lines under eyes in Gurgaon & Delhi at DermaTales. Advanced eye rejuvenation using lasers, PRP, and skin boosters by Dr. Pooja Varshney for bright, youthful eyes.">
-  <meta name="keywords"
-    content="fine lines under eyes treatment Gurgaon, eye wrinkles treatment Delhi, undereye rejuvenation, laser for eye wrinkles, PRP for eyes Gurgaon, skin boosters for eyes, Dr Pooja Varshney, DermaTales">
+    content="Treatment for fine lines under eyes in Gurgaon & Delhi at DermaTales. Advanced eye rejuvenation using lasers, PRP, and skin boosters by Dr. Pooja Varshney for bright, youthful eyes.">
+  <meta name="keywords" content="fine lines under eyes treatment Gurgaon, eye wrinkles treatment Delhi, undereye rejuvenation, laser for eye wrinkles, PRP for eyes Gurgaon, skin boosters for eyes, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/fine-lines-under-eyes-treatment-in-gurgaon">
@@ -214,8 +213,7 @@
             <div class="timeline-lux">
               <div class="timeline-lux-item" data-step="1">
                 <h4 class="h6 fw-bold mb-1">Microscopic Surface Analysis</h4>
-                <p class="small text-muted">We examine the depth and pattern of your fine lines to determine the best
-                  combination of collagen-stimulating treatments.</p>
+                <p class="small text-muted">We examine the depth and pattern of your fine lines to determine the optimal combination of collagen-stimulating treatments.</p>
               </div>
               <div class="timeline-lux-item" data-step="2">
                 <h4 class="h6 fw-bold mb-1">Topical Numbing</h4>

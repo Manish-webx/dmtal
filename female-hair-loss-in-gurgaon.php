@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Expert treatment for Female Hair Loss in Gurgaon at DermaTales. Address Telogen Effluvium, hormonal thinning, and PCOS-related hair loss with our dermatologists.">
-  <meta name="keywords"
-    content="Female hair loss Gurgaon, thinning hair women, Telogen Effluvium treatment, PCOS hair loss, female pattern baldness, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Female hair loss Gurgaon, thinning hair women, Telogen Effluvium treatment, PCOS hair loss, female pattern baldness, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/female-hair-loss-in-gurgaon">

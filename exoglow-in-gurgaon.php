@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience the future of skin rejuvenation with ExoGlow at DermaTales Gurgaon. Harness exosome technology for cellular repair, radiance, and anti-aging.">
-  <meta name="keywords"
-    content="ExoGlow Gurgaon, exosome therapy skin, skin rejuvenation Gurgaon, anti-aging treatment, cellular skin repair, radiant skin treatment, Exo-Glow Delhi, exosome microneedling, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="ExoGlow Gurgaon, exosome therapy skin, skin rejuvenation Gurgaon, anti-aging treatment, cellular skin repair, radiant skin treatment, Exo-Glow Delhi, exosome microneedling, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/exoglow-in-gurgaon">

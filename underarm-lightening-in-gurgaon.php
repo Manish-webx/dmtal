@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Say goodbye to dark underarms. Get the best Underarm Lightening and Pigmentation treatment in Gurgaon at DermaTales for smooth, even-toned skin.">
-  <meta name="keywords"
-    content="Underarm lightening Gurgaon, dark underarms treatment, underarm pigmentation removal, chemical peels underarms, Dr Pooja Varshney, DermaTales">
+    content="Underarm Lightening and Pigmentation treatment in Gurgaon at DermaTales for smooth, even-toned skin.">
+  <meta name="keywords" content="Underarm lightening Gurgaon, dark underarms treatment, underarm pigmentation removal, chemical peels underarms, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/underarm-lightening-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Underarm Lightening Treatment in Gurgaon | DermaTales">
+  <meta property="og:title" content="Underarm Lightening Treatment in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Wear sleeveless with confidence. Effective clinical treatments for dark underarms and pigmentation at DermaTales.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/underams-lightening.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Underarm Lightening Treatment in Gurgaon | DermaTales</title>
+  <title>Underarm Lightening Treatment in Gurgaon | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

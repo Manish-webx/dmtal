@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="Best Skin Glow & Medifacials in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Customised medical-grade facials for instant radiance, hydration, and flawless skin.">
-  <meta name="keywords"
-    content="skin glow treatment Gurgaon, medifacials Delhi, medical face cleanup, glowing skin treatment, party glow facial, Dr Pooja Varshney, DermaTales">
+    content="Skin Glow & Medifacials in Gurgaon & Delhi by Dr. Pooja Varshney at DermaTales. Customised medical-grade facials for instant radiance, hydration, and flawless skin.">
+  <meta name="keywords" content="skin glow treatment Gurgaon, medifacials Delhi, medical face cleanup, glowing skin treatment, party glow facial, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-glow-medifacials-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Skin Glow & Medifacials in Gurgaon | DermaTales">
+  <meta property="og:title" content="Skin Glow & Medifacials in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Experience instant radiance with medical-grade skin glow treatments and Medifacials at DermaTales. Customised serums and clinical exfoliation for a flawless complexion.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Skin-Glow-Medifacials.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Skin Glow & Medifacials in Gurgaon & Delhi | DermaTales</title>
+  <title>Skin Glow & Medifacials in Gurgaon & Delhi | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -275,7 +274,7 @@
                 </h3>
                 <div id="glowFaq2" class="accordion-collapse collapse" data-bs-parent="#glowFAQ">
                   <div class="accordion-body faq-body">
-                    For optimal skin maintenance, we recommend a Medifacial once every 3 to 4 weeks. This aligns with your skin's natural cellular turnover cycle, ensuring you always look your best.
+                    For optimal skin maintenance, we recommend a Medifacial once every 3 to 4 weeks. This aligns with your skin's natural cellular turnover cycle, ensuring your skin remains healthy and radiant.
                   </div>
                 </div>
               </div>

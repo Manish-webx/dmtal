@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Rejuvenate your entire body with Full Body Polishing in Gurgaon at DermaTales. Remove dead skin cells, tan, and reveal smooth, glowing skin.">
-  <meta name="keywords"
-    content="Full body polishing Gurgaon, body scrub Gurgaon, skin exfoliation, tan removal body polishing, glowing skin treatment, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Full body polishing Gurgaon, body scrub Gurgaon, skin exfoliation, tan removal body polishing, glowing skin treatment, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/full-body-polishing-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Full Body Polishing in Gurgaon | Body Glow | DermaTales">
+  <meta property="og:title" content="Full Body Polishing in Gurgaon | Body Glow | DermaTales">
   <meta property="og:description"
     content="Indulge in a luxurious full-body polishing treatment at DermaTales. Exfoliate, hydrate, and achieve radiant skin from head to toe.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="images/full-body-polish.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Full Body Polishing in Gurgaon | Body Glow | DermaTales</title>
+  <title>Full Body Polishing in Gurgaon | Body Glow | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
@@ -219,7 +218,7 @@
                 </h3>
                 <div id="p2" class="accordion-collapse collapse" data-bs-parent="#polishFAQ">
                   <div class="accordion-body faq-body">
-                    For maintaining soft, glowing skin, we recommend a session once every 4 to 6 weeks. If you are prepping for a wedding, a package of 3-4 sessions leading up to the big day yields the best results.
+                    For maintaining soft, glowing skin, we recommend a session once every 4 to 6 weeks. If you are prepping for a wedding, a package of 3-4 sessions leading up to the big day yields optimal results.
                   </div>
                 </div>
               </div>

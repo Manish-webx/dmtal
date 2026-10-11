@@ -4,17 +4,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skin Clinic in Gurgaon | Best Dermatologist – DermaTales</title>
+  <title>Skin Clinic in Gurgaon | Experienced Dermatologist – DermaTales</title>
   <meta name="description"
     content="DermaTales is Gurgaon's leading dermatology and aesthetics practice, led by Dr. Pooja Varshney, MD Dermatology. Acne, hair loss, anti-ageing, laser & weight loss care. Book today.">
-  <meta name="keywords"
-    content="Skin clinic in Gurgaon, Best dermatologist in Gurgaon, Dermatologist Gurgaon Sector 31, Female dermatologist Gurgaon, Hair specialist Gurgaon, Dark spots treatment Gurgaon, Pigmentation doctor Gurgaon, Skin specialist DLF Gurgaon, Laser clinic Gurgaon">
+  <meta name="keywords" content="Skin clinic in Gurgaon, dermatologist in Gurgaon, Dermatologist Gurgaon Sector 31, Female dermatologist Gurgaon, Hair specialist Gurgaon, Dark spots treatment Gurgaon, Pigmentation doctor Gurgaon, Skin specialist DLF Gurgaon, Laser clinic Gurgaon">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-clinic-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Skin Clinic in Gurgaon | Best Dermatologist – DermaTales">
+  <meta property="og:title" content="Skin Clinic in Gurgaon | Experienced Dermatologist – DermaTales">
   <meta property="og:description"
     content="DermaTales is Gurgaon's leading dermatology and aesthetics practice, led by Dr. Pooja Varshney, MD Dermatology. Acne, hair loss, anti-ageing, laser & weight loss care.">
   <meta property="og:type" content="website">
@@ -242,7 +241,7 @@
       </nav>
       <div class="hero-layout">
         <div class="hero-layout-text">
-          <h1 class="hero-title-lux">Best Dermatologist in <span class="italic">Gurgaon</span> — DermaTales Skin, Hair &
+          <h1 class="hero-title-lux">Dermatologist in <span class="italic">Gurgaon</span> — DermaTales Skin, Hair &
             Aesthetic Clinic</h1>
           <p class="section-lead text-white-50">
             Looking for a skin clinic in Gurgaon that combines real medical expertise with honest, personalised care?
@@ -286,7 +285,7 @@
               <i class="bi bi-geo-alt-fill text-gold me-1"></i>Sector 31, Gurugram
             </span>
             <span class="badge bg-white text-dark border px-3 py-2 rounded-pill shadow-xs">
-              <i class="bi bi-shield-check text-gold me-1"></i>100% Doctor-Led Care
+              <i class="bi bi-shield-check text-gold me-1"></i>Doctor-Led Care
             </span>
             <span class="badge bg-white text-dark border px-3 py-2 rounded-pill shadow-xs">
               <i class="bi bi-clock-history text-gold me-1"></i>Early & Lunch-Hour Slots
@@ -332,8 +331,7 @@
                 Aesthetic & Cosmetic Dermatology</p>
               <p class="text-muted mb-4" style="line-height: 1.8;">
                 With an MD in Dermatology, MBBS, and a Fellowship in Cosmetology, Dr. Varshney has led DermaTales for
-                over 10 years and treated 15,000+ patients. She is widely regarded as one of the best dermatologist in
-                Gurgaon options for patients who want an MD-led, evidence-based approach rather than a technician-run
+                over 10 years and treated 15,000+ patients. She is widely regarded as a leading dermatologist in Gurgaon options for patients who want an MD-led, evidence-based approach rather than a technician-run
                 aesthetic package.
               </p>
               <div class="row g-3 mb-4">
@@ -439,7 +437,7 @@
           <div class="d-flex flex-wrap gap-3">
             <div class="d-flex align-items-center gap-2 bg-ivory px-3 py-2 rounded-pill border">
               <i class="bi bi-lock-fill text-gold"></i>
-              <span class="small fw-semibold">100% Private 1-on-1 Consultation Rooms</span>
+              <span class="small fw-semibold">Private 1-on-1 Consultation Rooms</span>
             </div>
             <div class="d-flex align-items-center gap-2 bg-ivory px-3 py-2 rounded-pill border">
               <i class="bi bi-heart-pulse-fill text-gold"></i>
@@ -473,7 +471,7 @@
     <div class="container-xl">
       <div class="text-center mb-5">
         <span class="section-eyebrow">Medical Transparency Guide</span>
-        <h2 class="section-title">How to Choose the Best Skin Clinic in Gurgaon: A Patient Checklist</h2>
+        <h2 class="section-title">How to Choose the Right Skin Clinic in Gurgaon: A Patient Checklist</h2>
         <p class="section-lead" style="max-width: 780px; margin: 0 auto;">
           Gurgaon has dozens of skin clinics, spas, and "aesthetic centres" competing for the same search terms — which
           makes it genuinely hard to tell a qualified medical practice from a beauty salon with laser machines. Before
@@ -516,9 +514,8 @@
           <div class="p-4 bg-white rounded-4 border shadow-sm h-100 d-flex gap-3">
             <div class="text-gold fs-4"><i class="bi bi-check-circle-fill"></i></div>
             <div>
-              <h3 class="h5 fw-bold mb-2">Independent, Verifiable Reviews</h3>
-              <p class="text-muted small mb-0">Are there verifiable, independent patient reviews on Google and Practo —
-                not just curated testimonials on the clinic's own website?</p>
+              <h3 class="h5 fw-bold mb-2">Evidence-Based Clinical Practice</h3>
+              <p class="text-muted small mb-0">Does the clinic prioritize genuine medical evaluations and diagnosis over commercial promotional packages?</p>
             </div>
           </div>
         </div>
@@ -606,22 +603,16 @@
               professionals across Cyber City & Golf Course Road.</p>
           </div>
         </div>
-        <!-- Google Reviews Card -->
+        <!-- Ethical Care Card -->
         <div class="col-md-6 col-lg-4">
           <div class="why-card-v2 h-100 border border-gold"
             style="background: linear-gradient(145deg, #ffffff, #faf7f2);">
-            <div class="why-card-v2-icon" style="color: #ea4335;"><i class="bi bi-google"></i></div>
-            <div class="d-flex align-items-center gap-1 text-gold mb-2">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              <span class="ms-2 fw-bold text-dark">4.8 / 5</span>
-            </div>
-            <h3 class="why-card-v2-title">Rated by Patients Across Gurgaon & Delhi</h3>
-            <p class="why-card-v2-text mb-3">4.8/5 average from 300+ verified Google reviews — see what patients say
-              about their visit to our Gurgaon clinic.</p>
-            <a href="https://share.google/G4H4XcaCPN6B3HfKV" target="_blank" rel="noopener noreferrer"
+            <div class="why-card-v2-icon" style="color: var(--dt-gold, #C49B66);"><i class="bi bi-shield-check"></i></div>
+            <h3 class="why-card-v2-title mt-2">Ethical &amp; Transparent Care</h3>
+            <p class="why-card-v2-text mb-3">Our practice is built on honest consultations, evidence-based medical treatments, and clear pricing with no hidden charges.</p>
+            <a href="book-appointment"
               class="btn btn-sm btn-outline-gold rounded-pill px-3">
-              Read Google Reviews <i class="bi bi-arrow-up-right ms-1"></i>
+              Book Consultation <i class="bi bi-arrow-right ms-1"></i>
             </a>
           </div>
         </div>

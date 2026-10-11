@@ -9,8 +9,7 @@ $page_title = "Dark Lips Have Four Different Causes and Treating the Wrong One M
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Why most lip lightening treatments fail, what is actually causing your lip pigmentation, and what dermatologist recommended treatment genuinely works for Indian skin.">
-  <meta name="keywords"
-    content="dark lips treatment, lip pigmentation causes, laser for dark lips, chemical peels for lips, lip lightening Gurgaon, Dr Pooja Varshney, Indian skin dermatology">
+  <meta name="keywords" content="dark lips treatment, lip pigmentation causes, laser for dark lips, chemical peels for lips, lip lightening Gurgaon, Dr Pooja Varshney, Indian skin dermatology">
   <meta name="author" content="Dr. Pooja Varshney">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/blog/dark-lip-treatment">

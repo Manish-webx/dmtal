@@ -9,8 +9,7 @@ $page_title = "The Hair Fall Advice on Instagram Is Ruining Indian Scalps | Derm
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Dr. Pooja Varshney explains how generic Instagram hair fall advice is damaging Indian scalps, and what actually works for hair fall.">
-  <meta name="keywords"
-    content="hair fall treatment, hair loss causes, instagram hair advice, scalp damage, Dr Pooja Varshney, dermatology blog">
+  <meta name="keywords" content="hair fall treatment, hair loss causes, instagram hair advice, scalp damage, Dr Pooja Varshney, dermatology blog">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical"
@@ -118,7 +117,7 @@ $page_title = "The Hair Fall Advice on Instagram Is Ruining Indian Scalps | Derm
               washed off. That is it.</p>
 
             <h3 class="h5 fw-bold mt-3 text-charcoal">Onion Juice</h3>
-            <p>One small study showed modest benefit from onion juice. Instagram turned it into a miracle cure. Raw
+            <p>One small study showed modest benefit from onion juice. Instagram turned it into a miracle remedy. Raw
               onion juice is highly acidic and disrupts the scalp's natural pH. In people with sensitive scalps it
               causes contact dermatitis and irritation. And because of the smell, people end up washing their hair more
               aggressively and more frequently, which leads to more breakage. If onion juice worked the way it is

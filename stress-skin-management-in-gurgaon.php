@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Manage stress-induced skin conditions. Expert dermatology for stress-related acne, hair loss, and flare-ups at DermaTales Gurgaon. Control cortisol impact on skin.">
-  <meta name="keywords"
-    content="stress skin management Gurgaon, cortisol skin impact, stress acne treatment, emotional skin flare-ups, psychodermatology Gurgaon, manage stress itchy skin, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="stress skin management Gurgaon, cortisol skin impact, stress acne treatment, emotional skin flare-ups, psychodermatology Gurgaon, manage stress itchy skin, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/stress-skin-management-in-gurgaon">

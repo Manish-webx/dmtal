@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Persistent acne needs a diagnosis, not guesswork. DermaTales, Patel Nagar offers personalised acne treatment plans under Dr. Pooja Varshney, MD Dermatology. Book today.">
-  <meta name="keywords"
-    content="acne treatment in Delhi, acne treatment Patel Nagar, hormonal acne treatment Delhi, cystic acne treatment, best dermatologist for acne Delhi, acne treatment cost Delhi, adult acne treatment">
+  <meta name="keywords" content="acne treatment in Delhi, acne treatment Patel Nagar, hormonal acne treatment Delhi, cystic acne treatment, dermatologist for acne Delhi, acne treatment cost Delhi, adult acne treatment">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/acne-treatment-in-delhi">

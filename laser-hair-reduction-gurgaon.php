@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience permanent laser hair reduction in Gurgaon & Delhi at DermaTales. Advanced, painless laser technology for all skin and hair types by Dr. Pooja Varshney.">
-  <meta name="keywords"
-    content="laser hair reduction Gurgaon, permanent hair removal Delhi, painless laser hair removal, soprano titanium Gurgaon, body hair removal, facial hair removal Gurgaon, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="laser hair reduction Gurgaon, permanent hair removal Delhi, painless laser hair removal, soprano titanium Gurgaon, body hair removal, facial hair removal Gurgaon, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/laser-hair-reduction-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Laser Hair Reduction in Gurgaon & Delhi | DermaTales">
+  <meta property="og:title" content="Laser Hair Reduction in Gurgaon & Delhi | DermaTales">
   <meta property="og:description"
     content="Say goodbye to waxing and shaving. Get smooth, hair-free skin with our medical-grade laser hair reduction treatments in Gurgaon and Delhi. Safe for all skin types.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property=" og:image" content="https://www.dermatales.com/images/laser-hair-reduction.jpg">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Laser Hair Reduction in Gurgaon & Delhi | DermaTales</title>
+  <title>Laser Hair Reduction in Gurgaon & Delhi | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 </head>

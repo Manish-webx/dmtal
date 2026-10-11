@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Refine and reshape your lower body. Professional Thigh Lift (Thighplasty) in Gurgaon at DermaTales. Eliminate loose skin and achieve smoother, firmer thigh contours.">
-  <meta name="keywords"
-    content="Thigh lift Gurgaon, Thighplasty Gurgaon, loose thigh skin removal, inner thigh tightening, leg contouring surgery, thigh surgery Delhi, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="Thigh lift Gurgaon, Thighplasty Gurgaon, loose thigh skin removal, inner thigh tightening, leg contouring surgery, thigh surgery Delhi, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/thigh-lift-in-gurgaon">

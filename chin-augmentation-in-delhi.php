@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Chin filler & chin augmentation in Delhi (Patel Nagar) by Dr. Pooja Varshney, MD Dermatology. Natural profile balance, transparent pricing. Book now.">
-  <meta name="keywords"
-    content="chin augmentation in Delhi, chin filler Delhi, chin filler Patel Nagar, non surgical chin augmentation, jaw and chin filler Delhi, receding chin treatment Delhi, chin filler cost Delhi, Dr Pooja Varshney">
+  <meta name="keywords" content="chin augmentation in Delhi, chin filler Delhi, chin filler Patel Nagar, non surgical chin augmentation, jaw and chin filler Delhi, receding chin treatment Delhi, chin filler cost Delhi, Dr Pooja Varshney">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/chin-augmentation-in-delhi">
@@ -348,7 +347,7 @@
                     <div class="icon-box-sm bg-gold text-dark rounded-circle p-2 me-2 d-inline-flex align-items-center justify-content-center" style="width:32px; height:32px;">
                       <i class="bi bi-arrow-counterclockwise"></i>
                     </div>
-                    <h4 class="h6 fw-bold mb-0 text-charcoal">100% Reversible HA</h4>
+                    <h4 class="h6 fw-bold mb-0 text-charcoal">Reversible HA</h4>
                   </div>
                   <p class="small text-muted mb-0">Hyaluronic acid fillers provide complete peace of mind, fully dissolvable with hyaluronidase at any time.</p>
                 </div>
@@ -471,7 +470,7 @@
                         <i class="bi bi-droplet-fill fs-5"></i>
                       </div>
                       <span class="lux-proto-pill pill-gold">
-                        100% REVERSIBLE
+                        REVERSIBLE
                       </span>
                     </div>
                     <h3 class="lux-proto-title">Hyaluronic Acid (HA) Fillers</h3>
@@ -662,11 +661,11 @@
             </p>
           </div>
 
-          <!-- Section: Chin Filler Before and After Results -->
+          <!-- Section: Expected Aesthetic Outcomes with Chin Fillers -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">Chin Filler Before and After Results</h2>
+            <h2 class="lux-section-title">Expected Aesthetic Outcomes with Chin Fillers</h2>
             <p>
-              At DermaTales, the goal of every chin augmentation treatment is a chin that fits your face, visible enough that your profile looks more balanced in photos and side angles, without anyone being able to point to exactly what changed. Typical chin filler before and after changes include:
+              At DermaTales, the goal of every chin augmentation treatment is a chin that fits your face, visible enough that your profile looks more balanced in photos and side angles, without anyone being able to point to exactly what changed. Typical aesthetic changes include:
             </p>
             <div class="row g-3 mt-2">
               <div class="col-md-6">
@@ -695,7 +694,7 @@
               </div>
             </div>
             <p class="small text-muted mt-3">
-              Clinical photographs from your consultation and your review visit become your own before/after record, ask Dr. Varshney to walk you through your specific photos rather than relying on stock images.
+              Clinical photographs taken during your consultation and review visits allow Dr. Varshney to evaluate facial proportions and assess your progress accurately.
             </p>
           </div>
 
@@ -815,7 +814,7 @@
                         <td>Implant removable; genioplasty cannot be reversed</td>
                       </tr>
                       <tr>
-                        <td class="ps-4 fw-bold text-charcoal">Best For</td>
+                        <td class="ps-4 fw-bold text-charcoal">Recommended For</td>
                         <td>Mild-to-moderate correction, first-timers, previewing profile</td>
                         <td>Significant structural recession, permanent single change</td>
                       </tr>
@@ -897,67 +896,7 @@
             </p>
           </div>
 
-          <!-- ===================== PATIENT REVIEWS (GMB STRIP) ===================== -->
-          <div class="mt-5 fade-up">
-            <div class="p-4 rounded-4 bg-light border border-gold-light shadow-sm">
-              <div class="d-flex flex-wrap align-items-center justify-content-between mb-4 pb-2 border-bottom">
-                <div>
-                  <span class="badge bg-gold text-dark rounded-pill px-3 py-1 small mb-1">Google Verified</span>
-                  <h3 class="h5 fw-bold text-charcoal mb-0">Patient Reviews &amp; Experiences</h3>
-                </div>
-                <div class="d-flex align-items-center gap-2">
-                  <div class="text-warning fs-5">
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                    <i class="bi bi-star-fill"></i>
-                  </div>
-                  <span class="fw-bold text-charcoal">4.9 / 5</span>
-                  <span class="small text-muted">(Google Reviews)</span>
-                </div>
-              </div>
 
-              <div class="row g-3">
-                <div class="col-md-4">
-                  <div class="p-3 bg-white rounded-3 border h-100 shadow-xs">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                      <span class="fw-bold small text-charcoal">Rohan M.</span>
-                      <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                    </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Chin &amp; Jaw Filler</span>
-                    <p class="small text-muted mb-0" style="line-height: 1.55;">
-                      "Dr. Pooja Varshney did my chin filler in Patel Nagar. My side profile looks so natural and structured now. Zero pain and absolutely no downtime!"
-                    </p>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="p-3 bg-white rounded-3 border h-100 shadow-xs">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                      <span class="fw-bold small text-charcoal">Ananya S.</span>
-                      <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                    </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Profile Balancing Filler</span>
-                    <p class="small text-muted mb-0" style="line-height: 1.55;">
-                      "I always felt my nose looked too large, but Dr. Pooja showed me it was actually a recessed chin. Adding 1ml chin filler completely balanced my face!"
-                    </p>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="p-3 bg-white rounded-3 border h-100 shadow-xs">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                      <span class="fw-bold small text-charcoal">Pooja K.</span>
-                      <div class="text-warning small"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                    </div>
-                    <span class="badge bg-light text-muted border small mb-2" style="font-size:0.75rem;">Dermal Fillers</span>
-                    <p class="small text-muted mb-0" style="line-height: 1.55;">
-                      "Best aesthetic clinic in Central Delhi. Dr. Varshney is exceptionally skilled, patient, and honest with pricing. Highly recommend her clinic."
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
 
           <!-- FAQ Accordion -->
           <div class="mt-5 fade-up">

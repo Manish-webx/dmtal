@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Reset your skin. Clinical skin detox programs at DermaTales Gurgaon to clear urban pollution, oxidative stress, and impurities. Medifacials & Lymphatic drainage by experts.">
-  <meta name="keywords"
-    content="skin detox Gurgaon, pollution protection skin, urban skin reset, lymphatic drainage facial, remove skin impurities, medical skin detox, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="skin detox Gurgaon, pollution protection skin, urban skin reset, lymphatic drainage facial, remove skin impurities, medical skin detox, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/skin-detox-programs-in-gurgaon">

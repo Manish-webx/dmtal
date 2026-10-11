@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Precision mole and wart removal in Gurgaon & Delhi using advanced Radiofrequency and Laser technology at DermaTales. Safe, permanent, and scar-free results by expert dermatologists.">
-  <meta name="keywords"
-    content="mole removal Gurgaon, wart removal Delhi, RF cautery skin, laser wart removal, best dermatologist for moles, DermaTales clinic">
+  <meta name="keywords" content="mole removal Gurgaon, wart removal Delhi, RF cautery skin, laser wart removal, dermatologist for moles, DermaTales clinic">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/mole-wart-removal-in-gurgaon">

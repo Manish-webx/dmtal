@@ -6,14 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Experience the famous Carbon Laser Facial (Hollywood Peel) in Gurgaon & Delhi at DermaTales. Instant glow, pore reduction, and skin tightening with zero downtime.">
-  <meta name="keywords"
-    content="carbon laser facial Gurgaon, Hollywood peel Delhi, carbon peel, skin tightening facial, instant glow laser, Dr Pooja Varshney, DermaTales">
+  <meta name="keywords" content="carbon laser facial Gurgaon, Hollywood peel Delhi, carbon peel, skin tightening facial, instant glow laser, Dr Pooja Varshney, DermaTales">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/carbon-laser-facial-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Best Carbon Laser Facial in Gurgaon | DermaTales">
+  <meta property="og:title" content="Carbon Laser Facial in Gurgaon | DermaTales">
   <meta property="og:description"
     content="Also known as the 'Hollywood Peel', our Carbon Laser Facial instantly purifies pores, reduces oil, and stimulates collagen for a red-carpet ready glow.">
   <meta property="og:type" content="website">
@@ -21,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/Carbon-Laser-Facial.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Best Carbon Laser Facial in Gurgaon & Delhi | DermaTales</title>
+  <title>Carbon Laser Facial in Gurgaon & Delhi | DermaTales</title>
 
     <?php include 'nav-link.php'; ?>
 </head>
