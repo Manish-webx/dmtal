@@ -95,10 +95,21 @@
                       placeholder="Tell us more about your skin concern..."></textarea>
                   </div>
                 </div>
+                <div class="col-12">
+                  <div class="form-check mb-4 text-start">
+                    <input class="form-check-input" type="checkbox" id="dpdpConsentBook" name="dpdp_consent" required checked>
+                    <label class="form-check-label small text-muted" for="dpdpConsentBook">
+                      I consent to DermaTales collecting and processing my details to schedule my consultation in accordance with the <a href="privacy-policy" target="_blank" class="text-gold text-decoration-underline">Privacy Policy</a> and the Digital Personal Data Protection (DPDP) Act, 2023.
+                    </label>
+                  </div>
+                </div>
                 <div class="col-12 text-center">
                   <button type="submit" class="btn btn-gold btn-lg rounded-pill px-5 py-3">
                     Send Enquiry <i class="bi bi-arrow-right ms-2"></i>
                   </button>
+                  <p class="small text-muted mt-3 mb-0">
+                    <i class="bi bi-shield-lock-fill text-gold me-1"></i> Your details are confidential, secure, and used solely for medical consultation coordination.
+                  </p>
                 </div>
               </div>
             </form>

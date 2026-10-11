@@ -952,11 +952,19 @@
                     placeholder="Briefly describe your skin concern or question..." name="message"></textarea>
                 </div>
                 <div class="col-12">
+                  <div class="form-check text-start my-2">
+                    <input class="form-check-input" type="checkbox" id="dpdpConsentHome" name="dpdp_consent" required checked>
+                    <label class="form-check-label small text-muted" for="dpdpConsentHome">
+                      I agree to the processing of my contact details for scheduling a clinical consultation in accordance with the <a href="privacy-policy" target="_blank" class="text-gold text-decoration-underline">Privacy Policy</a> and DPDP Act, 2023.
+                    </label>
+                  </div>
+                </div>
+                <div class="col-12">
                   <button type="submit" class="btn btn-gold btn-lg rounded-pill w-100">
                     Book Consultation
                   </button>
-                  <p class="form-note mt-2 text-center">
-                    <i class="bi bi-shield-lock me-1"></i>Your information is secure and confidential.
+                  <p class="form-note mt-2 text-center text-muted small">
+                    <i class="bi bi-shield-lock-fill text-gold me-1"></i> Your information is confidential, secure, and used solely for consultation coordination.
                   </p>
                 </div>
               </div>

@@ -26,7 +26,18 @@
             <textarea class="form-control" name="message" id="formMessage" rows="2"
                 placeholder="Briefly describe..."></textarea>
         </div>
+        <div class="mb-3">
+            <div class="form-check text-start">
+                <input class="form-check-input" type="checkbox" id="dpdpConsentSidebar" name="dpdp_consent" required checked>
+                <label class="form-check-label small text-muted" for="dpdpConsentSidebar" style="font-size: 0.775rem; line-height: 1.4;">
+                    I consent to the processing of my details to coordinate my consultation under the <a href="privacy-policy" target="_blank" class="text-gold text-decoration-underline">Privacy Policy</a> &amp; DPDP Act, 2023.
+                </label>
+            </div>
+        </div>
         <button type="submit" class="btn btn-gold rounded-pill w-100 py-2">Submit Request</button>
+        <p class="small text-muted text-center mt-2 mb-0" style="font-size: 0.75rem;">
+            <i class="bi bi-shield-lock-fill text-gold me-1"></i> Data processed confidentially under DPDP Act.
+        </p>
     </form>
 </div>
 

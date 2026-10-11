@@ -16,6 +16,8 @@ $date = $_POST['date'] ?? '';
 $url = $_POST['url'] ?? '';
 $message = $_POST['message'] ?? '';
 
+$dpdpConsent = isset($_POST['dpdp_consent']) ? 'Yes (Consented under DPDP Act, 2023)' : 'Not recorded';
+
 // Build message with date/page info if provided
 $fullMessage = $message;
 $extra = [];
@@ -25,6 +27,7 @@ if (!empty($date)) {
 if (!empty($url)) {
     $extra[] = "Page: " . $url;
 }
+$extra[] = "DPDP Consent: " . $dpdpConsent;
 if (!empty($extra)) {
     $fullMessage = !empty($fullMessage) ? $fullMessage . " | " . implode(" | ", $extra) : implode(" | ", $extra);
 }
@@ -37,6 +40,7 @@ $crmData = [
     'email' => $email,
     'location' => $location,
     'message' => $fullMessage,
+    'consent' => $dpdpConsent,
 ];
 
 try {
@@ -77,6 +81,7 @@ $body .= 'Location: ' . htmlspecialchars($location) . "<br>";
 $body .= 'Date: ' . htmlspecialchars($date) . "<br>";
 $body .= 'Url: ' . htmlspecialchars($url) . "<br>";
 $body .= 'Message: ' . htmlspecialchars($message) . "<br>";
+$body .= 'DPDP Consent: ' . htmlspecialchars($dpdpConsent) . "<br>";
 
 
 try {

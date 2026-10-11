@@ -176,6 +176,24 @@
       </div>
     </div>
 
+    <!-- Regulatory & Compliance Disclaimers (AI, NMC, DPDP Act 2023) -->
+    <div class="footer-compliance border-top border-secondary-subtle pt-4 mt-4" style="border-color: rgba(255,255,255,0.08) !important;">
+      <div class="row g-4 text-muted small" style="font-size: 0.8125rem; line-height: 1.65; color: rgba(255,255,255,0.65) !important;">
+        <div class="col-lg-6">
+          <p class="mb-0">
+            <strong class="text-white"><i class="bi bi-robot text-gold me-1"></i> AI-Generated Content Disclaimer:</strong>
+            Certain images, illustrations, or textual content on this website may be generated or assisted by artificial intelligence (AI). Such content is intended for informational and illustrative purposes only. AI-generated content is not intended to misrepresent actual patients, medical professionals, clinical outcomes, or healthcare services.
+          </p>
+        </div>
+        <div class="col-lg-6">
+          <p class="mb-0">
+            <strong class="text-white"><i class="bi bi-shield-check text-gold me-1"></i> Medical &amp; Data Protection Notice (NMC &amp; DPDP Act, 2023):</strong>
+            Content on this website is for educational purposes only and does not substitute professional medical advice, clinical diagnosis, or individualized treatment by a registered medical practitioner. In-person clinical assessment is mandatory prior to any procedure. All personal data is processed strictly in accordance with the Digital Personal Data Protection (DPDP) Act, 2023.
+          </p>
+        </div>
+      </div>
+    </div>
+
     <!-- Footer Bottom -->
     <div class="footer-bottom">
       <div class="row align-items-center g-3">
@@ -192,9 +210,9 @@
         <div class="col-md-4 text-md-end">
           <div class="footer-legal">
             <a href="book-appointment">Contact Us</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms</a>
-            <a href="#">Disclaimer</a>
+            <a href="privacy-policy">Privacy Policy</a>
+            <a href="terms-and-conditions">Terms</a>
+            <a href="disclaimer">Disclaimer</a>
           </div>
         </div>
       </div>
