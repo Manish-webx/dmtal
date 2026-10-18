@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.dermatales.com/botox-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Botox Treatment in Gurgaon | Dr. Pooja Varshney">
+  <meta property="og:title" content="Botox Treatment in Gurgaon Sector 31| Dr. Pooja Varshney">
   <meta property="og:description"
     content="Get natural looking Botox treatment in Gurgaon from Dr. Pooja Varshney, MD Dermatology, 10+ years experience. Book your consultation at DermaTales today.">
   <meta property="og:type" content="website">
