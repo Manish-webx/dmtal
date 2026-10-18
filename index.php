@@ -950,6 +950,7 @@
                   <label for="formMessage" class="form-label">Your Concern</label>
                   <textarea class="form-control" id="formMessage" rows="3"
                     placeholder="Briefly describe your skin concern or question..." name="message"></textarea>
+                  <div class="url-warning-msg" style="display: none;"></div>
                 </div>
                 <div class="col-12">
                   <div class="form-check text-start my-2">

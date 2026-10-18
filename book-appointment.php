@@ -93,6 +93,7 @@
                     <label class="form-label-lux">YOUR MESSAGE</label>
                     <textarea name="message" class="form-control form-control-lux" id="formMessage" rows="2"
                       placeholder="Tell us more about your skin concern..."></textarea>
+                    <div class="url-warning-msg" style="display: none;"></div>
                   </div>
                 </div>
                 <div class="col-12">

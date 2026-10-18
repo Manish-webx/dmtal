@@ -122,46 +122,123 @@ function initPage() {
     });
   }
 
-  // ---- Form Validation (basic) ----
-  var appointmentForm = document.getElementById('appointmentForm');
-  if (appointmentForm) {
-    appointmentForm.addEventListener('submit', function (e) {
-      e.preventDefault();
+  // ---- Disallow URL in Message Fields (Typing, Pasting, Drag-Drop, Form Submit) ----
+  function initUrlBlocker() {
+    var urlPattern = /(?:[a-zA-Z]+:\/\/|www\.)[^\s]*|(?<!@)\b[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*\.(?:com|org|net|in|co|io|ai|biz|info|xyz|me|online|site|tech|store|app|dev|cloud|pro|link|top|vip|icu|live|click|mobi|ly|gl|be|tv|to|cc|edu|gov)\b(?:\/[^\s]*)?/gi;
 
-      var name = document.getElementById('formName');
-      var phone = document.getElementById('formPhone');
-      var isValid = true;
+    function hasUrl(text) {
+      if (!text) return false;
+      urlPattern.lastIndex = 0;
+      return urlPattern.test(text);
+    }
 
-      [name, phone].forEach(function (field) {
-        if (field) field.classList.remove('is-invalid');
+    function removeUrls(text) {
+      if (!text) return '';
+      urlPattern.lastIndex = 0;
+      return text.replace(urlPattern, '');
+    }
+
+    function getWarningElement(field) {
+      var parent = field.closest('.mb-3') || field.closest('.mb-4') || field.closest('.mb-5') || field.closest('.col-12') || field.parentNode;
+      var warning = parent ? parent.querySelector('.url-warning-msg') : null;
+      if (!warning && parent) {
+        warning = document.createElement('div');
+        warning.className = 'url-warning-msg invalid-feedback';
+        warning.style.display = 'none';
+        field.parentNode.insertBefore(warning, field.nextSibling);
+      }
+      return warning;
+    }
+
+    function showWarning(field, message) {
+      field.classList.add('is-invalid');
+      var warning = getWarningElement(field);
+      if (warning) {
+        warning.innerHTML = '<i class="bi bi-exclamation-triangle-fill me-1"></i> ' + (message || 'URLs and website links are not allowed in the message field.');
+        warning.style.display = 'block';
+      }
+
+      if (field._urlWarningTimer) {
+        clearTimeout(field._urlWarningTimer);
+      }
+      field._urlWarningTimer = setTimeout(function () {
+        if (!hasUrl(field.value)) {
+          field.classList.remove('is-invalid');
+          if (warning) warning.style.display = 'none';
+        }
+      }, 4000);
+    }
+
+    function hideWarning(field) {
+      field.classList.remove('is-invalid');
+      var warning = getWarningElement(field);
+      if (warning) {
+        warning.style.display = 'none';
+      }
+    }
+
+    var messageFields = document.querySelectorAll(
+      'textarea[name="message"], #formMessage, textarea.form-control, input[name="message"]'
+    );
+
+    messageFields.forEach(function (field) {
+      // 1. Disallow Pasting URLs
+      field.addEventListener('paste', function (e) {
+        var clipboardData = e.clipboardData || window.clipboardData;
+        if (!clipboardData) return;
+        var pastedText = clipboardData.getData('text') || '';
+
+        if (hasUrl(pastedText)) {
+          e.preventDefault();
+          showWarning(field, 'Links and website URLs cannot be pasted in the message field.');
+        }
       });
 
-      if (!name || !name.value.trim()) {
-        if (name) name.classList.add('is-invalid');
-        isValid = false;
-      }
+      // 2. Disallow Drag & Drop URLs
+      field.addEventListener('drop', function (e) {
+        var droppedText = (e.dataTransfer && e.dataTransfer.getData('text')) || '';
+        if (hasUrl(droppedText)) {
+          e.preventDefault();
+          showWarning(field, 'Links and website URLs are not allowed in the message field.');
+        }
+      });
 
-      if (!phone || !phone.value.trim() || phone.value.trim().length < 10) {
-        if (phone) phone.classList.add('is-invalid');
-        isValid = false;
-      }
+      // 3. Disallow Typing URLs (real-time input event)
+      field.addEventListener('input', function () {
+        if (hasUrl(this.value)) {
+          var cursorPos = this.selectionStart;
+          var originalLength = this.value.length;
+          this.value = removeUrls(this.value);
+          var newLength = this.value.length;
+          var diff = originalLength - newLength;
+          if (cursorPos !== null) {
+            var newPos = Math.max(0, cursorPos - diff);
+            this.setSelectionRange(newPos, newPos);
+          }
+          showWarning(this, 'Typing URLs and website links is not allowed in the message field.');
+        } else {
+          hideWarning(this);
+        }
+      });
+    });
 
-      if (isValid) {
-        var btn = this.querySelector('button[type="submit"]');
-        var originalText = btn.textContent;
-        btn.textContent = "Thank you! We'll contact you shortly.";
-        btn.disabled = true;
-        btn.style.background = 'var(--dt-sage)';
-
-        setTimeout(function () {
-          btn.textContent = originalText;
-          btn.disabled = false;
-          btn.style.background = '';
-          appointmentForm.reset();
-        }, 4000);
-      }
+    // 4. Form Submit Protection on all forms
+    var allForms = document.querySelectorAll('form');
+    allForms.forEach(function (form) {
+      form.addEventListener('submit', function (e) {
+        var msg = form.querySelector('textarea[name="message"], #formMessage, textarea');
+        if (msg && hasUrl(msg.value)) {
+          e.preventDefault();
+          msg.value = removeUrls(msg.value);
+          showWarning(msg, 'Please remove any website links or URLs before submitting.');
+          msg.focus();
+          return false;
+        }
+      });
     });
   }
+
+  initUrlBlocker();
 
 
 

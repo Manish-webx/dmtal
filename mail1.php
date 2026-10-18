@@ -16,6 +16,16 @@ $date = $_POST['date'] ?? '';
 $url = $_POST['url'] ?? '';
 $message = $_POST['message'] ?? '';
 
+// Server-side validation: Disallow links & URLs in the message field
+$urlPattern = '/(?:[a-zA-Z]+:\/\/|www\.)[^\s]*|(?<!@)\b[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*\.(?:com|org|net|in|co|io|ai|biz|info|xyz|me|online|site|tech|store|app|dev|cloud|pro|link|top|vip|icu|live|click|mobi|ly|gl|be|tv|to|cc|edu|gov)\b(?:\/[^\s]*)?/i';
+if (!empty($message) && preg_match($urlPattern, $message)) {
+    echo "<script>
+        alert('Links and website URLs are not allowed in the message field. Please go back and remove them.');
+        window.history.back();
+    </script>";
+    exit();
+}
+
 $dpdpConsent = isset($_POST['dpdp_consent']) ? 'Yes (Consented under DPDP Act, 2023)' : 'Not recorded';
 
 // Build message with date/page info if provided

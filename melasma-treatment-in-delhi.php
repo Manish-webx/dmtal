@@ -712,6 +712,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Treatments</h3>
               <ul class="related-list">
+                <li><a href="cosmelan-peel-delhi-patel-nagar">Cosmelan Peel Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="laser-for-pigmentation-in-gurgaon">Laser Pigmentation <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="chemical-peels-in-gurgaon">Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="pigmentation-treatment-in-delhi">Facial Pigmentation <i class="bi bi-chevron-right"></i></a></li>

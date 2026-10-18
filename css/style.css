@@ -6534,3 +6534,36 @@ h6 {
   justify-content: center;
   flex-shrink: 0;
 }
+
+/* ============================================================
+   FORM URL BLOCKER WARNING STYLES
+   ============================================================ */
+.url-warning-msg {
+  display: none;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: #dc3545;
+  background: rgba(220, 53, 69, 0.08);
+  border: 1px solid rgba(220, 53, 69, 0.25);
+  border-radius: 6px;
+  padding: 6px 12px;
+  margin-top: 6px;
+  animation: dtFadeInWarning 0.25s ease-in-out;
+}
+
+@keyframes dtFadeInWarning {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+textarea.is-invalid,
+.form-control.is-invalid {
+  border-color: #dc3545 !important;
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.15) !important;
+}

@@ -25,6 +25,7 @@
             <label class="form-label">Your Concern</label>
             <textarea class="form-control" name="message" id="formMessage" rows="2"
                 placeholder="Briefly describe..."></textarea>
+            <div class="url-warning-msg" style="display: none;"></div>
         </div>
         <div class="mb-3">
             <div class="form-check text-start">

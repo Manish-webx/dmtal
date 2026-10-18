@@ -712,6 +712,7 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Laser Facials</h3>
               <ul class="related-list">
+                <li><a href="cosmelan-peel-delhi-patel-nagar">Cosmelan Peel Delhi <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="pico-laser-treatment-in-delhi">Pico Laser Treatment <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="q-switch-laser-treatment-in-delhi">Q-Switch Laser <i class="bi bi-chevron-right"></i></a></li>
                 <li><a href="best-chemical-peel-treatment-in-delhi">Chemical Peels <i class="bi bi-chevron-right"></i></a></li>
