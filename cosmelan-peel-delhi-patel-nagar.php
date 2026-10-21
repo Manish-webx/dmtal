@@ -356,17 +356,22 @@
                   skin, and what the process actually involves, because this is not a treatment that suits every skin
                   type or every kind of pigmentation.
                 </p>
-                <p>
-                  At DermaTales in Patel Nagar, Delhi, Cosmelan is approached as a medically supervised procedure rather
-                  than a quick fix, with an assessment of your skin, your pigmentation pattern and your history before
-                  any treatment plan is suggested.
-                </p>
+
               </div>
               <div class="col-md-5">
                 <div class="service-thumb-wrap">
                   <img src="images/Cosmelan-Peel-Delhi.webp" alt="Cosmelan Peel in Delhi – DermaTales Clinic"
                     class="img-fluid rounded-4">
                 </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <p>
+                  At DermaTales in Patel Nagar, Delhi, Cosmelan is approached as a medically supervised procedure rather
+                  than a quick fix, with an assessment of your skin, your pigmentation pattern and your history before
+                  any treatment plan is suggested.
+                </p>
               </div>
             </div>
           </div>
@@ -446,7 +451,8 @@
                     </div>
                     <div class="flex-grow-1">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
-                        <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">Melasma</h3>
+                        <h3 class="h6 fw-bold text-charcoal mb-0"
+                          style="font-family: var(--dt-font-display); font-size: 1.1rem;">Melasma</h3>
                         <span class="badge rounded-pill px-3 py-1 fw-semibold text-uppercase"
                           style="background: rgba(197, 160, 89, 0.12); color: #8a6828; font-size: 0.72rem; letter-spacing: 0.5px; border: 1px solid rgba(197, 160, 89, 0.25);">
                           Hormonal &amp; Deep
@@ -469,7 +475,9 @@
                     </div>
                     <div class="flex-grow-1">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
-                        <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">Hyperpigmentation from Sun Exposure</h3>
+                        <h3 class="h6 fw-bold text-charcoal mb-0"
+                          style="font-family: var(--dt-font-display); font-size: 1.1rem;">Hyperpigmentation from Sun
+                          Exposure</h3>
                         <span class="badge rounded-pill px-3 py-1 fw-semibold text-uppercase"
                           style="background: rgba(197, 160, 89, 0.12); color: #8a6828; font-size: 0.72rem; letter-spacing: 0.5px; border: 1px solid rgba(197, 160, 89, 0.25);">
                           UV &amp; Photo-Damage
@@ -492,7 +500,9 @@
                     </div>
                     <div class="flex-grow-1">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
-                        <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">Post-Inflammatory Hyperpigmentation</h3>
+                        <h3 class="h6 fw-bold text-charcoal mb-0"
+                          style="font-family: var(--dt-font-display); font-size: 1.1rem;">Post-Inflammatory
+                          Hyperpigmentation</h3>
                         <span class="badge rounded-pill px-3 py-1 fw-semibold text-uppercase"
                           style="background: rgba(197, 160, 89, 0.12); color: #8a6828; font-size: 0.72rem; letter-spacing: 0.5px; border: 1px solid rgba(197, 160, 89, 0.25);">
                           Post-Acne &amp; Marks
@@ -515,7 +525,9 @@
                     </div>
                     <div class="flex-grow-1">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
-                        <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">Dullness and Uneven Skin Tone</h3>
+                        <h3 class="h6 fw-bold text-charcoal mb-0"
+                          style="font-family: var(--dt-font-display); font-size: 1.1rem;">Dullness and Uneven Skin Tone
+                        </h3>
                         <span class="badge rounded-pill px-3 py-1 fw-semibold text-uppercase"
                           style="background: rgba(197, 160, 89, 0.12); color: #8a6828; font-size: 0.72rem; letter-spacing: 0.5px; border: 1px solid rgba(197, 160, 89, 0.25);">
                           Tone &amp; Radiance
@@ -538,7 +550,10 @@
               <div>
                 <h4 class="h6 fw-bold text-charcoal mb-1">Clinical Insight</h4>
                 <p class="small text-muted mb-0" style="line-height: 1.75;">
-                  It is important to note that not all pigmentation responds the same way. Deep dermal pigmentation, certain scars, and some forms of stubborn melasma may respond partially or may need to be combined with other treatments. This is why a proper skin assessment matters more than the treatment name itself.
+                  It is important to note that not all pigmentation responds the same way. Deep dermal pigmentation,
+                  certain scars, and some forms of stubborn melasma may respond partially or may need to be combined
+                  with other treatments. This is why a proper skin assessment matters more than the treatment name
+                  itself.
                 </p>
               </div>
             </div>
@@ -546,9 +561,9 @@
             <!-- Embedded Image Section -->
             <div class="my-4 text-center">
               <div class="concern-img-frame shadow-sm">
-                <img src="images/cosmelan-pigmentation-concerns.webp"
+                <img src="images/What-Concerns-Can-Cosmelan-Peel.png"
                   alt="Understanding and Treating Facial Melasma and Hyperpigmentation with Cosmelan Peel"
-                  class="img-fluid w-100" style="object-fit: cover; max-height: 480px;">
+                  class="img-fluid w-100">
               </div>
             </div>
           </div>
@@ -859,7 +874,8 @@
                     <div class="flex-grow-1 w-100">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-2">
                         <div class="d-flex flex-wrap align-items-center gap-2">
-                          <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.15rem;">
+                          <h3 class="h6 fw-bold text-charcoal mb-0"
+                            style="font-family: var(--dt-font-display); font-size: 1.15rem;">
                             Cosmelan Peel vs Chemical Peels
                           </h3>
                           <span class="badge rounded-pill fw-semibold text-uppercase"
@@ -873,11 +889,15 @@
                         </div>
                       </div>
                       <p class="small text-muted mb-2" style="line-height: 1.75;">
-                        Standard chemical peels (such as TCA or Jessner's peels) primarily exfoliate and can help with general uneven tone, but Cosmelan is specifically formulated around tyrosinase inhibition, which makes it more targeted for melasma. Which is more appropriate depends on the type and depth of pigmentation.
+                        Standard chemical peels (such as TCA or Jessner's peels) primarily exfoliate and can help with
+                        general uneven tone, but Cosmelan is specifically formulated around tyrosinase inhibition, which
+                        makes it more targeted for melasma. Which is more appropriate depends on the type and depth of
+                        pigmentation.
                       </p>
                       <div class="p-2 px-3 rounded-2 small fw-medium"
                         style="background: rgba(197, 160, 89, 0.08); border-left: 3px solid var(--dt-champagne, #c5a059); color: var(--dt-charcoal);">
-                        <i class="bi bi-check2-circle text-gold me-1"></i> <strong>Key Takeaway:</strong> Best for surface renewal; Cosmelan targets melasma at cellular root.
+                        <i class="bi bi-check2-circle text-gold me-1"></i> <strong>Key Takeaway:</strong> Best for
+                        surface renewal; Cosmelan targets melasma at cellular root.
                       </div>
                     </div>
                   </div>
@@ -894,7 +914,8 @@
                     <div class="flex-grow-1 w-100">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-2">
                         <div class="d-flex flex-wrap align-items-center gap-2">
-                          <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.15rem;">
+                          <h3 class="h6 fw-bold text-charcoal mb-0"
+                            style="font-family: var(--dt-font-display); font-size: 1.15rem;">
                             Cosmelan Peel vs Laser Treatments
                           </h3>
                           <span class="badge rounded-pill fw-semibold text-uppercase"
@@ -908,11 +929,16 @@
                         </div>
                       </div>
                       <p class="small text-muted mb-2" style="line-height: 1.75;">
-                        Laser treatments, including certain IPL and pigment-targeting lasers, can be effective for some forms of pigmentation but carry a risk of worsening melasma in some patients if not carefully selected, since heat-based treatments can sometimes trigger more pigment production. Cosmelan is often considered a lower-heat, topical-mechanism alternative, though the right choice depends on individual assessment.
+                        Laser treatments, including certain IPL and pigment-targeting lasers, can be effective for some
+                        forms of pigmentation but carry a risk of worsening melasma in some patients if not carefully
+                        selected, since heat-based treatments can sometimes trigger more pigment production. Cosmelan is
+                        often considered a lower-heat, topical-mechanism alternative, though the right choice depends on
+                        individual assessment.
                       </p>
                       <div class="p-2 px-3 rounded-2 small fw-medium"
                         style="background: rgba(197, 160, 89, 0.08); border-left: 3px solid var(--dt-champagne, #c5a059); color: var(--dt-charcoal);">
-                        <i class="bi bi-shield-check text-gold me-1"></i> <strong>Key Takeaway:</strong> Cosmelan eliminates thermal flare-up risk on Indian skin tones.
+                        <i class="bi bi-shield-check text-gold me-1"></i> <strong>Key Takeaway:</strong> Cosmelan
+                        eliminates thermal flare-up risk on Indian skin tones.
                       </div>
                     </div>
                   </div>
@@ -929,7 +955,8 @@
                     <div class="flex-grow-1 w-100">
                       <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-2">
                         <div class="d-flex flex-wrap align-items-center gap-2">
-                          <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.15rem;">
+                          <h3 class="h6 fw-bold text-charcoal mb-0"
+                            style="font-family: var(--dt-font-display); font-size: 1.15rem;">
                             Cosmelan Peel vs Topical Treatments
                           </h3>
                           <span class="badge rounded-pill fw-semibold text-uppercase"
@@ -943,11 +970,15 @@
                         </div>
                       </div>
                       <p class="small text-muted mb-2" style="line-height: 1.75;">
-                        Topical depigmenting creams work more slowly and are typically used either as a first step before considering a peel, or alongside a peel as part of maintenance. Cosmelan is generally considered a more intensive, clinically supervised step for pigmentation that hasn't responded adequately to topical treatment alone.
+                        Topical depigmenting creams work more slowly and are typically used either as a first step
+                        before considering a peel, or alongside a peel as part of maintenance. Cosmelan is generally
+                        considered a more intensive, clinically supervised step for pigmentation that hasn't responded
+                        adequately to topical treatment alone.
                       </p>
                       <div class="p-2 px-3 rounded-2 small fw-medium"
                         style="background: rgba(197, 160, 89, 0.08); border-left: 3px solid var(--dt-champagne, #c5a059); color: var(--dt-charcoal);">
-                        <i class="bi bi-check2-circle text-gold me-1"></i> <strong>Key Takeaway:</strong> High-potency solution when regular over-the-counter creams have plateaued.
+                        <i class="bi bi-check2-circle text-gold me-1"></i> <strong>Key Takeaway:</strong> High-potency
+                        solution when regular over-the-counter creams have plateaued.
                       </div>
                     </div>
                   </div>
@@ -964,7 +995,9 @@
               <div>
                 <h4 class="h6 fw-bold text-charcoal mb-1">Dermatologist's Note on Treatment Selection</h4>
                 <p class="small text-muted mb-0" style="line-height: 1.75;">
-                  There is no universally "best" treatment among these options. The right choice depends on your specific pigmentation type, skin sensitivity, medical history and previous treatment response, which is exactly why a consultation-first approach matters more than picking a treatment by name.
+                  There is no universally "best" treatment among these options. The right choice depends on your
+                  specific pigmentation type, skin sensitivity, medical history and previous treatment response, which
+                  is exactly why a consultation-first approach matters more than picking a treatment by name.
                 </p>
               </div>
             </div>
@@ -1363,6 +1396,8 @@
                 <li><a href="carbon-laser-facial-in-delhi">Carbon Laser Facial <i class="bi bi-chevron-right"></i></a>
                 </li>
                 <li><a href="q-switch-laser-treatment-in-delhi">Q-Switch Laser Toning <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="pico-laser-treatment-delhi-patel-nagar">Pico Laser in Patel Nagar <i
                       class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>

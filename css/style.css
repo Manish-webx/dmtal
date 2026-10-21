@@ -2247,6 +2247,33 @@ h6 {
   user-select: none;
 }
 
+.text-gold {
+  color: var(--dt-champagne-dark) !important;
+}
+
+/* --- Footer Compliance / Regulatory Disclaimers --- */
+.footer-compliance {
+  border-top: 1px solid var(--dt-border);
+  padding: 26px 0 20px;
+  font-size: 0.8125rem;
+  line-height: 1.65;
+  color: var(--dt-text-light);
+}
+
+.footer-compliance p {
+  color: var(--dt-text-light);
+  margin-bottom: 0;
+}
+
+.footer-compliance strong {
+  color: var(--dt-charcoal);
+  font-weight: 600;
+}
+
+.footer-compliance i {
+  color: var(--dt-champagne-dark);
+}
+
 /* --- Footer Bottom --- */
 .footer-bottom {
   border-top: 1px solid var(--dt-border);
