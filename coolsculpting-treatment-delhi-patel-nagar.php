@@ -530,9 +530,11 @@
           <div class="cool-hero-badge">
             <i class="bi bi-snow2"></i> Non-Surgical Body Contouring &amp; Cryolipolysis
           </div>
-          <h1 class="hero-title-lux">CoolSculpting Treatment <span class="text-charcoal-deep italic">in Delhi, Patel Nagar</span></h1>
+          <h1 class="hero-title-lux">CoolSculpting Treatment <span class="text-charcoal-deep italic">in Delhi, Patel
+              Nagar</span></h1>
           <p class="section-lead text-white-50" style="max-width: 650px;">
-            Targeted controlled cooling (cryolipolysis) for stubborn fat pockets in the belly, love handles, thighs, and double chin under MD Dermatologist Dr. Pooja Varshney.
+            Targeted controlled cooling (cryolipolysis) for stubborn fat pockets in the belly, love handles, thighs, and
+            double chin under MD Dermatologist Dr. Pooja Varshney.
           </p>
         </div>
         <?php include 'hero-stats.php'; ?>
@@ -556,27 +558,50 @@
                   <span class="quick-tag">Non-Invasive Cryolipolysis</span>
                   <span class="text-muted small">Central &amp; West Delhi</span>
                 </div>
-                <h2 class="lux-section-title" style="font-size: 1.85rem; line-height: 1.3;">CoolSculpting Treatment in Delhi for Stubborn Fat Reduction</h2>
+                <h2 class="lux-section-title" style="font-size: 1.85rem; line-height: 1.3;">CoolSculpting Treatment in
+                  Delhi for Stubborn Fat Reduction</h2>
                 <p>
-                  Struggling with stubborn belly fat, love handles, thigh fat or a double chin despite maintaining a healthy lifestyle? CoolSculpting Treatment in Delhi is a non-surgical body-contouring option that uses controlled cooling, known as cryolipolysis, to target selected pockets of fat without surgical incisions.
+                  Struggling with stubborn belly fat, love handles, thigh fat or a double chin despite maintaining a
+                  healthy lifestyle? CoolSculpting Treatment in Delhi is a non-surgical body-contouring option that uses
+                  controlled cooling, known as cryolipolysis, to target selected pockets of fat without surgical
+                  incisions.
                 </p>
                 <p>
-                  At <strong>Dermatales, East Patel Nagar, Delhi</strong>, <a href="https://www.dermatales.com/dr-pooja-varshney" class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">Dr. Pooja Varshney</a>, an MBBS, MD (Dermatology) specialist practising since 2015, brings expertise in dermatology and aesthetic treatments. She can help patients understand their body-contouring concerns and explore suitable treatment options through an individual assessment.
+                  At <strong>Dermatales, East Patel Nagar, Delhi</strong>, <a
+                    href="https://www.dermatales.com/dr-pooja-varshney"
+                    class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">Dr. Pooja
+                    Varshney</a>, an MBBS, MD (Dermatology) specialist practising since 2015, brings expertise in
+                  dermatology and aesthetic treatments. She can help patients understand their body-contouring concerns
+                  and explore suitable treatment options through an individual assessment.
                 </p>
-                <p class="mb-0">
-                  Whether you are concerned about lower-abdominal fat, love handles, thigh fullness or a double chin, the right approach depends on the cause of the concern, your medical history and your treatment goals. A personalised consultation can help determine whether fat freezing is appropriate, what results may realistically be expected, how many sessions might be required and what risks or alternatives should be considered. Cryolipolysis is intended for localised fat reduction, not significant weight loss or obesity treatment.
-                </p>
+
               </div>
               <div class="col-md-5">
                 <div class="service-image-box">
-                  <img src="images/CoolSculpting-Treatment.webp" alt="CoolSculpting Fat Freezing Treatment in Delhi – DermaTales Patel Nagar" class="img-fluid">
+                  <img src="images/CoolSculpting-Treatment.webp"
+                    alt="CoolSculpting Fat Freezing Treatment in Delhi – DermaTales Patel Nagar" class="img-fluid">
                   <div class="service-image-overlay d-flex align-items-center justify-content-between">
                     <div>
                       <div class="fw-bold small text-white">Dr. Pooja Varshney</div>
                       <div class="text-white-50" style="font-size: 0.75rem;">MD (Dermatology) • 10+ Yrs Exp</div>
                     </div>
-                    <span class="badge bg-gold text-dark rounded-pill px-3 py-1" style="font-size: 0.72rem;">East Patel Nagar</span>
+                    <span class="badge bg-gold text-dark rounded-pill px-3 py-1" style="font-size: 0.72rem;">East Patel
+                      Nagar</span>
                   </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <div>
+                  <p class="mb-0">
+                    Whether you are concerned about lower-abdominal fat, love handles, thigh fullness or a double chin,
+                    the right approach depends on the cause of the concern, your medical history and your treatment
+                    goals. A personalised consultation can help determine whether fat freezing is appropriate, what
+                    results may realistically be expected, how many sessions might be required and what risks or
+                    alternatives should be considered. Cryolipolysis is intended for localised fat reduction, not
+                    significant weight loss or obesity treatment.
+                  </p>
                 </div>
               </div>
             </div>
@@ -586,11 +611,23 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">What Is CoolSculpting Treatment?</h2>
             <p>
-              CoolSculpting is a branded form of cryolipolysis that uses controlled cooling to target selected pockets of fat beneath the skin. The body gradually processes the affected fat cells over the following weeks and months.
+              CoolSculpting is a branded form of cryolipolysis that uses controlled cooling to target selected pockets
+              of fat beneath the skin. The body gradually processes the affected fat cells over the following weeks and
+              months.
             </p>
             <p>
-              Unlike liposuction, this non-surgical procedure does not involve incisions. However, results vary, and treatment is not risk-free. Since other fat-freezing devices may differ in technology and treatment protocols, always confirm which device is being used and whether it is suitable for your needs.
+              Unlike liposuction, this non-surgical procedure does not involve incisions. However, results vary, and
+              treatment is not risk-free. Since other fat-freezing devices may differ in technology and treatment
+              protocols, always confirm which device is being used and whether it is suitable for your needs.
             </p>
+
+            <div class="my-4 text-center">
+              <div class="concern-img-frame shadow-sm">
+                <img src="images/What-Is-CoolSculpting-Treatment.webp"
+                  alt="Understanding and Treating Facial Melasma and Hyperpigmentation with Cosmelan Peel"
+                  class="img-fluid w-100">
+              </div>
+            </div>
 
             <!-- Important Clinical Note -->
             <div class="clinical-callout-lux my-4">
@@ -599,9 +636,12 @@
                   <i class="bi bi-info-circle-fill"></i>
                 </div>
                 <div>
-                  <h4 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Important Clinical Note</h4>
+                  <h4 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Important
+                    Clinical Note</h4>
                   <p class="mb-0 text-muted small" style="line-height: 1.7;">
-                    CoolSculpting is a non-surgical body-contouring procedure designed to target selected pockets of localised fat. It is not a weight-loss solution or a treatment for obesity and does not replace a healthy lifestyle or medically supervised weight management.
+                    CoolSculpting is a non-surgical body-contouring procedure designed to target selected pockets of
+                    localised fat. It is not a weight-loss solution or a treatment for obesity and does not replace a
+                    healthy lifestyle or medically supervised weight management.
                   </p>
                 </div>
               </div>
@@ -612,13 +652,21 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Is Fat Freezing Different from Weight Loss?</h2>
             <p>
-              Weight loss generally involves a reduction in overall body mass, whereas cryolipolysis is intended to reduce selected pockets of subcutaneous fat. It does not treat visceral fat surrounding internal organs and should not be used as a replacement for appropriate obesity management.
+              Weight loss generally involves a reduction in overall body mass, whereas cryolipolysis is intended to
+              reduce selected pockets of subcutaneous fat. It does not treat visceral fat surrounding internal organs
+              and should not be used as a replacement for appropriate obesity management.
             </p>
             <p>
-              For example, someone who is close to their preferred weight but has a small, pinchable fat deposit around the abdomen may be considered for body contouring after assessment. Someone seeking substantial weight loss may benefit more from a structured nutrition, physical activity and <a href="https://www.dermatales.com/weight-loss-clinic-in-gurgaon" class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">medical weight-management plan</a>.
+              For example, someone who is close to their preferred weight but has a small, pinchable fat deposit around
+              the abdomen may be considered for body contouring after assessment. Someone seeking substantial weight
+              loss may benefit more from a structured nutrition, physical activity and <a
+                href="https://www.dermatales.com/weight-loss-clinic-in-gurgaon"
+                class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">medical
+                weight-management plan</a>.
             </p>
             <p>
-              The distinction matters because the right treatment depends on the cause of the concern, not just the appearance of a bulge.
+              The distinction matters because the right treatment depends on the cause of the concern, not just the
+              appearance of a bulge.
             </p>
 
             <!-- 2 Comparison Cards: Fat Freezing vs Weight Loss -->
@@ -632,10 +680,14 @@
                     <h3 class="h6 fw-bold text-charcoal mb-0">Cryolipolysis (Body Contouring)</h3>
                   </div>
                   <ul class="list-unstyled small text-muted mb-0 d-flex flex-column gap-2" style="line-height: 1.65;">
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Targets:</strong> Selected pockets of pinchable subcutaneous fat</li>
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Mechanism:</strong> Cellular destruction via controlled cooling (apoptosis)</li>
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Outcome:</strong> Localised contour shaping &amp; circumference reduction</li>
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Ideal for:</strong> Individuals at stable weight with isolated stubborn deposits</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Targets:</strong> Selected pockets of
+                      pinchable subcutaneous fat</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Mechanism:</strong> Cellular destruction via
+                      controlled cooling (apoptosis)</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Outcome:</strong> Localised contour shaping
+                      &amp; circumference reduction</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Ideal for:</strong> Individuals at stable
+                      weight with isolated stubborn deposits</li>
                   </ul>
                 </div>
               </div>
@@ -648,10 +700,14 @@
                     <h3 class="h6 fw-bold text-charcoal mb-0">Weight Loss Management</h3>
                   </div>
                   <ul class="list-unstyled small text-muted mb-0 d-flex flex-column gap-2" style="line-height: 1.65;">
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Targets:</strong> Overall body mass, visceral fat, and systemic adipose stores</li>
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Mechanism:</strong> Caloric deficit, metabolic therapy, nutrition, medical guidance</li>
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Outcome:</strong> Systemic weight reduction and cardiovascular health gains</li>
-                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Ideal for:</strong> Individuals needing significant total-body weight reduction</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Targets:</strong> Overall body mass, visceral
+                      fat, and systemic adipose stores</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Mechanism:</strong> Caloric deficit,
+                      metabolic therapy, nutrition, medical guidance</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Outcome:</strong> Systemic weight reduction
+                      and cardiovascular health gains</li>
+                    <li><i class="bi bi-check2 text-gold me-2"></i><strong>Ideal for:</strong> Individuals needing
+                      significant total-body weight reduction</li>
                   </ul>
                 </div>
               </div>
@@ -662,7 +718,9 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Which Areas Can Be Considered for Fat Freezing?</h2>
             <p>
-              Cryolipolysis may be considered for selected areas where localised subcutaneous fat can be safely positioned within a suitable applicator. Eligibility depends on anatomy, skin condition, the device's approved or intended treatment areas and the clinician's assessment.
+              Cryolipolysis may be considered for selected areas where localised subcutaneous fat can be safely
+              positioned within a suitable applicator. Eligibility depends on anatomy, skin condition, the device's
+              approved or intended treatment areas and the clinician's assessment.
             </p>
 
             <div class="row g-4 mt-1">
@@ -671,15 +729,21 @@
               <div class="col-md-6">
                 <div class="lux-card lux-card-gold-left">
                   <div class="d-flex align-items-center gap-2 mb-2">
-                    <div class="feature-icon-circle flex-shrink-0" style="width: 42px; height: 42px; font-size: 1.15rem;">
+                    <div class="feature-icon-circle flex-shrink-0"
+                      style="width: 42px; height: 42px; font-size: 1.15rem;">
                       <i class="bi bi-gender-ambiguous"></i>
                     </div>
-                    <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">
+                    <h3 class="h6 fw-bold text-charcoal mb-0"
+                      style="font-family: var(--dt-font-display); font-size: 1.1rem;">
                       1. Lower and Upper Abdomen
                     </h3>
                   </div>
                   <p class="text-muted small mb-0" style="line-height: 1.75;">
-                    Abdominal fat can be frustrating when a small bulge persists despite lifestyle changes. A clinician needs to determine whether the fullness comes from pinchable subcutaneous fat, visceral fat, loose skin, abdominal muscle separation, bloating or another cause. Fat freezing may be considered for selected superficial fat deposits. It will not tighten substantial loose skin, repair separated abdominal muscles or reduce internal abdominal fat.
+                    Abdominal fat can be frustrating when a small bulge persists despite lifestyle changes. A clinician
+                    needs to determine whether the fullness comes from pinchable subcutaneous fat, visceral fat, loose
+                    skin, abdominal muscle separation, bloating or another cause. Fat freezing may be considered for
+                    selected superficial fat deposits. It will not tighten substantial loose skin, repair separated
+                    abdominal muscles or reduce internal abdominal fat.
                   </p>
                 </div>
               </div>
@@ -688,15 +752,20 @@
               <div class="col-md-6">
                 <div class="lux-card lux-card-gold-left">
                   <div class="d-flex align-items-center gap-2 mb-2">
-                    <div class="feature-icon-circle flex-shrink-0" style="width: 42px; height: 42px; font-size: 1.15rem;">
+                    <div class="feature-icon-circle flex-shrink-0"
+                      style="width: 42px; height: 42px; font-size: 1.15rem;">
                       <i class="bi bi-arrows-expand"></i>
                     </div>
-                    <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">
+                    <h3 class="h6 fw-bold text-charcoal mb-0"
+                      style="font-family: var(--dt-font-display); font-size: 1.1rem;">
                       2. Love Handles and Flanks
                     </h3>
                   </div>
                   <p class="text-muted small mb-0" style="line-height: 1.75;">
-                    Fat around the sides of the waist can affect how trousers fit and how the waistline appears. Treatment planning should consider both sides of the body, the thickness of the fat layer, natural asymmetry and the overall contour. The goal should be a realistic improvement in localised contour rather than a guaranteed reduction in waist size.
+                    Fat around the sides of the waist can affect how trousers fit and how the waistline appears.
+                    Treatment planning should consider both sides of the body, the thickness of the fat layer, natural
+                    asymmetry and the overall contour. The goal should be a realistic improvement in localised contour
+                    rather than a guaranteed reduction in waist size.
                   </p>
                 </div>
               </div>
@@ -705,15 +774,20 @@
               <div class="col-md-6">
                 <div class="lux-card lux-card-gold-left">
                   <div class="d-flex align-items-center gap-2 mb-2">
-                    <div class="feature-icon-circle flex-shrink-0" style="width: 42px; height: 42px; font-size: 1.15rem;">
+                    <div class="feature-icon-circle flex-shrink-0"
+                      style="width: 42px; height: 42px; font-size: 1.15rem;">
                       <i class="bi bi-pie-chart"></i>
                     </div>
-                    <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">
+                    <h3 class="h6 fw-bold text-charcoal mb-0"
+                      style="font-family: var(--dt-font-display); font-size: 1.1rem;">
                       3. Thighs (Inner &amp; Outer)
                     </h3>
                   </div>
                   <p class="text-muted small mb-0" style="line-height: 1.75;">
-                    Inner and outer thigh fullness may have several causes, including fat distribution, skin laxity and the natural shape of the pelvis and legs. Cryolipolysis may be an option for selected fat deposits if an appropriate applicator and treatment protocol are available. It is not a treatment for cellulite itself, and it cannot guarantee a particular thigh gap or leg shape.
+                    Inner and outer thigh fullness may have several causes, including fat distribution, skin laxity and
+                    the natural shape of the pelvis and legs. Cryolipolysis may be an option for selected fat deposits
+                    if an appropriate applicator and treatment protocol are available. It is not a treatment for
+                    cellulite itself, and it cannot guarantee a particular thigh gap or leg shape.
                   </p>
                 </div>
               </div>
@@ -722,15 +796,20 @@
               <div class="col-md-6">
                 <div class="lux-card lux-card-gold-left">
                   <div class="d-flex align-items-center gap-2 mb-2">
-                    <div class="feature-icon-circle flex-shrink-0" style="width: 42px; height: 42px; font-size: 1.15rem;">
+                    <div class="feature-icon-circle flex-shrink-0"
+                      style="width: 42px; height: 42px; font-size: 1.15rem;">
                       <i class="bi bi-bandaid"></i>
                     </div>
-                    <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">
+                    <h3 class="h6 fw-bold text-charcoal mb-0"
+                      style="font-family: var(--dt-font-display); font-size: 1.1rem;">
                       4. Upper Arms
                     </h3>
                   </div>
                   <p class="text-muted small mb-0" style="line-height: 1.75;">
-                    Some people explore non-surgical fat reduction for fullness around the upper arms. The assessment should distinguish excess fat from loose skin and consider whether cooling can address the concern adequately. Where skin laxity is the primary issue, fat reduction alone may not produce the desired appearance and could make laxity more noticeable.
+                    Some people explore non-surgical fat reduction for fullness around the upper arms. The assessment
+                    should distinguish excess fat from loose skin and consider whether cooling can address the concern
+                    adequately. Where skin laxity is the primary issue, fat reduction alone may not produce the desired
+                    appearance and could make laxity more noticeable.
                   </p>
                 </div>
               </div>
@@ -739,15 +818,19 @@
               <div class="col-md-6">
                 <div class="lux-card lux-card-gold-left">
                   <div class="d-flex align-items-center gap-2 mb-2">
-                    <div class="feature-icon-circle flex-shrink-0" style="width: 42px; height: 42px; font-size: 1.15rem;">
+                    <div class="feature-icon-circle flex-shrink-0"
+                      style="width: 42px; height: 42px; font-size: 1.15rem;">
                       <i class="bi bi-shield-shaded"></i>
                     </div>
-                    <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">
+                    <h3 class="h6 fw-bold text-charcoal mb-0"
+                      style="font-family: var(--dt-font-display); font-size: 1.1rem;">
                       5. Back and Bra-Line Fat
                     </h3>
                   </div>
                   <p class="text-muted small mb-0" style="line-height: 1.75;">
-                    Localised fat around the back or bra line may sometimes be considered for body contouring. Applicator fit, the thickness and distribution of the tissue, and nearby anatomical structures need to be evaluated before treatment to ensure a smooth, balanced taper.
+                    Localised fat around the back or bra line may sometimes be considered for body contouring.
+                    Applicator fit, the thickness and distribution of the tissue, and nearby anatomical structures need
+                    to be evaluated before treatment to ensure a smooth, balanced taper.
                   </p>
                 </div>
               </div>
@@ -756,15 +839,20 @@
               <div class="col-md-6">
                 <div class="lux-card lux-card-gold-left">
                   <div class="d-flex align-items-center gap-2 mb-2">
-                    <div class="feature-icon-circle flex-shrink-0" style="width: 42px; height: 42px; font-size: 1.15rem;">
+                    <div class="feature-icon-circle flex-shrink-0"
+                      style="width: 42px; height: 42px; font-size: 1.15rem;">
                       <i class="bi bi-person-bounding-box"></i>
                     </div>
-                    <h3 class="h6 fw-bold text-charcoal mb-0" style="font-family: var(--dt-font-display); font-size: 1.1rem;">
+                    <h3 class="h6 fw-bold text-charcoal mb-0"
+                      style="font-family: var(--dt-font-display); font-size: 1.1rem;">
                       6. Double Chin (Submental Fat)
                     </h3>
                   </div>
                   <p class="text-muted small mb-0" style="line-height: 1.75;">
-                    Fullness beneath the chin may be related to fat, skin laxity, jaw anatomy or the position of the chin. Not every double chin is caused by excess fat. A clinician should assess the underlying cause before discussing fat freezing or alternative approaches. Treatment near the jawline also requires attention to the relevant anatomical and device-specific safety precautions.
+                    Fullness beneath the chin may be related to fat, skin laxity, jaw anatomy or the position of the
+                    chin. Not every double chin is caused by excess fat. A clinician should assess the underlying cause
+                    before discussing fat freezing or alternative approaches. Treatment near the jawline also requires
+                    attention to the relevant anatomical and device-specific safety precautions.
                   </p>
                 </div>
               </div>
@@ -776,7 +864,8 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Does Non-Invasive Fat Freezing Work?</h2>
             <p>
-              Cryolipolysis uses controlled cooling to target selected fat tissue while limiting exposure of surrounding structures. The exact protocol depends on the device and treatment area.
+              Cryolipolysis uses controlled cooling to target selected fat tissue while limiting exposure of surrounding
+              structures. The exact protocol depends on the device and treatment area.
             </p>
 
             <div class="timeline-journey mt-4">
@@ -784,45 +873,57 @@
               <!-- Step 1 -->
               <div class="timeline-journey-step">
                 <div class="timeline-step-badge">1</div>
-                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 1: Assessment and Treatment Planning</h3>
+                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 1:
+                  Assessment and Treatment Planning</h3>
                 <p class="small text-muted mb-0" style="line-height: 1.7;">
-                  The clinician examines the target area, reviews your medical history and discusses the outcome you hope to achieve. The assessment also considers whether the fullness is caused by fat or another factor.
+                  The clinician examines the target area, reviews your medical history and discusses the outcome you
+                  hope to achieve. The assessment also considers whether the fullness is caused by fat or another
+                  factor.
                 </p>
               </div>
 
               <!-- Step 2 -->
               <div class="timeline-journey-step">
                 <div class="timeline-step-badge">2</div>
-                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 2: Applicator Placement</h3>
+                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 2:
+                  Applicator Placement</h3>
                 <p class="small text-muted mb-0" style="line-height: 1.7;">
-                  If treatment is appropriate, a suitable applicator is positioned over the selected area according to the device's instructions. Some systems use suction to draw tissue into the applicator, while other applicators may use a different design.
+                  If treatment is appropriate, a suitable applicator is positioned over the selected area according to
+                  the device's instructions. Some systems use suction to draw tissue into the applicator, while other
+                  applicators may use a different design.
                 </p>
               </div>
 
               <!-- Step 3 -->
               <div class="timeline-journey-step">
                 <div class="timeline-step-badge">3</div>
-                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 3: Controlled Cooling</h3>
+                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 3:
+                  Controlled Cooling</h3>
                 <p class="small text-muted mb-0" style="line-height: 1.7;">
-                  The applicator delivers controlled cooling for a specified period. Sensations may include cold, pulling, pressure, tingling or discomfort, particularly at the beginning of treatment.
+                  The applicator delivers controlled cooling for a specified period. Sensations may include cold,
+                  pulling, pressure, tingling or discomfort, particularly at the beginning of treatment.
                 </p>
               </div>
 
               <!-- Step 4 -->
               <div class="timeline-journey-step">
                 <div class="timeline-step-badge">4</div>
-                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 4: Completion and Post-Treatment Assessment</h3>
+                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 4:
+                  Completion and Post-Treatment Assessment</h3>
                 <p class="small text-muted mb-0" style="line-height: 1.7;">
-                  The applicator is removed after the prescribed cycle. Depending on the device protocol, the treated area may receive a brief massage or other specified aftercare.
+                  The applicator is removed after the prescribed cycle. Depending on the device protocol, the treated
+                  area may receive a brief massage or other specified aftercare.
                 </p>
               </div>
 
               <!-- Step 5 -->
               <div class="timeline-journey-step">
                 <div class="timeline-step-badge">5</div>
-                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 5: Gradual Change Over Time</h3>
+                <h3 class="h6 fw-bold text-charcoal mb-1" style="font-family: var(--dt-font-display);">Step 5: Gradual
+                  Change Over Time</h3>
                 <p class="small text-muted mb-0" style="line-height: 1.7;">
-                  The body processes the affected fat cells over subsequent weeks and months. Results are not immediate, and the extent of change differs between individuals.
+                  The body processes the affected fat cells over subsequent weeks and months. Results are not immediate,
+                  and the extent of change differs between individuals.
                 </p>
               </div>
 
@@ -833,14 +934,16 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Who Is a Suitable Candidate for Cryolipolysis?</h2>
             <p>
-              Cryolipolysis is generally considered for selected adults with localised, pinchable subcutaneous fat who want a modest contour improvement rather than substantial weight loss.
+              Cryolipolysis is generally considered for selected adults with localised, pinchable subcutaneous fat who
+              want a modest contour improvement rather than substantial weight loss.
             </p>
 
             <p class="fw-semibold text-charcoal mb-3">You may be considered for treatment if:</p>
             <div class="checklist-grid mb-4">
               <div class="checklist-item">
                 <i class="bi bi-check-circle-fill checklist-icon"></i>
-                <div class="small text-muted">You have a clearly defined pocket of subcutaneous fat in an appropriate treatment area.</div>
+                <div class="small text-muted">You have a clearly defined pocket of subcutaneous fat in an appropriate
+                  treatment area.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-check-circle-fill checklist-icon"></i>
@@ -852,7 +955,8 @@
               </div>
               <div class="checklist-item">
                 <i class="bi bi-check-circle-fill checklist-icon"></i>
-                <div class="small text-muted">You have realistic expectations about the amount of contour change possible.</div>
+                <div class="small text-muted">You have realistic expectations about the amount of contour change
+                  possible.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-check-circle-fill checklist-icon"></i>
@@ -860,12 +964,14 @@
               </div>
               <div class="checklist-item">
                 <i class="bi bi-check-circle-fill checklist-icon"></i>
-                <div class="small text-muted">You are willing to consider alternatives if fat freezing is unlikely to address the concern.</div>
+                <div class="small text-muted">You are willing to consider alternatives if fat freezing is unlikely to
+                  address the concern.</div>
               </div>
             </div>
 
             <p class="text-muted small fst-italic">
-              Suitability cannot be confirmed through an online enquiry or photograph alone. A clinical assessment is needed before deciding whether to proceed.
+              Suitability cannot be confirmed through an online enquiry or photograph alone. A clinical assessment is
+              needed before deciding whether to proceed.
             </p>
           </div>
 
@@ -873,23 +979,34 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Who Should Avoid Fat Freezing or Seek Specific Medical Advice?</h2>
             <p>
-              Cryolipolysis is not appropriate for everyone. Certain cold-related disorders, such as cryoglobulinaemia, cold agglutinin disease and paroxysmal cold haemoglobinuria, may make treatment unsuitable. The clinician must review the device-specific contraindications before proceeding.
+              Cryolipolysis is not appropriate for everyone. Certain cold-related disorders, such as cryoglobulinaemia,
+              cold agglutinin disease and paroxysmal cold haemoglobinuria, may make treatment unsuitable. The clinician
+              must review the device-specific contraindications before proceeding.
             </p>
 
             <div class="alert-callout-warning mb-4">
-              <h3 class="h6 fw-bold text-dark mb-2"><i class="bi bi-exclamation-triangle-fill text-warning me-2"></i> Additional assessment or an alternative approach may be necessary if you have:</h3>
+              <h3 class="h6 fw-bold text-dark mb-2"><i class="bi bi-exclamation-triangle-fill text-warning me-2"></i>
+                Additional assessment or an alternative approach may be necessary if you have:</h3>
               <ul class="mb-0 small text-muted d-flex flex-column gap-2" style="line-height: 1.65;">
-                <li><i class="bi bi-dash-circle text-warning me-2"></i>A hernia, weakness of the abdominal wall or a relevant surgical scar near the proposed treatment site.</li>
-                <li><i class="bi bi-dash-circle text-warning me-2"></i>Significant skin laxity or a concern mainly caused by muscle separation.</li>
-                <li><i class="bi bi-dash-circle text-warning me-2"></i>Reduced sensation or another condition that could affect the ability to recognise or report an adverse effect.</li>
-                <li><i class="bi bi-dash-circle text-warning me-2"></i>An active skin problem or an unexplained lump in the proposed treatment area.</li>
-                <li><i class="bi bi-dash-circle text-warning me-2"></i>A medical condition or medication history that may affect the procedure's safety.</li>
-                <li><i class="bi bi-dash-circle text-warning me-2"></i>Expectations of substantial weight loss or a dramatic change from a single session.</li>
+                <li><i class="bi bi-dash-circle text-warning me-2"></i>A hernia, weakness of the abdominal wall or a
+                  relevant surgical scar near the proposed treatment site.</li>
+                <li><i class="bi bi-dash-circle text-warning me-2"></i>Significant skin laxity or a concern mainly
+                  caused by muscle separation.</li>
+                <li><i class="bi bi-dash-circle text-warning me-2"></i>Reduced sensation or another condition that could
+                  affect the ability to recognise or report an adverse effect.</li>
+                <li><i class="bi bi-dash-circle text-warning me-2"></i>An active skin problem or an unexplained lump in
+                  the proposed treatment area.</li>
+                <li><i class="bi bi-dash-circle text-warning me-2"></i>A medical condition or medication history that
+                  may affect the procedure's safety.</li>
+                <li><i class="bi bi-dash-circle text-warning me-2"></i>Expectations of substantial weight loss or a
+                  dramatic change from a single session.</li>
               </ul>
             </div>
 
             <p class="small text-muted">
-              Pregnancy, breastfeeding and other circumstances should be discussed with the treating clinician, who can advise whether treatment should be deferred based on the device instructions and available clinical evidence.
+              Pregnancy, breastfeeding and other circumstances should be discussed with the treating clinician, who can
+              advise whether treatment should be deferred based on the device instructions and available clinical
+              evidence.
             </p>
           </div>
 
@@ -897,53 +1014,68 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">CoolSculpting Treatment in Patel Nagar: What to Expect at Dermatales</h2>
             <p>
-              Choosing a clinic for body contouring involves more than finding a nearby address. Patients should understand who assesses their suitability, what equipment is being used, how risks are explained and what follow-up is available if a concern develops.
+              Choosing a clinic for body contouring involves more than finding a nearby address. Patients should
+              understand who assesses their suitability, what equipment is being used, how risks are explained and what
+              follow-up is available if a concern develops.
             </p>
             <p>
-              At Dermatales, East Patel Nagar, Delhi, the consultation should establish the following before a treatment decision is made:
+              At Dermatales, East Patel Nagar, Delhi, the consultation should establish the following before a treatment
+              decision is made:
             </p>
 
             <div class="row g-3 mt-1 mb-4">
               <div class="col-md-6">
                 <div class="lux-card p-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-bullseye text-gold me-2"></i>Your Primary Concern</h3>
-                  <p class="small text-muted mb-0">Whether the issue is localised fat, excess weight, loose skin, muscle separation or a combination of factors.</p>
+                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-bullseye text-gold me-2"></i>Your Primary
+                    Concern</h3>
+                  <p class="small text-muted mb-0">Whether the issue is localised fat, excess weight, loose skin, muscle
+                    separation or a combination of factors.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="lux-card p-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-journal-medical text-gold me-2"></i>Your Medical History</h3>
-                  <p class="small text-muted mb-0">Relevant conditions, previous procedures, medications and cold sensitivity.</p>
+                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-journal-medical text-gold me-2"></i>Your
+                    Medical History</h3>
+                  <p class="small text-muted mb-0">Relevant conditions, previous procedures, medications and cold
+                    sensitivity.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="lux-card p-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-sliders text-gold me-2"></i>Your Treatment Options</h3>
+                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-sliders text-gold me-2"></i>Your Treatment
+                    Options</h3>
                   <p class="small text-muted mb-0">Whether cryolipolysis or another approach is more appropriate.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="lux-card p-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-graph-up text-gold me-2"></i>Your Expected Outcome</h3>
-                  <p class="small text-muted mb-0">What improvement may realistically be possible, what may remain unchanged and when results can be assessed.</p>
+                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-graph-up text-gold me-2"></i>Your Expected
+                    Outcome</h3>
+                  <p class="small text-muted mb-0">What improvement may realistically be possible, what may remain
+                    unchanged and when results can be assessed.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="lux-card p-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-receipt text-gold me-2"></i>Your Treatment Plan &amp; Cost</h3>
-                  <p class="small text-muted mb-0">The proposed area, number of applicator cycles, likely appointments and the total estimated expense.</p>
+                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-receipt text-gold me-2"></i>Your Treatment
+                    Plan &amp; Cost</h3>
+                  <p class="small text-muted mb-0">The proposed area, number of applicator cycles, likely appointments
+                    and the total estimated expense.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="lux-card p-3">
-                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-heart-pulse text-gold me-2"></i>Your Aftercare &amp; Follow-up</h3>
-                  <p class="small text-muted mb-0">What symptoms are expected, what requires medical review and whom to contact if a concern arises.</p>
+                  <h3 class="h6 fw-bold text-charcoal mb-1"><i class="bi bi-heart-pulse text-gold me-2"></i>Your
+                    Aftercare &amp; Follow-up</h3>
+                  <p class="small text-muted mb-0">What symptoms are expected, what requires medical review and whom to
+                    contact if a concern arises.</p>
                 </div>
               </div>
             </div>
 
             <p class="text-muted small">
-              The treatment should proceed only when the clinician has established suitability, discussed the alternatives and risks, and obtained appropriate informed consent.
+              The treatment should proceed only when the clinician has established suitability, discussed the
+              alternatives and risks, and obtained appropriate informed consent.
             </p>
           </div>
 
@@ -960,7 +1092,8 @@
                 <div class="timeline-step-badge"><i class="bi bi-chat-dots"></i></div>
                 <h3 class="h6 fw-bold text-charcoal mb-1">Discuss Your Concern</h3>
                 <p class="small text-muted mb-0">
-                  Explain which area bothers you, how long you have noticed it and what you would like to improve. Mention whether the concern has changed with weight loss or weight gain.
+                  Explain which area bothers you, how long you have noticed it and what you would like to improve.
+                  Mention whether the concern has changed with weight loss or weight gain.
                 </p>
               </div>
 
@@ -968,7 +1101,9 @@
                 <div class="timeline-step-badge"><i class="bi bi-clipboard2-pulse"></i></div>
                 <h3 class="h6 fw-bold text-charcoal mb-1">Review Your Medical History</h3>
                 <p class="small text-muted mb-0">
-                  Share relevant medical conditions, previous surgery, existing hernias, sensitivity to cold, changes in sensation and medications. This information helps the clinician assess contraindications and precautions.
+                  Share relevant medical conditions, previous surgery, existing hernias, sensitivity to cold, changes in
+                  sensation and medications. This information helps the clinician assess contraindications and
+                  precautions.
                 </p>
               </div>
 
@@ -976,7 +1111,9 @@
                 <div class="timeline-step-badge"><i class="bi bi-search"></i></div>
                 <h3 class="h6 fw-bold text-charcoal mb-1">Examine the Treatment Area</h3>
                 <p class="small text-muted mb-0">
-                  The clinician evaluates the tissue, skin quality, fat distribution and whether a suitable applicator can safely treat the area. If the cause of the bulge is uncertain, further assessment or another referral may be appropriate.
+                  The clinician evaluates the tissue, skin quality, fat distribution and whether a suitable applicator
+                  can safely treat the area. If the cause of the bulge is uncertain, further assessment or another
+                  referral may be appropriate.
                 </p>
               </div>
 
@@ -984,7 +1121,9 @@
                 <div class="timeline-step-badge"><i class="bi bi-file-earmark-ruled"></i></div>
                 <h3 class="h6 fw-bold text-charcoal mb-1">Understand the Proposed Plan</h3>
                 <p class="small text-muted mb-0">
-                  Ask which device will be used, how many cycles may be needed, what the treatment is expected to achieve and what alternatives exist. You should also receive information about the potential risks and the estimated total cost.
+                  Ask which device will be used, how many cycles may be needed, what the treatment is expected to
+                  achieve and what alternatives exist. You should also receive information about the potential risks and
+                  the estimated total cost.
                 </p>
               </div>
 
@@ -992,7 +1131,8 @@
                 <div class="timeline-step-badge"><i class="bi bi-hand-thumbs-up"></i></div>
                 <h3 class="h6 fw-bold text-charcoal mb-1">Decide Without Pressure</h3>
                 <p class="small text-muted mb-0">
-                  You should have sufficient information and time to consider the options. Declining treatment or choosing a different approach is a valid decision.
+                  You should have sufficient information and time to consider the options. Declining treatment or
+                  choosing a different approach is a valid decision.
                 </p>
               </div>
 
@@ -1003,25 +1143,33 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">How Many Sessions Are Required?</h2>
             <p>
-              The number of cryolipolysis cycles or appointments depends on the treatment area, fat distribution, applicator coverage, the device's protocol and the degree of improvement considered reasonable.
+              The number of cryolipolysis cycles or appointments depends on the treatment area, fat distribution,
+              applicator coverage, the device's protocol and the degree of improvement considered reasonable.
             </p>
             <p>
-              Some people may be assessed for a single treatment cycle in a selected area. Others may need multiple applicator placements or a staged plan. A second treatment should not be assumed necessary or automatically recommended.
+              Some people may be assessed for a single treatment cycle in a selected area. Others may need multiple
+              applicator placements or a staged plan. A second treatment should not be assumed necessary or
+              automatically recommended.
             </p>
 
             <div class="clinical-callout-lux my-4">
-              <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-question-circle-fill text-gold me-2"></i>Before committing to a package, ask:</h3>
+              <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-question-circle-fill text-gold me-2"></i>Before
+                committing to a package, ask:</h3>
               <ul class="mb-0 small text-muted d-flex flex-column gap-2" style="line-height: 1.65;">
-                <li><i class="bi bi-check2 text-gold me-2"></i>Is the quote for one applicator cycle, a complete session or a treatment area?</li>
+                <li><i class="bi bi-check2 text-gold me-2"></i>Is the quote for one applicator cycle, a complete session
+                  or a treatment area?</li>
                 <li><i class="bi bi-check2 text-gold me-2"></i>Does it cover both sides of the body where relevant?</li>
                 <li><i class="bi bi-check2 text-gold me-2"></i>When will the result be reviewed?</li>
-                <li><i class="bi bi-check2 text-gold me-2"></i>How will the clinician decide whether another session is justified?</li>
-                <li><i class="bi bi-check2 text-gold me-2"></i>What is the total estimated cost if additional cycles are recommended?</li>
+                <li><i class="bi bi-check2 text-gold me-2"></i>How will the clinician decide whether another session is
+                  justified?</li>
+                <li><i class="bi bi-check2 text-gold me-2"></i>What is the total estimated cost if additional cycles are
+                  recommended?</li>
               </ul>
             </div>
 
             <p class="small text-muted">
-              A responsible plan should explain why a further session may be useful rather than promising a predetermined result.
+              A responsible plan should explain why a further session may be useful rather than promising a
+              predetermined result.
             </p>
           </div>
 
@@ -1032,13 +1180,18 @@
                 <div class="lux-card">
                   <h2 class="lux-section-title" style="font-size: 1.35rem;">When Will You See Results?</h2>
                   <p class="small text-muted" style="line-height: 1.75;">
-                    Fat freezing does not produce an immediate reduction in fat volume. Changes develop gradually as the body processes the affected tissue.
+                    Fat freezing does not produce an immediate reduction in fat volume. Changes develop gradually as the
+                    body processes the affected tissue.
                   </p>
                   <p class="small text-muted" style="line-height: 1.75;">
-                    Some individuals begin to notice a difference after several weeks, with further changes developing over the following months. The timing and extent of improvement depend on individual anatomy, the treatment protocol and other factors.
+                    Some individuals begin to notice a difference after several weeks, with further changes developing
+                    over the following months. The timing and extent of improvement depend on individual anatomy, the
+                    treatment protocol and other factors.
                   </p>
                   <p class="small text-muted mb-0" style="line-height: 1.75;">
-                    Results should be assessed at an appropriate follow-up rather than judged solely on photographs taken immediately after treatment. Temporary swelling, bruising or altered sensation can affect the early appearance of the treated area.
+                    Results should be assessed at an appropriate follow-up rather than judged solely on photographs
+                    taken immediately after treatment. Temporary swelling, bruising or altered sensation can affect the
+                    early appearance of the treated area.
                   </p>
                 </div>
               </div>
@@ -1046,13 +1199,17 @@
                 <div class="lux-card">
                   <h2 class="lux-section-title" style="font-size: 1.35rem;">Are the Results Permanent?</h2>
                   <p class="small text-muted" style="line-height: 1.75;">
-                    Cryolipolysis is intended to reduce the number of fat cells in the treated area, but this does not mean your overall body shape is permanently fixed.
+                    Cryolipolysis is intended to reduce the number of fat cells in the treated area, but this does not
+                    mean your overall body shape is permanently fixed.
                   </p>
                   <p class="small text-muted" style="line-height: 1.75;">
-                    Remaining fat cells can enlarge with weight gain, and changes in age, hormones, lifestyle and body composition can affect your appearance over time. Maintaining a stable weight and healthy lifestyle may help preserve the overall contour.
+                    Remaining fat cells can enlarge with weight gain, and changes in age, hormones, lifestyle and body
+                    composition can affect your appearance over time. Maintaining a stable weight and healthy lifestyle
+                    may help preserve the overall contour.
                   </p>
                   <p class="small text-muted mb-0" style="line-height: 1.75;">
-                    No clinic should promise that the procedure will prevent future weight gain or permanently guarantee a particular body shape.
+                    No clinic should promise that the procedure will prevent future weight gain or permanently guarantee
+                    a particular body shape.
                   </p>
                 </div>
               </div>
@@ -1063,13 +1220,15 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Side Effects and Risks of Fat Freezing</h2>
             <p>
-              Understanding the risks is essential before choosing any body-contouring procedure. The fact that cryolipolysis does not involve surgery does not mean it is risk-free.
+              Understanding the risks is essential before choosing any body-contouring procedure. The fact that
+              cryolipolysis does not involve surgery does not mean it is risk-free.
             </p>
 
             <div class="row g-4 mt-1">
               <div class="col-md-6">
                 <div class="lux-card p-4">
-                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-activity text-gold me-2"></i>Common Temporary Effects</h3>
+                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-activity text-gold me-2"></i>Common
+                    Temporary Effects</h3>
                   <p class="small text-muted mb-2">Possible effects include:</p>
                   <ul class="small text-muted mb-0 d-flex flex-column gap-1">
                     <li>Redness, swelling or bruising.</li>
@@ -1078,19 +1237,28 @@
                     <li>Temporary firmness or sensitivity in the treated area.</li>
                   </ul>
                   <p class="small text-muted mt-3 mb-0">
-                    These effects may improve over time, but their duration varies. Persistent or worsening symptoms should be assessed by a clinician.
+                    These effects may improve over time, but their duration varies. Persistent or worsening symptoms
+                    should be assessed by a clinician.
                   </p>
                 </div>
               </div>
 
               <div class="col-md-6">
                 <div class="alert-callout-danger h-100 p-4">
-                  <h3 class="h6 fw-bold text-danger mb-2"><i class="bi bi-shield-exclamation text-danger me-2"></i>Paradoxical Adipose Hyperplasia (PAH)</h3>
+                  <h3 class="h6 fw-bold text-danger mb-2"><i
+                      class="bi bi-shield-exclamation text-danger me-2"></i>Paradoxical Adipose Hyperplasia (PAH)</h3>
                   <p class="small text-muted mb-2">
-                    Cold-related skin injury, prolonged numbness, nodules and contour irregularities have been reported with non-invasive body-contouring procedures. Device-specific risks should be explained during the consultation.
+                    Cold-related skin injury, prolonged numbness, nodules and contour irregularities have been reported
+                    with non-invasive body-contouring procedures. Device-specific risks should be explained during the
+                    consultation.
                   </p>
                   <p class="small text-muted mb-0">
-                    One important complication associated with fat freezing is <strong>paradoxical adipose hyperplasia (PAH)</strong>. Instead of becoming smaller, the treated fatty tissue enlarges and may form a firm, visible bulge in the shape of the applicator. It can appear months after treatment and may require surgical management. PAH is uncommon, but it is important enough to discuss before treatment. It may not resolve on its own, and corrective surgery does not guarantee a perfect result.
+                    One important complication associated with fat freezing is <strong>paradoxical adipose hyperplasia
+                      (PAH)</strong>. Instead of becoming smaller, the treated fatty tissue enlarges and may form a
+                    firm, visible bulge in the shape of the applicator. It can appear months after treatment and may
+                    require surgical management. PAH is uncommon, but it is important enough to discuss before
+                    treatment. It may not resolve on its own, and corrective surgery does not guarantee a perfect
+                    result.
                   </p>
                 </div>
               </div>
@@ -1098,15 +1266,24 @@
 
             <!-- When to Seek Medical Attention -->
             <div class="clinical-callout-lux mt-4">
-              <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-hospital text-gold me-2"></i>When Should You Seek Medical Attention?</h3>
+              <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-hospital text-gold me-2"></i>When Should You
+                Seek Medical Attention?</h3>
               <p class="small text-muted mb-2" style="line-height: 1.7;">
-                Contact your treating clinician if you experience severe or increasing pain, persistent or worsening sensory changes, skin blistering, a burn, unusual swelling or a new hard bulge that develops in the treated area.
+                Contact your treating clinician if you experience severe or increasing pain, persistent or worsening
+                sensory changes, skin blistering, a burn, unusual swelling or a new hard bulge that develops in the
+                treated area.
               </p>
               <p class="small text-muted mb-2" style="line-height: 1.7;">
-                A delayed increase in the size of the treated area, particularly over the following months, should not automatically be interpreted as weight gain. It warrants clinical assessment to investigate possible complications, including PAH.
+                A delayed increase in the size of the treated area, particularly over the following months, should not
+                automatically be interpreted as weight gain. It warrants clinical assessment to investigate possible
+                complications, including PAH.
               </p>
               <p class="small text-muted mb-0" style="line-height: 1.7;">
-                For additional background, the <a href="https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/non-invasive-body-contouring-technologies" class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">US Food and Drug Administration's guidance on non-invasive body-contouring technologies</a> explains recognised risks and limitations of these procedures.
+                For additional background, the <a
+                  href="https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/non-invasive-body-contouring-technologies"
+                  class="text-charcoal fw-bold text-decoration-underline" target="_blank" rel="noopener">US Food and
+                  Drug Administration's guidance on non-invasive body-contouring technologies</a> explains recognised
+                risks and limitations of these procedures.
               </p>
             </div>
           </div>
@@ -1115,46 +1292,61 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">CoolSculpting Cost in Delhi: What Determines the Price?</h2>
             <p>
-              The cost of fat freezing in Delhi varies according to the device, treatment area, number of applicator cycles, clinic protocol and individual treatment plan. A single published price cannot reliably represent the total cost for every patient.
+              The cost of fat freezing in Delhi varies according to the device, treatment area, number of applicator
+              cycles, clinic protocol and individual treatment plan. A single published price cannot reliably represent
+              the total cost for every patient.
             </p>
 
             <div class="checklist-grid my-3">
               <div class="checklist-item">
                 <i class="bi bi-tag-fill checklist-icon"></i>
-                <div class="small text-muted"><strong>Treatment Area:</strong> A small area beneath the chin may require a different approach from the abdomen or flanks.</div>
+                <div class="small text-muted"><strong>Treatment Area:</strong> A small area beneath the chin may require
+                  a different approach from the abdomen or flanks.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-repeat checklist-icon"></i>
-                <div class="small text-muted"><strong>Number of Cycles:</strong> The number of applicator placements needed depends on the size and shape of the area and the treatment protocol.</div>
+                <div class="small text-muted"><strong>Number of Cycles:</strong> The number of applicator placements
+                  needed depends on the size and shape of the area and the treatment protocol.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-cpu checklist-icon"></i>
-                <div class="small text-muted"><strong>Device &amp; Applicator:</strong> Branded CoolSculpting and other cryolipolysis systems are not necessarily interchangeable. Ask for the device name and inclusions.</div>
+                <div class="small text-muted"><strong>Device &amp; Applicator:</strong> Branded CoolSculpting and other
+                  cryolipolysis systems are not necessarily interchangeable. Ask for the device name and inclusions.
+                </div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-calendar2-range checklist-icon"></i>
-                <div class="small text-muted"><strong>Number of Appointments:</strong> A treatment plan involving multiple visits may cost more than a single-cycle plan.</div>
+                <div class="small text-muted"><strong>Number of Appointments:</strong> A treatment plan involving
+                  multiple visits may cost more than a single-cycle plan.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-person-check checklist-icon"></i>
-                <div class="small text-muted"><strong>Consultation &amp; Follow-up:</strong> Confirm whether assessment, follow-up and any additional charges are included.</div>
+                <div class="small text-muted"><strong>Consultation &amp; Follow-up:</strong> Confirm whether assessment,
+                  follow-up and any additional charges are included.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-plus-circle checklist-icon"></i>
-                <div class="small text-muted"><strong>Additional Treatments:</strong> If combining fat reduction with another procedure, ask for separate pricing and clinical rationale.</div>
+                <div class="small text-muted"><strong>Additional Treatments:</strong> If combining fat reduction with
+                  another procedure, ask for separate pricing and clinical rationale.</div>
               </div>
             </div>
 
-            <div class="card p-4 rounded-4 border-0 shadow-sm mt-4" style="background: rgba(183, 110, 121, 0.08); border-left: 4px solid var(--dt-champagne, #B76E79) !important;">
+            <div class="card p-4 rounded-4 border-0 shadow-sm mt-4"
+              style="background: rgba(183, 110, 121, 0.08); border-left: 4px solid var(--dt-champagne, #B76E79) !important;">
               <h3 class="h6 fw-bold text-charcoal mb-2">How to Compare Fat-Freezing Quotes</h3>
               <p class="small text-muted mb-2" style="line-height: 1.7;">
-                When comparing clinics, do not judge a quote by its headline price alone. Ask each provider to specify the treatment area, number of cycles, device, estimated total cost, follow-up arrangements and any exclusions.
+                When comparing clinics, do not judge a quote by its headline price alone. Ask each provider to specify
+                the treatment area, number of cycles, device, estimated total cost, follow-up arrangements and any
+                exclusions.
               </p>
               <p class="small text-muted mb-2" style="line-height: 1.7;">
-                Be cautious about a package that promises a particular number of inches lost, guaranteed results or a dramatic transformation without an individual assessment.
+                Be cautious about a package that promises a particular number of inches lost, guaranteed results or a
+                dramatic transformation without an individual assessment.
               </p>
               <p class="small text-muted mb-0" style="line-height: 1.7;">
-                Dermatales should provide a treatment estimate only after reviewing the patient's concern and proposed plan. The price should not be represented as fixed until the treatment requirements have been established.
+                Dermatales should provide a treatment estimate only after reviewing the patient's concern and proposed
+                plan. The price should not be represented as fixed until the treatment requirements have been
+                established.
               </p>
             </div>
           </div>
@@ -1163,43 +1355,60 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Cryolipolysis vs Other Non-Surgical Fat Reduction Treatments</h2>
             <p>
-              Not all body-contouring concerns require the same treatment. The appropriate choice depends on whether the main issue is localised fat, loose skin, cellulite, overall weight or muscle separation.
+              Not all body-contouring concerns require the same treatment. The appropriate choice depends on whether the
+              main issue is localised fat, loose skin, cellulite, overall weight or muscle separation.
             </p>
 
             <div class="row g-4 mt-2">
 
               <div class="col-md-6">
                 <div class="versus-card">
-                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-scissors text-gold me-2"></i>Fat Freezing vs Liposuction</h3>
+                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-scissors text-gold me-2"></i>Fat Freezing vs
+                    Liposuction</h3>
                   <p class="small text-muted mb-0" style="line-height: 1.7;">
-                    Fat freezing is a non-surgical option for selected localised fat deposits. Liposuction is a surgical procedure that physically removes fat and requires assessment by an appropriately qualified surgeon. Liposuction may be considered when a more substantial change is sought, but it carries surgical risks and recovery requirements. Fat freezing avoids surgical incisions but usually offers a more limited degree of contour change.
+                    Fat freezing is a non-surgical option for selected localised fat deposits. Liposuction is a surgical
+                    procedure that physically removes fat and requires assessment by an appropriately qualified surgeon.
+                    Liposuction may be considered when a more substantial change is sought, but it carries surgical
+                    risks and recovery requirements. Fat freezing avoids surgical incisions but usually offers a more
+                    limited degree of contour change.
                   </p>
                 </div>
               </div>
 
               <div class="col-md-6">
                 <div class="versus-card">
-                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-heart-pulse-fill text-gold me-2"></i>Fat Freezing vs Medical Weight Management</h3>
+                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-heart-pulse-fill text-gold me-2"></i>Fat
+                    Freezing vs Medical Weight Management</h3>
                   <p class="small text-muted mb-0" style="line-height: 1.7;">
-                    Medical weight management addresses overall weight and related health concerns through an individualised plan. Depending on the patient's needs, this may include nutrition, physical activity, behavioural support and clinician-supervised medication where appropriate. Cryolipolysis does not replace these measures and should not be presented as a treatment for obesity.
+                    Medical weight management addresses overall weight and related health concerns through an
+                    individualised plan. Depending on the patient's needs, this may include nutrition, physical
+                    activity, behavioural support and clinician-supervised medication where appropriate. Cryolipolysis
+                    does not replace these measures and should not be presented as a treatment for obesity.
                   </p>
                 </div>
               </div>
 
               <div class="col-md-6">
                 <div class="versus-card">
-                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-arrow-repeat text-gold me-2"></i>Fat Freezing vs Skin-Tightening Treatments</h3>
+                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-arrow-repeat text-gold me-2"></i>Fat
+                    Freezing vs Skin-Tightening Treatments</h3>
                   <p class="small text-muted mb-0" style="line-height: 1.7;">
-                    When loose skin is the main concern, reducing fat alone may not provide the desired improvement. A clinician may discuss suitable skin-tightening options or explain when a surgical opinion would be more appropriate.
+                    When loose skin is the main concern, reducing fat alone may not provide the desired improvement. A
+                    clinician may discuss suitable skin-tightening options or explain when a surgical opinion would be
+                    more appropriate.
                   </p>
                 </div>
               </div>
 
               <div class="col-md-6">
                 <div class="versus-card">
-                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-lightning-fill text-gold me-2"></i>Fat Freezing vs Other Body-Contouring Procedures</h3>
+                  <h3 class="h6 fw-bold text-charcoal mb-2"><i class="bi bi-lightning-fill text-gold me-2"></i>Fat
+                    Freezing vs Other Body-Contouring Procedures</h3>
                   <p class="small text-muted mb-0" style="line-height: 1.7;">
-                    Other non-surgical technologies use different mechanisms, such as radiofrequency, focused ultrasound or muscle stimulation. Their indications, evidence, contraindications and potential results differ. The best choice is not necessarily the newest or most heavily promoted treatment; it is the option that most appropriately addresses the patient's concern after clinical assessment.
+                    Other non-surgical technologies use different mechanisms, such as radiofrequency, focused ultrasound
+                    or muscle stimulation. Their indications, evidence, contraindications and potential results differ.
+                    The best choice is not necessarily the newest or most heavily promoted treatment; it is the option
+                    that most appropriately addresses the patient's concern after clinical assessment.
                   </p>
                 </div>
               </div>
@@ -1211,7 +1420,8 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Why Consider a Doctor-Led Fat Reduction Consultation in Delhi?</h2>
             <p>
-              A doctor-led approach can help patients understand what is causing the fullness they want to treat and whether a particular procedure is appropriate.
+              A doctor-led approach can help patients understand what is causing the fullness they want to treat and
+              whether a particular procedure is appropriate.
             </p>
             <p>
               At Dermatales, patients can discuss the following during their consultation:
@@ -1220,28 +1430,35 @@
             <div class="checklist-grid my-3">
               <div class="checklist-item">
                 <i class="bi bi-person-fill-check checklist-icon"></i>
-                <div class="small text-muted"><strong>Individual Assessment:</strong> Treatment suitability should be based on the person's anatomy, medical history and goals.</div>
+                <div class="small text-muted"><strong>Individual Assessment:</strong> Treatment suitability should be
+                  based on the person's anatomy, medical history and goals.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-eye-fill checklist-icon"></i>
-                <div class="small text-muted"><strong>Clear Expectations:</strong> The likely degree of improvement, limitations and expected timeline should be explained before treatment.</div>
+                <div class="small text-muted"><strong>Clear Expectations:</strong> The likely degree of improvement,
+                  limitations and expected timeline should be explained before treatment.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-shield-fill-check checklist-icon"></i>
-                <div class="small text-muted"><strong>Safety-First Planning:</strong> Contraindications, possible complications and appropriate follow-up should form part of the decision.</div>
+                <div class="small text-muted"><strong>Safety-First Planning:</strong> Contraindications, possible
+                  complications and appropriate follow-up should form part of the decision.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-currency-rupee checklist-icon"></i>
-                <div class="small text-muted"><strong>Transparent Costs:</strong> Patients should understand the estimated total cost and what is included before consenting.</div>
+                <div class="small text-muted"><strong>Transparent Costs:</strong> Patients should understand the
+                  estimated total cost and what is included before consenting.</div>
               </div>
               <div class="checklist-item">
                 <i class="bi bi-shuffle checklist-icon"></i>
-                <div class="small text-muted"><strong>Alternatives When Needed:</strong> A clinician should explain when another treatment or a referral may better address the concern.</div>
+                <div class="small text-muted"><strong>Alternatives When Needed:</strong> A clinician should explain when
+                  another treatment or a referral may better address the concern.</div>
               </div>
             </div>
 
             <p class="small text-muted mt-3">
-              The clinic's medical credentials, available equipment and specific treatment arrangements should be confirmed before publication. Do not assume that a branded CoolSculpting system is available unless the clinic can verify the device and its authorised use.
+              The clinic's medical credentials, available equipment and specific treatment arrangements should be
+              confirmed before publication. Do not assume that a branded CoolSculpting system is available unless the
+              clinic can verify the device and its authorised use.
             </p>
           </div>
 
@@ -1249,34 +1466,49 @@
           <div class="mt-5 fade-up">
             <h2 class="lux-section-title">Looking for a Fat Freezing Clinic in Delhi Near You?</h2>
             <p>
-              If you are searching online for “CoolSculpting near me”, “Fat freezing near me” or a clinic for non-surgical fat reduction in Patel Nagar, location is only one part of the decision. Medical suitability, transparent information, appropriate equipment and access to follow-up are equally important.
+              If you are searching online for “CoolSculpting near me”, “Fat freezing near me” or a clinic for
+              non-surgical fat reduction in Patel Nagar, location is only one part of the decision. Medical suitability,
+              transparent information, appropriate equipment and access to follow-up are equally important.
             </p>
             <p>
-              Dermatales is located in East Patel Nagar, Delhi. Patients considering treatment can contact the clinic to confirm the availability of cryolipolysis, the exact device used, consultation arrangements and the expected cost for their treatment area.
+              Dermatales is located in East Patel Nagar, Delhi. Patients considering treatment can contact the clinic to
+              confirm the availability of cryolipolysis, the exact device used, consultation arrangements and the
+              expected cost for their treatment area.
             </p>
             <p>
-              For people travelling from other parts of Delhi, allow time for the consultation and any recommended follow-up. The nearest clinic is not automatically the most suitable one; compare the quality of the assessment and the clarity of the treatment plan.
+              For people travelling from other parts of Delhi, allow time for the consultation and any recommended
+              follow-up. The nearest clinic is not automatically the most suitable one; compare the quality of the
+              assessment and the clarity of the treatment plan.
             </p>
             <p>
-              If you are considering CoolSculpting Treatment in Patel Nagar, use the consultation to clarify whether the concern is suitable for fat freezing, what alternatives exist and what level of improvement is realistic.
+              If you are considering CoolSculpting Treatment in Patel Nagar, use the consultation to clarify whether the
+              concern is suitable for fat freezing, what alternatives exist and what level of improvement is realistic.
             </p>
           </div>
 
           <!-- Section: Make an Informed Decision About Fat Reduction -->
           <div class="mt-5 fade-up">
-            <div class="card p-4 p-md-5 rounded-4 border-0 shadow-sm text-center" style="background: linear-gradient(135deg, #1B2A4A 0%, #293E66 100%); color: #ffffff;">
-              <h2 class="h4 text-white mb-3" style="font-family: var(--dt-font-display);">Make an Informed Decision About Fat Reduction</h2>
+            <div class="card p-4 p-md-5 rounded-4 border-0 shadow-sm text-center"
+              style="background: linear-gradient(135deg, #1B2A4A 0%, #293E66 100%); color: #ffffff;">
+              <h2 class="h4 text-white mb-3" style="font-family: var(--dt-font-display);">Make an Informed Decision
+                About Fat Reduction</h2>
               <p class="text-white-50 mx-auto mb-4" style="max-width: 680px; font-size: 0.95rem; line-height: 1.75;">
-                Choosing a body-contouring procedure should begin with understanding the cause of the concern, the realistic benefits and the risks. Fat freezing may be worth discussing for selected localised fat deposits, but it is not suitable for every patient and cannot guarantee a particular result.
+                Choosing a body-contouring procedure should begin with understanding the cause of the concern, the
+                realistic benefits and the risks. Fat freezing may be worth discussing for selected localised fat
+                deposits, but it is not suitable for every patient and cannot guarantee a particular result.
               </p>
               <p class="text-white-50 mx-auto mb-4" style="max-width: 680px; font-size: 0.95rem; line-height: 1.75;">
-                Contact Dermatales, East Patel Nagar, Delhi, to enquire about a consultation, confirm treatment availability and discuss the options appropriate for your needs. A personalised assessment can help you decide whether cryolipolysis, another body-contouring procedure or a different approach is the most suitable next step.
+                Contact Dermatales, East Patel Nagar, Delhi, to enquire about a consultation, confirm treatment
+                availability and discuss the options appropriate for your needs. A personalised assessment can help you
+                decide whether cryolipolysis, another body-contouring procedure or a different approach is the most
+                suitable next step.
               </p>
               <div class="d-flex flex-wrap justify-content-center gap-3">
                 <a href="book-appointment" class="btn btn-primary rounded-pill px-4 py-2">
                   <i class="bi bi-calendar-check me-2"></i> Book Consultation
                 </a>
-                <a href="https://wa.me/919560015155" class="btn btn-outline-light rounded-pill px-4 py-2" target="_blank" rel="noopener">
+                <a href="https://wa.me/919560015155" class="btn btn-outline-light rounded-pill px-4 py-2"
+                  target="_blank" rel="noopener">
                   <i class="bi bi-whatsapp me-2"></i> WhatsApp Enquiry
                 </a>
               </div>
@@ -1284,7 +1516,8 @@
 
             <!-- Medical Note -->
             <p class="small text-muted mt-4 text-center fst-italic">
-              <strong>Medical note:</strong> This information is for general educational purposes and does not replace an individual consultation, diagnosis or treatment advice from a qualified medical professional.
+              <strong>Medical note:</strong> This information is for general educational purposes and does not replace
+              an individual consultation, diagnosis or treatment advice from a qualified medical professional.
             </p>
           </div>
 
@@ -1296,7 +1529,8 @@
             </div>
             <h2 class="lux-section-title">Frequently Asked Questions About CoolSculpting in Delhi</h2>
             <p class="text-muted small mb-4">
-              Here are direct answers to the most common questions prospective patients have regarding non-invasive cryolipolysis, safety, candidacy, and costs at DermaTales Delhi.
+              Here are direct answers to the most common questions prospective patients have regarding non-invasive
+              cryolipolysis, safety, candidacy, and costs at DermaTales Delhi.
             </p>
 
             <div class="accordion" id="coolSculptingFAQ">
@@ -1311,7 +1545,10 @@
                 </h3>
                 <div id="cfaq1" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    No. Cryolipolysis is intended for selected localised fat deposits and is not appropriate for every medical history or body type. Cold-related disorders, certain anatomical concerns and other contraindications may make treatment unsuitable. A clinician must assess eligibility before proceeding.
+                    No. Cryolipolysis is intended for selected localised fat deposits and is not appropriate for every
+                    medical history or body type. Cold-related disorders, certain anatomical concerns and other
+                    contraindications may make treatment unsuitable. A clinician must assess eligibility before
+                    proceeding.
                   </div>
                 </div>
               </div>
@@ -1326,7 +1563,9 @@
                 </h3>
                 <div id="cfaq2" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    It may reduce selected superficial, pinchable fat deposits in the abdominal area when the person is an appropriate candidate. It does not reduce visceral fat, repair abdominal muscle separation or guarantee a flatter stomach.
+                    It may reduce selected superficial, pinchable fat deposits in the abdominal area when the person is
+                    an appropriate candidate. It does not reduce visceral fat, repair abdominal muscle separation or
+                    guarantee a flatter stomach.
                   </div>
                 </div>
               </div>
@@ -1341,7 +1580,9 @@
                 </h3>
                 <div id="cfaq3" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    The experience varies. Cold, pulling, pressure, tingling or discomfort may occur during treatment, followed by temporary tenderness or altered sensation. Ask the clinician what to expect with the specific device and when discomfort should be reviewed.
+                    The experience varies. Cold, pulling, pressure, tingling or discomfort may occur during treatment,
+                    followed by temporary tenderness or altered sensation. Ask the clinician what to expect with the
+                    specific device and when discomfort should be reviewed.
                   </div>
                 </div>
               </div>
@@ -1356,7 +1597,9 @@
                 </h3>
                 <div id="cfaq4" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Treatment time varies with the device, applicator, treatment area and number of cycles. Ask the clinic for an estimate for your proposed plan rather than relying on a single duration advertised for all patients.
+                    Treatment time varies with the device, applicator, treatment area and number of cycles. Ask the
+                    clinic for an estimate for your proposed plan rather than relying on a single duration advertised
+                    for all patients.
                   </div>
                 </div>
               </div>
@@ -1371,7 +1614,8 @@
                 </h3>
                 <div id="cfaq5" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Changes develop gradually over weeks and may continue over several months. The amount and timing of improvement vary, so an appropriate follow-up is more useful than expecting an immediate change.
+                    Changes develop gradually over weeks and may continue over several months. The amount and timing of
+                    improvement vary, so an appropriate follow-up is more useful than expecting an immediate change.
                   </div>
                 </div>
               </div>
@@ -1386,7 +1630,9 @@
                 </h3>
                 <div id="cfaq6" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    There is no universal number. The treatment area, tissue thickness, applicator coverage, device protocol and individual goals determine the plan. The clinician should explain the expected benefit before recommending additional cycles.
+                    There is no universal number. The treatment area, tissue thickness, applicator coverage, device
+                    protocol and individual goals determine the plan. The clinician should explain the expected benefit
+                    before recommending additional cycles.
                   </div>
                 </div>
               </div>
@@ -1401,7 +1647,9 @@
                 </h3>
                 <div id="cfaq7" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    The cost depends on the treatment area, device, number of cycles and any additional appointments. Ask for an itemised estimate covering the complete proposed plan. An accurate individual quote should be provided after assessment rather than assumed from a generic price.
+                    The cost depends on the treatment area, device, number of cycles and any additional appointments.
+                    Ask for an itemised estimate covering the complete proposed plan. An accurate individual quote
+                    should be provided after assessment rather than assumed from a generic price.
                   </div>
                 </div>
               </div>
@@ -1416,7 +1664,9 @@
                 </h3>
                 <div id="cfaq8" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    No. Cryolipolysis is intended for localised fat reduction, not substantial weight loss or obesity management. People seeking overall weight reduction should discuss appropriate lifestyle and medical options with a qualified clinician.
+                    No. Cryolipolysis is intended for localised fat reduction, not substantial weight loss or obesity
+                    management. People seeking overall weight reduction should discuss appropriate lifestyle and medical
+                    options with a qualified clinician.
                   </div>
                 </div>
               </div>
@@ -1431,7 +1681,9 @@
                 </h3>
                 <div id="cfaq9" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    A rare complication known as paradoxical adipose hyperplasia can cause the treated fatty tissue to enlarge rather than shrink. The area may develop a firm, visible bulge months after treatment and may require surgical management. This risk should be discussed before consent.
+                    A rare complication known as paradoxical adipose hyperplasia can cause the treated fatty tissue to
+                    enlarge rather than shrink. The area may develop a firm, visible bulge months after treatment and
+                    may require surgical management. This risk should be discussed before consent.
                   </div>
                 </div>
               </div>
@@ -1446,7 +1698,9 @@
                 </h3>
                 <div id="cfaq10" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Neither option is best for everyone. Fat freezing is non-surgical and generally intended for more limited contour changes. Liposuction is surgery and may be considered for different treatment goals, with its own risks and recovery. The appropriate option depends on individual assessment.
+                    Neither option is best for everyone. Fat freezing is non-surgical and generally intended for more
+                    limited contour changes. Liposuction is surgery and may be considered for different treatment goals,
+                    with its own risks and recovery. The appropriate option depends on individual assessment.
                   </div>
                 </div>
               </div>
@@ -1461,7 +1715,9 @@
                 </h3>
                 <div id="cfaq11" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Many people resume their usual activities soon after non-surgical fat freezing, but temporary soreness, swelling, bruising or numbness can occur. Follow the specific aftercare instructions and avoid assuming that everyone will experience the same recovery.
+                    Many people resume their usual activities soon after non-surgical fat freezing, but temporary
+                    soreness, swelling, bruising or numbness can occur. Follow the specific aftercare instructions and
+                    avoid assuming that everyone will experience the same recovery.
                   </div>
                 </div>
               </div>
@@ -1476,7 +1732,9 @@
                 </h3>
                 <div id="cfaq12" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Your clinician should advise you according to the procedure, your symptoms and any other health considerations. Do not use strenuous exercise as a way to compensate for the treatment or expect it to accelerate the procedure's effects.
+                    Your clinician should advise you according to the procedure, your symptoms and any other health
+                    considerations. Do not use strenuous exercise as a way to compensate for the treatment or expect it
+                    to accelerate the procedure's effects.
                   </div>
                 </div>
               </div>
@@ -1491,7 +1749,8 @@
                 </h3>
                 <div id="cfaq13" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Not reliably. Cryolipolysis targets fat rather than treating substantial skin laxity. If loose skin is the main concern, ask about appropriate alternatives before choosing a fat-reduction procedure.
+                    Not reliably. Cryolipolysis targets fat rather than treating substantial skin laxity. If loose skin
+                    is the main concern, ask about appropriate alternatives before choosing a fat-reduction procedure.
                   </div>
                 </div>
               </div>
@@ -1506,7 +1765,10 @@
                 </h3>
                 <div id="cfaq14" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Cryolipolysis has recognised risks, including temporary discomfort, swelling, bruising, altered sensation and rare complications such as PAH or cold-related skin injury. Individual risk depends on factors including medical history, treatment area, device and protocol. No procedure should be described as entirely risk-free.
+                    Cryolipolysis has recognised risks, including temporary discomfort, swelling, bruising, altered
+                    sensation and rare complications such as PAH or cold-related skin injury. Individual risk depends on
+                    factors including medical history, treatment area, device and protocol. No procedure should be
+                    described as entirely risk-free.
                   </div>
                 </div>
               </div>
@@ -1521,7 +1783,10 @@
                 </h3>
                 <div id="cfaq15" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    Ask who will assess you, which device will be used, whether it is suitable for your treatment area, what complications are possible, what follow-up is available and how the total price is calculated. A clinic should be willing to discuss alternatives and advise against treatment when it is unsuitable.
+                    Ask who will assess you, which device will be used, whether it is suitable for your treatment area,
+                    what complications are possible, what follow-up is available and how the total price is calculated.
+                    A clinic should be willing to discuss alternatives and advise against treatment when it is
+                    unsuitable.
                   </div>
                 </div>
               </div>
@@ -1536,7 +1801,9 @@
                 </h3>
                 <div id="cfaq16" class="accordion-collapse collapse" data-bs-parent="#coolSculptingFAQ">
                   <div class="accordion-body faq-body">
-                    You can contact Dermatales in East Patel Nagar, Delhi, to ask about consultation availability and whether the appropriate fat-freezing treatment is currently offered. Confirm the exact device, treatment arrangements and fees with the clinic before booking.
+                    You can contact Dermatales in East Patel Nagar, Delhi, to ask about consultation availability and
+                    whether the appropriate fat-freezing treatment is currently offered. Confirm the exact device,
+                    treatment arrangements and fees with the clinic before booking.
                   </div>
                 </div>
               </div>
@@ -1557,12 +1824,18 @@
             <div class="sidebar-widget">
               <h3 class="widget-title">Related Body Treatments</h3>
               <ul class="related-list">
-                <li><a href="body-tightening-in-delhi">Body Tightening Delhi <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="cellulite-treatment-in-delhi">Cellulite Treatment Delhi <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="coolsculpting-in-gurgaon">CoolSculpting Gurgaon <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="lipolysis-injections-in-gurgaon">Lipolysis Injections <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="double-chin-treatment-in-gurgaon">Double Chin Treatment <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss Management <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="body-tightening-in-delhi">Body Tightening Delhi <i class="bi bi-chevron-right"></i></a>
+                </li>
+                <li><a href="cellulite-treatment-in-delhi">Cellulite Treatment Delhi <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="coolsculpting-in-gurgaon">CoolSculpting Gurgaon <i class="bi bi-chevron-right"></i></a>
+                </li>
+                <li><a href="lipolysis-injections-in-gurgaon">Lipolysis Injections <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="double-chin-treatment-in-gurgaon">Double Chin Treatment <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="weight-loss-clinic-in-gurgaon">Weight Loss Management <i
+                      class="bi bi-chevron-right"></i></a></li>
               </ul>
             </div>
 
