@@ -181,6 +181,75 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Your Dandruff Gets Worse Every Winter Because It May Not Be Dandruff -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/Your-Dandruff-Gets-Worse-Every-Winter-Because.webp" class="card-img-top"
+                alt="Your Dandruff Gets Worse Every Winter Because It May Not Be Dandruff">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Oct 22, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/dandruff-worse-in-winter-seborrheic-dermatitis"
+                  class="text-decoration-none text-charcoal">Your Dandruff Gets Worse Every Winter Because It May Not Be Dandruff</a></h3>
+              <p class="card-text text-muted">Why winter flakes keep coming back, how to tell dry scalp from seborrheic dermatitis and scalp psoriasis, and what the research says actually works.</p>
+              <a href="blog/dandruff-worse-in-winter-seborrheic-dermatitis"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog Card: Bridal Skin Prep Timeline for Indian Skin -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/Starting-Your-Bridal-Skin-Prep-Three-Weeks.webp" class="card-img-top"
+                alt="Starting Your Bridal Skin Prep Three Weeks Before the Wedding Is Too Late, and Indian Skin Is the Reason">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Oct 14, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/bridal-skin-prep-timeline-indian-skin"
+                  class="text-decoration-none text-charcoal">Starting Your Bridal Skin Prep Three Weeks Before the Wedding Is Too Late, and Indian Skin Is the Reason</a></h3>
+              <p class="card-text text-muted">How early to start bridal skin prep for Indian skin, why peels and lasers need a longer runway than most checklists allow, and a month by month timeline from consultation to wedding day.</p>
+              <a href="blog/bridal-skin-prep-timeline-indian-skin"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Blog Card: Why Some Botox Results Look Natural While Others Look Overdone -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/Why-Some-Botox-Results-Look-Natural-While.webp" class="card-img-top"
+                alt="Why Some Botox Results Look Natural While Others Look Overdone">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Oct 05, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/why-some-botox-results-look-natural-while-others-look-overdone"
+                  class="text-decoration-none text-charcoal">Why Some Botox Results Look Natural While Others Look Overdone</a></h3>
+              <p class="card-text text-muted">Why "frozen" Botox has almost nothing to do with the product itself, what separates a natural result from an obvious one, and what to ask before your next appointment.</p>
+              <a href="blog/why-some-botox-results-look-natural-while-others-look-overdone"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Male Pattern Baldness Arriving A Decade Early -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">

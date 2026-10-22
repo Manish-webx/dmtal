@@ -15,3 +15,8 @@ RewriteRule ^ %1 [R=302,L,NE]
 
 Redirect 301 /btx-a-treatment-in-gurgaon https://www.dermatales.com/botox-treatment-in-gurgaon
 Redirect 301 /chin-augmentation-in-delhi-patel-nagar https://www.dermatales.com/chin-augmentation-in-delhi
+Redirect 301 /blog/why-your-friends-botox-looks-natural-and-yours-looks-done https://www.dermatales.com/blog/why-some-botox-results-look-natural-while-others-look-overdone
+Redirect 301 /blog/starting-your-bridal-skin-prep-three-weeks-before-the-wedding-is-too-late-and-indian-skin-is-the-reason https://www.dermatales.com/blog/bridal-skin-prep-timeline-indian-skin
+Redirect 301 /blog/your-dandruff-gets-worse-every-winter-because-it-may-not-be-dandruff https://www.dermatales.com/blog/dandruff-worse-in-winter-seborrheic-dermatitis
+
+
