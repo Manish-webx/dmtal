@@ -513,7 +513,7 @@
                     </tr>
                     <tr>
                       <td class="feature-title">Primary Use</td>
-                      <td>Type 2 diabetes; tirzepatide is also used for chronic weight management under appropriate
+                      <td>Type 2 diabetes; tirzepatide is also used for chronic <a href="https://www.dermatales.com/weight-loss-clinic-in-gurgaon" target="_blank">weight loss management</a> under appropriate
                         indication</td>
                       <td>Type 2 diabetes; semaglutide is also used for weight management under appropriate indication
                       </td>
@@ -603,7 +603,7 @@
                 </div>
               </div>
               <div class="col-12">
-                <img src="images/who-should-avoid-munjaro.webp" alt="who should avoid mounjaro at DermaTales Gurgaon"
+                <img src="images/who-should-avoid-munjaro.webp" alt="who should avoid mounjaro"
                   class="img-fluid rounded-4 shadow-sm w-100">
               </div>
             </div>
