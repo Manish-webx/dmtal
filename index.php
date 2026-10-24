@@ -186,8 +186,8 @@
               Where Science Meets the Art of Beautiful Skin
             </h2>
             <p class="hero-subtitle">
-              Welcome to DermaTales — a premier skin clinic in Delhi, led by Dr. Pooja Varshney. From acne and
-              pigmentation to laser resurfacing, hair loss, and anti-ageing treatments — we deliver science-backed,
+              Welcome to DermaTales, a premier skin clinic in Delhi, led by Dr. Pooja Varshney. From acne and
+              pigmentation to laser resurfacing, hair loss, and anti-ageing treatments we deliver science-backed,
               personalised skin care that truly works. With clinics in Delhi and Gurgaon, expert skin care is always
               within reach.
             </p>
@@ -272,7 +272,7 @@
                 <span class="credential-badge">Hair Transplant Expert</span>
               </div>
               <div class="col-auto">
-                <span class="credential-badge">10+ Years Experience</span>
+                <span class="credential-badge">Practising Since 2015</span>
               </div>
             </div>
           </div>
@@ -290,7 +290,7 @@
         <span class="section-eyebrow">Our Treatments</span>
         <h2 class="section-title">Comprehensive Skin, Hair &amp; Aesthetic Treatments in Delhi &amp; Gurgaon</h2>
         <p class="section-lead mx-auto" style="max-width: 900px;">
-          From everyday skincare concerns to advanced cosmetic procedures — DermaTales offers 50+ specialised treatments
+          From everyday skincare concerns to advanced cosmetic procedures, DermaTales offers 50+ specialised treatments
           at our skin clinic in Delhi and Gurgaon. Every treatment plan is personally designed by Dr. Pooja Varshney for
           your unique skin type and goals.
         </p>
@@ -404,7 +404,7 @@
         <span class="section-eyebrow">Our Technology</span>
         <h2 class="section-title">World-Class Skin Technologies at Clinics</h2>
         <p class="section-lead mx-auto" style="max-width: 900px;">
-          We believe in delivering real, measurable results — which is why DermaTales invests exclusively in globally
+          We believe in delivering real, measurable results which is why DermaTales invests exclusively in globally
           certified, FDA-approved machines. Our skin clinic in Delhi and Gurgaon uses the same internationally
           recognised technologies as top clinics worldwide.
         </p>
@@ -467,7 +467,7 @@
         <span class="section-eyebrow">Most Sought After</span>
         <h2 class="section-title">Popular Procedures</h2>
         <p class="section-lead mx-auto" style="max-width: 900px;">
-          These are the treatments our patients love most — delivering visible, lasting results with minimal downtime.
+          These are the treatments our patients love most delivering visible, lasting results with minimal downtime.
         </p>
       </div>
 
@@ -652,7 +652,7 @@
           <p class="section-text">
             With two state-of-the-art clinics in Delhi and Gurgaon, our facilities are equipped with the latest
             FDA-approved technologies. Every treatment protocol is designed by board-certified dermatologists, and every
-            detail—from hospital-grade sterilization to our consultation process, is thoughtfully crafted around your
+            detail from hospital-grade sterilization to our consultation process, is thoughtfully crafted around your
             safety and comfort. When you choose DermaTales, you’re choosing one of the finest skin treatment experiences
             in Delhi NCR.
           </p>
@@ -841,7 +841,7 @@
               </h3>
               <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                 <div class="accordion-body faq-body">
-                  Yes — DermaTales now offers a comprehensive, medically supervised weight loss programme at both our
+                  Yes, DermaTales now offers a comprehensive, medically supervised weight loss programme at both our
                   Delhi and Gurgaon clinics, led by Dr. Pooja Varshney. We offer three scientifically proven options:
                   Ozempic (semaglutide) injection for appetite control & fat loss, Mounjaro (tirzepatide), CoolSculpting
                   for Non-invasive fat freezing.
@@ -857,7 +857,7 @@
               </h3>
               <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                 <div class="accordion-body faq-body">
-                  At DermaTales — one of Delhi's leading skin and hair clinics, we offer the most advanced, non-surgical
+                  At DermaTales, one of Delhi's leading skin and hair clinics, we offer the most advanced, non-surgical
                   hair loss treatments.
                 </div>
               </div>
