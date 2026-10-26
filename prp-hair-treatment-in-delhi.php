@@ -9,14 +9,14 @@
   <meta name="keywords" content="PRP Hair Treatment in Delhi, PRP cost Delhi, PRP therapy for hair loss, Dr Pooja Varshney, Dermatales Patel Nagar, PRP sessions hair growth">
   <meta name="author" content="Dr. Pooja Varshney | Dermatales">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.dermatales.com/prp-hair-treatment-delhi">
+  <link rel="canonical" href="https://www.dermatales.com/prp-hair-treatment-in-delhi">
 
   <!-- Open Graph -->
   <meta property="og:title" content="PRP Hair Treatment in Delhi | Cost, Results & Doctor | Dermatales">
   <meta property="og:description"
     content="Dermatologist-led PRP therapy for hair loss in Delhi. Know cost, sessions, results, risks and who is suitable before you decide. Book a consultation.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.dermatales.com/prp-hair-treatment-delhi">
+  <meta property="og:url" content="https://www.dermatales.com/prp-hair-treatment-in-delhi">
   <meta property="og:image" content="https://www.dermatales.com/images/prp-treatment.webp">
   <meta property="og:site_name" content="Dermatales">
 
@@ -191,7 +191,7 @@
       },
       {
         "@type": "Question",
-        "name": "How do I choose a PRP clinic in Delhi?",
+        "name": "How do I choose the best PRP clinic in Delhi?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Choose a qualified dermatologist who examines you first, uses single-use sterile kits, gives a clear plan and cost, and is honest about limits."
@@ -202,7 +202,7 @@
         "name": "What red flags should I watch out for?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Unrealistic claims, pressure to pay for large packages, no doctor examination, and unclear pricing."
+          "text": "Guaranteed results, pressure to pay for large packages, no doctor examination, unclear pricing and edited before/after photos."
         }
       },
       {
@@ -500,11 +500,11 @@
         <!-- Main Content Column -->
         <div class="col-lg-9 order-lg-1 content-area">
 
-          <!-- Section 1: Quick Answer -->
+          <!-- Section 1: Overview -->
           <div class="prp-section-card fade-up">
-            <h2 class="lux-section-title mb-3">PRP Hair Treatment in Delhi: Quick Answer</h2>
+            <h2 class="lux-section-title mb-3">PRP Hair Treatment in Delhi</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP Hair Treatment in Delhi at Dermatales uses a concentrated part of your own blood, injected into the scalp to support weakened hair follicles and encourage healthier hair growth. Dr. Pooja Varshney, who has been practising since 2015, evaluates the cause and pattern of hair loss before recommending PRP therapy. It is most effective for early-to-moderate pattern hair thinning. Most people need 3–4 PRP sessions about a month apart, with visible changes usually developing over 3–6 months. PRP is not a permanent solution, and the treatment plan is personalized based on your hair loss, scalp condition, and overall hair health.
+              PRP Hair Treatment in Delhi at Dermatales uses a concentrated part of your own blood, injected into the scalp to support weakened hair follicles and encourage healthier hair growth. Dr. Pooja Varshney, who has been practising since 2015, evaluates the cause and pattern of hair loss before recommending PRP therapy. It works best for early-to-moderate pattern hair thinning. Most people need 3–4 PRP sessions about a month apart, with visible changes usually developing over 3–6 months. PRP is not a guaranteed or permanent solution, and the treatment plan is personalized based on your hair loss, scalp condition, and overall hair health.
             </p>
 
             <div class="p-3 rounded-4 mt-3" style="background: #faf8f5; border: 1px solid #ebdcd5;">
@@ -535,42 +535,42 @@
             <!-- INFOGRAPHIC 1: PRP at a glance -->
             <div class="infographic-strip mt-4">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 1: "PRP at a glance" (5 Key Facts)
+                INFOGRAPHIC 1: "PRP at a glance": 5 icons in one strip (sessions, duration, downtime, results timeline, cost range). Place right below this box.
               </h6>
               <div class="row g-2 text-center">
                 <div class="col-6 col-md">
                   <div class="infographic-item">
                     <div class="info-icon"><i class="bi bi-calendar3"></i></div>
                     <div class="info-label">Sessions</div>
-                    <div class="info-val">3-4 Initial + Top-ups</div>
+                    <div class="info-val">3-4 initially, then maintenance</div>
                   </div>
                 </div>
                 <div class="col-6 col-md">
                   <div class="infographic-item">
                     <div class="info-icon"><i class="bi bi-clock-history"></i></div>
-                    <div class="info-label">Duration</div>
-                    <div class="info-val">45-60 Mins</div>
+                    <div class="info-label">Time per session</div>
+                    <div class="info-val">About 45-60 minutes</div>
                   </div>
                 </div>
                 <div class="col-6 col-md">
                   <div class="infographic-item">
                     <div class="info-icon"><i class="bi bi-person-walking"></i></div>
                     <div class="info-label">Downtime</div>
-                    <div class="info-val">Minimal / Same Day</div>
+                    <div class="info-val">Minimal; most people resume routine the same day</div>
                   </div>
                 </div>
                 <div class="col-6 col-md">
                   <div class="infographic-item">
                     <div class="info-icon"><i class="bi bi-graph-up-arrow"></i></div>
-                    <div class="info-label">Results Timeline</div>
-                    <div class="info-val">3-6 Months</div>
+                    <div class="info-label">First visible change</div>
+                    <div class="info-val">Usually 3-6 months</div>
                   </div>
                 </div>
                 <div class="col-12 col-md">
                   <div class="infographic-item">
                     <div class="info-icon"><i class="bi bi-currency-rupee"></i></div>
-                    <div class="info-label">Cost Range</div>
-                    <div class="info-val">₹2000-₹3000 / Session</div>
+                    <div class="info-label">Cost at our Delhi clinic</div>
+                    <div class="info-val">[₹2000-₹3000 per session]</div>
                   </div>
                 </div>
               </div>
@@ -604,7 +604,24 @@
             <p style="line-height: 1.8; color: #4a4a4a;">
               Several reviews of clinical trials report that PRP can increase hair density and thickness in androgenetic alopecia (<a href="https://www.dermatales.com/hair-loss-treatment-delhi" class="text-gold fw-bold text-decoration-underline">pattern hair loss</a>). However, PRP preparation methods, injection techniques and session schedules differ between studies, so results are not fully standardized and vary from person to person. This is why a doctor's assessment matters more than the brand of kit alone.
             </p>
+          </div>
 
+          <!-- Section 3: Patient results -->
+          <div class="prp-section-card fade-up">
+            <h2 class="lux-section-title mb-3">Patient results</h2>
+            <div class="p-4 rounded-4 mb-4 text-center" style="background: #faf7f4; border: 1px dashed #c97a63;">
+              <div class="info-icon mx-auto mb-3" style="width: 50px; height: 50px; border-radius: 50%; background: #ffffff; display: flex; align-items: center; justify-content: center; color: #c97a63; font-size: 1.4rem; box-shadow: 0 4px 12px rgba(201, 122, 99, 0.15);"><i class="bi bi-images"></i></div>
+              <p class="text-charcoal fw-medium mb-1" style="line-height: 1.8;">
+                [Add only real, consented before/after photos. For each: age, hair loss type, sessions done, timeline, same angle and lighting. Add: "Individual results vary."]
+              </p>
+              <div class="small text-muted mt-2"><em>Individual results vary.</em></div>
+            </div>
+
+            <div class="p-4 rounded-4 text-center" style="background: #faf8f5; border: 1px dashed #1b2a4a;">
+              <div class="info-icon mx-auto mb-3" style="width: 50px; height: 50px; border-radius: 50%; background: #ffffff; display: flex; align-items: center; justify-content: center; color: #1b2a4a; font-size: 1.4rem; box-shadow: 0 4px 12px rgba(27, 42, 74, 0.15);"><i class="bi bi-star-fill text-warning"></i></div>
+              <p class="text-charcoal fw-medium mb-0" style="line-height: 1.8;">
+                [Add Google reviews widget with real reviews only]
+              </p>
             </div>
           </div>
 
@@ -668,7 +685,7 @@
                 <tbody>
                   <tr>
                     <td><strong>Early thinning</strong></td>
-                    <td>Highest likelihood of visible improvement and slowing of loss</td>
+                    <td>Best chance of visible improvement and slowing of loss</td>
                   </tr>
                   <tr>
                     <td><strong>Moderate thinning</strong></td>
@@ -689,26 +706,25 @@
             <!-- INFOGRAPHIC 3 -->
             <div class="p-3 rounded-4 mt-4" style="background: #faf7f4; border: 1px solid #ebdcd5;">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 3: "Where PRP helps most"
+                INFOGRAPHIC 3: "Where PRP helps most": Norwood scale (men) and Ludwig scale (women) illustrations, with colour coding: green (best), amber (partial), red (limited).
               </h6>
-              <p class="text-center text-muted small mb-3">Norwood scale (men) and Ludwig scale (women) illustrations, with colour coding: green (optimal), amber (partial), red (limited).</p>
               <div class="row g-3 text-center">
                 <div class="col-md-4">
                   <div class="p-3 rounded-3" style="background: #e8f5e9; border: 1px solid #a5d6a7;">
-                    <div class="fw-bold text-success mb-1"><i class="bi bi-circle-fill me-1"></i> Green: Optimal Response</div>
-                    <div class="small text-muted">Norwood Stage 1-3 (Men) / Ludwig Stage 1 (Women) - Active miniaturising follicles.</div>
+                    <div class="fw-bold text-success mb-1"><i class="bi bi-circle-fill me-1"></i> Green (Best)</div>
+                    <div class="small text-muted">Early thinning: Best chance of visible improvement and slowing of loss</div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="p-3 rounded-3" style="background: #fff8e1; border: 1px solid #ffe082;">
-                    <div class="fw-bold text-warning mb-1" style="color: #b78103 !important;"><i class="bi bi-circle-fill me-1"></i> Amber: Partial Response</div>
-                    <div class="small text-muted">Norwood Stage 4-5 / Ludwig Stage 2 - Combined with prescription medical therapies.</div>
+                    <div class="fw-bold text-warning mb-1" style="color: #b78103 !important;"><i class="bi bi-circle-fill me-1"></i> Amber (Partial)</div>
+                    <div class="small text-muted">Moderate thinning: Often partial improvement, usually combined with medicines</div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="p-3 rounded-3" style="background: #ffebee; border: 1px solid #ffcdd2;">
-                    <div class="fw-bold text-danger mb-1"><i class="bi bi-circle-fill me-1"></i> Red: Limited Response</div>
-                    <div class="small text-muted">Norwood Stage 6-7 / Ludwig Stage 3 - Complete baldness; hair transplant evaluated.</div>
+                    <div class="fw-bold text-danger mb-1"><i class="bi bi-circle-fill me-1"></i> Red (Limited)</div>
+                    <div class="small text-muted">Advanced thinning / Completely bald areas: Limited response; unlikely to regrow</div>
                   </div>
                 </div>
               </div>
@@ -752,7 +768,7 @@
             <!-- INFOGRAPHIC 4 -->
             <div class="infographic-strip mt-4">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 4: "Your PRP journey timeline"
+                INFOGRAPHIC 4: "Your PRP journey timeline": Consultation → Session 1 → Session 2 (Month 1) → Session 3 (Month 2) → Session 4 (Month 3, if advised) → Review at Month 6 → Maintenance.
               </h6>
               <div class="d-flex flex-wrap align-items-center justify-content-center gap-2 text-center">
                 <span class="badge bg-white text-dark p-2 border shadow-sm">Consultation</span>
@@ -772,16 +788,16 @@
             </div>
           </div>
 
-          <!-- Section 5: PRP Treatment Procedure: What Happens at Our Delhi Clinic -->
+          <!-- Section 6: PRP Treatment Procedure: What Happens at Our Delhi Clinic -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP Treatment Procedure: What Happens at Our Delhi Clinic</h2>
             
             <h4 class="fw-bold text-charcoal mt-3 mb-2">Before your first PRP session</h4>
             <ol class="ps-3 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li><strong>Consultation:</strong> history, hair-fall pattern, medicines, family history.</li>
-              <li><strong>Scalp examination:</strong> including trichoscopy.</li>
-              <li><strong>Tests if needed:</strong> such as haemoglobin, ferritin, thyroid, vitamin D and B12.</li>
-              <li><strong>Plan:</strong> whether PRP, medicines, or a combination suits you.</li>
+              <li>1. Consultation: history, hair-fall pattern, medicines, family history.</li>
+              <li>2. Scalp examination: including trichoscopy.</li>
+              <li>3. Tests if needed: such as haemoglobin, ferritin, thyroid, vitamin D and B12.</li>
+              <li>4. Plan: whether PRP, medicines, or a combination suits you.</li>
             </ol>
 
             <h4 class="fw-bold text-charcoal mt-3 mb-2">How to prepare</h4>
@@ -797,10 +813,10 @@
 
             <h4 class="fw-bold text-charcoal mt-3 mb-2">During the session (about 45-60 minutes)</h4>
             <ol class="ps-3 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li>A small amount of blood is drawn from your arm.</li>
-              <li>The sample is processed in a centrifuge to concentrate the platelets.</li>
-              <li>The scalp is cleaned and, if needed, numbing is applied.</li>
-              <li>PRP is injected with fine needles across thinning areas.</li>
+              <li>1. A small amount of blood is drawn from your arm.</li>
+              <li>2. The sample is processed in a centrifuge to concentrate the platelets.</li>
+              <li>3. The scalp is cleaned and, if needed, numbing is applied.</li>
+              <li>4. PRP is injected with fine needles across thinning areas.</li>
             </ol>
 
             <h4 class="fw-bold text-charcoal mt-3 mb-2">After the session</h4>
@@ -814,7 +830,7 @@
             <!-- INFOGRAPHIC 5 -->
             <div class="mt-4 pt-3 border-top">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 5: "Before, During, After PRP" (Three-Column Checklist)
+                INFOGRAPHIC 5: "Before, During, After PRP": three-column checklist (Do / Don't) for each phase.
               </h6>
               <div class="row g-3">
                 <div class="col-md-4">
@@ -846,34 +862,30 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP Results: How Soon and How Long?</h2>
             
+            <h5 class="fw-bold text-charcoal mt-3 mb-2">Timeline</h5>
             <div class="table-responsive">
               <table class="custom-table">
                 <thead>
                   <tr>
-                    <th style="width: 30%;">Timeline</th>
-                    <th>When</th>
+                    <th style="width: 35%;">When</th>
                     <th>What you may notice</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
                     <td><strong>Weeks 1-4</strong></td>
-                    <td>Immediate phase</td>
                     <td>Scalp settles; some people notice a change in shedding</td>
                   </tr>
                   <tr>
                     <td><strong>Months 2-3</strong></td>
-                    <td>Active response</td>
                     <td>Reduced hair fall; hair feels stronger</td>
                   </tr>
                   <tr>
                     <td><strong>Months 3-6</strong></td>
-                    <td>Density buildup</td>
                     <td>Visible improvement in thickness and density in responders</td>
                   </tr>
                   <tr>
                     <td><strong>Month 6+</strong></td>
-                    <td>Evaluation</td>
                     <td>Review and decide on maintenance</td>
                   </tr>
                 </tbody>
@@ -888,18 +900,18 @@
             <!-- INFOGRAPHIC 6 -->
             <div class="infographic-strip mt-4">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-2" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 6: "PRP results timeline" (Month-wise line 1 to 12)
+                INFOGRAPHIC 6: "PRP results timeline": month-wise line (1 to 12) showing shedding reduction, density gain, review/maintenance point. Add the note "Results vary."
               </h6>
               <div class="row g-2 text-center pt-2">
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="fw-bold text-gold">Month 1-2</div>
+                    <div class="fw-bold text-gold">Months 1-2</div>
                     <div class="small text-muted">Shedding reduction</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="fw-bold text-gold">Month 3-5</div>
+                    <div class="fw-bold text-gold">Months 3-5</div>
                     <div class="small text-muted">Density gain</div>
                   </div>
                 </div>
@@ -911,7 +923,7 @@
                 </div>
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="fw-bold text-gold">Month 6-12</div>
+                    <div class="fw-bold text-gold">Months 6-12</div>
                     <div class="small text-muted">Maintenance</div>
                   </div>
                 </div>
@@ -933,15 +945,15 @@
               This is also why some people report "bad results" online. Honest clinics tell you upfront when PRP is unlikely to help you.
             </p>
 
-            <h4 class="fw-bold text-charcoal mt-4 mb-2">Evidence-based perspective: real results or hype?</h4>
+            <h4 class="fw-bold text-charcoal mt-4 mb-2">Honest reviews: real results or hype?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP has genuine clinical evidence behind it, but marketing claims can sometimes be exaggerated. Be cautious of clinics promising instant or permanent fixes. A reliable clinic will discuss realistic clinical expectations, explain non-responders, and establish a clear follow-up plan.
+              PRP has genuine clinical evidence behind it, but the marketing around it is often exaggerated. Be cautious of clinics promising "100% regrowth", "guaranteed results" or "permanent baldness cure." A reliable clinic will show real before/after photos with consent, explain who did not respond, and set a review plan.
             </p>
           </div>
 
-          <!-- Section 7: Which PRP Is Recommended for Hair Loss? PRP vs GFC -->
+          <!-- Section 8: Which PRP Is Best for Hair Loss? PRP vs GFC -->
           <div class="prp-section-card fade-up">
-            <h2 class="lux-section-title mb-3">Which Option Is Recommended for Hair Loss? PRP vs GFC</h2>
+            <h2 class="lux-section-title mb-3">Which PRP Is Best for Hair Loss? PRP vs GFC</h2>
             
             <h4 class="fw-bold text-charcoal mt-3 mb-2">Types of PRP</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
@@ -955,7 +967,7 @@
               <li>• Kit-based vs manual preparation</li>
             </ul>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Research has not proved one single universal protocol for all patients. What matters most is a trained doctor, sterile single-use equipment, correct technique and a plan that fits your hair loss.
+              Research has not proved one single "best" protocol for all patients. What matters most is a trained doctor, sterile single-use equipment, correct technique and a plan that fits your hair loss.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">What is the difference between GFC and PRP?</h4>
@@ -970,7 +982,7 @@
             <!-- INFOGRAPHIC 7: PRP vs GFC at a glance -->
             <div class="mt-4 pt-3 border-top">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 7: "PRP vs GFC at a glance"
+                INFOGRAPHIC 7: "PRP vs GFC at a glance": two-column comparison (what it contains, process, evidence, comfort, cost).
               </h6>
               <div class="table-responsive">
                 <table class="custom-table">
@@ -1013,7 +1025,7 @@
             </div>
           </div>
 
-          <!-- Section 8: PRP vs Other Hair Loss Treatments -->
+          <!-- Section 9: PRP vs Other Hair Loss Treatments -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP vs Other Hair Loss Treatments</h2>
             
@@ -1037,7 +1049,7 @@
                     <td>Moves hair from donor area</td>
                   </tr>
                   <tr>
-                    <td><strong>Recommended for</strong></td>
+                    <td><strong>Best for</strong></td>
                     <td>Early-moderate thinning</td>
                     <td>Most pattern hair loss</td>
                     <td>Supportive care</td>
@@ -1092,21 +1104,21 @@
             <!-- INFOGRAPHIC 8 -->
             <div class="infographic-strip mt-4">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 8: "Which treatment for which stage?" (Decision-Flow)
+                INFOGRAPHIC 8: "Which treatment for which stage?": decision-flow (Early thinning → PRP + medicine; Advanced → transplant discussion).
               </h6>
               <div class="row g-3 text-center">
                 <div class="col-md-6">
                   <div class="p-3 bg-white rounded-3 border">
-                    <div class="fw-bold text-charcoal">Early Thinning / Hair Weakening</div>
+                    <div class="fw-bold text-charcoal">Early Thinning</div>
                     <div class="text-gold fw-bold my-1"><i class="bi bi-arrow-down-circle-fill"></i></div>
-                    <div class="small text-muted">PRP Therapy + Medical Therapy (Minoxidil / Nutritional support)</div>
+                    <div class="small text-muted">PRP + medicine</div>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="p-3 bg-white rounded-3 border">
-                    <div class="fw-bold text-charcoal">Advanced / Completely Bald Scalp</div>
+                    <div class="fw-bold text-charcoal">Advanced / Stable Baldness</div>
                     <div class="text-gold fw-bold my-1"><i class="bi bi-arrow-down-circle-fill"></i></div>
-                    <div class="small text-muted">Hair Transplant Discussion + Supporting Medical Therapy</div>
+                    <div class="small text-muted">Transplant discussion</div>
                   </div>
                 </div>
               </div>
@@ -1188,43 +1200,43 @@
             <!-- INFOGRAPHIC 9 -->
             <div class="infographic-strip mt-4">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 9: "What decides PRP cost"
+                INFOGRAPHIC 9: "What decides PRP cost": icon grid of 6 factors, plus a sample course estimate [from your pricing].
               </h6>
               <div class="row g-2 text-center">
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
                     <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-box-seam"></i></div>
-                    <div class="small fw-bold">PRP Kit System</div>
+                    <div class="small fw-bold">PRP system / kit</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
                     <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-layers"></i></div>
-                    <div class="small fw-bold">Number of Sessions</div>
+                    <div class="small fw-bold">Number of sessions</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
                     <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-fullscreen"></i></div>
-                    <div class="small fw-bold">Treatment Area</div>
+                    <div class="small fw-bold">Area treated</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
                     <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-plus-circle"></i></div>
-                    <div class="small fw-bold">Targeted Add-ons</div>
+                    <div class="small fw-bold">Add-ons</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
                     <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-award"></i></div>
-                    <div class="small fw-bold">Doctor Experience</div>
+                    <div class="small fw-bold">Doctor and clinic standards</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
                     <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-tag"></i></div>
-                    <div class="small fw-bold">Package Options</div>
+                    <div class="small fw-bold">Package vs per session</div>
                   </div>
                 </div>
               </div>
@@ -1234,7 +1246,7 @@
             </div>
           </div>
 
-          <!-- Section 10: Is PRP Safe? Side Effects and Risks -->
+          <!-- Section 11: Is PRP Safe? Side Effects and Risks -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">Is PRP Safe? Side Effects and Risks</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
@@ -1278,63 +1290,63 @@
             </div>
           </div>
 
-          <!-- Section 11: How to Choose a PRP Doctor and Clinic in Delhi -->
+          <!-- Section 12: How to Choose the Best PRP Doctor and Clinic in Delhi -->
           <div class="prp-section-card fade-up">
-            <h2 class="lux-section-title mb-3">How to Choose a PRP Doctor and Clinic in Delhi</h2>
+            <h2 class="lux-section-title mb-3">How to Choose the Best PRP Doctor and Clinic in Delhi</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Instead of relying on promotional claims, look for clinical standards. Use this checklist:
+              Instead of searching for a "best PRP clinic" label, look for proof. Use this checklist:
             </p>
 
             <ol class="ps-3 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li>A qualified dermatologist performs or supervises the treatment (check registration with the medical council).</li>
-              <li>Diagnosis comes first. They examine your scalp and ask about tests before recommending PRP.</li>
-              <li>Single-use, sterile kits opened in front of you.</li>
-              <li>A clear plan: number of sessions, intervals, maintenance, written cost.</li>
-              <li>Honest expectations: they tell you the limits.</li>
-              <li>Transparent discussion of clinical expectations and timelines.</li>
-              <li>Follow-up and review are built in.</li>
+              <li>1. A qualified dermatologist performs or supervises the treatment (check registration with the medical council).</li>
+              <li>2. Diagnosis comes first. They examine your scalp and ask about tests before recommending PRP.</li>
+              <li>3. Single-use, sterile kits opened in front of you.</li>
+              <li>4. A clear plan: number of sessions, intervals, maintenance, written cost.</li>
+              <li>5. Honest expectations: they tell you the limits.</li>
+              <li>6. Real before/after photos with consent and the same lighting/angles.</li>
+              <li>7. Follow-up and review are built in.</li>
             </ol>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Red flags to avoid</h4>
             <ul class="list-unstyled ps-2 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li>• Unrealistic regrowth or definitive promises</li>
+              <li>• "Guaranteed" or "100% regrowth" claims</li>
               <li>• Pressure to buy a large package on the first visit</li>
               <li>• No doctor examination, treatment started by a technician only</li>
               <li>• No explanation of cause or alternatives</li>
               <li>• Unclear pricing or hidden add-ons</li>
-              <li>• Misleading promotional photos with different lighting, angles or styling</li>
+              <li>• Before/after photos with different lighting, angles or hair styling</li>
               <li>• Refusing to share the kit or procedure details</li>
             </ul>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Questions to ask before PRP</h4>
             <ol class="ps-3 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li>Am I a good candidate? What is my diagnosis?</li>
-              <li>How many sessions do you recommend for me, and why?</li>
-              <li>What results are realistic in my case?</li>
-              <li>Which PRP method/kit do you use?</li>
-              <li>What is the total cost including maintenance?</li>
-              <li>What if I do not respond?</li>
-              <li>Can PRP be combined with my current medicines?</li>
-              <li>What are my specific risks?</li>
+              <li>1. Am I a good candidate? What is my diagnosis?</li>
+              <li>2. How many sessions do you recommend for me, and why?</li>
+              <li>3. What results are realistic in my case?</li>
+              <li>4. Which PRP method/kit do you use?</li>
+              <li>5. What is the total cost including maintenance?</li>
+              <li>6. What if I do not respond?</li>
+              <li>7. Can PRP be combined with my current medicines?</li>
+              <li>8. What are my specific risks?</li>
             </ol>
 
             <!-- INFOGRAPHIC 10 -->
             <div class="mt-4 pt-3 border-top">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 10: "Choose a PRP clinic: checklist and red flags"
+                INFOGRAPHIC 10: "Choose a PRP clinic: checklist and red flags": two columns, green ticks (7 points) and red crosses (red flags).
               </h6>
               <div class="row g-4">
                 <div class="col-md-6">
                   <div class="checklist-card green-card">
-                    <h6 class="fw-bold text-success mb-2"><i class="bi bi-check-circle-fill me-1"></i> Green Ticks (7 Standards)</h6>
+                    <h6 class="fw-bold text-success mb-2"><i class="bi bi-check-circle-fill me-1"></i> Green Ticks (7 Points)</h6>
                     <ul class="list-unstyled ps-2 mb-0 small" style="line-height: 1.7; color: #4a4a4a;">
-                      <li><i class="bi bi-check2 text-success me-1"></i> 1. Qualified dermatologist supervision</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 2. Scalp examination & diagnosis first</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 3. Sterile single-use kits opened in front</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 4. Clear transparent protocol & cost</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 5. Honest limits without exaggerated claims</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 6. Transparent, medically guided assessment</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 7. Built-in progress reviews</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 1. A qualified dermatologist performs or supervises the treatment (check registration with the medical council).</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 2. Diagnosis comes first. They examine your scalp and ask about tests before recommending PRP.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 3. Single-use, sterile kits opened in front of you.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 4. A clear plan: number of sessions, intervals, maintenance, written cost.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 5. Honest expectations: they tell you the limits.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 6. Real before/after photos with consent and the same lighting/angles.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 7. Follow-up and review are built in.</li>
                     </ul>
                   </div>
                 </div>
@@ -1342,13 +1354,13 @@
                   <div class="checklist-card red-card">
                     <h6 class="fw-bold text-danger mb-2"><i class="bi bi-x-circle-fill me-1"></i> Red Flags to Avoid</h6>
                     <ul class="list-unstyled ps-2 mb-0 small" style="line-height: 1.7; color: #4a4a4a;">
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Unrealistic regrowth or permanent promises</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Pressure to buy huge package on day 1</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Technician-only treatments with no doctor</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> No diagnosis of hair loss etiology</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Hidden fees & non-transparent pricing</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Misleading lighting in photos</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Lack of kit / procedure disclosures</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> "Guaranteed" or "100% regrowth" claims</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Pressure to buy a large package on the first visit</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> No doctor examination, treatment started by a technician only</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> No explanation of cause or alternatives</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Unclear pricing or hidden add-ons</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Before/after photos with different lighting, angles or hair styling</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Refusing to share the kit or procedure details</li>
                     </ul>
                   </div>
                 </div>
@@ -1399,7 +1411,7 @@
             <!-- INFOGRAPHIC 11 -->
             <div class="infographic-strip mt-4">
               <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 11: "Hair-healthy plate and habits"
+                INFOGRAPHIC 11: "Hair-healthy plate and habits": simple plate graphic with food groups + 4 lifestyle icons.
               </h6>
               <div class="row g-2 text-center">
                 <div class="col-6 col-md-3">
@@ -1778,7 +1790,7 @@
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq20">
-                    20. How do I choose a PRP clinic in Delhi?
+                    20. How do I choose the best PRP clinic in Delhi?
                   </button>
                 </h3>
                 <div id="faq20" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
@@ -1797,7 +1809,7 @@
                 </h3>
                 <div id="faq21" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Unrealistic claims, pressure to pay for large packages, no doctor examination, and unclear pricing.
+                    Guaranteed results, pressure to pay for large packages, no doctor examination, unclear pricing and edited before/after photos.
                   </div>
                 </div>
               </div>
