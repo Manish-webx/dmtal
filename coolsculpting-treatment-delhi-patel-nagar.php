@@ -623,7 +623,7 @@
 
             <div class="my-4 text-center">
               <div class="concern-img-frame shadow-sm">
-                <img src="images/What-Is-CoolSculpting-Treatment.webp"
+                <img src="images/what-is-coolsculpting.png"
                   alt="Understanding and Treating Facial Melasma and Hyperpigmentation with Cosmelan Peel"
                   class="img-fluid w-100">
               </div>
@@ -983,6 +983,14 @@
               cold agglutinin disease and paroxysmal cold haemoglobinuria, may make treatment unsuitable. The clinician
               must review the device-specific contraindications before proceeding.
             </p>
+
+            <div class="my-4 text-center">
+              <div class="concern-img-frame shadow-sm">
+                <img src="images/who-should-avoid-fat-freezing.png"
+                  alt="Understanding and Treating Facial Melasma and Hyperpigmentation with Cosmelan Peel"
+                  class="img-fluid w-100">
+              </div>
+            </div>
 
             <div class="alert-callout-warning mb-4">
               <h3 class="h6 fw-bold text-dark mb-2"><i class="bi bi-exclamation-triangle-fill text-warning me-2"></i>

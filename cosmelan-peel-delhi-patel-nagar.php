@@ -561,7 +561,7 @@
             <!-- Embedded Image Section -->
             <div class="my-4 text-center">
               <div class="concern-img-frame shadow-sm">
-                <img src="images/What-Concerns-Can-Cosmelan-Peel.png"
+                <img src="images/What-Concerns-Can-Cosmelan.jpeg"
                   alt="Understanding and Treating Facial Melasma and Hyperpigmentation with Cosmelan Peel"
                   class="img-fluid w-100">
               </div>
