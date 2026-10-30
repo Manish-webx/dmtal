@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Dermatologist-led PRP therapy for hair loss in Delhi. Know cost, sessions, results, risks and who is suitable before you decide. Book a consultation.">
-  <meta name="keywords" content="PRP Hair Treatment in Delhi, PRP cost Delhi, PRP therapy for hair loss, Dr Pooja Varshney, Dermatales Patel Nagar, PRP sessions hair growth">
+  <meta name="keywords"
+    content="PRP Hair Treatment in Delhi, PRP cost Delhi, PRP therapy for hair loss, Dr Pooja Varshney, Dermatales Patel Nagar, PRP sessions hair growth">
   <meta name="author" content="Dr. Pooja Varshney | Dermatales">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/prp-hair-treatment-in-delhi">
@@ -296,18 +297,7 @@
 
   <style>
     .prp-section-card {
-      background: #ffffff;
-      border: 1px solid #ebdcd5;
-      border-radius: 18px;
-      padding: 2rem;
-      margin-bottom: 2rem;
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.02);
-      transition: all 0.3s ease;
-    }
-
-    .prp-section-card:hover {
-      border-color: #dfb2a4;
-      box-shadow: 0 10px 28px rgba(201, 122, 99, 0.08);
+      margin-bottom: 3.5rem;
     }
 
     .infographic-strip {
@@ -478,12 +468,16 @@
         <div class="hero-layout-text">
           <h1 class="hero-title-lux">PRP Hair Treatment <span class="text-charcoal-deep italic">in Delhi</span></h1>
           <p class="section-lead text-white-50" style="max-width: 600px;">
-            Dermatologist-led PRP therapy for hair loss in Delhi. Know cost, sessions, results, risks and who is suitable before you decide.
+            Dermatologist-led PRP therapy for hair loss in Delhi. Know cost, sessions, results, risks and who is
+            suitable before you decide.
           </p>
           <div class="mt-4">
-            <div class="doctor-badge text-white" style="background: rgba(255,255,255,0.15); border-color: rgba(255,255,255,0.3); color: #fff;">
+            <div class="doctor-badge text-white"
+              style="background: rgba(255,255,255,0.15); border-color: rgba(255,255,255,0.3); color: #fff;">
               <i class="bi bi-patch-check-fill text-warning"></i>
-              <span>Medically reviewed by <a href="https://www.dermatales.com/dr-pooja-varshney" class="text-white fw-bold text-decoration-underline">Dr. Pooja Varshney</a>, MBBS, MD (Dermatology)</span>
+              <span>Medically reviewed by <a href="https://www.dermatales.com/dr-pooja-varshney"
+                  class="text-white fw-bold text-decoration-underline">Dr. Pooja Varshney</a>, MBBS, MD
+                (Dermatology)</span>
             </div>
           </div>
         </div>
@@ -504,7 +498,13 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP Hair Treatment in Delhi</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP Hair Treatment in Delhi at Dermatales uses a concentrated part of your own blood, injected into the scalp to support weakened hair follicles and encourage healthier hair growth. Dr. Pooja Varshney, who has been practising since 2015, evaluates the cause and pattern of hair loss before recommending PRP therapy. It works best for early-to-moderate pattern hair thinning. Most people need 3–4 PRP sessions about a month apart, with visible changes usually developing over 3–6 months. PRP is not a guaranteed or permanent solution, and the treatment plan is personalized based on your hair loss, scalp condition, and overall hair health.
+              PRP Hair Treatment in Delhi at Dermatales uses a concentrated part of your own blood, injected into the
+              scalp to support weakened hair follicles and encourage healthier hair growth. Dr. Pooja Varshney, who has
+              been practising since 2015, evaluates the cause and pattern of hair loss before recommending PRP therapy.
+              It works best for early-to-moderate pattern hair thinning. Most people need 3–4 PRP sessions about a month
+              apart, with visible changes usually developing over 3–6 months. PRP is not a guaranteed or permanent
+              solution, and the treatment plan is personalized based on your hair loss, scalp condition, and overall
+              hair health.
             </p>
 
             <div class="p-3 rounded-4 mt-3" style="background: #faf8f5; border: 1px solid #ebdcd5;">
@@ -534,8 +534,10 @@
 
             <!-- INFOGRAPHIC 1: PRP at a glance -->
             <div class="infographic-strip mt-4">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 1: "PRP at a glance": 5 icons in one strip (sessions, duration, downtime, results timeline, cost range). Place right below this box.
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 1: "PRP at a glance": 5 icons in one strip (sessions, duration, downtime, results timeline,
+                cost range). Place right below this box.
               </h6>
               <div class="row g-2 text-center">
                 <div class="col-6 col-md">
@@ -578,7 +580,10 @@
 
             <div class="p-3 rounded-3 mt-4 text-center" style="background: #fdf6f0; border-left: 4px solid #c97a63;">
               <p class="mb-0 fw-medium text-charcoal">
-                Want to know if PRP suits your hair loss? <a href="https://www.dermatales.com/contact-us" class="text-gold fw-bold text-decoration-underline">Book a consultation</a> or message us on WhatsApp <a href="https://wa.me/918700530623" class="text-gold fw-bold text-decoration-underline">[+91 87005 30623]</a>.
+                Want to know if PRP suits your hair loss? <a href="https://www.dermatales.com/contact-us"
+                  class="text-gold fw-bold text-decoration-underline">Book a consultation</a> or message us on WhatsApp
+                <a href="https://wa.me/918700530623" class="text-gold fw-bold text-decoration-underline">[+91 87005
+                  30623]</a>.
               </p>
             </div>
           </div>
@@ -587,57 +592,53 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">What Is PRP Therapy for Hair?</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP stands for Platelet-Rich Plasma. Platelets are blood cells that carry growth factors, which are proteins involved in healing and tissue repair. In PRP therapy for hair, a small amount of your blood is taken, spun in a centrifuge to concentrate the platelets, and the concentrate is injected into areas of thinning scalp.
+              PRP stands for Platelet-Rich Plasma. Platelets are blood cells that carry growth factors, which are
+              proteins involved in healing and tissue repair. In PRP therapy for hair, a small amount of your blood is
+              taken, spun in a centrifuge to concentrate the platelets, and the concentrate is injected into areas of
+              thinning scalp.
             </p>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              The idea is to support follicles that are weakened but still alive, helping prolong the growth phase of hair and improve hair thickness. Because it uses your own blood, the risk of allergic reaction is low.
+              The idea is to support follicles that are weakened but still alive, helping prolong the growth phase of
+              hair and improve hair thickness. Because it uses your own blood, the risk of allergic reaction is low.
             </p>
 
             <h5 class="fw-bold text-charcoal mt-4 mb-2">What PRP is not:</h5>
             <ul class="list-unstyled ps-2 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li>• It is not a <a href="https://www.dermatales.com/hair-transplant" class="text-gold fw-bold text-decoration-underline">hair transplant</a>.</li>
+              <li>• It is not a <a href="https://www.dermatales.com/hair-transplant"
+                  class="text-gold fw-bold text-decoration-underline">hair transplant</a>.</li>
               <li>• It does not create new follicles.</li>
               <li>• It is not a one-time cure for genetic hair loss.</li>
             </ul>
 
             <h5 class="fw-bold text-charcoal mt-3 mb-2">What does the evidence say?</h5>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Several reviews of clinical trials report that PRP can increase hair density and thickness in androgenetic alopecia (<a href="https://www.dermatales.com/hair-loss-treatment-delhi" class="text-gold fw-bold text-decoration-underline">pattern hair loss</a>). However, PRP preparation methods, injection techniques and session schedules differ between studies, so results are not fully standardized and vary from person to person. This is why a doctor's assessment matters more than the brand of kit alone.
+              Several reviews of clinical trials report that PRP can increase hair density and thickness in androgenetic
+              alopecia (<a href="https://www.dermatales.com/hair-loss-treatment-delhi"
+                class="text-gold fw-bold text-decoration-underline">pattern hair loss</a>). However, PRP preparation
+              methods, injection techniques and session schedules differ between studies, so results are not fully
+              standardized and vary from person to person. This is why a doctor's assessment matters more than the brand
+              of kit alone.
             </p>
-          </div>
-
-          <!-- Section 3: Patient results -->
-          <div class="prp-section-card fade-up">
-            <h2 class="lux-section-title mb-3">Patient results</h2>
-            <div class="p-4 rounded-4 mb-4 text-center" style="background: #faf7f4; border: 1px dashed #c97a63;">
-              <div class="info-icon mx-auto mb-3" style="width: 50px; height: 50px; border-radius: 50%; background: #ffffff; display: flex; align-items: center; justify-content: center; color: #c97a63; font-size: 1.4rem; box-shadow: 0 4px 12px rgba(201, 122, 99, 0.15);"><i class="bi bi-images"></i></div>
-              <p class="text-charcoal fw-medium mb-1" style="line-height: 1.8;">
-                [Add only real, consented before/after photos. For each: age, hair loss type, sessions done, timeline, same angle and lighting. Add: "Individual results vary."]
-              </p>
-              <div class="small text-muted mt-2"><em>Individual results vary.</em></div>
-            </div>
-
-            <div class="p-4 rounded-4 text-center" style="background: #faf8f5; border: 1px dashed #1b2a4a;">
-              <div class="info-icon mx-auto mb-3" style="width: 50px; height: 50px; border-radius: 50%; background: #ffffff; display: flex; align-items: center; justify-content: center; color: #1b2a4a; font-size: 1.4rem; box-shadow: 0 4px 12px rgba(27, 42, 74, 0.15);"><i class="bi bi-star-fill text-warning"></i></div>
-              <p class="text-charcoal fw-medium mb-0" style="line-height: 1.8;">
-                [Add Google reviews widget with real reviews only]
-              </p>
-            </div>
           </div>
 
           <!-- Section 3: Is PRP Right for Your Hair Loss? -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">Is PRP Right for Your Hair Loss?</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              The most common reason PRP "doesn't work" is that it was done for the wrong type of hair loss. <a href="https://www.dermatales.com/blog/hair-fall-causes" class="text-gold fw-bold text-decoration-underline">Hair fall</a> has many causes, and PRP mainly helps pattern thinning.
+              The most common reason PRP "doesn't work" is that it was done for the wrong type of hair loss. <a
+                href="https://www.dermatales.com/blog/hair-fall-causes"
+                class="text-gold fw-bold text-decoration-underline">Hair fall</a> has many causes, and PRP mainly helps
+              pattern thinning.
             </p>
 
             <div class="row g-4 my-3">
               <div class="col-md-6">
                 <div class="checklist-card green-card">
-                  <h5 class="fw-bold text-success mb-3"><i class="bi bi-check-circle-fill me-2"></i>PRP may be suitable if you have:</h5>
+                  <h5 class="fw-bold text-success mb-3"><i class="bi bi-check-circle-fill me-2"></i>PRP may be suitable
+                    if you have:</h5>
                   <ul class="list-unstyled ps-2 mb-0" style="line-height: 1.8; color: #4a4a4a;">
-                    <li>• Early or moderate male pattern hair loss (widening parting, receding temples, crown thinning)</li>
+                    <li>• Early or moderate male pattern hair loss (widening parting, receding temples, crown thinning)
+                    </li>
                     <li>• Female pattern hair thinning (diffuse thinning at the top)</li>
                     <li>• Hair that is thinner but still present (miniaturised follicles are still alive)</li>
                     <li>• Thinning that has been evaluated, with other causes addressed or ruled out</li>
@@ -647,9 +648,11 @@
 
               <div class="col-md-6">
                 <div class="checklist-card red-card">
-                  <h5 class="fw-bold text-danger mb-3"><i class="bi bi-exclamation-triangle-fill me-2"></i>A doctor must evaluate first if you have:</h5>
+                  <h5 class="fw-bold text-danger mb-3"><i class="bi bi-exclamation-triangle-fill me-2"></i>A doctor must
+                    evaluate first if you have:</h5>
                   <ul class="list-unstyled ps-2 mb-0" style="line-height: 1.8; color: #4a4a4a;">
-                    <li>• Sudden heavy shedding (could be telogen effluvium after fever, stress, surgery, crash dieting, childbirth)</li>
+                    <li>• Sudden heavy shedding (could be telogen effluvium after fever, stress, surgery, crash dieting,
+                      childbirth)</li>
                     <li>• Patchy hair loss (alopecia areata)</li>
                     <li>• Scarring alopecia, scalp redness, pain or pus</li>
                     <li>• Thyroid issues, PCOS, anaemia, low ferritin, low vitamin D/B12</li>
@@ -663,13 +666,19 @@
 
             <div class="p-3 rounded-3 my-3" style="background: #faf8f5; border-left: 4px solid #1b2a4a;">
               <p class="mb-0" style="line-height: 1.7; color: #4a4a4a;">
-                <strong>Why we check the cause first:</strong> If thyroid, iron or hormonal problems are driving your hair fall, PRP alone will give poor results. We may advise blood tests and scalp examination (trichoscopy) before recommending any treatment.
+                <strong>Why we check the cause first:</strong> If thyroid, iron or hormonal problems are driving your
+                hair fall, PRP alone will give poor results. We may advise blood tests and scalp examination
+                (trichoscopy) before recommending any treatment.
               </p>
             </div>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Will PRP work if I have severe thinning?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP needs living follicles to work with. In severe thinning, results are usually more modest. In completely bald, smooth scalp areas where follicles have shut down, PRP is unlikely to bring hair back, and a <a href="https://www.dermatales.com/hair-transplant" class="text-gold fw-bold text-decoration-underline">hair transplant</a> (with medical therapy) may be the realistic option.
+              PRP needs living follicles to work with. In severe thinning, results are usually more modest. In
+              completely bald, smooth scalp areas where follicles have shut down, PRP is unlikely to bring hair back,
+              and a <a href="https://www.dermatales.com/hair-transplant"
+                class="text-gold fw-bold text-decoration-underline">hair transplant</a> (with medical therapy) may be
+              the realistic option.
             </p>
 
             <!-- Table: PRP for early vs advanced hair loss -->
@@ -705,26 +714,32 @@
 
             <!-- INFOGRAPHIC 3 -->
             <div class="p-3 rounded-4 mt-4" style="background: #faf7f4; border: 1px solid #ebdcd5;">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 3: "Where PRP helps most": Norwood scale (men) and Ludwig scale (women) illustrations, with colour coding: green (best), amber (partial), red (limited).
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 3: "Where PRP helps most": Norwood scale (men) and Ludwig scale (women) illustrations, with
+                colour coding: green (best), amber (partial), red (limited).
               </h6>
               <div class="row g-3 text-center">
                 <div class="col-md-4">
                   <div class="p-3 rounded-3" style="background: #e8f5e9; border: 1px solid #a5d6a7;">
                     <div class="fw-bold text-success mb-1"><i class="bi bi-circle-fill me-1"></i> Green (Best)</div>
-                    <div class="small text-muted">Early thinning: Best chance of visible improvement and slowing of loss</div>
+                    <div class="small text-muted">Early thinning: Best chance of visible improvement and slowing of loss
+                    </div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="p-3 rounded-3" style="background: #fff8e1; border: 1px solid #ffe082;">
-                    <div class="fw-bold text-warning mb-1" style="color: #b78103 !important;"><i class="bi bi-circle-fill me-1"></i> Amber (Partial)</div>
-                    <div class="small text-muted">Moderate thinning: Often partial improvement, usually combined with medicines</div>
+                    <div class="fw-bold text-warning mb-1" style="color: #b78103 !important;"><i
+                        class="bi bi-circle-fill me-1"></i> Amber (Partial)</div>
+                    <div class="small text-muted">Moderate thinning: Often partial improvement, usually combined with
+                      medicines</div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="p-3 rounded-3" style="background: #ffebee; border: 1px solid #ffcdd2;">
                     <div class="fw-bold text-danger mb-1"><i class="bi bi-circle-fill me-1"></i> Red (Limited)</div>
-                    <div class="small text-muted">Advanced thinning / Completely bald areas: Limited response; unlikely to regrow</div>
+                    <div class="small text-muted">Advanced thinning / Completely bald areas: Limited response; unlikely
+                      to regrow</div>
                   </div>
                 </div>
               </div>
@@ -732,14 +747,21 @@
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Can PRP regrow hair, or does it only stop loss?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Both are possible, in different degrees. Many people notice reduced shedding first, followed by thicker, stronger hair in thinning areas. Regrowth of fully new hair in areas that have lost hair for years is less predictable. A realistic goal is better density and slower progression, not a teenage hairline.
+              Both are possible, in different degrees. Many people notice reduced shedding first, followed by thicker,
+              stronger hair in thinning areas. Regrowth of fully new hair in areas that have lost hair for years is less
+              predictable. A realistic goal is better density and slower progression, not a teenage hairline.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Men, women and young adults</h4>
             <ul class="list-unstyled ps-2 mb-0" style="line-height: 1.8; color: #4a4a4a;">
-              <li>• <strong>Men:</strong> PRP is commonly used for early pattern hair loss, often alongside medicines. Ask your doctor about combining it with a therapy that treats the hormonal cause.</li>
-              <li>• <strong>Women:</strong> PRP can be used for <a href="https://www.dermatales.com/blog/prp-for-women" class="text-gold fw-bold text-decoration-underline">female pattern thinning</a> after evaluation. Pregnancy and breastfeeding need a doctor's decision. Women with sudden diffuse shedding should first get iron, thyroid and vitamin levels checked.</li>
-              <li>• <strong>Young adults (early 20s):</strong> Early hair loss can progress, so early assessment helps. PRP is not a substitute for finding the cause, and medical therapy is often the foundation.</li>
+              <li>• <strong>Men:</strong> PRP is commonly used for early pattern hair loss, often alongside medicines.
+                Ask your doctor about combining it with a therapy that treats the hormonal cause.</li>
+              <li>• <strong>Women:</strong> PRP can be used for <a href="https://www.dermatales.com/blog/prp-for-women"
+                  class="text-gold fw-bold text-decoration-underline">female pattern thinning</a> after evaluation.
+                Pregnancy and breastfeeding need a doctor's decision. Women with sudden diffuse shedding should first
+                get iron, thyroid and vitamin levels checked.</li>
+              <li>• <strong>Young adults (early 20s):</strong> Early hair loss can progress, so early assessment helps.
+                PRP is not a substitute for finding the cause, and medical therapy is often the foundation.</li>
             </ul>
           </div>
 
@@ -747,28 +769,36 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">How Many PRP Sessions Do You Need?</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              <strong>Short answer:</strong> Most protocols use 3-4 sessions spaced about 4-6 weeks apart, followed by maintenance sessions (often every 6-12 months, depending on response).
+              <strong>Short answer:</strong> Most protocols use 3-4 sessions spaced about 4-6 weeks apart, followed by
+              maintenance sessions (often every 6-12 months, depending on response).
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Are 3 sessions enough to stop hair fall?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              For some people with early thinning, 3 sessions give a clear reduction in shedding. For others, 4-6 sessions or a stronger combination plan is needed. Three sessions are a starting course, not a promise. Your doctor should review your progress at around the 3-month and 6-month mark.
+              For some people with early thinning, 3 sessions give a clear reduction in shedding. For others, 4-6
+              sessions or a stronger combination plan is needed. Three sessions are a starting course, not a promise.
+              Your doctor should review your progress at around the 3-month and 6-month mark.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Is PRP a one-time treatment?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              No. Pattern hair loss is ongoing, so the benefit of PRP fades over time without maintenance. Think of it as a programme: an initial course, then periodic top-ups [schedule as per Dr. Pooja Varshney's protocol].
+              No. Pattern hair loss is ongoing, so the benefit of PRP fades over time without maintenance. Think of it
+              as a programme: an initial course, then periodic top-ups [schedule as per Dr. Pooja Varshney's protocol].
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">What happens if you stop PRP midway?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              If you stop before completing the course, you may see only partial or short-lived benefit. If you stop after finishing the course and maintenance, the underlying pattern hair loss may gradually continue. This does not mean PRP was harmful. It means the cause was never switched off.
+              If you stop before completing the course, you may see only partial or short-lived benefit. If you stop
+              after finishing the course and maintenance, the underlying pattern hair loss may gradually continue. This
+              does not mean PRP was harmful. It means the cause was never switched off.
             </p>
 
             <!-- INFOGRAPHIC 4 -->
             <div class="infographic-strip mt-4">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 4: "Your PRP journey timeline": Consultation → Session 1 → Session 2 (Month 1) → Session 3 (Month 2) → Session 4 (Month 3, if advised) → Review at Month 6 → Maintenance.
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 4: "Your PRP journey timeline": Consultation → Session 1 → Session 2 (Month 1) → Session 3
+                (Month 2) → Session 4 (Month 3, if advised) → Review at Month 6 → Maintenance.
               </h6>
               <div class="d-flex flex-wrap align-items-center justify-content-center gap-2 text-center">
                 <span class="badge bg-white text-dark p-2 border shadow-sm">Consultation</span>
@@ -791,7 +821,7 @@
           <!-- Section 6: PRP Treatment Procedure: What Happens at Our Delhi Clinic -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP Treatment Procedure: What Happens at Our Delhi Clinic</h2>
-            
+
             <h4 class="fw-bold text-charcoal mt-3 mb-2">Before your first PRP session</h4>
             <ol class="ps-3 mb-4" style="line-height: 1.8; color: #4a4a4a;">
               <li>1. Consultation: history, hair-fall pattern, medicines, family history.</li>
@@ -807,7 +837,8 @@
             <ul class="list-unstyled ps-2 mb-4" style="line-height: 1.8; color: #4a4a4a;">
               <li>• Have a light meal and stay hydrated before the session.</li>
               <li>• Avoid alcohol and smoking around the session.</li>
-              <li>• Tell the doctor about all medicines, especially blood thinners and aspirin. Do not stop prescribed medicines on your own.</li>
+              <li>• Tell the doctor about all medicines, especially blood thinners and aspirin. Do not stop prescribed
+                medicines on your own.</li>
               <li>• Wash your hair normally before the visit; avoid heavy oils or styling products on the day.</li>
             </ul>
 
@@ -822,36 +853,44 @@
             <h4 class="fw-bold text-charcoal mt-3 mb-2">After the session</h4>
             <ul class="list-unstyled ps-2 mb-4" style="line-height: 1.8; color: #4a4a4a;">
               <li>• Mild redness, tenderness, swelling or a tight scalp can last a day or two.</li>
-              <li>• Avoid washing hair for the first 24 hours, and avoid heavy workouts, sauna and swimming for 24-48 hours.</li>
+              <li>• Avoid washing hair for the first 24 hours, and avoid heavy workouts, sauna and swimming for 24-48
+                hours.</li>
               <li>• Avoid scratching or rubbing the scalp.</li>
-              <li>• Some people notice temporary extra shedding in the first weeks. This is usually part of the cycle resetting, but tell your doctor if it worries you.</li>
+              <li>• Some people notice temporary extra shedding in the first weeks. This is usually part of the cycle
+                resetting, but tell your doctor if it worries you.</li>
             </ul>
 
             <!-- INFOGRAPHIC 5 -->
             <div class="mt-4 pt-3 border-top">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 5: "Before, During, After PRP": three-column checklist (Do / Don't) for each phase.
-              </h6>
+
               <div class="row g-3">
                 <div class="col-md-4">
                   <div class="checklist-card">
-                    <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-1-circle-fill text-gold me-1"></i> Before PRP</h6>
-                    <div class="small mb-2 text-success"><strong>DO:</strong> Hydrate well, have a light meal, wash hair.</div>
-                    <div class="small text-danger"><strong>DON'T:</strong> Alcohol, heavy hair oils, stop meds unguided.</div>
+                    <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-1-circle-fill text-gold me-1"></i> Before PRP
+                    </h6>
+                    <div class="small mb-2 text-success"><strong>DO:</strong> Hydrate well, have a light meal, wash
+                      hair.</div>
+                    <div class="small text-danger"><strong>DON'T:</strong> Alcohol, heavy hair oils, stop meds unguided.
+                    </div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="checklist-card">
-                    <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-2-circle-fill text-gold me-1"></i> During PRP</h6>
-                    <div class="small mb-2 text-success"><strong>DO:</strong> Relax; local numbing ensures minimal sting.</div>
-                    <div class="small text-muted"><strong>PROCESS:</strong> Blood draw → Centrifuge → Scalp micro-injections.</div>
+                    <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-2-circle-fill text-gold me-1"></i> During PRP
+                    </h6>
+                    <div class="small mb-2 text-success"><strong>DO:</strong> Relax; local numbing ensures minimal
+                      sting.</div>
+                    <div class="small text-muted"><strong>PROCESS:</strong> Blood draw → Centrifuge → Scalp
+                      micro-injections.</div>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="checklist-card">
-                    <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-3-circle-fill text-gold me-1"></i> After PRP</h6>
+                    <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-3-circle-fill text-gold me-1"></i> After PRP
+                    </h6>
                     <div class="small mb-2 text-success"><strong>DO:</strong> Resume normal routine; gentle care.</div>
-                    <div class="small text-danger"><strong>DON'T:</strong> Hair wash 24h, heavy gym/sauna 48h, scalp rubbing.</div>
+                    <div class="small text-danger"><strong>DON'T:</strong> Hair wash 24h, heavy gym/sauna 48h, scalp
+                      rubbing.</div>
                   </div>
                 </div>
               </div>
@@ -861,7 +900,7 @@
           <!-- Section 6: PRP Results: How Soon and How Long? -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP Results: How Soon and How Long?</h2>
-            
+
             <h5 class="fw-bold text-charcoal mt-3 mb-2">Timeline</h5>
             <div class="table-responsive">
               <table class="custom-table">
@@ -894,13 +933,17 @@
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">How long do PRP results last?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Results are not permanent. Many people maintain benefits for around 6-12 months after the initial course with maintenance planning, but this varies widely. Age, stage of hair loss, genetics, lifestyle and whether the underlying cause is treated all affect duration.
+              Results are not permanent. Many people maintain benefits for around 6-12 months after the initial course
+              with maintenance planning, but this varies widely. Age, stage of hair loss, genetics, lifestyle and
+              whether the underlying cause is treated all affect duration.
             </p>
 
             <!-- INFOGRAPHIC 6 -->
             <div class="infographic-strip mt-4">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-2" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 6: "PRP results timeline": month-wise line (1 to 12) showing shedding reduction, density gain, review/maintenance point. Add the note "Results vary."
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-2"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 6: "PRP results timeline": month-wise line (1 to 12) showing shedding reduction, density
+                gain, review/maintenance point. Add the note "Results vary."
               </h6>
               <div class="row g-2 text-center pt-2">
                 <div class="col-6 col-md-3">
@@ -934,7 +977,8 @@
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Why does PRP fail for some people?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">Common reasons, in simple terms:</p>
             <ol class="ps-3 mb-3" style="line-height: 1.8; color: #4a4a4a;">
-              <li><strong>Wrong diagnosis:</strong> the hair loss was not pattern loss, or an untreated cause (thyroid, iron, stress) was missed.</li>
+              <li><strong>Wrong diagnosis:</strong> the hair loss was not pattern loss, or an untreated cause (thyroid,
+                iron, stress) was missed.</li>
               <li><strong>Too advanced:</strong> few live follicles left.</li>
               <li><strong>Too few sessions or no maintenance:</strong> stopping early.</li>
               <li><strong>Poor preparation:</strong> inconsistent PRP quality, lack of standard technique.</li>
@@ -942,19 +986,22 @@
               <li><strong>No supporting care:</strong> ignoring nutrition, scalp health or prescribed medicines.</li>
             </ol>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              This is also why some people report "bad results" online. Honest clinics tell you upfront when PRP is unlikely to help you.
+              This is also why some people report "bad results" online. Honest clinics tell you upfront when PRP is
+              unlikely to help you.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Honest reviews: real results or hype?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP has genuine clinical evidence behind it, but the marketing around it is often exaggerated. Be cautious of clinics promising "100% regrowth", "guaranteed results" or "permanent baldness cure." A reliable clinic will show real before/after photos with consent, explain who did not respond, and set a review plan.
+              PRP has genuine clinical evidence behind it, but the marketing around it is often exaggerated. Be cautious
+              of clinics promising "100% regrowth", "guaranteed results" or "permanent baldness cure." A reliable clinic
+              will show real before/after photos with consent, explain who did not respond, and set a review plan.
             </p>
           </div>
 
           <!-- Section 8: Which PRP Is Best for Hair Loss? PRP vs GFC -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">Which PRP Is Best for Hair Loss? PRP vs GFC</h2>
-            
+
             <h4 class="fw-bold text-charcoal mt-3 mb-2">Types of PRP</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
               PRP is not one single product. Preparation methods differ:
@@ -967,22 +1014,30 @@
               <li>• Kit-based vs manual preparation</li>
             </ul>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Research has not proved one single "best" protocol for all patients. What matters most is a trained doctor, sterile single-use equipment, correct technique and a plan that fits your hair loss.
+              Research has not proved one single "best" protocol for all patients. What matters most is a trained
+              doctor, sterile single-use equipment, correct technique and a plan that fits your hair loss.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">What is the difference between GFC and PRP?</h4>
             <ul class="list-unstyled ps-2 mb-3" style="line-height: 1.8; color: #4a4a4a;">
               <li>• PRP is plasma with a concentrated number of platelets, injected along with them.</li>
-              <li>• <a href="https://www.dermatales.com/blog/gfc-vs-prp" class="text-gold fw-bold text-decoration-underline">GFC</a> (Growth Factor Concentrate) is a processed version where growth factors from platelets are concentrated, with most platelets and other cells filtered out.</li>
+              <li>• <a href="https://www.dermatales.com/blog/gfc-vs-prp"
+                  class="text-gold fw-bold text-decoration-underline">GFC</a> (Growth Factor Concentrate) is a processed
+                version where growth factors from platelets are concentrated, with most platelets and other cells
+                filtered out.</li>
             </ul>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              GFC is often promoted as less painful and more "refined." PRP has a larger body of published research in hair loss. Both are used in practice, and the better choice depends on your case, the doctor's experience and cost.
+              GFC is often promoted as less painful and more "refined." PRP has a larger body of published research in
+              hair loss. Both are used in practice, and the better choice depends on your case, the doctor's experience
+              and cost.
             </p>
 
             <!-- INFOGRAPHIC 7: PRP vs GFC at a glance -->
             <div class="mt-4 pt-3 border-top">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 7: "PRP vs GFC at a glance": two-column comparison (what it contains, process, evidence, comfort, cost).
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 7: "PRP vs GFC at a glance": two-column comparison (what it contains, process, evidence,
+                comfort, cost).
               </h6>
               <div class="table-responsive">
                 <table class="custom-table">
@@ -1028,7 +1083,7 @@
           <!-- Section 9: PRP vs Other Hair Loss Treatments -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP vs Other Hair Loss Treatments</h2>
-            
+
             <div class="table-responsive">
               <table class="custom-table">
                 <thead>
@@ -1082,29 +1137,43 @@
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">PRP vs minoxidil: which is better?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              They work differently, so neither is simply "better." <a href="https://www.dermatales.com/blog/prp-vs-minoxidil" class="text-gold fw-bold text-decoration-underline">Minoxidil</a> is a daily, low-cost medicine. PRP is an in-clinic procedure. Many dermatologists use them together because they target the follicle differently.
+              They work differently, so neither is simply "better." <a
+                href="https://www.dermatales.com/blog/prp-vs-minoxidil"
+                class="text-gold fw-bold text-decoration-underline">Minoxidil</a> is a daily, low-cost medicine. PRP is
+              an in-clinic procedure. Many dermatologists use them together because they target the follicle
+              differently.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Can I use minoxidil along with PRP?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Often yes, and this is a common combination. Your doctor will tell you when to apply it around your session days. Follow their exact schedule.
+              Often yes, and this is a common combination. Your doctor will tell you when to apply it around your
+              session days. Follow their exact schedule.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Does PRP work better than a hair transplant?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              They solve different problems. PRP supports existing hair. A transplant replaces lost hair in areas that are permanently bald. In early thinning PRP and medicines are usually tried first. In advanced baldness, a transplant is more effective. Many people need both approaches at different stages.
+              They solve different problems. PRP supports existing hair. A transplant replaces lost hair in areas that
+              are permanently bald. In early thinning PRP and medicines are usually tried first. In advanced baldness, a
+              transplant is more effective. Many people need both approaches at different stages.
             </p>
 
             <div class="p-3 rounded-3 my-3" style="background: #faf8f5; border: 1px solid #ebdcd5;">
               <p class="mb-0 small text-muted">
-                <strong>Read more:</strong> <a href="https://www.dermatales.com/blog/hair-transplant-vs-prp" class="text-gold fw-bold text-decoration-underline">Hair transplant vs PRP</a> · <a href="https://www.dermatales.com/mesotherapy-for-hair" class="text-gold fw-bold text-decoration-underline">Mesotherapy for hair</a> · <a href="https://www.dermatales.com/hair-loss-treatment-delhi" class="text-gold fw-bold text-decoration-underline">Hair loss treatment in Delhi</a>
+                <strong>Read more:</strong> <a href="https://www.dermatales.com/blog/hair-transplant-vs-prp"
+                  class="text-gold fw-bold text-decoration-underline">Hair transplant vs PRP</a> · <a
+                  href="https://www.dermatales.com/mesotherapy-for-hair"
+                  class="text-gold fw-bold text-decoration-underline">Mesotherapy for hair</a> · <a
+                  href="https://www.dermatales.com/hair-loss-treatment-delhi"
+                  class="text-gold fw-bold text-decoration-underline">Hair loss treatment in Delhi</a>
               </p>
             </div>
 
             <!-- INFOGRAPHIC 8 -->
             <div class="infographic-strip mt-4">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 8: "Which treatment for which stage?": decision-flow (Early thinning → PRP + medicine; Advanced → transplant discussion).
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 8: "Which treatment for which stage?": decision-flow (Early thinning → PRP + medicine;
+                Advanced → transplant discussion).
               </h6>
               <div class="row g-3 text-center">
                 <div class="col-md-6">
@@ -1128,10 +1197,13 @@
           <!-- Section 9: PRP Hair Treatment Cost in Delhi -->
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">PRP Hair Treatment Cost in Delhi</h2>
-            
+
             <h4 class="fw-bold text-charcoal mt-3 mb-2">How much does PRP hair treatment cost in Delhi?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              At Dermatales, PRP Hair Treatment in Delhi starts from ₹2,000 per session. For visible improvement, most patients may require around 4–5 sessions, depending on the extent and cause of hair loss. The exact number of sessions and treatment plan are decided by Dr. Pooja Varshney, based on your scalp condition, hair thinning pattern, and individual response to treatment.
+              At Dermatales, PRP Hair Treatment in Delhi starts from ₹2,000 per session. For visible improvement, most
+              patients may require around 4–5 sessions, depending on the extent and cause of hair loss. The exact number
+              of sessions and treatment plan are decided by Dr. Pooja Varshney, based on your scalp condition, hair
+              thinning pattern, and individual response to treatment.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">What decides the real price?</h4>
@@ -1174,7 +1246,8 @@
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Cheapest vs most expensive PRP: is the difference worth it?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              A lower price is not automatically a bad sign, and a high price is not automatically better. The right way to compare is to ask:
+              A lower price is not automatically a bad sign, and a high price is not automatically better. The right way
+              to compare is to ask:
             </p>
             <ul class="list-unstyled ps-2 mb-3" style="line-height: 1.8; color: #4a4a4a;">
               <li>• Who is performing and supervising the procedure?</li>
@@ -1184,64 +1257,77 @@
               <li>• Is the price all-inclusive?</li>
             </ul>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Very low prices can mean shortcuts in kit quality or supervision. Very high prices should come with clear reasons you can see: the doctor's experience, technology and aftercare.
+              Very low prices can mean shortcuts in kit quality or supervision. Very high prices should come with clear
+              reasons you can see: the doctor's experience, technology and aftercare.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Is PRP hair treatment worth the money?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              It can be worth it if you are a suitable candidate (early-to-moderate pattern thinning), have realistic expectations, and are prepared for sessions and maintenance. It is less likely to be worth it for advanced baldness or hair loss from an untreated medical cause.
+              It can be worth it if you are a suitable candidate (early-to-moderate pattern thinning), have realistic
+              expectations, and are prepared for sessions and maintenance. It is less likely to be worth it for advanced
+              baldness or hair loss from an untreated medical cause.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-4 mb-2">Does insurance cover PRP for hair?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP for hair loss is generally treated as a cosmetic/elective procedure, and most health insurance policies do not cover it. Check your specific policy with your insurer.
+              PRP for hair loss is generally treated as a cosmetic/elective procedure, and most health insurance
+              policies do not cover it. Check your specific policy with your insurer.
             </p>
 
             <!-- INFOGRAPHIC 9 -->
             <div class="infographic-strip mt-4">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 9: "What decides PRP cost": icon grid of 6 factors, plus a sample course estimate [from your pricing].
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 9: "What decides PRP cost": icon grid of 6 factors, plus a sample course estimate [from your
+                pricing].
               </h6>
               <div class="row g-2 text-center">
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-box-seam"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-box-seam"></i></div>
                     <div class="small fw-bold">PRP system / kit</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-layers"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-layers"></i></div>
                     <div class="small fw-bold">Number of sessions</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-fullscreen"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-fullscreen"></i></div>
                     <div class="small fw-bold">Area treated</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-plus-circle"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-plus-circle"></i></div>
                     <div class="small fw-bold">Add-ons</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-award"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-award"></i></div>
                     <div class="small fw-bold">Doctor and clinic standards</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-4">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-tag"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-tag"></i></div>
                     <div class="small fw-bold">Package vs per session</div>
                   </div>
                 </div>
               </div>
               <div class="text-center mt-3">
-                <span class="badge bg-gold text-white p-2 px-3 rounded-pill">Course Estimate: Starts from ₹2,000 / session (Course of 3-4 sessions: ₹6,000 - ₹8,000)</span>
+                <span class="badge bg-gold text-white p-2 px-3 rounded-pill">Course Estimate: Starts from ₹2,000 /
+                  session (Course of 3-4 sessions: ₹6,000 - ₹8,000)</span>
               </div>
             </div>
           </div>
@@ -1250,13 +1336,15 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">Is PRP Safe? Side Effects and Risks</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP is generally considered safe when done by a trained doctor with sterile, single-use equipment, because it uses your own blood.
+              PRP is generally considered safe when done by a trained doctor with sterile, single-use equipment, because
+              it uses your own blood.
             </p>
 
             <div class="row g-4 my-3">
               <div class="col-md-6">
                 <div class="checklist-card">
-                  <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-info-circle-fill text-gold me-1"></i> Common (short-lived):</h6>
+                  <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-info-circle-fill text-gold me-1"></i> Common
+                    (short-lived):</h6>
                   <ul class="list-unstyled ps-2 mb-0" style="line-height: 1.8; color: #4a4a4a;">
                     <li>• Pain or tightness at injection sites</li>
                     <li>• Redness, mild swelling</li>
@@ -1269,7 +1357,8 @@
 
               <div class="col-md-6">
                 <div class="checklist-card">
-                  <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-shield-exclamation text-warning me-1"></i> Uncommon:</h6>
+                  <h6 class="fw-bold text-charcoal mb-2"><i class="bi bi-shield-exclamation text-warning me-1"></i>
+                    Uncommon:</h6>
                   <ul class="list-unstyled ps-2 mb-0" style="line-height: 1.8; color: #4a4a4a;">
                     <li>• Infection (risk reduced by sterile technique)</li>
                     <li>• Scalp tenderness lasting longer</li>
@@ -1280,7 +1369,8 @@
             </div>
 
             <p style="line-height: 1.8; color: #4a4a4a;">
-              <strong>Who should avoid PRP:</strong> people with active scalp infection, platelet or blood disorders, certain blood cancers, or those who are pregnant/breastfeeding, unless their doctor decides otherwise.
+              <strong>Who should avoid PRP:</strong> people with active scalp infection, platelet or blood disorders,
+              certain blood cancers, or those who are pregnant/breastfeeding, unless their doctor decides otherwise.
             </p>
 
             <div class="p-3 rounded-3 mt-3" style="background: #ffebee; border-left: 4px solid #c62828;">
@@ -1298,7 +1388,8 @@
             </p>
 
             <ol class="ps-3 mb-4" style="line-height: 1.8; color: #4a4a4a;">
-              <li>1. A qualified dermatologist performs or supervises the treatment (check registration with the medical council).</li>
+              <li>1. A qualified dermatologist performs or supervises the treatment (check registration with the medical
+                council).</li>
               <li>2. Diagnosis comes first. They examine your scalp and ask about tests before recommending PRP.</li>
               <li>3. Single-use, sterile kits opened in front of you.</li>
               <li>4. A clear plan: number of sessions, intervals, maintenance, written cost.</li>
@@ -1332,35 +1423,49 @@
 
             <!-- INFOGRAPHIC 10 -->
             <div class="mt-4 pt-3 border-top">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 10: "Choose a PRP clinic: checklist and red flags": two columns, green ticks (7 points) and red crosses (red flags).
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 10: "Choose a PRP clinic: checklist and red flags": two columns, green ticks (7 points) and
+                red crosses (red flags).
               </h6>
               <div class="row g-4">
                 <div class="col-md-6">
                   <div class="checklist-card green-card">
-                    <h6 class="fw-bold text-success mb-2"><i class="bi bi-check-circle-fill me-1"></i> Green Ticks (7 Points)</h6>
+                    <h6 class="fw-bold text-success mb-2"><i class="bi bi-check-circle-fill me-1"></i> Green Ticks (7
+                      Points)</h6>
                     <ul class="list-unstyled ps-2 mb-0 small" style="line-height: 1.7; color: #4a4a4a;">
-                      <li><i class="bi bi-check2 text-success me-1"></i> 1. A qualified dermatologist performs or supervises the treatment (check registration with the medical council).</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 2. Diagnosis comes first. They examine your scalp and ask about tests before recommending PRP.</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 3. Single-use, sterile kits opened in front of you.</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 4. A clear plan: number of sessions, intervals, maintenance, written cost.</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 5. Honest expectations: they tell you the limits.</li>
-                      <li><i class="bi bi-check2 text-success me-1"></i> 6. Real before/after photos with consent and the same lighting/angles.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 1. A qualified dermatologist performs or
+                        supervises the treatment (check registration with the medical council).</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 2. Diagnosis comes first. They examine your
+                        scalp and ask about tests before recommending PRP.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 3. Single-use, sterile kits opened in front of
+                        you.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 4. A clear plan: number of sessions, intervals,
+                        maintenance, written cost.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 5. Honest expectations: they tell you the
+                        limits.</li>
+                      <li><i class="bi bi-check2 text-success me-1"></i> 6. Real before/after photos with consent and
+                        the same lighting/angles.</li>
                       <li><i class="bi bi-check2 text-success me-1"></i> 7. Follow-up and review are built in.</li>
                     </ul>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="checklist-card red-card">
-                    <h6 class="fw-bold text-danger mb-2"><i class="bi bi-x-circle-fill me-1"></i> Red Flags to Avoid</h6>
+                    <h6 class="fw-bold text-danger mb-2"><i class="bi bi-x-circle-fill me-1"></i> Red Flags to Avoid
+                    </h6>
                     <ul class="list-unstyled ps-2 mb-0 small" style="line-height: 1.7; color: #4a4a4a;">
                       <li><i class="bi bi-x-lg text-danger me-1"></i> "Guaranteed" or "100% regrowth" claims</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Pressure to buy a large package on the first visit</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> No doctor examination, treatment started by a technician only</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Pressure to buy a large package on the first visit
+                      </li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> No doctor examination, treatment started by a
+                        technician only</li>
                       <li><i class="bi bi-x-lg text-danger me-1"></i> No explanation of cause or alternatives</li>
                       <li><i class="bi bi-x-lg text-danger me-1"></i> Unclear pricing or hidden add-ons</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Before/after photos with different lighting, angles or hair styling</li>
-                      <li><i class="bi bi-x-lg text-danger me-1"></i> Refusing to share the kit or procedure details</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Before/after photos with different lighting,
+                        angles or hair styling</li>
+                      <li><i class="bi bi-x-lg text-danger me-1"></i> Refusing to share the kit or procedure details
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -1373,14 +1478,20 @@
             <h2 class="lux-section-title mb-3">Your PRP Doctor in Delhi: Dr. Pooja Varshney</h2>
             <div class="row align-items-center g-4">
               <div class="col-md-4 text-center">
-                <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney - Dermatologist in Delhi" class="img-fluid rounded-4 shadow-sm" style="max-height: 220px; object-fit: cover;">
+                <img src="images/dr-pooja.webp" alt="Dr. Pooja Varshney - Dermatologist in Delhi"
+                  class="img-fluid rounded-4 shadow-sm" style="max-height: 220px; object-fit: cover;">
               </div>
               <div class="col-md-8">
                 <p style="line-height: 1.8; color: #4a4a4a;">
-                  Dr. Pooja Varshney is a dermatologist and aesthetic physician at Dermatales, with clinical practice since 2015. She evaluates the underlying cause, pattern, and severity of hair loss before recommending PRP Hair Treatment, helping create a treatment plan suited to each patient’s hair and scalp condition.
+                  Dr. Pooja Varshney is a dermatologist and aesthetic physician at Dermatales, with clinical practice
+                  since 2015. She evaluates the underlying cause, pattern, and severity of hair loss before recommending
+                  PRP Hair Treatment, helping create a treatment plan suited to each patient’s hair and scalp condition.
                 </p>
                 <p style="line-height: 1.8; color: #4a4a4a;">
-                  Patients can consult Dr. Pooja Varshney for PRP Hair Treatment in Delhi at the Patel Nagar branch or visit the Dermatales Gurgaon branch for consultation and treatment. Her approach focuses on medically guided treatment, realistic expectations, and regular assessment of hair-growth progress rather than offering PRP as a guaranteed or permanent solution.
+                  Patients can consult Dr. Pooja Varshney for PRP Hair Treatment in Delhi at the Patel Nagar branch or
+                  visit the Dermatales Gurgaon branch for consultation and treatment. Her approach focuses on medically
+                  guided treatment, realistic expectations, and regular assessment of hair-growth progress rather than
+                  offering PRP as a guaranteed or permanent solution.
                 </p>
               </div>
             </div>
@@ -1390,12 +1501,16 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">Diet, Supplements and Lifestyle to Support PRP</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              PRP works better when the basics are right. No supplement can replace treatment, and <a href="https://www.dermatales.com/blog/diet-lifestyle-prp" class="text-gold fw-bold text-decoration-underline">supplements</a> should be taken based on tests and doctor advice.
+              PRP works better when the basics are right. No supplement can replace treatment, and <a
+                href="https://www.dermatales.com/blog/diet-lifestyle-prp"
+                class="text-gold fw-bold text-decoration-underline">supplements</a> should be taken based on tests and
+              doctor advice.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-3 mb-2">Do I need supplements with PRP?</h4>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Not everyone does. If tests show low iron/ferritin, vitamin D, B12 or protein intake, correcting them can improve hair health and may support PRP results. Taking supplements you do not need does not boost PRP.
+              Not everyone does. If tests show low iron/ferritin, vitamin D, B12 or protein intake, correcting them can
+              improve hair health and may support PRP results. Taking supplements you do not need does not boost PRP.
             </p>
 
             <h4 class="fw-bold text-charcoal mt-3 mb-2">Daily habits that help</h4>
@@ -1410,31 +1525,37 @@
 
             <!-- INFOGRAPHIC 11 -->
             <div class="infographic-strip mt-4">
-              <h6 class="text-center text-uppercase fw-bold text-muted mb-3" style="font-size: 0.8rem; letter-spacing: 1px;">
-                INFOGRAPHIC 11: "Hair-healthy plate and habits": simple plate graphic with food groups + 4 lifestyle icons.
+              <h6 class="text-center text-uppercase fw-bold text-muted mb-3"
+                style="font-size: 0.8rem; letter-spacing: 1px;">
+                INFOGRAPHIC 11: "Hair-healthy plate and habits": simple plate graphic with food groups + 4 lifestyle
+                icons.
               </h6>
               <div class="row g-2 text-center">
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-egg-fried"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-egg-fried"></i></div>
                     <div class="small fw-bold">Protein & Iron</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-moon-stars"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-moon-stars"></i></div>
                     <div class="small fw-bold">7-8h Sleep</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-heart-pulse"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-heart-pulse"></i></div>
                     <div class="small fw-bold">Stress Control</div>
                   </div>
                 </div>
                 <div class="col-6 col-md-3">
                   <div class="p-2 bg-white rounded-3 border">
-                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i class="bi bi-shield-check"></i></div>
+                    <div class="info-icon mb-1" style="width: 36px; height: 36px; font-size: 1rem;"><i
+                        class="bi bi-shield-check"></i></div>
                     <div class="small fw-bold">Gentle Hair Care</div>
                   </div>
                 </div>
@@ -1472,7 +1593,8 @@
                   </tr>
                   <tr>
                     <td><strong>"You can do PRP at home."</strong></td>
-                    <td>PRP needs sterile blood handling and injections by a professional. Home dermarollers do not equal PRP.</td>
+                    <td>PRP needs sterile blood handling and injections by a professional. Home dermarollers do not
+                      equal PRP.</td>
                   </tr>
                   <tr>
                     <td><strong>"One session is enough."</strong></td>
@@ -1487,31 +1609,50 @@
           <div class="prp-section-card fade-up">
             <h2 class="lux-section-title mb-3">Visit Our PRP Hair Clinic in Delhi</h2>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Looking for PRP Hair Treatment in Delhi? Visit Dermatales at our Patel Nagar, Delhi branch for a dermatologist-led evaluation and personalized hair treatment plan. Dr. Pooja Varshney, practising since 2015, assesses your hair loss and scalp condition before recommending the appropriate PRP treatment schedule.
+              Looking for PRP Hair Treatment in Delhi? Visit Dermatales at our Patel Nagar, Delhi branch for a
+              dermatologist-led evaluation and personalized hair treatment plan. Dr. Pooja Varshney, practising since
+              2015, assesses your hair loss and scalp condition before recommending the appropriate PRP treatment
+              schedule.
             </p>
             <p style="line-height: 1.8; color: #4a4a4a;">
-              Dermatales also has a Gurgaon branch, allowing patients from both Delhi and Gurgaon to access expert dermatological care for hair thinning and hair loss. Book a consultation to understand whether PRP is suitable for your hair concerns and what results you can realistically expect.
+              Dermatales also has a Gurgaon branch, allowing patients from both Delhi and Gurgaon to access expert
+              dermatological care for hair thinning and hair loss. Book a consultation to understand whether PRP is
+              suitable for your hair concerns and what results you can realistically expect.
             </p>
 
-            <div class="p-4 rounded-4 mt-4 text-center" style="background: linear-gradient(135deg, #1b2a4a 0%, #2c3e66 100%); color: #ffffff;">
+            <div class="p-4 rounded-4 mt-4 text-center"
+              style="background: linear-gradient(135deg, #1b2a4a 0%, #2c3e66 100%); color: #ffffff;">
               <h3 class="text-white fw-bold mb-2">Book Your Hair Consultation in Delhi</h3>
               <p class="text-white-50 mb-3" style="max-width: 650px; margin: 0 auto; line-height: 1.7;">
-                Not sure whether PRP is right for you? Start with a scalp evaluation with <a href="https://www.dermatales.com/dr-pooja-varshney" class="text-gold fw-bold text-decoration-underline">Dr. Pooja Varshney</a>. You will get a clear diagnosis, an honest recommendation (PRP or not), and a written plan with cost.
+                Not sure whether PRP is right for you? Start with a scalp evaluation with <a
+                  href="https://www.dermatales.com/dr-pooja-varshney"
+                  class="text-gold fw-bold text-decoration-underline">Dr. Pooja Varshney</a>. You will get a clear
+                diagnosis, an honest recommendation (PRP or not), and a written plan with cost.
               </p>
               <div class="d-flex flex-wrap justify-content-center gap-3 mt-3">
-                <a href="https://www.dermatales.com/contact-us" class="btn btn-gold rounded-pill px-4 py-2 shadow">Book Appointment</a>
-                <a href="https://wa.me/918700530623" class="btn btn-outline-light rounded-pill px-4 py-2"><i class="bi bi-whatsapp me-2"></i>+91 87005 30623</a>
+                <a href="https://www.dermatales.com/contact-us" class="btn btn-gold rounded-pill px-4 py-2 shadow">Book
+                  Appointment</a>
+                <a href="https://wa.me/918700530623" class="btn btn-outline-light rounded-pill px-4 py-2"><i
+                    class="bi bi-whatsapp me-2"></i>+91 87005 30623</a>
               </div>
             </div>
 
             <div class="p-3 rounded-3 mt-4" style="background: #faf8f5; border: 1px solid #ebdcd5;">
               <p class="mb-0 small text-muted">
-                <strong>Related reading:</strong> <a href="https://www.dermatales.com/blog/hair-fall-causes" class="text-gold fw-bold text-decoration-underline">Hair fall causes and treatment</a> · <a href="https://www.dermatales.com/hair-loss-treatment-delhi" class="text-gold fw-bold text-decoration-underline">Hair loss treatment in Delhi</a> · <a href="https://www.dermatales.com/blog/prp-for-women" class="text-gold fw-bold text-decoration-underline">PRP for women</a> · <a href="https://www.dermatales.com/dr-pooja-varshney" class="text-gold fw-bold text-decoration-underline">Dr. Pooja Varshney</a>
+                <strong>Related reading:</strong> <a href="https://www.dermatales.com/blog/hair-fall-causes"
+                  class="text-gold fw-bold text-decoration-underline">Hair fall causes and treatment</a> · <a
+                  href="https://www.dermatales.com/hair-loss-treatment-delhi"
+                  class="text-gold fw-bold text-decoration-underline">Hair loss treatment in Delhi</a> · <a
+                  href="https://www.dermatales.com/blog/prp-for-women"
+                  class="text-gold fw-bold text-decoration-underline">PRP for women</a> · <a
+                  href="https://www.dermatales.com/dr-pooja-varshney"
+                  class="text-gold fw-bold text-decoration-underline">Dr. Pooja Varshney</a>
               </p>
             </div>
 
             <p class="small text-muted mt-3 mb-0">
-              <em>Disclaimer: This page is for general information and does not replace medical advice. Results vary from person to person. PRP for hair loss does not guarantee regrowth.</em>
+              <em>Disclaimer: This page is for general information and does not replace medical advice. Results vary
+                from person to person. PRP for hair loss does not guarantee regrowth.</em>
             </p>
           </div>
 
@@ -1523,13 +1664,16 @@
               <!-- FAQ 1 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+                  <button class="accordion-button faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq1">
                     1. How much does PRP hair treatment cost in Delhi?
                   </button>
                 </h3>
                 <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    At our clinic, PRP costs ₹ 2000 per session, and a course of 3-4 sessions costs ₹ 6000 to ₹ 8000 . The final price depends on the kit used, area treated, number of sessions and add-ons. Your doctor will give a written estimate after examining your scalp.
+                    At our clinic, PRP costs ₹ 2000 per session, and a course of 3-4 sessions costs ₹ 6000 to ₹ 8000 .
+                    The final price depends on the kit used, area treated, number of sessions and add-ons. Your doctor
+                    will give a written estimate after examining your scalp.
                   </div>
                 </div>
               </div>
@@ -1537,13 +1681,15 @@
               <!-- FAQ 2 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq2">
                     2. How many PRP sessions are needed for hair growth?
                   </button>
                 </h3>
                 <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Most people need 3-4 sessions about 4-6 weeks apart, followed by maintenance sessions. The exact number depends on your stage of hair loss and how you respond.
+                    Most people need 3-4 sessions about 4-6 weeks apart, followed by maintenance sessions. The exact
+                    number depends on your stage of hair loss and how you respond.
                   </div>
                 </div>
               </div>
@@ -1551,13 +1697,15 @@
               <!-- FAQ 3 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq3">
                     3. Are 3 PRP sessions enough?
                   </button>
                 </h3>
                 <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    For early thinning, 3 sessions may reduce shedding noticeably. Some people need more sessions or combined treatment. Your doctor will review your progress after 3-6 months.
+                    For early thinning, 3 sessions may reduce shedding noticeably. Some people need more sessions or
+                    combined treatment. Your doctor will review your progress after 3-6 months.
                   </div>
                 </div>
               </div>
@@ -1565,13 +1713,16 @@
               <!-- FAQ 4 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq4">
                     4. Does PRP work for hair loss?
                   </button>
                 </h3>
                 <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    PRP can improve hair density and thickness in many people with early-to-moderate pattern hair loss. It does not work equally for everyone and is less effective in advanced baldness or hair loss from other causes.
+                    PRP can improve hair density and thickness in many people with early-to-moderate pattern hair loss.
+                    It does not work equally for everyone and is less effective in advanced baldness or hair loss from
+                    other causes.
                   </div>
                 </div>
               </div>
@@ -1579,13 +1730,15 @@
               <!-- FAQ 5 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq5">
                     5. How soon will I see results from PRP?
                   </button>
                 </h3>
                 <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Most people see reduced shedding within 2-3 months and visible thickness improvement around 3-6 months. Results vary.
+                    Most people see reduced shedding within 2-3 months and visible thickness improvement around 3-6
+                    months. Results vary.
                   </div>
                 </div>
               </div>
@@ -1593,13 +1746,15 @@
               <!-- FAQ 6 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq6">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq6">
                     6. How long do PRP results last?
                   </button>
                 </h3>
                 <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Results are not permanent. Benefits often last several months to a year or more with maintenance, depending on the person and the underlying cause.
+                    Results are not permanent. Benefits often last several months to a year or more with maintenance,
+                    depending on the person and the underlying cause.
                   </div>
                 </div>
               </div>
@@ -1607,7 +1762,8 @@
               <!-- FAQ 7 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq7">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq7">
                     7. Is PRP a one-time treatment?
                   </button>
                 </h3>
@@ -1621,13 +1777,15 @@
               <!-- FAQ 8 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq8">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq8">
                     8. What happens if I stop PRP midway?
                   </button>
                 </h3>
                 <div id="faq8" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    You may get only partial or short-term benefits. After completing treatment, ongoing hair loss can slowly resume if the underlying cause is not managed.
+                    You may get only partial or short-term benefits. After completing treatment, ongoing hair loss can
+                    slowly resume if the underlying cause is not managed.
                   </div>
                 </div>
               </div>
@@ -1635,13 +1793,15 @@
               <!-- FAQ 9 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq9">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq9">
                     9. Is PRP better than minoxidil?
                   </button>
                 </h3>
                 <div id="faq9" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    They are different treatments. Minoxidil is a daily medicine, PRP is a clinic procedure. They are often combined under a dermatologist's guidance.
+                    They are different treatments. Minoxidil is a daily medicine, PRP is a clinic procedure. They are
+                    often combined under a dermatologist's guidance.
                   </div>
                 </div>
               </div>
@@ -1649,7 +1809,8 @@
               <!-- FAQ 10 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq10">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq10">
                     10. Can I use minoxidil with PRP?
                   </button>
                 </h3>
@@ -1663,13 +1824,15 @@
               <!-- FAQ 11 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq11">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq11">
                     11. Is PRP better than a hair transplant?
                   </button>
                 </h3>
                 <div id="faq11" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Not directly. PRP supports existing hair. A transplant replaces hair in permanently bald areas. The right option depends on your hair loss stage.
+                    Not directly. PRP supports existing hair. A transplant replaces hair in permanently bald areas. The
+                    right option depends on your hair loss stage.
                   </div>
                 </div>
               </div>
@@ -1677,13 +1840,16 @@
               <!-- FAQ 12 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq12">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq12">
                     12. What is the difference between GFC and PRP?
                   </button>
                 </h3>
                 <div id="faq12" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    PRP contains concentrated platelets with their growth factors. GFC is a processed concentrate of growth factors with platelets removed. PRP has more published research in hair loss, and both are used in clinics.
+                    PRP contains concentrated platelets with their growth factors. GFC is a processed concentrate of
+                    growth factors with platelets removed. PRP has more published research in hair loss, and both are
+                    used in clinics.
                   </div>
                 </div>
               </div>
@@ -1691,13 +1857,15 @@
               <!-- FAQ 13 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq13">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq13">
                     13. Will PRP work if I have severe thinning?
                   </button>
                 </h3>
                 <div id="faq13" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Results are usually limited in severe thinning, and PRP is unlikely to work in areas with no living follicles. A dermatologist can assess how many follicles are left.
+                    Results are usually limited in severe thinning, and PRP is unlikely to work in areas with no living
+                    follicles. A dermatologist can assess how many follicles are left.
                   </div>
                 </div>
               </div>
@@ -1705,13 +1873,15 @@
               <!-- FAQ 14 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq14">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq14">
                     14. Can PRP regrow hair or only stop hair fall?
                   </button>
                 </h3>
                 <div id="faq14" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Many people first see less shedding, then thicker hair. Regrowth in long-bald areas is unpredictable.
+                    Many people first see less shedding, then thicker hair. Regrowth in long-bald areas is
+                    unpredictable.
                   </div>
                 </div>
               </div>
@@ -1719,13 +1889,15 @@
               <!-- FAQ 15 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq15">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq15">
                     15. Can women get PRP hair treatment?
                   </button>
                 </h3>
                 <div id="faq15" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Yes, women with female pattern thinning may be suitable after evaluation. Pregnancy and breastfeeding need doctor review, and sudden shedding needs tests first.
+                    Yes, women with female pattern thinning may be suitable after evaluation. Pregnancy and
+                    breastfeeding need doctor review, and sudden shedding needs tests first.
                   </div>
                 </div>
               </div>
@@ -1733,7 +1905,8 @@
               <!-- FAQ 16 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq16">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq16">
                     16. Does PRP work for men?
                   </button>
                 </h3>
@@ -1747,13 +1920,15 @@
               <!-- FAQ 17 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq17">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq17">
                     17. Why does PRP fail sometimes?
                   </button>
                 </h3>
                 <div id="faq17" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Common reasons include a wrong diagnosis, advanced hair loss, too few sessions, no maintenance, untreated causes and unrealistic expectations.
+                    Common reasons include a wrong diagnosis, advanced hair loss, too few sessions, no maintenance,
+                    untreated causes and unrealistic expectations.
                   </div>
                 </div>
               </div>
@@ -1761,13 +1936,17 @@
               <!-- FAQ 18 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq18">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq18">
                     18. Is PRP safe? What are the side effects?
                   </button>
                 </h3>
                 <div id="faq18" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    PRP is generally safe in a sterile, professional setting. <a href="https://www.dermatales.com/blog/is-prp-safe" class="text-gold fw-bold text-decoration-underline">Side effects</a> such as soreness, swelling, redness and mild headache usually settle within a day or two. Infection is uncommon.
+                    PRP is generally safe in a sterile, professional setting. <a
+                      href="https://www.dermatales.com/blog/is-prp-safe"
+                      class="text-gold fw-bold text-decoration-underline">Side effects</a> such as soreness, swelling,
+                    redness and mild headache usually settle within a day or two. Infection is uncommon.
                   </div>
                 </div>
               </div>
@@ -1775,7 +1954,8 @@
               <!-- FAQ 19 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq19">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq19">
                     19. Does PRP hurt?
                   </button>
                 </h3>
@@ -1789,13 +1969,15 @@
               <!-- FAQ 20 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq20">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq20">
                     20. How do I choose the best PRP clinic in Delhi?
                   </button>
                 </h3>
                 <div id="faq20" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Choose a qualified dermatologist who examines you first, uses single-use sterile kits, gives a clear plan and cost, and is honest about limits.
+                    Choose a qualified dermatologist who examines you first, uses single-use sterile kits, gives a clear
+                    plan and cost, and is honest about limits.
                   </div>
                 </div>
               </div>
@@ -1803,13 +1985,15 @@
               <!-- FAQ 21 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq21">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq21">
                     21. What red flags should I watch out for?
                   </button>
                 </h3>
                 <div id="faq21" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    Guaranteed results, pressure to pay for large packages, no doctor examination, unclear pricing and edited before/after photos.
+                    Guaranteed results, pressure to pay for large packages, no doctor examination, unclear pricing and
+                    edited before/after photos.
                   </div>
                 </div>
               </div>
@@ -1817,7 +2001,8 @@
               <!-- FAQ 22 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq22">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq22">
                     22. Do I need supplements with PRP?
                   </button>
                 </h3>
@@ -1831,7 +2016,8 @@
               <!-- FAQ 23 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq23">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq23">
                     23. Does insurance cover PRP for hair?
                   </button>
                 </h3>
@@ -1845,7 +2031,8 @@
               <!-- FAQ 24 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq24">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq24">
                     24. Can PRP be done at home?
                   </button>
                 </h3>
@@ -1859,13 +2046,15 @@
               <!-- FAQ 25 -->
               <div class="accordion-item faq-item">
                 <h3 class="accordion-header">
-                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq25">
+                  <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#faq25">
                     25. Is PRP worth the money?
                   </button>
                 </h3>
                 <div id="faq25" class="accordion-collapse collapse" data-bs-parent="#faqAccordionPrp">
                   <div class="accordion-body faq-body">
-                    It can be for suitable candidates with realistic expectations. A consultation will tell you if you are one.
+                    It can be for suitable candidates with realistic expectations. A consultation will tell you if you
+                    are one.
                   </div>
                 </div>
               </div>
@@ -1883,12 +2072,17 @@
             <div class="sidebar-widget mt-4">
               <h3 class="widget-title">Related Services</h3>
               <ul class="related-list">
-                <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Delhi <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="hair-prp-treatment-in-gurgaon">PRP Hair Gurgaon <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Delhi <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-prp-treatment-in-gurgaon">PRP Hair Gurgaon <i class="bi bi-chevron-right"></i></a>
+                </li>
                 <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Delhi <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="hair-transplant-in-delhi">Hair Transplant Delhi <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="alopecia-areata-treatment-in-delhi">Alopecia Areata Delhi <i class="bi bi-chevron-right"></i></a></li>
-                <li><a href="skin-clinic-in-patel-nagar">Skin Clinic Patel Nagar <i class="bi bi-chevron-right"></i></a></li>
+                <li><a href="hair-transplant-in-delhi">Hair Transplant Delhi <i class="bi bi-chevron-right"></i></a>
+                </li>
+                <li><a href="alopecia-areata-treatment-in-delhi">Alopecia Areata Delhi <i
+                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="skin-clinic-in-patel-nagar">Skin Clinic Patel Nagar <i class="bi bi-chevron-right"></i></a>
+                </li>
               </ul>
             </div>
 
