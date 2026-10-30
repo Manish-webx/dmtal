@@ -181,6 +181,29 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Why Winter Is the Best Season for Peels, Laser and Pigmentation Treatment in India -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/winter-skin-peels-laser-pigmentation-treatment-india-dermatales.webp" class="card-img-top"
+                alt="Why Winter Is the Best Season for Peels, Laser and Pigmentation Treatment in India">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Oct 30, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/best-season-peel-laser-pigmentation-treatment-india"
+                  class="text-decoration-none text-charcoal">Why Winter Is the Best Season for Peels, Laser and Pigmentation Treatment in India</a></h3>
+              <p class="card-text text-muted">When to do peels, laser toning and pigmentation treatment in Delhi NCR, why timing matters more for Indian skin, and what to do if you have missed the window.</p>
+              <a href="blog/best-season-peel-laser-pigmentation-treatment-india"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Your Dandruff Gets Worse Every Winter Because It May Not Be Dandruff -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
