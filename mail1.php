@@ -107,6 +107,7 @@ try {
     $mail->setFrom('info@cognivicdigital.com', $name ?: 'Website Lead');
     $mail->addAddress('manishkushwahaf7@gmail.com', $name ?: 'Website Lead'); // Add a recipient
     $mail->addAddress('dermatales@gmail.com', $name ?: 'Website Lead'); // Add a recipient
+    $mail->addAddress('contact@dermatales.com', $name ?: 'Website Lead'); // Add a recipient
     $mail->Subject = 'New Lead DermaTales Website';
     $mail->MsgHTML($body);
     $mail->IsHTML(true);
