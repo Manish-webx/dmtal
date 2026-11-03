@@ -181,6 +181,29 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Exosome Therapy for Skin and Hair in India: What the Evidence Says Before You Pay for It -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/exosome-therapy-skin-hair-india-dermatales.webp" class="card-img-top"
+                alt="Exosome Therapy for Skin and Hair in India: What the Evidence Says Before You Pay for It">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Nov 03, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/exosome-therapy-skin-hair-india"
+                  class="text-decoration-none text-charcoal">Exosome Therapy for Skin and Hair in India: What the Evidence Says</a></h3>
+              <p class="card-text text-muted">What exosomes are, what 39 human studies show for hair and skin, why India's dermatology task force calls the treatment experimental, and five questions to ask before you pay.</p>
+              <a href="blog/exosome-therapy-skin-hair-india"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Why Winter Is the Best Season for Peels, Laser and Pigmentation Treatment in India -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
