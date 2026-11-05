@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
     content="Patchy beard growth has a permanent fix. DermaTales, Patel Nagar offers FUE beard transplant under Dr. Pooja Varshney, MD Dermatology. Book a consultation today.">
-  <meta name="keywords" content="beard transplant in Delhi, beard transplant Patel Nagar, FUE beard transplant Delhi, beard transplant cost Delhi, patchy beard fix Delhi, beard hair transplant recovery, beard transplant clinic Delhi">
+  <meta name="keywords"
+    content="beard transplant in Delhi, beard transplant Patel Nagar, FUE beard transplant Delhi, beard transplant cost Delhi, patchy beard fix Delhi, beard hair transplant recovery, beard transplant clinic Delhi">
   <meta name="author" content="DermaTales Clinic">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.dermatales.com/beard-transplant-in-delhi">
@@ -180,11 +181,6 @@
             <?php include 'hero-stats.php'; ?>
           </div>
         </div>
-        <div class="hero-image-showcase" style="flex-shrink: 0; width: 650px; max-width: 100%;">
-          <img src="images/beard-transplant.webp" alt="Beard Transplant in Delhi, Patel Nagar"
-            class="hero-img img-fluid rounded-4 shadow-lg"
-            style="border: 1px solid rgba(255, 255, 255, 0.1); width: 100%; height: auto; object-fit: cover; aspect-ratio: 4/3;">
-        </div>
       </div>
     </div>
   </section>
@@ -199,20 +195,34 @@
 
           <!-- Intro Section with Creative Highlights -->
           <div class="fade-up">
-            <h2 class="lux-section-title">Beard Transplant in Delhi, Patel Nagar</h2>
-            <p class="lead text-muted" style="font-size: 1.08rem; line-height: 1.8;">
-              Patchy facial hair is not something that fills in with time for most men, since the number of hair
-              follicles you have in the beard area is largely set by genetics. No amount of waiting, grooming products,
-              or supplements changes that. A beard transplant works differently, it physically relocates hair follicles
-              that are already growing successfully elsewhere on your body into the areas where your beard will not fill
-              in on its own. At DermaTales in Patel Nagar, Delhi, this is planned around your actual facial hair pattern
-              under the supervision of <a href="https://www.dermatales.com/dr-pooja-varshney"
-                class="text-decoration-underline fw-semibold" style="color: var(--dt-charcoal);" target="_blank"
-                rel="noopener">Dr. Pooja Varshney</a>, MD Dermatology.
-            </p>
+            <div class="row">
+              <div class="col-md-7">
+                <h2 class="lux-section-title">Beard Transplant in Delhi, Patel Nagar</h2>
+                <p class="lead text-muted" style="font-size: 1.08rem; line-height: 1.8;">
+                  Patchy facial hair is not something that fills in with time for most men, since the number of hair
+                  follicles you have in the beard area is largely set by genetics. No amount of waiting, grooming
+                  products,
+                  or supplements changes that. A beard transplant works differently, it physically relocates hair
+                  follicles
+                  that are already growing successfully elsewhere on your body into the areas where your beard will not
+                  fill
+                  in on its own. At DermaTales in Patel Nagar, Delhi, this is planned around your actual facial hair
+                  pattern
+                  under the supervision of <a href="https://www.dermatales.com/dr-pooja-varshney"
+                    class="text-decoration-underline fw-semibold" style="color: var(--dt-charcoal);" target="_blank"
+                    rel="noopener">Dr. Pooja Varshney</a>, MD Dermatology.
+                </p>
+              </div>
+              <div class="col-md-5">
+                <img src="images/beard-transplant.webp" alt="Beard Transplant in Delhi, Patel Nagar"
+                  class="hero-img img-fluid rounded-4 shadow-lg"
+                  style="border: 1px solid rgba(255, 255, 255, 0.1); width: 100%; height: auto; object-fit: cover; aspect-ratio: 4/3;">
+              </div>
+            </div>
+
 
             <!-- Creative Highlight Grid -->
-            <div class="row g-3 mt-4">
+            <div class="row g-3">
               <div class="col-md-4">
                 <div class="p-3 rounded-4 h-100 border border-gold-light bg-light shadow-sm transition-all">
                   <div class="d-flex align-items-center mb-2">
@@ -382,7 +392,7 @@
               <!-- Card 1: Advanced FUE Method -->
               <div class="col-md-6">
                 <div class="lux-proto-card card-gold">
-                  
+
                   <div class="lux-proto-header header-gold">
                     <div class="lux-proto-header-top">
                       <div class="lux-proto-icon icon-gold">
@@ -397,7 +407,8 @@
 
                   <div class="lux-proto-body">
                     <p class="lux-proto-desc">
-                      Individual follicular units harvested with micro-punches (0.7–0.8 mm) from the permanent donor zone, leaving no linear scars and ensuring rapid healing.
+                      Individual follicular units harvested with micro-punches (0.7–0.8 mm) from the permanent donor
+                      zone, leaving no linear scars and ensuring rapid healing.
                     </p>
 
                     <div class="lux-spec-box">
@@ -421,7 +432,7 @@
               <!-- Card 2: Artistic Placement Standards -->
               <div class="col-md-6">
                 <div class="lux-proto-card card-navy">
-                  
+
                   <div class="lux-proto-header header-navy">
                     <div class="lux-proto-header-top">
                       <div class="lux-proto-icon icon-navy">
@@ -436,7 +447,8 @@
 
                   <div class="lux-proto-body">
                     <p class="lux-proto-desc">
-                      Implants inserted at acute acute angles (10°–15°) flush with facial skin contours to prevent unnatural upright growth and ensure a soft transition.
+                      Implants inserted at acute acute angles (10°–15°) flush with facial skin contours to prevent
+                      unnatural upright growth and ensure a soft transition.
                     </p>
 
                     <div class="lux-spec-box">
@@ -866,8 +878,8 @@
                 </li>
                 <li><a href="gfc-hair-treatment-in-delhi">GFC Hair Treatment <i class="bi bi-chevron-right"></i></a>
                 </li>
-                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment <i
-                      class="bi bi-chevron-right"></i></a></li>
+                <li><a href="prp-hair-treatment-in-delhi">PRP Hair Treatment <i class="bi bi-chevron-right"></i></a>
+                </li>
                 <li><a href="best-hair-fall-doctor-in-delhi-patel-nagar">Hair Fall Doctor Patel Nagar <i
                       class="bi bi-chevron-right"></i></a></li>
               </ul>
