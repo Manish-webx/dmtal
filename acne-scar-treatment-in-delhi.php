@@ -20,7 +20,7 @@
   <meta property="og:image" content="https://www.dermatales.com/images/dr-pooja.webp">
   <meta property="og:site_name" content="DermaTales">
 
-  <title>Acne Scar Treatment in Delhi, Patel Nagar | DermaTales</title>
+  <title>Acne Scar Treatment in Patel Nagar, Delhi | DermaTales</title>
 
   <?php include 'nav-link.php'; ?>
 
@@ -182,9 +182,7 @@
             <?php include 'hero-stats.php'; ?>
           </div>
         </div>
-        <div class="hero-image-showcase" style="flex-shrink: 0; width: 700px; max-width: 100%;">
-          <img src="images/Acne-scar-treatment.webp" alt="Acne Scar Treatment" class="hero-img img-fluid rounded-4 shadow-lg" style="border: 1px solid rgba(255, 255, 255, 0.1); width: 100%; height: auto; object-fit: cover; aspect-ratio: 4/3;">
-        </div>
+       
       </div>
     </div>
   </section>
