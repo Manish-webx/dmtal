@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.dermatales.com/botox-treatment-in-gurgaon">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="Botox Treatment in Gurgaon Sector 31| Dr. Pooja Varshney">
+  <meta property="og:title" content="Botox Treatment in Gurgaon | Dr. Pooja Varshney">
   <meta property="og:description"
     content="Get natural looking Botox treatment in Gurgaon from Dr. Pooja Varshney, MD Dermatology, 10+ years experience. Book your consultation at DermaTales today.">
   <meta property="og:type" content="website">
@@ -346,6 +346,51 @@
   }
   </script>
 
+  <!-- Local MedicalClinic Schema (Delhi - Patel Nagar) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MedicalClinic",
+    "@id": "https://www.dermatales.com/#delhi-clinic",
+    "name": "DermaTales Skin Clinic - Delhi",
+    "url": "https://www.dermatales.com/skin-clinic-in-patel-nagar",
+    "telephone": "+91 87005 30623",
+    "email": "dermatales@gmail.com",
+    "medicalSpecialty": "Dermatology",
+    "description": "DermaTales is a dermatologist-led skin, hair and aesthetic clinic in Patel Nagar, New Delhi, offering advanced dermatology, laser and aesthetic treatments under the care of Dr. Pooja Varshney.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Patel Nagar",
+      "addressLocality": "New Delhi",
+      "addressRegion": "Delhi",
+      "postalCode": "110008",
+      "addressCountry": "IN"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "11:00",
+      "closes": "20:00"
+    },
+    "priceRange": "$$",
+    "currenciesAccepted": "INR",
+    "paymentAccepted": "Cash, UPI, Credit Card, Debit Card",
+    "founder": {
+      "@id": "https://www.dermatales.com/#dr-pooja-varshney"
+    },
+    "sameAs": [
+      "https://www.dermatales.com/"
+    ]
+  }
+  </script>
+
   <!-- FAQPage Schema -->
   <script type="application/ld+json">
   {
@@ -405,7 +450,7 @@
         "name": "How much does Botox treatment cost in Gurgaon?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Cost depends on the number of units needed for your specific concern, which is assessed during your consultation. Typical treatments range from 10 to 20 units for forehead lines, 15 to 25 units for frown lines, and 15 to 24 units for crow's feet."
+          "text": "Cost depends on the number of units needed for your specific concern, which is assessed during your consultation. See our full cost breakdown above for a general guide by treatment area."
         }
       },
       {
@@ -418,10 +463,10 @@
       },
       {
         "@type": "Question",
-        "name": "How do I choose a qualified Botox doctor in Gurgaon?",
+        "name": "How do I choose the best Botox doctor in Gurgaon?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Look for a medical qualification such as MD Dermatology, documented years of experience, transparency about the product being used, and a real consultation rather than a rushed sales pitch."
+          "text": "Look for a medical qualification such as MD Dermatology, documented years of experience, transparency about the product being used, and a real consultation rather than a rushed sales pitch. See our full guide above on how to find a good Botox doctor in Gurgaon."
         }
       }
     ]
@@ -580,7 +625,8 @@
                 Botox for crow's feet. This area needs a particularly light, superficial injection technique because the
                 skin here is thin and the underlying muscle sits close to the surface. Dr. Varshney keeps the dosing
                 conservative around the lower lash line so that your smile still reaches your eyes naturally, a detail
-                that matters more here than in any other treatment zone.
+                that matters more here than in any other treatment zone. For dynamic creases and delicate skin below the lids,
+                we often integrate targeted <a href="fine-lines-under-eyes-treatment-in-gurgaon" style="text-decoration: underline; color: inherit; font-weight: 600;">Fine Lines &amp; Under Eyes</a> rejuvenation.
               </p>
             </div>
 
@@ -772,7 +818,7 @@
 
           <!-- SECTION 10: NEW SECTION - HOW MUCH DOES BOTOX COST IN GURGAON? -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">How Much Does Botox Treatment Cost in Gurgaon?</h2>
+            <h2 class="lux-section-title">How Much Does Botox Cost in Gurgaon?</h2>
             <p>
               Botox treatment cost in Gurgaon is calculated per unit, not as a flat fee per area, and this is where a
               lot of confusion comes from when patients compare clinics. The number of units needed depends on the
@@ -953,9 +999,9 @@
             </p>
           </div>
 
-          <!-- SECTION 13: HOW TO CHOOSE A BOTOX DOCTOR IN GURGAON -->
+          <!-- SECTION 13: HOW TO FIND THE BEST BOTOX DOCTOR IN GURGAON -->
           <div class="mt-5 fade-up">
-            <h2 class="lux-section-title">How to Choose a Botox Doctor in Gurgaon</h2>
+            <h2 class="lux-section-title">How to Find the Best Botox Doctor in Gurgaon</h2>
             <p>
               With so many clinics offering Botox treatment in Gurgaon, choosing the right doctor matters far more than
               choosing the right clinic name. Botox is a prescription medical procedure, and the person holding the
@@ -971,14 +1017,14 @@
               <li><strong>Experience with your specific concern:</strong> A doctor who has treated thousands of patients
                 for forehead lines may still be less experienced with lip lines or jawline slimming. Ask directly how
                 many patients they have treated for your specific concern.</li>
-              <li><strong>Product transparency:</strong> A qualified Botox doctor will tell you exactly which
+              <li><strong>Product transparency:</strong> The best Botox doctor in Gurgaon will tell you exactly which
                 brand of Botulinum Toxin they are using, show you the sealed vial before injecting, and never hesitate
                 to answer questions about sourcing.</li>
               <li><strong>A real consultation, not a sales pitch:</strong> A genuine consultation involves the doctor
                 examining your muscle strength, asking about your medical history, and setting realistic expectations,
                 even if that means recommending fewer units than you expected.</li>
-              <li><strong>Clinical transparency:</strong> Ask about expected clinical outcomes for concerns similar to
-                yours, and discuss realistic timelines with your dermatologist.</li>
+              <li><strong>Before and after transparency:</strong> Ask to see real results from patients with a similar
+                concern to yours, not just generic stock photography.</li>
             </ul>
 
             <div class="botox-section-card mt-4" style="background: #faf8f5;">
@@ -1057,7 +1103,7 @@
                     <td>Adds volume beneath the skin</td>
                   </tr>
                   <tr>
-                    <td>Recommended for</td>
+                    <td>Best for</td>
                     <td>Lines that appear only when you move your face</td>
                     <td>Lines and hollows visible even at rest</td>
                   </tr>
@@ -1167,7 +1213,7 @@
                   over 10 years treating skin, hair, and aesthetic concerns. She has personally performed Botox
                   treatment for more than 15,000 patients across her career, with a specific focus on natural,
                   expression-preserving results rather than the overdone, frozen look that gives Botox a bad name in the
-                  wrong hands. Her approach to every Botox treatment is rooted in a simple principle: the ideal result is
+                  wrong hands. Her approach to every Botox treatment is rooted in a simple principle: the best result is
                   one nobody notices as "work," they just notice that you look rested.
                 </p>
               </div>
@@ -1352,7 +1398,7 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed faq-button" type="button" data-bs-toggle="collapse"
                     data-bs-target="#bf9">
-                    How do I choose a qualified Botox doctor in Gurgaon?
+                    How do I choose the best Botox doctor in Gurgaon?
                   </button>
                 </h3>
                 <div id="bf9" class="accordion-collapse collapse" data-bs-parent="#btxFAQ">

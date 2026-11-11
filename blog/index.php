@@ -181,6 +181,29 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Premature White Hair in Indians: What Is Reversible, What Is Not, and What to Test First -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/premature-white-hair-india-causes-tests-dermatales.webp" class="card-img-top"
+                alt="Premature White Hair in Indians: What Is Reversible, What Is Not, and What to Test First">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Nov 09, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/premature-white-hair-treatment-india"
+                  class="text-decoration-none text-charcoal">Premature White Hair in Indians: What Is Reversible, What Is Not, and What to Test First</a></h3>
+              <p class="card-text text-muted">Premature white hair treatment in India: what can reverse, what cannot, which tests to do first, and when to see a dermatologist.</p>
+              <a href="blog/premature-white-hair-treatment-india"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Exosome Therapy for Skin and Hair in India: What the Evidence Says Before You Pay for It -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
