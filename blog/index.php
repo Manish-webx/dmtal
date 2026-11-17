@@ -181,6 +181,29 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Winter Eczema and Itchy Dry Skin in India: Why It Flares and What Actually Helps -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/winter-eczema-itchy-dry-skin-india-dermatales.webp" class="card-img-top"
+                alt="Winter Eczema and Itchy Dry Skin in India: Why It Flares and What Actually Helps">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Nov 17, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/winter-eczema-itchy-dry-skin-treatment-india"
+                  class="text-decoration-none text-charcoal">Winter Eczema and Itchy Dry Skin in India: Why It Flares and What Actually Helps</a></h3>
+              <p class="card-text text-muted">Winter eczema and itchy dry skin in India: how to tell them apart, why winter makes both worse, and what dermatologists recommend.</p>
+              <a href="blog/winter-eczema-itchy-dry-skin-treatment-india"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Premature White Hair in Indians: What Is Reversible, What Is Not, and What to Test First -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
