@@ -181,6 +181,29 @@ $page_title = "Blog | DermaTales";
     <div class="container-xl">
       <div class="row g-5 justify-content-center">
 
+        <!-- Blog Card: Laser Treatment for the Face in India: Which Laser Treats Which Problem, and Which Ones Are Risky for Indian Skin -->
+        <div class="col-lg-4 col-md-6 fade-up">
+          <div class="card h-100 blog-card-premium">
+            <div class="blog-card-img-wrap">
+              <img src="blog-thumb/laser-treatment-face-india-dermatales-skin-clinic.webp" class="card-img-top"
+                alt="Laser Treatment for the Face in India: Which Laser Treats Which Problem, and Which Ones Are Risky for Indian Skin">
+            </div>
+            <div class="card-body p-4 pb-2">
+              <div class="blog-card-meta">
+                <span><i class="bi bi-calendar3"></i> Nov 21, 2026</span>
+                <span><i class="bi bi-person-circle"></i> Dr. Pooja Varshney</span>
+              </div>
+              <h3 class="blog-card-title"><a
+                  href="blog/laser-treatment-for-face-india-types-which-is-safe"
+                  class="text-decoration-none text-charcoal">Laser Treatment for the Face in India: Which Laser Treats Which Problem, and Which Ones Are Risky for Indian Skin</a></h3>
+              <p class="card-text text-muted">Laser treatment for the face in India: which laser treats pigmentation, acne scars and facial hair, which are risky for Indian skin, and what the evidence shows.</p>
+              <a href="blog/laser-treatment-for-face-india-types-which-is-safe"
+                class="btn-read-more">Read
+                Article <i class="bi bi-arrow-right-short"></i></a>
+            </div>
+          </div>
+        </div>
+
         <!-- Blog Card: Winter Eczema and Itchy Dry Skin in India: Why It Flares and What Actually Helps -->
         <div class="col-lg-4 col-md-6 fade-up">
           <div class="card h-100 blog-card-premium">
